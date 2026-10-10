@@ -1,0 +1,8 @@
+# Runtime (Phase 1: collection). Later phases append their pins here.
+requests==2.34.2
+python-dotenv==1.2.4
+PyYAML==6.0.3
+
+# Development
+pytest==9.1.1
+ruff==0.17.0

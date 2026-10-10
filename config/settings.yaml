@@ -1,0 +1,31 @@
+# Parameters sent with every Google search. Changing these invalidates comparability
+# with already-cached responses, so do it only between collection rounds.
+search:
+  engine: google
+  gl: in
+  hl: en
+  google_domain: google.co.in
+  device: desktop
+
+budget:
+  # Hard ceiling on paid SerpAPI searches recorded in the ledger. Going past it needs
+  # an explicit --allow-over-budget N on the command line.
+  max_searches: 420
+  # Also refuse to plan more calls than the SerpAPI account says are left this month.
+  check_account: true
+
+paths:
+  data_dir: data
+
+scoring:
+  # GeoGuessr-style score = 5000 * exp(-distance_km / scale_km).
+  # ~ India's bounding-box diagonal (~3,800 km) / 10, mirroring GeoGuessr's map scaling.
+  geoguessr_scale_km: 400
+
+seed: 13
+
+# Pilot: 5 cities x 5 queries. Every pilot cell is also a cell of the full grid,
+# so the full run reuses these responses from the cache.
+pilot:
+  cities: [chennai, coimbatore, delhi, kolkata, guwahati]
+  queries: [weather, best_biryani, petrol_price_today, how_to_boil_eggs, ipl_score]

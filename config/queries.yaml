@@ -1,0 +1,29 @@
+# 20 queries, each tagged with a tier:
+#   explicit_local  - the query asks for something local
+#   implicit_local  - the answer naturally varies by place, but the query doesn't say so
+#   neutral         - nothing about the query is local. The first four should leak little;
+#                     the last five are neutral in wording but plausibly leak (team bias,
+#                     state health departments, regional passport offices, pricing).
+queries:
+  - {id: weather, text: weather, tier: explicit_local}
+  - {id: restaurants_near_me, text: restaurants near me, tier: explicit_local}
+  - {id: hospital_near_me, text: hospital near me, tier: explicit_local}
+  - {id: atm_near_me, text: atm near me, tier: explicit_local}
+  - {id: movies_near_me, text: movies near me, tier: explicit_local}
+
+  - {id: best_biryani, text: best biryani, tier: implicit_local}
+  - {id: petrol_price_today, text: petrol price today, tier: implicit_local}
+  - {id: gold_rate_today, text: gold rate today, tier: implicit_local}
+  - {id: flat_for_rent_2bhk, text: 2bhk flat for rent, tier: implicit_local}
+  - {id: best_schools, text: best schools, tier: implicit_local}
+  - {id: news_today, text: news today, tier: implicit_local}
+
+  - {id: how_to_boil_eggs, text: how to boil eggs, tier: neutral}
+  - {id: python_list_comprehension, text: python list comprehension, tier: neutral}
+  - {id: convert_kg_to_pounds, text: convert kg to pounds, tier: neutral}
+  - {id: how_to_make_masala_chai, text: how to make masala chai, tier: neutral}
+  - {id: ipl_score, text: IPL score, tier: neutral}
+  - {id: symptoms_of_dengue, text: symptoms of dengue, tier: neutral}
+  - {id: iphone_16_price, text: iphone 16 price, tier: neutral}
+  - {id: what_is_gst, text: what is GST, tier: neutral}
+  - {id: how_to_apply_for_passport, text: how to apply for passport, tier: neutral}

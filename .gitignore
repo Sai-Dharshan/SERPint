@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Regenerable data (raw/, html/, ledger.jsonl and locations are committed on purpose)
+data/processed/
+data/screenshots/
+data/models/
+data/.lock
+
+# Notebooks
+.ipynb_checkpoints/
