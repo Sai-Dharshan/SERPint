@@ -1,0 +1,545 @@
+{
+ "search_metadata": {
+  "id": "6aca5531484c09b724b764bc",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Iy2Tq5k606Yv-ezKN68ieKuEPcLAUnvg6Htw11n5g-8/6aca5531484c09b724b764bc.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Iy2Tq5k606Yv-ezKN68ieKuEPcLAUnvg6Htw11n5g-8/6aca5531484c09b724b764bc.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/Iy2Tq5k606Yv-ezKN68ieKuEPcLAUnvg6Htw11n5g-8/6aca5531484c09b724b764bc.json_with_pixel_position",
+  "created_at": "2026-10-10 15:09:37 UTC",
+  "processed_at": "2026-10-10 15:09:37 UTC",
+  "google_url": "https://www.google.co.in/search?q=best+biryani&oq=best+biryani&uule=w+CAIQICIZS29sa2F0YSxXZXN0IEJlbmdhbCxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/Iy2Tq5k606Yv-ezKN68ieKuEPcLAUnvg6Htw11n5g-8/6aca5531484c09b724b764bc.html",
+  "total_time_taken": 3.33
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "best biryani",
+  "location_requested": "Kolkata,West Bengal,India",
+  "location_used": "Kolkata,West Bengal,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "best biryani",
+  "total_results": 186,
+  "time_taken_displayed": 0.33,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "link": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&udm=local&lsack=M1XKavSSEoq4mtkP9JTiiAg&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQtgN6BAgyEAM",
+  "image": "https://serpapi.com/searches/6aca5531484c09b724b764bc/images/LRZHqnokCO6hbxHs6edsFA.png",
+  "gps_coordinates": {
+   "latitude": 22.549342623651143,
+   "longitude": 88.35823059082031
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "title": "Oudh 1590 (Deshapriya Park)",
+    "type": "Awadhi Restaurant",
+    "rating": 4.3,
+    "reviews": 14093,
+    "price": "₹400–1,400",
+    "description": "\"It tasted exactly like the kolkata style biryani.\"",
+    "thumbnail": "https://serpapi.com/searches/6aca5531484c09b724b764bc/images/0cJMt9OB4gqyehsFi-sPKDKgIeojgyZAdiURLyzS8UvzqiBPQ1VM9I0hOFZpsHiv.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPUiqkShRXnSpoVARYtqL5p6joBeNX818-KRQ0cGFMcFgtFW8-jf5ysZXZGL0Bxwzn2CLRm1oA-mgFsjkXUIJwABQ8EOQZsU8bRZwMFP0hPLO0eFmik6v8MMKPDLteV22zrgEc87L_tSGL=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:076040 35764",
+     "website": "http://www.oudh1590.com/"
+    },
+    "place_id": "2161559878312190480",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&ludocid=2161559878312190480&q=best+biryani",
+    "provider_id": "/g/1pp2x6dnz",
+    "gps_coordinates": {
+     "latitude": 22.518598,
+     "longitude": 88.350274
+    },
+    "address": "Singhs, Deshapriya Park W, near carmel primary school, Kolkata, West Bengal 700026",
+    "hours": "Open · Closes 12 am",
+    "phone": "076040 35764"
+   },
+   {
+    "position": 2,
+    "title": "Arsalan Restaurant & Caterer - Park Circus",
+    "type": "Indian restaurant",
+    "rating": 4.2,
+    "reviews": 42594,
+    "price": "₹400–1,200",
+    "description": "\"The best biryani and soft with juicy chicken.\"",
+    "thumbnail": "https://serpapi.com/searches/6aca5531484c09b724b764bc/images/0cJMt9OB4gqyehsFi-sPKOiHXa3d9MsLvmAkbF7qLQMDqTGr051VmtpYKPs8L-JQ.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/AABkmLeObPQEIQd342KPdF49ij5bXcv0UrPcZAPcl6v8e6tShCEkBY05_YItac5WNfdAoW7UMorwt4cnxVpuyW7uIsM1xvj9B6l2oeat0KwbtIS9GbrY9YGKidigSO7xA_cIF2ixyg_z=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:090070 07942",
+     "website": "https://arsalanrestaurants.com/park-circus/"
+    },
+    "place_id": "10314126894193737439",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&ludocid=10314126894193737439&q=best+biryani",
+    "provider_id": "/g/1hm1t_jh1",
+    "gps_coordinates": {
+     "latitude": 22.543711,
+     "longitude": 88.365902
+    },
+    "address": "191, 7 Point, Marina garden court, Park Circus, Ballygunge, Kolkata, West Bengal 700017",
+    "hours": "Open · Closes 2 am",
+    "phone": "090070 07942"
+   },
+   {
+    "position": 3,
+    "title": "Oudh 1590 - Kyd Street",
+    "type": "Family restaurant",
+    "rating": 4.5,
+    "reviews": 942,
+    "price": "₹400–1,400",
+    "description": "\"Mutton chaap and the biryani is awesome and mouth melting.\"",
+    "thumbnail": "https://serpapi.com/searches/6aca5531484c09b724b764bc/images/0cJMt9OB4gqyehsFi-sPKLgUkLnindSHMumo78jcHC1xfbK6GbHCA2B5aWy2zLQr.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXnZGI0bcw3q-cmGlBjVtvkA4lKxrI2kyapjA3PXPjyQpkILJ05P2kI_0NLoDf_PATWEx9boLQ0ZG_1WnRKQ4VIYVxAHuHUQ5fy9cCticfqKNaKxEyMGzKdfHZ64-4JHP8p_sauy8TZl0=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:086977 04415",
+     "website": "http://www.oudh1590.com/"
+    },
+    "place_id": "18397808287095635502",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&ludocid=18397808287095635502&q=best+biryani",
+    "provider_id": "/g/11wc8dkm6c",
+    "gps_coordinates": {
+     "latitude": 22.555762,
+     "longitude": 88.350766
+    },
+    "address": "A/2C, Dr Md Ishaque Rd, Ward Number 63, Kolkata, West Bengal 700016",
+    "hours": "Open · Closes 11 pm",
+    "phone": "086977 04415"
+   }
+  ],
+  "more_locations_link": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&udm=local&lsack=M1XKavSSEoq4mtkP9JTiiAg&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQjGp6BAgxEAE"
+ },
+ "related_questions": [
+  {
+   "question": "Which biryani is considered the best?",
+   "type": "ai_overview",
+   "page_token": "gfrxA3icHdDdTsIwGADQ-DJeAtsQlYSYDFvGmNNt_b6uvTGjZQzofpTCkDvfxafyaUw8j3C-f8yuOfzeXCpru-N0OOz7frBt263ZDFQ72DXD4vjVqKEqjFkX6jCd3E-cp1LNyGnpzz-WfgJdh8_piFGTyQCusRfuoPFXMojnci_H6NGO1VrqQzzJ0J8XrgWd6y7iGDASXpChULUmckTHEdg-QkxfHFlkhJ7XhN5FXL4lKDMeJDbJqRCNLyKolrgPnbiOPxE7qrl1NdElh7Hd5NRK0J4KzCpB6mjX5huqc6CVECYN4YpLxp3nrCF91qDJFkeHsfRD1w8ug0qkEHrSC31S6fgFq0jkksEIz4qlVi9s8godFNz48tLuEkivam9qqMfeGh5L5pqT8DRPD3gCQg3wWCa5ERs0re5vS3Weebf_n7P3srbT7rPd_gG2qoRB",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gfrxA3icHdDdTsIwGADQ-DJeAtsQlYSYDFvGmNNt_b6uvTGjZQzofpTCkDvfxafyaUw8j3C-f8yuOfzeXCpru-N0OOz7frBt263ZDFQ72DXD4vjVqKEqjFkX6jCd3E-cp1LNyGnpzz-WfgJdh8_piFGTyQCusRfuoPFXMojnci_H6NGO1VrqQzzJ0J8XrgWd6y7iGDASXpChULUmckTHEdg-QkxfHFlkhJ7XhN5FXL4lKDMeJDbJqRCNLyKolrgPnbiOPxE7qrl1NdElh7Hd5NRK0J4KzCpB6mjX5huqc6CVECYN4YpLxp3nrCF91qDJFkeHsfRD1w8ug0qkEHrSC31S6fgFq0jkksEIz4qlVi9s8godFNz48tLuEkivam9qqMfeGh5L5pqT8DRPD3gCQg3wWCa5ERs0re5vS3Weebf_n7P3srbT7rPd_gG2qoRB",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5YUjRVRzE0UnkxTVYweHlTRGh4VDBoYVoyeFJVMjlJY0RkUlZtRnFjMlF3WjJWU1UweElSblZNUVVsRGFGbEpNMkpHYkU5Q1ptOUVabGRDUkZORGRrMVJjMGszVldOWVkySkZiRzB4T0VSVmMzTTBhazkzUjNNMGR4SVhUVEZZUzJGMlUxTkZiM0UwYlhSclVEbEtWR2xwUVdjYUlrRkVjM0k1WmxKV1dHUkRUMVExZDFCeGFFaHViRTFPYmpaWWExbHlZak5QVW1jIiwiZmN2IjoiMyIsImVpIjoiTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWciLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgzazFPdy0iLCJxdWVzdGlvbiI6IldoaWNoIGJpcnlhbmkgaXMgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpUjNhR2xqYUNCaWFYSjVZVzVwSUdseklHTnZibk5wWkdWeVpXUWdkR2hsSUdKbGMzUSIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNHFaNG1PZ3ZrRGdTNE9DbzZkTDIwd1Iwc0NUYUQ0N3pYVVVxUWd6dS03OXc3dWNLZ2MxdzROOTBfeWpCeXhEajV5WTN2YllISVdqWTFKcTZPUXd4OFFMckJmRk9ZQTJlTTFkQzBsMHFvUXVDaWJVRHNpMExDdEhLVWM1ZkpFTVhFbW54T3RkbUl6X0FCd0F6bC04Z1ktblBBOHIza3N5VC1vQzczVlNvcGltTjAzTXhOYnIxNCIsImlkIjoiZmNfTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWdfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5YUjRVRzE0UnkxTVYweHlTRGh4VDBoYVoyeFJVMjlJY0RkUlZtRnFjMlF3WjJWU1UweElSblZNUVVsRGFGbEpNMkpHYkU5Q1ptOUVabGRDUkZORGRrMVJjMGszVldOWVkySkZiRzB4T0VSVmMzTTBhazkzUjNNMGR4SVhUVEZZUzJGMlUxTkZiM0UwYlhSclVEbEtWR2xwUVdjYUlrRkVjM0k1WmxKV1dHUkRUMVExZDFCeGFFaHViRTFPYmpaWWExbHlZak5QVW1jIiwiZmN2IjoiMyIsImVpIjoiTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWciLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgzazFPdy0iLCJxdWVzdGlvbiI6IldoaWNoIGJpcnlhbmkgaXMgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpUjNhR2xqYUNCaWFYSjVZVzVwSUdseklHTnZibk5wWkdWeVpXUWdkR2hsSUdKbGMzUSIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNHFaNG1PZ3ZrRGdTNE9DbzZkTDIwd1Iwc0NUYUQ0N3pYVVVxUWd6dS03OXc3dWNLZ2MxdzROOTBfeWpCeXhEajV5WTN2YllISVdqWTFKcTZPUXd4OFFMckJmRk9ZQTJlTTFkQzBsMHFvUXVDaWJVRHNpMExDdEhLVWM1ZkpFTVhFbW54T3RkbUl6X0FCd0F6bC04Z1ktblBBOHIza3N5VC1vQzczVlNvcGltTjAzTXhOYnIxNCIsImlkIjoiZmNfTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWdfNSJ9"
+  },
+  {
+   "question": "Which biryani is best in Kolkata?",
+   "type": "ai_overview",
+   "page_token": "iUSceXicHdBfkpowHADg6WX2UfmjtjrjdNYaia2RJiQReOlAgiL-AqjZNfLWu_RUe5qd6XeE7-8_OLeXjy-utra_L8bjx-MxOnXdCaqR6kbndlzcn60aqwKgLNRlMfs6878f1RK9bVc_rtsVFX0v18zjaxJos7mzQXYVEv5O6FuWQkuDiZPh5p5x5HJ_Hmush0LWMUl7nqUMH5C1VQoRMe5Kon3KWsmri94IM52VSN-KEAhvO48kfp5v6ESsJU7EN1fi-ipE3VGA30mjJrxlOxn9xDHfY-bLpzBsRiLJaMNyhsFlnn-TmEy1hKwM60A3rwOLXFIE8Es1r1YiMNSgaRntAxHmK1TrPZH1LktzLjz5rjizOrI0Fr0oDrDKXXemgg2qASOxpBXePmMEh9TrcTaA4cHcJeFpWhj7ll_mE0Ffjup9Gb78_1z-ORq76G_d6ROqtITG",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iUSceXicHdBfkpowHADg6WX2UfmjtjrjdNYaia2RJiQReOlAgiL-AqjZNfLWu_RUe5qd6XeE7-8_OLeXjy-utra_L8bjx-MxOnXdCaqR6kbndlzcn60aqwKgLNRlMfs6878f1RK9bVc_rtsVFX0v18zjaxJos7mzQXYVEv5O6FuWQkuDiZPh5p5x5HJ_Hmush0LWMUl7nqUMH5C1VQoRMe5Kon3KWsmri94IM52VSN-KEAhvO48kfp5v6ESsJU7EN1fi-ipE3VGA30mjJrxlOxn9xDHfY-bLpzBsRiLJaMNyhsFlnn-TmEy1hKwM60A3rwOLXFIE8Es1r1YiMNSgaRntAxHmK1TrPZH1LktzLjz5rjizOrI0Fr0oDrDKXXemgg2qASOxpBXePmMEh9TrcTaA4cHcJeFpWhj7ll_mE0Ffjup9Gb78_1z-ORq76G_d6ROqtITG",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5YUjRVRzE0UnkxTVYweHlTRGh4VDBoYVoyeFJVMjlJY0RkUlZtRnFjMlF3WjJWU1UweElSblZNUVVsRGFGbEpNMkpHYkU5Q1ptOUVabGRDUkZORGRrMVJjMGszVldOWVkySkZiRzB4T0VSVmMzTTBhazkzUjNNMGR4SVhUVEZZUzJGMlUxTkZiM0UwYlhSclVEbEtWR2xwUVdjYUlrRkVjM0k1WmxKV1dHUkRUMVExZDFCeGFFaHViRTFPYmpaWWExbHlZak5QVW1jIiwiZmN2IjoiMyIsImVpIjoiTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWciLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgzazFPdy0iLCJxdWVzdGlvbiI6IldoaWNoIGJpcnlhbmkgaXMgYmVzdCBpbiBLb2xrYXRhPyIsImxrIjoiR2lCM2FHbGphQ0JpYVhKNVlXNXBJR2x6SUdKbGMzUWdhVzRnYTI5c2EyRjBZUSIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNHFaNG1PZ3ZrRGdTNE9DbzZkTDIwd1Iwc0NUYUQ0N3pYVVVxUWd6dS03OXc3dWNLZ2MxdzROOTBfeWpCeXhEajV5WTN2YllISVdqWTFKcTZPUXd4OFFMckJmRk9ZQTJlTTFkQzBsMHFvUXVDaWJVRHNpMExDdEhLVWM1ZkpFTVhFbW54T3RkbUl6X0FCd0F6bC04Z1ktblBBOHIza3N5VC1vQzczVlNvcGltTjAzTXhOYnIxNCIsImlkIjoiZmNfTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWdfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5YUjRVRzE0UnkxTVYweHlTRGh4VDBoYVoyeFJVMjlJY0RkUlZtRnFjMlF3WjJWU1UweElSblZNUVVsRGFGbEpNMkpHYkU5Q1ptOUVabGRDUkZORGRrMVJjMGszVldOWVkySkZiRzB4T0VSVmMzTTBhazkzUjNNMGR4SVhUVEZZUzJGMlUxTkZiM0UwYlhSclVEbEtWR2xwUVdjYUlrRkVjM0k1WmxKV1dHUkRUMVExZDFCeGFFaHViRTFPYmpaWWExbHlZak5QVW1jIiwiZmN2IjoiMyIsImVpIjoiTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWciLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgzazFPdy0iLCJxdWVzdGlvbiI6IldoaWNoIGJpcnlhbmkgaXMgYmVzdCBpbiBLb2xrYXRhPyIsImxrIjoiR2lCM2FHbGphQ0JpYVhKNVlXNXBJR2x6SUdKbGMzUWdhVzRnYTI5c2EyRjBZUSIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNHFaNG1PZ3ZrRGdTNE9DbzZkTDIwd1Iwc0NUYUQ0N3pYVVVxUWd6dS03OXc3dWNLZ2MxdzROOTBfeWpCeXhEajV5WTN2YllISVdqWTFKcTZPUXd4OFFMckJmRk9ZQTJlTTFkQzBsMHFvUXVDaWJVRHNpMExDdEhLVWM1ZkpFTVhFbW54T3RkbUl6X0FCd0F6bC04Z1ktblBBOHIza3N5VC1vQzczVlNvcGltTjAzTXhOYnIxNCIsImlkIjoiZmNfTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWdfNSJ9"
+  },
+  {
+   "question": "What is the tastiest biryani?",
+   "type": "ai_overview",
+   "page_token": "Srr_AXicHdBdjpswFEBhdTPzmB-YZNRI0Ug0eEhaE2G4QPwyguskDrbBbTxAeOteuqqupqNu4Ejf-f1H31r198sonbP3zXw-DMPs2nVXfZ5hN7u18-r-aHGOldZ1hWqzflkvXy-4DT_2wbef-yABa_MdW6ST_E4NdRTsdFaapG3epyAybO3ulMWK3RZ-EeWSt_xBS9JXEZ3Aj6uCfOVxFBgkLKyNG7A57GuPlxxcUxFZ4mP52RUj1fIZl0ES--jAP_Da0_YYyV6o3Ig33YAHHrYyZuFokoYXdUTW1cRXqAhBYMe0WOnSl7b0icdUHKbmsMIdTGcj03PLE9pwdvKDGJUeRSSCUIqY5vLHqeQZLPIeM-bEm0uOYKEqdMDH7pYAm7DR5tPxkZSBgSI_ikbfswwGlsFzuuC0ALamylIxPF2w3_pP_39u3y_Gbeyv7voPV9qG3w",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Srr_AXicHdBdjpswFEBhdTPzmB-YZNRI0Ug0eEhaE2G4QPwyguskDrbBbTxAeOteuqqupqNu4Ejf-f1H31r198sonbP3zXw-DMPs2nVXfZ5hN7u18-r-aHGOldZ1hWqzflkvXy-4DT_2wbef-yABa_MdW6ST_E4NdRTsdFaapG3epyAybO3ulMWK3RZ-EeWSt_xBS9JXEZ3Aj6uCfOVxFBgkLKyNG7A57GuPlxxcUxFZ4mP52RUj1fIZl0ES--jAP_Da0_YYyV6o3Ig33YAHHrYyZuFokoYXdUTW1cRXqAhBYMe0WOnSl7b0icdUHKbmsMIdTGcj03PLE9pwdvKDGJUeRSSCUIqY5vLHqeQZLPIeM-bEm0uOYKEqdMDH7pYAm7DR5tPxkZSBgSI_ikbfswwGlsFzuuC0ALamylIxPF2w3_pP_39u3y_Gbeyv7voPV9qG3w",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5YUjRVRzE0UnkxTVYweHlTRGh4VDBoYVoyeFJVMjlJY0RkUlZtRnFjMlF3WjJWU1UweElSblZNUVVsRGFGbEpNMkpHYkU5Q1ptOUVabGRDUkZORGRrMVJjMGszVldOWVkySkZiRzB4T0VSVmMzTTBhazkzUjNNMGR4SVhUVEZZUzJGMlUxTkZiM0UwYlhSclVEbEtWR2xwUVdjYUlrRkVjM0k1WmxKV1dHUkRUMVExZDFCeGFFaHViRTFPYmpaWWExbHlZak5QVW1jIiwiZmN2IjoiMyIsImVpIjoiTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWciLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgzazFPdy0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHRhc3RpZXN0IGJpcnlhbmk/IiwibGsiOiJHaHgzYUdGMElHbHpJSFJvWlNCMFlYTjBhV1Z6ZENCaWFYSjVZVzVwIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c0cVo0bU9ndmtEZ1M0T0NvNmRMMjB3UjBzQ1RhRDQ3elhVVXFRZ3p1LTc5dzd1Y0tnYzF3NE45MF95akJ5eERqNXlZM3ZiWUhJV2pZMUpxNk9Rd3g4UUxyQmZGT1lBMmVNMWRDMGwwcW9RdUNpYlVEc2kwTEN0SEtVYzVmSkVNWEVtbnhPdGRtSXpfQUJ3QXpsLThnWS1uUEE4cjNrc3lULW9DNzNWU29waW1OMDNNeE5icjE0IiwiaWQiOiJmY19NMVhLYXZTU0VvcTRtdGtQOUpUaWlBZ181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5YUjRVRzE0UnkxTVYweHlTRGh4VDBoYVoyeFJVMjlJY0RkUlZtRnFjMlF3WjJWU1UweElSblZNUVVsRGFGbEpNMkpHYkU5Q1ptOUVabGRDUkZORGRrMVJjMGszVldOWVkySkZiRzB4T0VSVmMzTTBhazkzUjNNMGR4SVhUVEZZUzJGMlUxTkZiM0UwYlhSclVEbEtWR2xwUVdjYUlrRkVjM0k1WmxKV1dHUkRUMVExZDFCeGFFaHViRTFPYmpaWWExbHlZak5QVW1jIiwiZmN2IjoiMyIsImVpIjoiTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWciLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgzazFPdy0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHRhc3RpZXN0IGJpcnlhbmk%2FIiwibGsiOiJHaHgzYUdGMElHbHpJSFJvWlNCMFlYTjBhV1Z6ZENCaWFYSjVZVzVwIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c0cVo0bU9ndmtEZ1M0T0NvNmRMMjB3UjBzQ1RhRDQ3elhVVXFRZ3p1LTc5dzd1Y0tnYzF3NE45MF95akJ5eERqNXlZM3ZiWUhJV2pZMUpxNk9Rd3g4UUxyQmZGT1lBMmVNMWRDMGwwcW9RdUNpYlVEc2kwTEN0SEtVYzVmSkVNWEVtbnhPdGRtSXpfQUJ3QXpsLThnWS1uUEE4cjNrc3lULW9DNzNWU29waW1OMDNNeE5icjE0IiwiaWQiOiJmY19NMVhLYXZTU0VvcTRtdGtQOUpUaWlBZ181In0%3D"
+  },
+  {
+   "question": "Which is no. 1 biryani in Bangalore?",
+   "type": "ai_overview",
+   "page_token": "rFRIW3icHdBRboIwAADQ7DJ-Kohz0cQsYVCUCIxKK_izlFYpUEqVOpC_3WWn2mm27AjvfX2LUtY_TwPXWnXr2azv-2nRtoU4T2k7LeWMdA9JZ5QIkRNar5cvS_P1QjfufWe_XXd2jJTCDjQOaXgnJlgEDm5OngoSxBbpXF-RYwto-RVFmGPJFHb1HY50yKV9O3u4pk5YQRA-QrHahhaExAFjZmUL1KgAbUFHGoaig7lMDBXnW06IhCSpeYmAzREIy31aGDnikjSDlbvAClIVJyLsmIAZq_0HrLVmdWtlczOCDR1wxfwAiHc6Fn2U-hgK2z2MPMjnK5E1agcNeIxcE7qchQHm-yw9JcjAnzSBmnk6jpBC5Cjs09CWMfqTVKLBLjUToeT-iNu44uAoxQFKVUbIv1Fk2mfv2WT95EI_N9bk_3PzcWn0Wt3a4hektIam",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rFRIW3icHdBRboIwAADQ7DJ-Kohz0cQsYVCUCIxKK_izlFYpUEqVOpC_3WWn2mm27AjvfX2LUtY_TwPXWnXr2azv-2nRtoU4T2k7LeWMdA9JZ5QIkRNar5cvS_P1QjfufWe_XXd2jJTCDjQOaXgnJlgEDm5OngoSxBbpXF-RYwto-RVFmGPJFHb1HY50yKV9O3u4pk5YQRA-QrHahhaExAFjZmUL1KgAbUFHGoaig7lMDBXnW06IhCSpeYmAzREIy31aGDnikjSDlbvAClIVJyLsmIAZq_0HrLVmdWtlczOCDR1wxfwAiHc6Fn2U-hgK2z2MPMjnK5E1agcNeIxcE7qchQHm-yw9JcjAnzSBmnk6jpBC5Cjs09CWMfqTVKLBLjUToeT-iNu44uAoxQFKVUbIv1Fk2mfv2WT95EI_N9bk_3PzcWn0Wt3a4hektIam",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5YUjRVRzE0UnkxTVYweHlTRGh4VDBoYVoyeFJVMjlJY0RkUlZtRnFjMlF3WjJWU1UweElSblZNUVVsRGFGbEpNMkpHYkU5Q1ptOUVabGRDUkZORGRrMVJjMGszVldOWVkySkZiRzB4T0VSVmMzTTBhazkzUjNNMGR4SVhUVEZZUzJGMlUxTkZiM0UwYlhSclVEbEtWR2xwUVdjYUlrRkVjM0k1WmxKV1dHUkRUMVExZDFCeGFFaHViRTFPYmpaWWExbHlZak5QVW1jIiwiZmN2IjoiMyIsImVpIjoiTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWciLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgzazFPdy0iLCJxdWVzdGlvbiI6IldoaWNoIGlzIG5vLiAxIGJpcnlhbmkgaW4gQmFuZ2Fsb3JlPyIsImxrIjoiR2lKM2FHbGphQ0JwY3lCdWJ5QXhJR0pwY25saGJta2dhVzRnWW1GdVoyRnNiM0psIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c0cVo0bU9ndmtEZ1M0T0NvNmRMMjB3UjBzQ1RhRDQ3elhVVXFRZ3p1LTc5dzd1Y0tnYzF3NE45MF95akJ5eERqNXlZM3ZiWUhJV2pZMUpxNk9Rd3g4UUxyQmZGT1lBMmVNMWRDMGwwcW9RdUNpYlVEc2kwTEN0SEtVYzVmSkVNWEVtbnhPdGRtSXpfQUJ3QXpsLThnWS1uUEE4cjNrc3lULW9DNzNWU29waW1OMDNNeE5icjE0IiwiaWQiOiJmY19NMVhLYXZTU0VvcTRtdGtQOUpUaWlBZ181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5YUjRVRzE0UnkxTVYweHlTRGh4VDBoYVoyeFJVMjlJY0RkUlZtRnFjMlF3WjJWU1UweElSblZNUVVsRGFGbEpNMkpHYkU5Q1ptOUVabGRDUkZORGRrMVJjMGszVldOWVkySkZiRzB4T0VSVmMzTTBhazkzUjNNMGR4SVhUVEZZUzJGMlUxTkZiM0UwYlhSclVEbEtWR2xwUVdjYUlrRkVjM0k1WmxKV1dHUkRUMVExZDFCeGFFaHViRTFPYmpaWWExbHlZak5QVW1jIiwiZmN2IjoiMyIsImVpIjoiTTFYS2F2U1NFb3E0bXRrUDlKVGlpQWciLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgzazFPdy0iLCJxdWVzdGlvbiI6IldoaWNoIGlzIG5vLiAxIGJpcnlhbmkgaW4gQmFuZ2Fsb3JlPyIsImxrIjoiR2lKM2FHbGphQ0JwY3lCdWJ5QXhJR0pwY25saGJta2dhVzRnWW1GdVoyRnNiM0psIiwiYnMiOiJjNDNPTVF2Q01CQUZZRnh2Y2c0cVo0bU9ndmtEZ1M0T0NvNmRMMjB3UjBzQ1RhRDQ3elhVVXFRZ3p1LTc5dzd1Y0tnYzF3NE45MF95akJ5eERqNXlZM3ZiWUhJV2pZMUpxNk9Rd3g4UUxyQmZGT1lBMmVNMWRDMGwwcW9RdUNpYlVEc2kwTEN0SEtVYzVmSkVNWEVtbnhPdGRtSXpfQUJ3QXpsLThnWS1uUEE4cjNrc3lULW9DNzNWU29waW1OMDNNeE5icjE0IiwiaWQiOiJmY19NMVhLYXZTU0VvcTRtdGtQOUpUaWlBZ181In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "d4or2XiczVbbcqJIGH6AfY7lZhJFwKipoqa6CUobUJFkRnNDcbJBOShoCN7Nu-wz7cU-zTYCCRrNZOZia9vSPv39H_r_v_788Zfvhat__vjb3W7XyW2zmaZpA0cR9p2GFTW8sGkkWWg1F5GfxJb7dbfzHT79IgCkIgE9aUwvMZg-PddeZk-zEY3EoW8GtmsKL0MzmK7nKuX6vBNS2Oe9kMqeeZayEp6mHI9XWrN741nTxGjDBdvVpDd88DyAqYNBXjeNxFkSj16WSVNvkp_Vn-wdmTSShhPqA9gQVUXfx85gCFGDoRm2MW4aAZEB_2UTgQoAJoMVGV5sGMBPaUMIAEEF6HVBFcqN1xWyoOYb5COiYo4vKyu8w8S1wgF9KQWDFIBRJfOBM2JNbwpKW0A5hAPU6acCemuFsqiafnwfZyMqjzy-CdVv_GIkSDmaAQErYEICKG0Ip_Lim6bSYnoQk9KxAsfiVP3Qc9BXgaRgQfU-FiMtElAXVtoGKUmJ2rQxKWC6acakazU9y7UOgzjJ61p46NHRQAg64-uda_vI8wayo8W7zUaHK7Cf4KZlEjk_MmzH1l2d_nqYt5hWm-6xne7VAVNW8gqqpA6qb4NYZGY30kzBDbkBWxWcBFC75-PEQBCdy5SQH0BnrrZoqKjg0waFWtmXJlEumeXrtVQLS7pwRaz0SQqAqXikFFUegvdwEo9ESoMqKooT48MGLiOpaSQPy5sNeLQ3fh_N-3pURFgoFgSh0FNWJganN-KCaT3oowou7s_r531E_Ejh46FOudoBMILEVXT6IsH8TXDLsCoEVhn0ancM-3k-yB4UV2SquXNVmJZnUF4Q4muCBHjku3Ah65A8J3D-E-xcbPefkkIVbk5gcASfhYmiybb_bbrmblLtxRplBABTyGzm6Xm4RIH5ayRk_c8wVVKUWlLURUzBT2EKIXiOosRyt_C1oigk5pgSMMYXMCUXmKooKt-rKGpSt1pE8w5TYvKGqUw9UJRyiaJ-GVPwQ0xVSTqHqcfzmEKXMIWUE0y5inpEUSdZLymqhqnfoKj736WoA8Scojvmq90SX-QtaTbdivQji0S2vbxOV-LY1jtZfB1PxPSnvLUItreBYftXumffQma4zewrnSxEt45NbXjTSbZfTC_OjNCjAj-OeNrg1ounROjLGraMF-mRFOBgQf5eckNnc7OWnH5_uQitB9-Ns46stUJmMdbcqCtZUqR2B2pGy7Kv9R-ya-2Gxfvvcsdv7WV2KE-vPbZ1c-eazIDD-j4AthizbWkm3--6Vo_zYOi6ypITZzdbm6E7k7sus_fUgQEOfiV8OLsPYFsymVFCkQASh29RQWzxJMMcBiMVfAfAIMgDQwzJs0e-pJdJL0fkoZXmQL3LoUwllqE7yTPfbZsO17NMrs2yXdOmqQBvszXPtagkjPnWv5wwWTw",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d4or2XiczVbbcqJIGH6AfY7lZhJFwKipoqa6CUobUJFkRnNDcbJBOShoCN7Nu-wz7cU-zTYCCRrNZOZia9vSPv39H_r_v_788Zfvhat__vjb3W7XyW2zmaZpA0cR9p2GFTW8sGkkWWg1F5GfxJb7dbfzHT79IgCkIgE9aUwvMZg-PddeZk-zEY3EoW8GtmsKL0MzmK7nKuX6vBNS2Oe9kMqeeZayEp6mHI9XWrN741nTxGjDBdvVpDd88DyAqYNBXjeNxFkSj16WSVNvkp_Vn-wdmTSShhPqA9gQVUXfx85gCFGDoRm2MW4aAZEB_2UTgQoAJoMVGV5sGMBPaUMIAEEF6HVBFcqN1xWyoOYb5COiYo4vKyu8w8S1wgF9KQWDFIBRJfOBM2JNbwpKW0A5hAPU6acCemuFsqiafnwfZyMqjzy-CdVv_GIkSDmaAQErYEICKG0Ip_Lim6bSYnoQk9KxAsfiVP3Qc9BXgaRgQfU-FiMtElAXVtoGKUmJ2rQxKWC6acakazU9y7UOgzjJ61p46NHRQAg64-uda_vI8wayo8W7zUaHK7Cf4KZlEjk_MmzH1l2d_nqYt5hWm-6xne7VAVNW8gqqpA6qb4NYZGY30kzBDbkBWxWcBFC75-PEQBCdy5SQH0BnrrZoqKjg0waFWtmXJlEumeXrtVQLS7pwRaz0SQqAqXikFFUegvdwEo9ESoMqKooT48MGLiOpaSQPy5sNeLQ3fh_N-3pURFgoFgSh0FNWJganN-KCaT3oowou7s_r531E_Ejh46FOudoBMILEVXT6IsH8TXDLsCoEVhn0ancM-3k-yB4UV2SquXNVmJZnUF4Q4muCBHjku3Ah65A8J3D-E-xcbPefkkIVbk5gcASfhYmiybb_bbrmblLtxRplBABTyGzm6Xm4RIH5ayRk_c8wVVKUWlLURUzBT2EKIXiOosRyt_C1oigk5pgSMMYXMCUXmKooKt-rKGpSt1pE8w5TYvKGqUw9UJRyiaJ-GVPwQ0xVSTqHqcfzmEKXMIWUE0y5inpEUSdZLymqhqnfoKj736WoA8Scojvmq90SX-QtaTbdivQji0S2vbxOV-LY1jtZfB1PxPSnvLUItreBYftXumffQma4zewrnSxEt45NbXjTSbZfTC_OjNCjAj-OeNrg1ounROjLGraMF-mRFOBgQf5eckNnc7OWnH5_uQitB9-Ns46stUJmMdbcqCtZUqR2B2pGy7Kv9R-ya-2Gxfvvcsdv7WV2KE-vPbZ1c-eazIDD-j4AthizbWkm3--6Vo_zYOi6ypITZzdbm6E7k7sus_fUgQEOfiV8OLsPYFsymVFCkQASh29RQWzxJMMcBiMVfAfAIMgDQwzJs0e-pJdJL0fkoZXmQL3LoUwllqE7yTPfbZsO17NMrs2yXdOmqQBvszXPtagkjPnWv5wwWTw"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Best Biryani Restaurants In Kolkata 2026 | Order Online",
+   "link": "https://www.swiggy.com/city/kolkata/biryani-dish-restaurants",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVV-ZaTPBRNoFn-p17WtCfXwcvjGXmTJtQZ-_vczoEemNGgJyHIhhxdnKHxpQM0ecDrPDD2y9ic9I9A5nQit-N4mavNxdVL2c3ygKj37AKNtGQFFqq0Kpvb1aLEgSoLP8RPMnGbHTO5TmlsEtbn0q1_Nc8&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://www.swiggy.com › Home › Kolkata",
+   "favicon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHV3mduGcYtye807yISqfykPACv5d08Siandzc4hX57vcoRDTR2q1G1AOqVXAAD-7mrJhe_whQUybeQCofTC7g_CXQGVbYHhGWkVypz0kdMhzz3ADpwf_bj8UiTiMiqFKz_47THBdF05nwq9UrzcF2Lu3qwlMPntqBmwzn9ht62hZee73dyBNr4KXE9zk2wcEJEKi-Ncwytqu3TPQL5ptzc3e2CP6O23xK4Hrwx90GYVhIXL4mlk5IOgLH1P5rM-tlhuBh_P9flX9V3NaHqpYa4_Br3wwfsl11_rU_j_pci7HN3NFoYA-y5pz1gHMP_-DwbfCl7a7VIFLJJY8QLs6PjYUVD8fHb-GRIArfW1v0fmtE4gBw_bAPP48ZTM4MAA.webp",
+   "snippet": "Explore The Best Biryani Restaurants In Kolkata. View Menus, Photos, Ratings, Reviews Or Order Online And Enjoy Mouth-watering Biryani.",
+   "snippet_highlighted_words": [
+    "Explore The Best Biryani Restaurants In Kolkata"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Explore The Best Biryani Restaurants In Kolkata. View Menus, Photos, Ratings, Reviews Or Order Online And Enjoy Mouth-watering Biryani.",
+     "source_info_link": "https://www.swiggy.com/city/kolkata/biryani-dish-restaurants",
+     "icon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHV3mduGcYtye807yISqfykPACv5d08Siandzc4hX57vcoRDTR2q1G1AOqVXAAD-7mrJhe_whQUybeQCofTC7g_CXQGVbYHhGWkVypz0kdMhzz3ADpwf_bj8UiTiMiqFKz_47THBdF05nwq9UrzcF2Lu3qwlMPntqBmwzn9ht62hZee73dyBNr4KXE9zk2wcEJEKi-Ncwytqu3TPQL5ptzc3e2CP6O23xK4Hrwx90GYVhIXL4mlk5IOgLH1P5rM-tlhuBh_P9flX9V3NaHqpYa4_Br3wwfsl11_rU_j_pci7HN3NFoYA-y5pz1gHMP_-DwbfCl7a7VIFLJJY8QLs6PjYUVD8fHb-GRIArfW1v0fmtE4gBw_bAPP48ZTM4MAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVlYtWmFUUEJSTm9Gbi1wMTdXdENmWHdjdmpHWG1USnRRWi1fdmN6b0VlbU5HZ0p5SEloaHhkbktIeHBRTTBlY0RyUEREMnk5aWM5STlBNW5RaXQtTjRtYXZOeGRWTDJjM3lnS2ozN0FLTnRHUUZGcXEwS3B2YjFhTEVnU29MUDhSUE1uR2JIVE81VG1sc0V0Ym4wcTFfTmM4EgQaAggAGpkEEgIIABoAIgAqADoAQgQIARAAShwIARIUS29sa2F0YSwgV2VzdCBCZW5nYWwaAggCWgByAHoAgkDfAwgAEAAYACAAKiMKBGJlc3QV5NpOQBoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFXjGtEAaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWVi1aYVRQQlJOb0ZuLXAxN1d0Q2ZYd2N2akdYbVRKdFFaLV92Y3pvRWVtTkdnSnlISWhoeGRuS0h4cFFNMGVjRHJQREQyeTlpYzlJOUE1blFpdC1ONG1hdk54ZFZMMmMzeWdLajM3QUtOdEdRRkZxcTBLcHZiMWFMRWdTb0xQOFJQTW5HYkhUTzVUbWxzRXRibjBxMV9OYzg6PjxiPkJlc3QgQmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgSW4gS29sa2F0YSAyMDI2IHwgT3JkZXIgT25saW5lQo4BPGI-RXhwbG9yZSBUaGUgQmVzdCBCaXJ5YW5pIFJlc3RhdXJhbnRzIEluIEtvbGthdGE8L2I-LiBWaWV3IE1lbnVzLCBQaG90b3MsIFJhdGluZ3MsIFJldmlld3MgT3IgT3JkZXIgT25saW5lIEFuZCBFbmpveSBNb3V0aC13YXRlcmluZyBCaXJ5YW5pLlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVlYtWmFUUEJSTm9Gbi1wMTdXdENmWHdjdmpHWG1USnRRWi1fdmN6b0VlbU5HZ0p5SEloaHhkbktIeHBRTTBlY0RyUEREMnk5aWM5STlBNW5RaXQtTjRtYXZOeGRWTDJjM3lnS2ozN0FLTnRHUUZGcXEwS3B2YjFhTEVnU29MUDhSUE1uR2JIVE81VG1sc0V0Ym4wcTFfTmM4EgQaAggAGpkEEgIIABoAIgAqADoAQgQIARAAShwIARIUS29sa2F0YSwgV2VzdCBCZW5nYWwaAggCWgByAHoAgkDfAwgAEAAYACAAKiMKBGJlc3QV5NpOQBoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFXjGtEAaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWVi1aYVRQQlJOb0ZuLXAxN1d0Q2ZYd2N2akdYbVRKdFFaLV92Y3pvRWVtTkdnSnlISWhoeGRuS0h4cFFNMGVjRHJQREQyeTlpYzlJOUE1blFpdC1ONG1hdk54ZFZMMmMzeWdLajM3QUtOdEdRRkZxcTBLcHZiMWFMRWdTb0xQOFJQTW5HYkhUTzVUbWxzRXRibjBxMV9OYzg6PjxiPkJlc3QgQmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgSW4gS29sa2F0YSAyMDI2IHwgT3JkZXIgT25saW5lQo4BPGI-RXhwbG9yZSBUaGUgQmVzdCBCaXJ5YW5pIFJlc3RhdXJhbnRzIEluIEtvbGthdGE8L2I-LiBWaWV3IE1lbnVzLCBQaG90b3MsIFJhdGluZ3MsIFJldmlld3MgT3IgT3JkZXIgT25saW5lIEFuZCBFbmpveSBNb3V0aC13YXRlcmluZyBCaXJ5YW5pLlIDdG9wIgIQAUgAWABoAA",
+   "source": "Swiggy"
+  },
+  {
+   "position": 2,
+   "title": "Best Biryani Place for authentic Kolkata Biryani? : r/kolkata",
+   "link": "https://www.reddit.com/r/kolkata/comments/1hcgz20/best_biryani_place_for_authentic_kolkata_biryani/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFbDH4CRJaR26S8g1RoBgb-W3NpIQNB9NB0m3FewAG4hR5l9ahuG6keyYpfxnbjRBvf9wqbYpszOgwVZVJ3dOhaEQi_tPCJl5I-zXNznV8Vhl4HNAMvyYYTyMpuBW2A5YkfUC2NCF0O9ReBr-F9rcb9ijdCQ71GvMn_opqLCgOSSnYzNxKFJnlqI6TzdI5fHh83MGmza_IWPvCg&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQFnoECEsQAQ&uoh=1",
+   "displayed_link": "60+ comments · 1 year ago",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "I have been going to Aminia New Market since I was a kid and I am somewhat biased about it. I love it while everyone else complains about the Biryani. ...",
+   "sitelinks": {
+    "list": [
+     {
+      "title": "Suggest me the best Biryani restaurants in Kolkata.",
+      "link": "https://www.reddit.com/r/kolkata/comments/1lszcbx/suggest_me_the_best_biryani_restaurants_in_kolkata/",
+      "answer_count": 42,
+      "date": "6 Jul 2025"
+     },
+     {
+      "title": "Top 5 Biryani places in Kolkata?",
+      "link": "https://www.reddit.com/r/kolkata/comments/1b8owa6/top_5_biryani_places_in_kolkata/",
+      "answer_count": 101,
+      "date": "7 Mar 2024"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Name is Royal Biryani , very close to the railway station. The owner uses high quality raw material and his biryani never feels heavy. I found ...",
+     "source_info_link": "https://www.reddit.com/r/kolkata/comments/1hcgz20/best_biryani_place_for_authentic_kolkata_biryani/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZiREg0Q1JKYVIyNlM4ZzFSb0JnYi1XM05wSVFOQjlOQjBtM0Zld0FHNGhSNWw5YWh1RzZrZXlZcGZ4bmJqUkJ2Zjl3cWJZcHN6T2d3VlpWSjNkT2hhRVFpX3RQQ0psNUktelhOem5WOFZobDRITkFNdnlZWVR5TXB1QlcyQTVZa2ZVQzJOQ0YwTzlSZUJyLUY5cmNiOWlqZENRNzFHdk1uX29wcUxDZ09TU25Zek54S0ZKbmxxSTZUemRJNWZIaDgzTUdtemFfSVdQdkNnEgQaAggAGuAEEgAaACIAKgA6AEIECAEQAEocCAESFEtvbGthdGEsIFdlc3QgQmVuZ2FsGgIIAloAcgB6AIJAqAQIABAAGAAgACojCgRiZXN0FZmEnEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRU1KbFAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZiREg0Q1JKYVIyNlM4ZzFSb0JnYi1XM05wSVFOQjlOQjBtM0Zld0FHNGhSNWw5YWh1RzZrZXlZcGZ4bmJqUkJ2Zjl3cWJZcHN6T2d3VlpWSjNkT2hhRVFpX3RQQ0psNUktelhOem5WOFZobDRITkFNdnlZWVR5TXB1QlcyQTVZa2ZVQzJOQ0YwTzlSZUJyLUY5cmNiOWlqZENRNzFHdk1uX29wcUxDZ09TU25Zek54S0ZKbmxxSTZUemRJNWZIaDgzTUdtemFfSVdQdkNnOkE8Yj5CZXN0IEJpcnlhbmk8L2I-IFBsYWNlIGZvciBhdXRoZW50aWMgS29sa2F0YSBCaXJ5YW5pPyAtIFJlZGRpdEKeAU5hbWUgaXMgPGI-Um95YWwgQmlyeWFuaTwvYj4gLCB2ZXJ5IGNsb3NlIHRvIHRoZSByYWlsd2F5IHN0YXRpb24uIFRoZSBvd25lciB1c2VzIGhpZ2ggcXVhbGl0eSByYXcgbWF0ZXJpYWwgYW5kIGhpcyBiaXJ5YW5pIG5ldmVyIGZlZWxzIGhlYXZ5LiBJIGZvdW5kJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZiREg0Q1JKYVIyNlM4ZzFSb0JnYi1XM05wSVFOQjlOQjBtM0Zld0FHNGhSNWw5YWh1RzZrZXlZcGZ4bmJqUkJ2Zjl3cWJZcHN6T2d3VlpWSjNkT2hhRVFpX3RQQ0psNUktelhOem5WOFZobDRITkFNdnlZWVR5TXB1QlcyQTVZa2ZVQzJOQ0YwTzlSZUJyLUY5cmNiOWlqZENRNzFHdk1uX29wcUxDZ09TU25Zek54S0ZKbmxxSTZUemRJNWZIaDgzTUdtemFfSVdQdkNnEgQaAggAGuAEEgAaACIAKgA6AEIECAEQAEocCAESFEtvbGthdGEsIFdlc3QgQmVuZ2FsGgIIAloAcgB6AIJAqAQIABAAGAAgACojCgRiZXN0FZmEnEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRU1KbFAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZiREg0Q1JKYVIyNlM4ZzFSb0JnYi1XM05wSVFOQjlOQjBtM0Zld0FHNGhSNWw5YWh1RzZrZXlZcGZ4bmJqUkJ2Zjl3cWJZcHN6T2d3VlpWSjNkT2hhRVFpX3RQQ0psNUktelhOem5WOFZobDRITkFNdnlZWVR5TXB1QlcyQTVZa2ZVQzJOQ0YwTzlSZUJyLUY5cmNiOWlqZENRNzFHdk1uX29wcUxDZ09TU25Zek54S0ZKbmxxSTZUemRJNWZIaDgzTUdtemFfSVdQdkNnOkE8Yj5CZXN0IEJpcnlhbmk8L2I-IFBsYWNlIGZvciBhdXRoZW50aWMgS29sa2F0YSBCaXJ5YW5pPyAtIFJlZGRpdEKeAU5hbWUgaXMgPGI-Um95YWwgQmlyeWFuaTwvYj4gLCB2ZXJ5IGNsb3NlIHRvIHRoZSByYWlsd2F5IHN0YXRpb24uIFRoZSBvd25lciB1c2VzIGhpZ2ggcXVhbGl0eSByYXcgbWF0ZXJpYWwgYW5kIGhpcyBiaXJ5YW5pIG5ldmVyIGZlZWxzIGhlYXZ5LiBJIGZvdW5kJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "source": "Reddit · r/kolkata"
+  },
+  {
+   "position": 3,
+   "title": "Best Biryani Delivery Restaurants in Kolkata | Order Online",
+   "link": "https://www.zomato.com/kolkata/delivery/dish-biryani",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVOCZ2Ctu5QKSPTu6qmGLMwrilhkzUeggl3yOFwkklf9JT6NV6ItIY09vKfOaGLwNm-cWKg0ZOM8Lqxh_m4WroS6LrnEciY9xUHGcg_ommhtR5dFH1e_s8Bxsm-_XiBQK1J7y1D1KMaABMVA&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://www.zomato.com › delivery › dish-biryani",
+   "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWj_50BztOYUKajSUqY0nxN_2kmmnO3MgAP6l_pFa1HehfrmOhi8DDnkzYvfS2FA_2MNfDwf-Cq3uUgIr_vILjPrTCBf_jePStpEEESUD77kFWFF9hNgvOYS3TSekcDmUmzIOBGzqNsnrLX_9Kj31aZ7P-CCJ_f9c2MTTC99iz_-ZhAJ7GJ4jboK7Q-E_gBDJO95ASmnr3_tPsjeIePS_PzY21euI7uqBZlYTzB97Cr_NqBBIjBw2DMjP1w7wW3LQ_nQAAA.webp",
+   "snippet": "Biryani Delivery in Kolkata ; Mezban · Biryani, Kebab, North Indian, Rolls. ₹400 for one. 25–30 min ; Shiraz Golden Restaurant · Rolls, North Indian, Biryani, ...",
+   "snippet_highlighted_words": [
+    "Mezban"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Biryani Delivery in Kolkata ; Mezban · Biryani, Kebab, North Indian, Rolls. ₹400 for one. 25–30 min ; Shiraz Golden Restaurant · Rolls, North Indian, Biryani, ...",
+     "source_info_link": "https://www.zomato.com/kolkata/delivery/dish-biryani",
+     "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWj_50BztOYUKajSUqY0nxN_2kmmnO3MgAP6l_pFa1HehfrmOhi8DDnkzYvfS2FA_2MNfDwf-Cq3uUgIr_vILjPrTCBf_jePStpEEESUD77kFWFF9hNgvOYS3TSekcDmUmzIOBGzqNsnrLX_9Kj31aZ7P-CCJ_f9c2MTTC99iz_-ZhAJ7GJ4jboK7Q-E_gBDJO95ASmnr3_tPsjeIePS_PzY21euI7uqBZlYTzB97Cr_NqBBIjBw2DMjP1w7wW3LQ_nQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVk9DWjJDdHU1UUtTUFR1NnFtR0xNd3JpbGhrelVlZ2dsM3lPRndra2xmOUpUNk5WNkl0SVkwOXZLZk9hR0x3Tm0tY1dLZzBaT004THF4aF9tNFdyb1M2THJuRWNpWTl4VUhHY2dfb21taHRSNWRGSDFlX3M4QnhzbS1fWGlCUUsxSjd5MUQxS01hQUJNVkESBBoCCAAawwQSABoAIgAqADoAQgQIARAAShwIARIUS29sa2F0YSwgV2VzdCBCZW5nYWwaAggCWgByAHoAgkCLBAgAEAAYACAAKiMKBGJlc3QVj-P4PxoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFb3gsUAaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWT0NaMkN0dTVRS1NQVHU2cW1HTE13cmlsaGt6VWVnZ2wzeU9Gd2trbGY5SlQ2TlY2SXRJWTA5dktmT2FHTHdObS1jV0tnMFpPTThMcXhoX200V3JvUzZMcm5FY2lZOXhVSEdjZ19vbW1odFI1ZEZIMWVfczhCeHNtLV9YaUJRSzFKN3kxRDFLTWFBQk1WQTpCPGI-QmVzdCBCaXJ5YW5pPC9iPiBEZWxpdmVyeSBSZXN0YXVyYW50cyBpbiBLb2xrYXRhIHwgT3JkZXIgT25saW5lQsABQmlyeWFuaSBEZWxpdmVyeSBpbiBLb2xrYXRhIDsgPGI-TWV6YmFuPC9iPiAmbWlkZG90OyBCaXJ5YW5pLCBLZWJhYiwgTm9ydGggSW5kaWFuLCBSb2xscy4g4oK5NDAwIGZvciBvbmUuIDI14oCTMzAgbWluIDsgU2hpcmF6IEdvbGRlbiBSZXN0YXVyYW50ICZtaWRkb3Q7IFJvbGxzLCBOb3J0aCBJbmRpYW4sIEJpcnlhbmksJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVk9DWjJDdHU1UUtTUFR1NnFtR0xNd3JpbGhrelVlZ2dsM3lPRndra2xmOUpUNk5WNkl0SVkwOXZLZk9hR0x3Tm0tY1dLZzBaT004THF4aF9tNFdyb1M2THJuRWNpWTl4VUhHY2dfb21taHRSNWRGSDFlX3M4QnhzbS1fWGlCUUsxSjd5MUQxS01hQUJNVkESBBoCCAAawwQSABoAIgAqADoAQgQIARAAShwIARIUS29sa2F0YSwgV2VzdCBCZW5nYWwaAggCWgByAHoAgkCLBAgAEAAYACAAKiMKBGJlc3QVj-P4PxoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFb3gsUAaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWT0NaMkN0dTVRS1NQVHU2cW1HTE13cmlsaGt6VWVnZ2wzeU9Gd2trbGY5SlQ2TlY2SXRJWTA5dktmT2FHTHdObS1jV0tnMFpPTThMcXhoX200V3JvUzZMcm5FY2lZOXhVSEdjZ19vbW1odFI1ZEZIMWVfczhCeHNtLV9YaUJRSzFKN3kxRDFLTWFBQk1WQTpCPGI-QmVzdCBCaXJ5YW5pPC9iPiBEZWxpdmVyeSBSZXN0YXVyYW50cyBpbiBLb2xrYXRhIHwgT3JkZXIgT25saW5lQsABQmlyeWFuaSBEZWxpdmVyeSBpbiBLb2xrYXRhIDsgPGI-TWV6YmFuPC9iPiAmbWlkZG90OyBCaXJ5YW5pLCBLZWJhYiwgTm9ydGggSW5kaWFuLCBSb2xscy4g4oK5NDAwIGZvciBvbmUuIDI14oCTMzAgbWluIDsgU2hpcmF6IEdvbGRlbiBSZXN0YXVyYW50ICZtaWRkb3Q7IFJvbGxzLCBOb3J0aCBJbmRpYW4sIEJpcnlhbmksJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "source": "Zomato",
+   "read_more_link": "https://www.zomato.com/kolkata/delivery/dish-biryani#:~:text=Biryani%20Delivery%20in%20Kolkata&text=Mezban&text=Biryani%2C%20Kebab%2C%20North%20Indian%2C%20Rolls,25%E2%80%9330%20min&text=Shiraz%20Golden%20Restaurant&text=Rolls%2C%20North%20Indian%2C%20Biryani%2C%20Kebab%2C,Mughlai"
+  },
+  {
+   "position": 4,
+   "title": "Heritage Biryani Restaurants in Kolkata",
+   "link": "http://www.sahapedia.org/heritage-biryani-restaurants-kolkata",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVv0WyjOYf1zTRJHcY4T8ahL9QJSVj0bBKTtDb-LVT0Nb9iWQoSjdVl54I0W4NfghFlS2uE7L9J6ebFBBHEn-0EtrwSMttpIg1_rhGHi9NQ9RHTeB-MxMMJmcuHmAxGKbeePgnpShP5yNBrkGAQYpSYlD6Ag&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQFnoECD4QAQ&uoh=1",
+   "displayed_link": "http://www.sahapedia.org › heritage-biryani-restaurants...",
+   "favicon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAADwBQCdASocABkAPtE-tFooIigoFAEAGglpAM9oCB2A1gW-ucpGTLQOXJ_NOypVDskJLYYLHQD4AAD-9hD-75lYkuU-b-qeufVcrM8iYnbDpLGTs5yaKeiZixvU3CWYVqW6wcuVEl0SDUaoPASNbYqrf3lXSAnsbvRGmgyPd42R7ofS8zeR48I42We1VU7kTjqOhvVaVwvnlJ-XQvu7PVgC6AODdvO-vKZJG62mGpSQi1yiqtqbv2wTDgSMbm60_mv6qlzStIbhn_GNfx4qn3dG34JXmTCj5AK0H9h_cAA.webp",
+   "snippet": "Where you should go for some good Kolkata biryani in Kolkata (in this exact order): · 2. India Restaurant · 3. Arsalan · 4. Dada Boudi Hotel · 5. Asma Hotel · 6.",
+   "snippet_highlighted_words": [
+    "India Restaurant"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Where you should go for some good Kolkata biryani in Kolkata (in this exact order): · 2. India Restaurant · 3. Arsalan · 4. Dada Boudi Hotel · 5. Asma Hotel · 6.",
+     "source_info_link": "http://www.sahapedia.org/heritage-biryani-restaurants-kolkata",
+     "icon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAADwBQCdASocABkAPtE-tFooIigoFAEAGglpAM9oCB2A1gW-ucpGTLQOXJ_NOypVDskJLYYLHQD4AAD-9hD-75lYkuU-b-qeufVcrM8iYnbDpLGTs5yaKeiZixvU3CWYVqW6wcuVEl0SDUaoPASNbYqrf3lXSAnsbvRGmgyPd42R7ofS8zeR48I42We1VU7kTjqOhvVaVwvnlJ-XQvu7PVgC6AODdvO-vKZJG62mGpSQi1yiqtqbv2wTDgSMbm60_mv6qlzStIbhn_GNfx4qn3dG34JXmTCj5AK0H9h_cAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnYwV3lqT1lmMXpUUkpIY1k0VDhhaEw5UUpTVmowYkJLVHREYi1MVlQwTmI5aVdRb1NqZFZsNTRJMFc0TmZnaEZsUzJ1RTdMOUo2ZWJGQkJIRW4tMEV0cndTTXR0cElnMV9yaEdIaTlOUTlSSFRlQi1NeE1NSm1jdUhtQXhHS2JlZVBnbnBTaFA1eU5CcmtHQVFZcFNZbEQ2QWcSBBoCCAAa0gQSABoAIgAqADoAQgQIARAAShwIARIUS29sa2F0YSwgV2VzdCBCZW5nYWwaAggCWgByAHoAgkCaBAgAEAAYACAAKiMKBGJlc3QVAAAAABoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFe5zr0AaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWdjBXeWpPWWYxelRSSkhjWTRUOGFoTDlRSlNWajBiQktUdERiLUxWVDBOYjlpV1FvU2pkVmw1NEkwVzROZmdoRmxTMnVFN0w5SjZlYkZCQkhFbi0wRXRyd1NNdHRwSWcxX3JoR0hpOU5ROVJIVGVCLU14TU1KbWN1SG1BeEdLYmVlUGducFNoUDV5TkJya0dBUVlwU1lsRDZBZzo6SGVyaXRhZ2UgPGI-QmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgaW4gS29sa2F0YSAtIFNhaGFwZWRpYULLAVdoZXJlIHlvdSBzaG91bGQgZ28gZm9yIHNvbWUgZ29vZCBLb2xrYXRhIGJpcnlhbmkgaW4gS29sa2F0YSAoaW4gdGhpcyBleGFjdCBvcmRlcik6ICZtaWRkb3Q7IDIuIDxiPkluZGlhIFJlc3RhdXJhbnQ8L2I-ICZtaWRkb3Q7IDMuIEFyc2FsYW4gJm1pZGRvdDsgNC4gRGFkYSBCb3VkaSBIb3RlbCAmbWlkZG90OyA1LiBBc21hIEhvdGVsICZtaWRkb3Q7IDYuUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnYwV3lqT1lmMXpUUkpIY1k0VDhhaEw5UUpTVmowYkJLVHREYi1MVlQwTmI5aVdRb1NqZFZsNTRJMFc0TmZnaEZsUzJ1RTdMOUo2ZWJGQkJIRW4tMEV0cndTTXR0cElnMV9yaEdIaTlOUTlSSFRlQi1NeE1NSm1jdUhtQXhHS2JlZVBnbnBTaFA1eU5CcmtHQVFZcFNZbEQ2QWcSBBoCCAAa0gQSABoAIgAqADoAQgQIARAAShwIARIUS29sa2F0YSwgV2VzdCBCZW5nYWwaAggCWgByAHoAgkCaBAgAEAAYACAAKiMKBGJlc3QVAAAAABoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFe5zr0AaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWdjBXeWpPWWYxelRSSkhjWTRUOGFoTDlRSlNWajBiQktUdERiLUxWVDBOYjlpV1FvU2pkVmw1NEkwVzROZmdoRmxTMnVFN0w5SjZlYkZCQkhFbi0wRXRyd1NNdHRwSWcxX3JoR0hpOU5ROVJIVGVCLU14TU1KbWN1SG1BeEdLYmVlUGducFNoUDV5TkJya0dBUVlwU1lsRDZBZzo6SGVyaXRhZ2UgPGI-QmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgaW4gS29sa2F0YSAtIFNhaGFwZWRpYULLAVdoZXJlIHlvdSBzaG91bGQgZ28gZm9yIHNvbWUgZ29vZCBLb2xrYXRhIGJpcnlhbmkgaW4gS29sa2F0YSAoaW4gdGhpcyBleGFjdCBvcmRlcik6ICZtaWRkb3Q7IDIuIDxiPkluZGlhIFJlc3RhdXJhbnQ8L2I-ICZtaWRkb3Q7IDMuIEFyc2FsYW4gJm1pZGRvdDsgNC4gRGFkYSBCb3VkaSBIb3RlbCAmbWlkZG90OyA1LiBBc21hIEhvdGVsICZtaWRkb3Q7IDYuUgN0b3AiAhABSABYAGgA",
+   "source": "Sahapedia",
+   "read_more_link": "http://www.sahapedia.org/heritage-biryani-restaurants-kolkata#:~:text=Where%20you%20should%20go%20for,Kolkata%20(in%20this%20exact%20order)%3A&text=2.%20India%20Restaurant&text=3.%20Arsalan&text=4.%20Dada%20Boudi%20Hotel&text=5.%20Asma%20Hotel&text=6.%20Shiraz%20Golden%20Restaurant"
+  },
+  {
+   "position": 5,
+   "title": "Here are Top 7 Best Biriyani Places in Kolkata, If you are a ...",
+   "link": "https://www.instagram.com/p/DU0vl4KCeTg/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVc5B0ybZOWIRuAFwh7w845FUkW1ucA4tniKWG5WNcXnHveaSTsL-7whUAbc7wj9PZ_2uKdcHoNigqkTXyQeHr_xkGo6EWebQpGuotBnYg4hsSij820fkffwunTvEgkg&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQFnoECEMQAQ&uoh=1",
+   "displayed_link": "2.6K+ likes · 7 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "SufI Palace, Elahi Luxury Dining, Manzilat's, New Aliah Hotel aur Zam Zam — each one brings its own vibe, flavour and biryani experience.",
+   "snippet_highlighted_words": [
+    "SufI Palace, Elahi Luxury Dining, Manzilat's, New Aliah Hotel aur Zam Zam"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "SufI Palace, Elahi Luxury Dining, Manzilat's, New Aliah Hotel aur Zam Zam — each one brings its own vibe, flavour and biryani experience.",
+     "source_info_link": "https://www.instagram.com/p/DU0vl4KCeTg/",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmM1QjB5YlpPV0lSdUFGd2g3dzg0NUZVa1cxdWNBNHRuaUtXRzVXTmNYbkh2ZWFTVHNMLTd3aFVBYmM3d2o5UFpfMnVLZGNIb05pZ3FrVFh5UWVIcl94a0dvNkVXZWJRcEd1b3RCbllnNGhzU2lqODIwZmtmZnd1blR2RWdrZxIEGgIIABqXBBIAGgAiACoAOgBCBAgBEABKHAgBEhRLb2xrYXRhLCBXZXN0IEJlbmdhbBoCCAJaAHIAegCCQN8DCAAQABgAIAAqIwoEYmVzdBWIfXdAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVNWgIQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZjNUIweWJaT1dJUnVBRndoN3c4NDVGVWtXMXVjQTR0bmlLV0c1V05jWG5IdmVhU1RzTC03d2hVQWJjN3dqOVBaXzJ1S2RjSG9OaWdxa1RYeVFlSHJfeGtHbzZFV2ViUXBHdW90Qm5ZZzRoc1NpajgyMGZrZmZ3dW5UdkVna2c6UEhlcmUgYXJlIDxiPlRvcDwvYj4gNyA8Yj5CZXN0PC9iPiBCaXJpeWFuaSBQbGFjZXMgaW4gS29sa2F0YSwgSWYgLi4uIC0gSW5zdGFncmFtQpYBPGI-U3VmSSBQYWxhY2UsIEVsYWhpIEx1eHVyeSBEaW5pbmcsIE1hbnppbGF0JiMzOTtzLCBOZXcgQWxpYWggSG90ZWwgYXVyIFphbSBaYW08L2I-IOKAlCBlYWNoIG9uZSBicmluZ3MgaXRzIG93biB2aWJlLCBmbGF2b3VyIGFuZCBiaXJ5YW5pIGV4cGVyaWVuY2UuUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmM1QjB5YlpPV0lSdUFGd2g3dzg0NUZVa1cxdWNBNHRuaUtXRzVXTmNYbkh2ZWFTVHNMLTd3aFVBYmM3d2o5UFpfMnVLZGNIb05pZ3FrVFh5UWVIcl94a0dvNkVXZWJRcEd1b3RCbllnNGhzU2lqODIwZmtmZnd1blR2RWdrZxIEGgIIABqXBBIAGgAiACoAOgBCBAgBEABKHAgBEhRLb2xrYXRhLCBXZXN0IEJlbmdhbBoCCAJaAHIAegCCQN8DCAAQABgAIAAqIwoEYmVzdBWIfXdAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVNWgIQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZjNUIweWJaT1dJUnVBRndoN3c4NDVGVWtXMXVjQTR0bmlLV0c1V05jWG5IdmVhU1RzTC03d2hVQWJjN3dqOVBaXzJ1S2RjSG9OaWdxa1RYeVFlSHJfeGtHbzZFV2ViUXBHdW90Qm5ZZzRoc1NpajgyMGZrZmZ3dW5UdkVna2c6UEhlcmUgYXJlIDxiPlRvcDwvYj4gNyA8Yj5CZXN0PC9iPiBCaXJpeWFuaSBQbGFjZXMgaW4gS29sa2F0YSwgSWYgLi4uIC0gSW5zdGFncmFtQpYBPGI-U3VmSSBQYWxhY2UsIEVsYWhpIEx1eHVyeSBEaW5pbmcsIE1hbnppbGF0JiMzOTtzLCBOZXcgQWxpYWggSG90ZWwgYXVyIFphbSBaYW08L2I-IOKAlCBlYWNoIG9uZSBicmluZ3MgaXRzIG93biB2aWJlLCBmbGF2b3VyIGFuZCBiaXJ5YW5pIGV4cGVyaWVuY2UuUgN0b3AiAhABSABYAGgA",
+   "source": "Instagram · thebengaldiaries_",
+   "read_more_link": "https://www.instagram.com/p/DU0vl4KCeTg/#:~:text=SufI%20Palace%2C%20Elahi%20Luxury%20Dining%2C,vibe%2C%20flavour%20and%20biryani%20experience."
+  },
+  {
+   "position": 6,
+   "title": "Best Biryani of Kolkata I একদিনে কলকাতার সেরা তিন বিরিয়ানি ...",
+   "link": "https://www.youtube.com/watch?v=7_hnSkByq9I",
+   "displayed_link": "2.7L+ views · 2 years ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6T07vTm-MhfscA1tIilBA6aM3_WqyBCC-XMGDqeZf2b1izG-5N7Kbw&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "biryani #kolkata #biryanireview #explorershibaji #foodvlog Tasting Biryani at 3 different places (Manzilat, Arsalan Park Circus and India ...",
+   "duration": "12:05",
+   "about_this_result": {
+    "source": {
+     "description": "biryani #kolkata #biryanireview #explorershibaji #foodvlog Tasting Biryani at 3 different places (Manzilat, Arsalan Park Circus and India ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjgxLVA4aXpUY0tuOUdtVGk2ZWpXcV9KWkhrRWRvOXdsMzV1NVh0bVBxbm1sOUNWamFVWUFwVVRNd3owLUdNX3VmbFBfeVl6ekFNQi00NFl5SDdSNTBUSE1xNUtpUGpjQ00tX0NRUjhKeTFialdKaVFwaW5pa0tySnpIaWg3eUJiZ0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjgxLVA4aXpUY0tuOUdtVGk2ZWpXcV9KWkhrRWRvOXdsMzV1NVh0bVBxbm1sOUNWamFVWUFwVVRNd3owLUdNX3VmbFBfeVl6ekFNQi00NFl5SDdSNTBUSE1xNUtpUGpjQ00tX0NRUjhKeTFialdKaVFwaW5pa0tySnpIaWg3eUJiZ0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ60RvNWSiBrnfL0hGyL_zAvFVSxqCWXGjfJg",
+   "source": "YouTube · Explorer Shibaji"
+  },
+  {
+   "position": 7,
+   "title": "The Potato in Mutton Biryani of Kolkata and Where to Find ...",
+   "link": "https://www.orangewayfarer.com/best-kolkata-biryani-history/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVakw5VDvkEMe0KT2h_FNYmGMbldzSdQesVHveXz21BTd3yjtlOPT17r0YQULcRK0kQ67Jd-EpOB47JS_9Yrt0TKGKhnIZQ9ziEgxUOsGy-V1GnrAmWGza07bJnnUfHdi0VmYUrHRG5_9cSESNYXtg8JKr&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.orangewayfarer.com › best-kolkata-biryani-...",
+   "date": "13 Apr 2020",
+   "snippet": "Unlike the Hyderabadi biryani (which is aggressively marketed as the best biryani), Kolkata Biryani plays in subtle flavors and sharp edges of ...",
+   "snippet_highlighted_words": [
+    "Kolkata Biryani"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Unlike the Hyderabadi biryani (which is aggressively marketed as the best biryani), Kolkata Biryani plays in subtle flavors and sharp edges of ...",
+     "source_info_link": "https://www.orangewayfarer.com/best-kolkata-biryani-history/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmFrdzVWRHZrRU1lMEtUMmhfRk5ZbUdNYmxkelNkUWVzVkh2ZVh6MjFCVGQzeWp0bE9QVDE3cjBZUVVMY1JLMGtRNjdKZC1FcE9CNDdKU185WXJ0MFRLR0tobklaUTl6aUVneFVPc0d5LVYxR25yQW1XR3phMDdiSm5uVWZIZGkwVm1ZVXJIUkc1XzljU0VTTllYdGc4SktyEgQaAggAGrEEEgAaACIAKgA6AEIECAEQAEocCAESFEtvbGthdGEsIFdlc3QgQmVuZ2FsGgIIAloAcgB6AIJA-QMIABAAGAAgACojCgRiZXN0FcavHUAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRUgV6NAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmFrdzVWRHZrRU1lMEtUMmhfRk5ZbUdNYmxkelNkUWVzVkh2ZVh6MjFCVGQzeWp0bE9QVDE3cjBZUVVMY1JLMGtRNjdKZC1FcE9CNDdKU185WXJ0MFRLR0tobklaUTl6aUVneFVPc0d5LVYxR25yQW1XR3phMDdiSm5uVWZIZGkwVm1ZVXJIUkc1XzljU0VTTllYdGc4SktyOkhUaGUgUG90YXRvIGluIE11dHRvbiA8Yj5CaXJ5YW5pPC9iPiBvZiBLb2xrYXRhIGFuZCBXaGVyZSB0byBGaW5kIFRoZSAuLi5CngFVbmxpa2UgdGhlIEh5ZGVyYWJhZGkgYmlyeWFuaSAod2hpY2ggaXMgYWdncmVzc2l2ZWx5IG1hcmtldGVkIGFzIHRoZSBiZXN0IGJpcnlhbmkpLCA8Yj5Lb2xrYXRhIEJpcnlhbmk8L2I-IHBsYXlzIGluIHN1YnRsZSBmbGF2b3JzIGFuZCBzaGFycCBlZGdlcyBvZiZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmFrdzVWRHZrRU1lMEtUMmhfRk5ZbUdNYmxkelNkUWVzVkh2ZVh6MjFCVGQzeWp0bE9QVDE3cjBZUVVMY1JLMGtRNjdKZC1FcE9CNDdKU185WXJ0MFRLR0tobklaUTl6aUVneFVPc0d5LVYxR25yQW1XR3phMDdiSm5uVWZIZGkwVm1ZVXJIUkc1XzljU0VTTllYdGc4SktyEgQaAggAGrEEEgAaACIAKgA6AEIECAEQAEocCAESFEtvbGthdGEsIFdlc3QgQmVuZ2FsGgIIAloAcgB6AIJA-QMIABAAGAAgACojCgRiZXN0FcavHUAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRUgV6NAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmFrdzVWRHZrRU1lMEtUMmhfRk5ZbUdNYmxkelNkUWVzVkh2ZVh6MjFCVGQzeWp0bE9QVDE3cjBZUVVMY1JLMGtRNjdKZC1FcE9CNDdKU185WXJ0MFRLR0tobklaUTl6aUVneFVPc0d5LVYxR25yQW1XR3phMDdiSm5uVWZIZGkwVm1ZVXJIUkc1XzljU0VTTllYdGc4SktyOkhUaGUgUG90YXRvIGluIE11dHRvbiA8Yj5CaXJ5YW5pPC9iPiBvZiBLb2xrYXRhIGFuZCBXaGVyZSB0byBGaW5kIFRoZSAuLi5CngFVbmxpa2UgdGhlIEh5ZGVyYWJhZGkgYmlyeWFuaSAod2hpY2ggaXMgYWdncmVzc2l2ZWx5IG1hcmtldGVkIGFzIHRoZSBiZXN0IGJpcnlhbmkpLCA8Yj5Lb2xrYXRhIEJpcnlhbmk8L2I-IHBsYXlzIGluIHN1YnRsZSBmbGF2b3JzIGFuZCBzaGFycCBlZGdlcyBvZiZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "source": "Orange Wayfarer",
+   "read_more_link": "https://www.orangewayfarer.com/best-kolkata-biryani-history/#:~:text=Unlike%20the%20Hyderabadi%20biryani%20(which,and%20sharp%20edges%20of%20rice."
+  },
+  {
+   "position": 8,
+   "title": "Best Biryani Spots in Kolkata",
+   "link": "https://www.district.in/blog/biryani-spots-in-kolkata?srsltid=AU7gw4Vjebcjt-ezithkX6Tzd5iHZ_AE92UFYKIQR24_C8x4W32Y1MMl",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsQEB6zswFUI1w5fGAHpYSDSVko8t8HSgSiXKL2WQ4bNA58PbCLZYA8rxVVoDLQH5ZS_yLeC_9b9DKhMvMIy3s_ezZr7uIST0C35Ws_QkJ79sBILKEeycIOqBM2N4uHpV_CtkehPv9-nORrK7YLJF33bEjqdRTpxxSzx0OyeR_Nc3Sz9B2ZTmFus1GEnw2CIUIIEUI8AL0E13k_mDDcJbl6YzBHlhcD_y0VrSRtFSFK_TWDc&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQFnoECEAQAQ&uoh=1",
+   "displayed_link": "https://www.district.in › blog › biryani-spots-in-kolkata",
+   "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAAAwBQCdASogACAAPrUurVanIacnG_DgFoloAKkj1IIwKMG9ANrRcV4wnVQkKjUIXv8B5AD9H4iLnyzeXuUZvVNaizoUKVCphFFo8xXoNhJCUe7aLoOXIy74ATPri5Zz_4IL2o78JNh5o3426LsxxfxoHWIW_Uvw-v-N8wUWLXFF6jKFY5ZLjmUALG9fG-J_DGqR7k2_xh9t9jq3GFcSjHuWhQvwOyEUNPJEs6rqFGXX9BVl2vIuFd-wEJTZA05xLwnx3o5Au-Hj9WXpAl9MfnBpx79-AcFoKsWpzaJAheudaJdTHmRNrp-1gDpvT-pMFx8ZfIJtMK2xW7mW3TA2PdElMKaoAAAA.webp",
+   "date": "26 Aug 2026",
+   "snippet": "At a glance · Aminia · Oudh 1590 · New Aliah Hotel - Since 1928 · Biryani By Kilo · Arsalan · Zeeshan Restaurant · Rahmania · India Restaurant.",
+   "snippet_highlighted_words": [
+    "Aminia"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "At a glance · Aminia · Oudh 1590 · New Aliah Hotel - Since 1928 · Biryani By Kilo · Arsalan · Zeeshan Restaurant · Rahmania · India Restaurant.",
+     "source_info_link": "https://www.district.in/blog/biryani-spots-in-kolkata?srsltid=AU7gw4Vjebcjt-ezithkX6Tzd5iHZ_AE92UFYKIQR24_C8x4W32Y1MMl",
+     "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAAAwBQCdASogACAAPrUurVanIacnG_DgFoloAKkj1IIwKMG9ANrRcV4wnVQkKjUIXv8B5AD9H4iLnyzeXuUZvVNaizoUKVCphFFo8xXoNhJCUe7aLoOXIy74ATPri5Zz_4IL2o78JNh5o3426LsxxfxoHWIW_Uvw-v-N8wUWLXFF6jKFY5ZLjmUALG9fG-J_DGqR7k2_xh9t9jq3GFcSjHuWhQvwOyEUNPJEs6rqFGXX9BVl2vIuFd-wEJTZA05xLwnx3o5Au-Hj9WXpAl9MfnBpx79-AcFoKsWpzaJAheudaJdTHmRNrp-1gDpvT-pMFx8ZfIJtMK2xW7mW3TA2PdElMKaoAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZVSTF3NWZHQUhwWVNEU1Zrbzh0OEhTZ1NpWEtMMldRNGJOQTU4UGJDTFpZQThyeFZWb0RMUUg1WlNfeUxlQ185YjlES2hNdk1JeTNzX2V6WnI3dUlTVDBDMzVXc19Ra0o3OXNCSUxLRWV5Y0lPcUJNMk40dUhwVl9DdGtlaFB2OS1uT1JySzdZTEpGMzNiRWpxZFJUcHh4U3p4ME95ZVJfTmMzU3o5QjJaVG1GdXMxR0VudzJDSVVJSUVVSThBTDBFMTNrX21ERGNKYmw2WXpCSGxoY0RfeTBWclNSdEZTRktfVFdEYxIEGgIIABq_BBIAGgAiACoAOgBCBAgBEABKHAgBEhRLb2xrYXRhLCBXZXN0IEJlbmdhbBoCCAJaAHIAegCCQIcECAAQABgAIAAqIwoEYmVzdBXNij1AGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVjLTXQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKlAS9nb3RvP3VybD1DQUVTY0FIck96QVYzYjNjRHl4QVpibFZmWHRpNUpUcDhlZ09IZndfQUlKLWpUNkZjU2lvXzR1aFI0OV9LYnJEdEd5dFF5alE3cGhMVUFqQkRfY1NCMWI4VE9EOWR2UUlDT21aeGlnTzE3OGtVV3I1NnVJaTVheWRYQ0F0V0wxR1FHUWMySEs5YXlTTXdkbjJ1aUsxd3dKaTEzWTovPGI-QmVzdCBCaXJ5YW5pPC9iPiBTcG90cyBpbiBLb2xrYXRhIC0gRGlzdHJpY3RCzgFBdCBhIGdsYW5jZSAmbWlkZG90OyA8Yj5BbWluaWE8L2I-ICZtaWRkb3Q7IE91ZGggMTU5MCAmbWlkZG90OyBOZXcgQWxpYWggSG90ZWwgLSBTaW5jZSAxOTI4ICZtaWRkb3Q7IEJpcnlhbmkgQnkgS2lsbyAmbWlkZG90OyBBcnNhbGFuICZtaWRkb3Q7IFplZXNoYW4gUmVzdGF1cmFudCAmbWlkZG90OyBSYWhtYW5pYSAmbWlkZG90OyBJbmRpYSBSZXN0YXVyYW50LlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZVSTF3NWZHQUhwWVNEU1Zrbzh0OEhTZ1NpWEtMMldRNGJOQTU4UGJDTFpZQThyeFZWb0RMUUg1WlNfeUxlQ185YjlES2hNdk1JeTNzX2V6WnI3dUlTVDBDMzVXc19Ra0o3OXNCSUxLRWV5Y0lPcUJNMk40dUhwVl9DdGtlaFB2OS1uT1JySzdZTEpGMzNiRWpxZFJUcHh4U3p4ME95ZVJfTmMzU3o5QjJaVG1GdXMxR0VudzJDSVVJSUVVSThBTDBFMTNrX21ERGNKYmw2WXpCSGxoY0RfeTBWclNSdEZTRktfVFdEYxIEGgIIABq_BBIAGgAiACoAOgBCBAgBEABKHAgBEhRLb2xrYXRhLCBXZXN0IEJlbmdhbBoCCAJaAHIAegCCQIcECAAQABgAIAAqIwoEYmVzdBXNij1AGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVjLTXQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKlAS9nb3RvP3VybD1DQUVTY0FIck96QVYzYjNjRHl4QVpibFZmWHRpNUpUcDhlZ09IZndfQUlKLWpUNkZjU2lvXzR1aFI0OV9LYnJEdEd5dFF5alE3cGhMVUFqQkRfY1NCMWI4VE9EOWR2UUlDT21aeGlnTzE3OGtVV3I1NnVJaTVheWRYQ0F0V0wxR1FHUWMySEs5YXlTTXdkbjJ1aUsxd3dKaTEzWTovPGI-QmVzdCBCaXJ5YW5pPC9iPiBTcG90cyBpbiBLb2xrYXRhIC0gRGlzdHJpY3RCzgFBdCBhIGdsYW5jZSAmbWlkZG90OyA8Yj5BbWluaWE8L2I-ICZtaWRkb3Q7IE91ZGggMTU5MCAmbWlkZG90OyBOZXcgQWxpYWggSG90ZWwgLSBTaW5jZSAxOTI4ICZtaWRkb3Q7IEJpcnlhbmkgQnkgS2lsbyAmbWlkZG90OyBBcnNhbGFuICZtaWRkb3Q7IFplZXNoYW4gUmVzdGF1cmFudCAmbWlkZG90OyBSYWhtYW5pYSAmbWlkZG90OyBJbmRpYSBSZXN0YXVyYW50LlIDdG9wIgIQAUgAWABoAA",
+   "source": "District by Zomato",
+   "read_more_link": "https://www.district.in/blog/biryani-spots-in-kolkata?srsltid=AU7gw4Vjebcjt-ezithkX6Tzd5iHZ_AE92UFYKIQR24_C8x4W32Y1MMl#:~:text=At%20a%20glance&text=Aminia&text=Oudh%201590&text=New%20Aliah%20Hotel%20%2D%20Since,1928&text=Biryani%20By%20Kilo&text=Arsalan&text=Zeeshan%20Restaurant&text=Rahmania&text=India%20Restaurant"
+  },
+  {
+   "position": 9,
+   "title": "9 Places Serving The Best Biryani in Kolkata",
+   "link": "https://aninsatiablefoodie.wordpress.com/2020/03/21/9-places-serving-the-best-biryani-in-kolkata/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFQawvQ4CDTRL64LEEM2RLst2hLEKGvcngNbwpZToOG2rZqlliyRaCbgAKCsl29CMSK4ZtpjG4vccm2oBtBjujbm7-aBLrIExk_MRHjyh7kJPNU1kuL0M7rnbMwZVkB-aMuDdLwMLmej3UMv8SCfCZ9oeb8aobHWnbvKGhYdjt9_InV73vDyUYxxuka1JwzvTMFbCRUjBw84&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://aninsatiablefoodie.wordpress.com › 2020/03/21",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAADwBgCdASocABwAPtE-tFooIigoFAEAGglAF2COwUwIZl4x3wHkAB0mYucGjqRuJmCXuMRHZxemhUKKMVu6fUgAAP7x4QDM2gigatyY_G2LXFSvW5-cYFZcFxjXCmGxDf-yJT0vqwy_o8RW5Yxn6Cxx3ExaUI2gX3JKDoC8Spbag9ePqBU43UeVfGE0lqHc_aDIB9SGjZd20xPcjXX_NrcKDv0_P-bTv4TXmtEO0xbXTUbeyfh41Yr8YExQv70Y-p8LZPcvU4CxBNm4xkHMH-XsASJivWAoVipE3hjfKOtC41btVs46MMzdF3VNo58QUdW94hYfZg71nL8YNX3XH8et2q9q7KlgIe0dWH5vEK-XJqGKazWLeWZItsj3SE6-VeHiWTzOL8D5UV2Ol8_jQhKoTXthQHNozpY6TSUj8f_p5dnXv4Dxa8HAAAA.webp",
+   "date": "21 Mar 2020",
+   "snippet": "Arsalan sells the highest number of biryani plates in the city probably. If I am not wrong, there are 7-8 Arsalans in the city with huge seating ...",
+   "snippet_highlighted_words": [
+    "Arsalan sells the highest number of biryani plates in the city"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Arsalan sells the highest number of biryani plates in the city probably. If I am not wrong, there are 7-8 Arsalans in the city with huge seating ...",
+     "source_info_link": "https://aninsatiablefoodie.wordpress.com/2020/03/21/9-places-serving-the-best-biryani-in-kolkata/",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAADwBgCdASocABwAPtE-tFooIigoFAEAGglAF2COwUwIZl4x3wHkAB0mYucGjqRuJmCXuMRHZxemhUKKMVu6fUgAAP7x4QDM2gigatyY_G2LXFSvW5-cYFZcFxjXCmGxDf-yJT0vqwy_o8RW5Yxn6Cxx3ExaUI2gX3JKDoC8Spbag9ePqBU43UeVfGE0lqHc_aDIB9SGjZd20xPcjXX_NrcKDv0_P-bTv4TXmtEO0xbXTUbeyfh41Yr8YExQv70Y-p8LZPcvU4CxBNm4xkHMH-XsASJivWAoVipE3hjfKOtC41btVs46MMzdF3VNo58QUdW94hYfZg71nL8YNX3XH8et2q9q7KlgIe0dWH5vEK-XJqGKazWLeWZItsj3SE6-VeHiWTzOL8D5UV2Ol8_jQhKoTXthQHNozpY6TSUj8f_p5dnXv4Dxa8HAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZRYXd2UTRDRFRSTDY0TEVFTTJSTHN0MmhMRUtHdmNuZ05id3BaVG9PRzJyWnFsbGl5UmFDYmdBS0NzbDI5Q01TSzRadHBqRzR2Y2NtMm9CdEJqdWpibTctYUJMcklFeGtfTVJIanloN2tKUE5VMWt1TDBNN3JuYk13WlZrQi1hTXVEZEx3TUxtZWozVU12OFNDZkNaOW9lYjhhb2JIV25idktHaFlkanQ5X0luVjczdkR5VVl4eHVrYTFKd3p2VE1GYkNSVWpCdzg0EgQaAggAGtEEEgAaACIAKgA6AEIECAEQAEocCAESFEtvbGthdGEsIFdlc3QgQmVuZ2FsGgIIAloAcgB6AIJAmQQIABAAGAAgACojCgRiZXN0FY4mokAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRXuB8dAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZRYXd2UTRDRFRSTDY0TEVFTTJSTHN0MmhMRUtHdmNuZ05id3BaVG9PRzJyWnFsbGl5UmFDYmdBS0NzbDI5Q01TSzRadHBqRzR2Y2NtMm9CdEJqdWpibTctYUJMcklFeGtfTVJIanloN2tKUE5VMWt1TDBNN3JuYk13WlZrQi1hTXVEZEx3TUxtZWozVU12OFNDZkNaOW9lYjhhb2JIV25idktHaFlkanQ5X0luVjczdkR5VVl4eHVrYTFKd3p2VE1GYkNSVWpCdzg0OjM5IFBsYWNlcyBTZXJ2aW5nIFRoZSA8Yj5CZXN0IEJpcnlhbmk8L2I-IGluIEtvbGthdGFCoAE8Yj5BcnNhbGFuIHNlbGxzIHRoZSBoaWdoZXN0IG51bWJlciBvZiBiaXJ5YW5pIHBsYXRlcyBpbiB0aGUgY2l0eTwvYj4gcHJvYmFibHkuIElmIEkgYW0gbm90IHdyb25nLCB0aGVyZSBhcmUgNy04IEFyc2FsYW5zIGluIHRoZSBjaXR5IHdpdGggaHVnZSBzZWF0aW5nJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZRYXd2UTRDRFRSTDY0TEVFTTJSTHN0MmhMRUtHdmNuZ05id3BaVG9PRzJyWnFsbGl5UmFDYmdBS0NzbDI5Q01TSzRadHBqRzR2Y2NtMm9CdEJqdWpibTctYUJMcklFeGtfTVJIanloN2tKUE5VMWt1TDBNN3JuYk13WlZrQi1hTXVEZEx3TUxtZWozVU12OFNDZkNaOW9lYjhhb2JIV25idktHaFlkanQ5X0luVjczdkR5VVl4eHVrYTFKd3p2VE1GYkNSVWpCdzg0EgQaAggAGtEEEgAaACIAKgA6AEIECAEQAEocCAESFEtvbGthdGEsIFdlc3QgQmVuZ2FsGgIIAloAcgB6AIJAmQQIABAAGAAgACojCgRiZXN0FY4mokAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRXuB8dAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZRYXd2UTRDRFRSTDY0TEVFTTJSTHN0MmhMRUtHdmNuZ05id3BaVG9PRzJyWnFsbGl5UmFDYmdBS0NzbDI5Q01TSzRadHBqRzR2Y2NtMm9CdEJqdWpibTctYUJMcklFeGtfTVJIanloN2tKUE5VMWt1TDBNN3JuYk13WlZrQi1hTXVEZEx3TUxtZWozVU12OFNDZkNaOW9lYjhhb2JIV25idktHaFlkanQ5X0luVjczdkR5VVl4eHVrYTFKd3p2VE1GYkNSVWpCdzg0OjM5IFBsYWNlcyBTZXJ2aW5nIFRoZSA8Yj5CZXN0IEJpcnlhbmk8L2I-IGluIEtvbGthdGFCoAE8Yj5BcnNhbGFuIHNlbGxzIHRoZSBoaWdoZXN0IG51bWJlciBvZiBiaXJ5YW5pIHBsYXRlcyBpbiB0aGUgY2l0eTwvYj4gcHJvYmFibHkuIElmIEkgYW0gbm90IHdyb25nLCB0aGVyZSBhcmUgNy04IEFyc2FsYW5zIGluIHRoZSBjaXR5IHdpdGggaHVnZSBzZWF0aW5nJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "source": "WordPress.com",
+   "read_more_link": "https://aninsatiablefoodie.wordpress.com/2020/03/21/9-places-serving-the-best-biryani-in-kolkata/#:~:text=Arsalan%20sells%20the%20highest%20number,seating%20spaces%20and%20catering%20units."
+  }
+ ],
+ "filters": [
+  {
+   "name": "Open now",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b",
+    "q": "best biryani open now"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=best+biryani+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQxKsJKAB6BAgjEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b"
+  },
+  {
+   "name": "Top rated",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ",
+    "q": "top rated best biryani"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=top+rated+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQxKsJKAF6BAglEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=top+rated+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ"
+  },
+  {
+   "name": "Cheap",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH3QvHM66SHvTmQMcnRk2-b-DcYrPxtxVZBfQ_OZePjHyXNtaUaZrGLm6gWDNWIZFbmAeEQEGPEBAF4kLxh-fK5g8rSWsbpK50kYm7T1tGAhQ5w7p4XlNPJp-Vnzj6s2_-ivzg5X5x3JL_D4l2_E6Y76I8rSg",
+    "q": "cheap best biryani"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=cheap+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH3QvHM66SHvTmQMcnRk2-b-DcYrPxtxVZBfQ_OZePjHyXNtaUaZrGLm6gWDNWIZFbmAeEQEGPEBAF4kLxh-fK5g8rSWsbpK50kYm7T1tGAhQ5w7p4XlNPJp-Vnzj6s2_-ivzg5X5x3JL_D4l2_E6Y76I8rSg&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQxKsJKAJ6BAgmEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=cheap+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH3QvHM66SHvTmQMcnRk2-b-DcYrPxtxVZBfQ_OZePjHyXNtaUaZrGLm6gWDNWIZFbmAeEQEGPEBAF4kLxh-fK5g8rSWsbpK50kYm7T1tGAhQ5w7p4XlNPJp-Vnzj6s2_-ivzg5X5x3JL_D4l2_E6Y76I8rSg"
+  },
+  {
+   "name": "Upscale",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1Izvd1wDYGDSs9NJNTxC8KRi3crZnVdqvyslJfzCloOKptkxIyJktUEO7zrjFaN2hNfQu3_bfWDRcq4tPULkBoBozNpPDphEDeSNsuHPa0-gu5aPLIc22dztGFx6T0MUPm6Ni0UV1B",
+    "q": "upscale best biryani"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=upscale+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1Izvd1wDYGDSs9NJNTxC8KRi3crZnVdqvyslJfzCloOKptkxIyJktUEO7zrjFaN2hNfQu3_bfWDRcq4tPULkBoBozNpPDphEDeSNsuHPa0-gu5aPLIc22dztGFx6T0MUPm6Ni0UV1B&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQxKsJKAN6BAgkEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=upscale+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1Izvd1wDYGDSs9NJNTxC8KRi3crZnVdqvyslJfzCloOKptkxIyJktUEO7zrjFaN2hNfQu3_bfWDRcq4tPULkBoBozNpPDphEDeSNsuHPa0-gu5aPLIc22dztGFx6T0MUPm6Ni0UV1B"
+  },
+  {
+   "name": "Price",
+   "options": []
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Best biryani in kolkata",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=Best+biryani+in+kolkata&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=Best+biryani+in+kolkata"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani near me",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=Best+biryani+near+me&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=Best+biryani+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in india",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=Best+biryani+in+india&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ1QJ6BAhFEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=Best+biryani+in+india"
+  },
+  {
+   "block_position": 1,
+   "query": "Best Biryani in Kolkata near me",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=Best+Biryani+in+Kolkata+near+me&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ1QJ6BAhBEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=Best+Biryani+in+Kolkata+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "Top 10 biryani restaurants in Kolkata with price",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=Top+10+biryani+restaurants+in+Kolkata+with+price&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ1QJ6BAg_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=Top+10+biryani+restaurants+in+Kolkata+with+price"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in West Bengal",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=Best+biryani+in+West+Bengal&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ1QJ6BAg9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=Best+biryani+in+West+Bengal"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in South Kolkata",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=Best+biryani+in+South+Kolkata&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ1QJ6BAg8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=Best+biryani+in+South+Kolkata"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in kolkata reddit",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&q=Best+biryani+in+kolkata+reddit&sa=X&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ1QJ6BAg7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=Best+biryani+in+kolkata+reddit"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=10&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8NMDegQITBAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=10&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8tMDegQITBAE",
+   "3": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=20&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8tMDegQITBAG",
+   "4": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=30&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8tMDegQITBAI",
+   "5": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=40&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8tMDegQITBAK",
+   "6": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=50&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8tMDegQITBAM",
+   "7": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=60&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8tMDegQITBAO",
+   "8": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=70&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8tMDegQITBAQ",
+   "9": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=80&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8tMDegQITBAS",
+   "10": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsikuar2poedGWHHH4HaQ7zT_q2Yw:1791644979303&ei=M1XKavSSEoq4mtkP9JTiiAg&start=90&sa=N&sstk=AS6-VmJUjPZQiCNzBbKZ_AlB3Ads7xgtQqQ1v-xOLfc08FJ1xinVI-mv6fI3UF8-liZDno_uEPpGWAuWycFlmeUqZEP08DcnrLz1Cw&ved=2ahUKEwi0-LfU3a-XAxUKnCYFHXSKGIEQ8tMDegQITBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kolkata%2CWest+Bengal%2CIndia&q=best+biryani&start=90"
+  }
+ }
+}

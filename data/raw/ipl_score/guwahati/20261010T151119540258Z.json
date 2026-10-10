@@ -1,0 +1,419 @@
+{
+ "search_metadata": {
+  "id": "6aca55978b61d6b334a6d6e1",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Ni85X9bcY8fIt2qz3Jagf5OIpOmwuXE7Q9ayH6NrBi8/6aca55978b61d6b334a6d6e1.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Ni85X9bcY8fIt2qz3Jagf5OIpOmwuXE7Q9ayH6NrBi8/6aca55978b61d6b334a6d6e1.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/Ni85X9bcY8fIt2qz3Jagf5OIpOmwuXE7Q9ayH6NrBi8/6aca55978b61d6b334a6d6e1.json_with_pixel_position",
+  "created_at": "2026-10-10 15:11:19 UTC",
+  "processed_at": "2026-10-10 15:11:19 UTC",
+  "google_url": "https://www.google.co.in/search?q=IPL+score&oq=IPL+score&uule=w+CAIQICIUR3V3YWhhdGksQXNzYW0sSW5kaWE&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/Ni85X9bcY8fIt2qz3Jagf5OIpOmwuXE7Q9ayH6NrBi8/6aca55978b61d6b334a6d6e1.html",
+  "total_time_taken": 0.38
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "IPL score",
+  "location_requested": "Guwahati,Assam,India",
+  "location_used": "Guwahati,Assam,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "IPL score",
+  "total_results": 64,
+  "time_taken_displayed": 0.21,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_images": [
+  {
+   "source": "https://www.facebook.com/cricketgully.official/posts/top-highest-scores-in-ipl-historywhich-is-the-most-memorable-inningcomment-follo/714295934259392/",
+   "thumbnail": "https://serpapi.com/searches/6aca55978b61d6b334a6d6e1/images/EFvTESAADEpd03DOEz-6sehqHNHZdUR2bnT11OY_xPY.jpeg",
+   "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=714295920926060",
+   "title": "Top 🔟 highest scores in IPL history!🏏🤯 Which is the most ...",
+   "source_name": "Facebook"
+  },
+  {
+   "source": "https://www.cricbuzz.com/cricket-news/114328/live-cricket-score-dc-vs-srh-match-11-ipl-2020-cricbuzzcom",
+   "thumbnail": "https://serpapi.com/searches/6aca55978b61d6b334a6d6e1/images/FabhyhfDyPb9D8eF4kjry062htViuRm3if5b4ousAGM.jpeg",
+   "original": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c193655/rashid-khan-registered-his-best-bowling-figures-in-ipl-3-for-14.jpg",
+   "title": "Live Cricket Score: DC vs SRH, Match 11, IPL 2020 | Cricbuzz.com",
+   "source_name": "Cricbuzz"
+  },
+  {
+   "source": "https://www.news18.com/cricketnext/news/mi-vs-rr-ipl-2022-live-score-updates-mumbai-indians-vs-rajasthan-royals-latest-cricket-score-commentary-highlights-today-match-9-indian-premier-league-at-navi-mumbai-livenews-4934945.html",
+   "thumbnail": "https://serpapi.com/searches/6aca55978b61d6b334a6d6e1/images/CaZfm_g53FOrQyE2csCd_4orV3nMVUKTFstXM8NFyrg.jpeg",
+   "original": "https://images.news18.com/ibnlive/uploads/2022/04/ipl-match_9.jpg",
+   "title": "MI vs RR Highlights IPL 2022 Updates: Ton-up Jos Buttler ...",
+   "source_name": "News18"
+  },
+  {
+   "source": "https://www.facebook.com/groups/crickhotnews/posts/1189603422746578/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd94vs8enz4-Up8s0UzEXVsMC4Uy8ZNE5u-c6PB5PdXHN5xEQ9AGS6UHg&s",
+   "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122179334552501603",
+   "title": "🚨LOWEST SCORE IN IPL BY TEAM💥💥💥 #cricketlovers ...",
+   "source_name": "Facebook"
+  },
+  {
+   "source": "https://www.sportmonks.com/blogs/ipl-2026-season-opener-live-score-coverage-api-demo/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Wj9YnJXfekDnzuJlE47Q1kFlfMm5QfUq_JcBAEMkg3FClYr8kPaojHg&s",
+   "original": "https://www.sportmonks.com/wp-content/uploads/2026/03/IPL-Live-Coverage-API-scaled.webp",
+   "title": "IPL 2026 Season Opener: Live Score Coverage & API Demo ...",
+   "source_name": "Sportmonks"
+  },
+  {
+   "source": "https://www.news18.com/cricketnext/news/csk-vs-kkr-ipl-2022-live-score-updates-chennai-super-kings-vs-kolkata-knight-riders-latest-cricket-score-highlights-today-match-at-mumbai-livenews-4911980.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsEZy9wasxy-5NoinOom3GbOyjziQ0D0O27OkLROU3o0DylCyrLSzurAg&s",
+   "original": "https://images.news18.com/ibnlive/uploads/2022/03/ipl-match-1.jpg",
+   "title": "CSK vs KKR, IPL 2022 Match 1 Highlights: Easy Win for KKR In ...",
+   "source_name": "News18"
+  },
+  {
+   "source": "https://www.instagram.com/p/DW8YfVrDPZB/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiudIX2pYAaQqiuAtFDXCwWHAPyuABLdcemFPcWcXxoPHrVTZ6yhFK3tk&s",
+   "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3872077486322677313",
+   "title": "That strike-rate and boundary % 🔥 How much will Vaibhav ...",
+   "source_name": "Instagram"
+  },
+  {
+   "source": "https://www.india.com/sports/womens-ipl-2020-match-highlights-sup-vs-vel-womens-t20-challenge-updates-online-match-1-ball-commentary-supernovas-velocity-video-womens-ipl-streaming-hotstar-jio-sushma-luus-velocity-beat-supernovas-4197596/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjblb6euKjPrtiAoCij-DQEUz143SbO2DF21LrwxD1E4AFkRYV8b8r4A&s",
+   "original": "https://static.india.com/wp-content/uploads/2020/11/Womens-T20-Challenge-Live-Cricket-Score_Supernovas-vs-Velocity-Match-1-in-Sharjah%C2%A9IPL-Twitter.jpg",
+   "title": "VEL (129/5 ) Beat SUP (126/8) by 5 Wickets Womens IPL 2020 ...",
+   "source_name": "India.com"
+  },
+  {
+   "source": "https://www.instagram.com/p/DIaeyzvPy4j/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFZhRo_i1AIA7AdIrgNYN8OesGceiMMQ7SFv_jCSxChU9wZznGx8Xpbo&s",
+   "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3610333484213546531",
+   "title": "Abhishek Sharma now has the highest EVER IPL score by and ...",
+   "source_name": "Instagram"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Live Cricket Score, Today's Cricket Match Live Scorecard & ...",
+   "link": "https://indianexpress.com/section/sports/cricket/live-score/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVeyYQWqyFd1PE2TcyHUw0I42_9KPZyN4_3L74pwrCDr88Wq3fv9rxZ-vCA0e2rWDTIMDMZ28YZ4Lv5PfTj7tDnEPGVeMNNpnCUlEfTVpjMe-eqSOQGtCSJPWm0T-mMLDgYkHGiFWoStW2_ReI6pw-xbo9&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://indianexpress.com › section › sports › live-score",
+   "favicon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAADwCACdASocABwAPtEutFooIagoGAEAGglsALElQQs_xTWD4_xQBz5HsRfcB7LmYAPwDkNPT_QA_TNbOwb-CJjMIUjkWjdw3tsaYcLQxwIAAAD-8Lee0_wmr93pmPkjtmqi9q7vEi052opGqa5VXdszzO-hseuX5Zn0w-45QBf3neI-bIHaXlY2HY2n7vzbHLwqrpjCrzmR7os-PKXagnP0GfEI-liymLWPduazBp1Nvb5-1INnSMArozf57__lzF7mDjBGDs_z_Lk9T062uv34klj5qju1euoAuqN2_X_tO6Hh0LwAxF07Ry-kNn7CS2GMmnvj7tu3YkfJnLmIKw8uoC36q6bVP5UVw0jKgdbl2ZC4I5_W5wAOT8_dYV5Y860oMSgalHgn_Xruk66Rso10arcv1gkZyZYXk1-e6FIF7UGSBnQiJGIxpaBPCLswSaR8_VgdGEByXJM7euH8wbJcDhbmmr__y5hfZwhXB2MonRf84AoTYK2ow35nl1Nn_83s6VqhulTSpofAAAA.webp",
+   "snippet": "Get the latest today match live cricket score for ODI, Test, T20I, and IPL matches happening around the globe. Namibia beat United Arab Emirates by 8 wickets. ...",
+   "snippet_highlighted_words": [
+    "Get the latest today match live cricket score"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get the latest today match live cricket score for ODI, Test, T20I, and IPL matches happening around the globe. Namibia beat United Arab Emirates by 8 wickets. ...",
+     "source_info_link": "https://indianexpress.com/section/sports/cricket/live-score/",
+     "icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAADwCACdASocABwAPtEutFooIagoGAEAGglsALElQQs_xTWD4_xQBz5HsRfcB7LmYAPwDkNPT_QA_TNbOwb-CJjMIUjkWjdw3tsaYcLQxwIAAAD-8Lee0_wmr93pmPkjtmqi9q7vEi052opGqa5VXdszzO-hseuX5Zn0w-45QBf3neI-bIHaXlY2HY2n7vzbHLwqrpjCrzmR7os-PKXagnP0GfEI-liymLWPduazBp1Nvb5-1INnSMArozf57__lzF7mDjBGDs_z_Lk9T062uv34klj5qju1euoAuqN2_X_tO6Hh0LwAxF07Ry-kNn7CS2GMmnvj7tu3YkfJnLmIKw8uoC36q6bVP5UVw0jKgdbl2ZC4I5_W5wAOT8_dYV5Y860oMSgalHgn_Xruk66Rso10arcv1gkZyZYXk1-e6FIF7UGSBnQiJGIxpaBPCLswSaR8_VgdGEByXJM7euH8wbJcDhbmmr__y5hfZwhXB2MonRf84AoTYK2ow35nl1Nn_83s6VqhulTSpofAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmV5WVFXcXlGZDFQRTJUY3lIVXcwSTQyXzlLUFp5TjRfM0w3NHB3ckNEcjg4V3EzZnY5cnhaLXZDQTBlMnJXRFRJTURNWjI4WVo0THY1UGZUajd0RG5FUEdWZU1OTnBuQ1VsRWZUVnBqTWUtZXFTT1FHdENTSlBXbTBULW1NTERnWWtIR2lGV29TdFcyX1JlSTZwdy14Ym85EgQaAggAGogEEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA4gMIABAAGAAgACoeCgNpcGwVAAAAABoIaXBsc2NvcmUaCGl2O3A7aXBsKiYKBXNjb3JlFQyTXkAaBnNjb3JlZBoGc2NvcmVzGghpcGxzY29yZTKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZleVlRV3F5RmQxUEUyVGN5SFV3MEk0Ml85S1BaeU40XzNMNzRwd3JDRHI4OFdxM2Z2OXJ4Wi12Q0EwZTJyV0RUSU1ETVoyOFlaNEx2NVBmVGo3dERuRVBHVmVNTk5wbkNVbEVmVFZwak1lLWVxU09RR3RDU0pQV20wVC1tTUxEZ1lrSEdpRldvU3RXMl9SZUk2cHcteGJvOTouTGl2ZSBDcmlja2V0IDxiPlNjb3JlPC9iPiAtIFRoZSBJbmRpYW4gRXhwcmVzc0KuATxiPkdldCB0aGUgbGF0ZXN0IHRvZGF5IG1hdGNoIGxpdmUgY3JpY2tldCBzY29yZTwvYj4gZm9yIE9ESSwgVGVzdCwgVDIwSSwgYW5kIElQTCBtYXRjaGVzIGhhcHBlbmluZyBhcm91bmQgdGhlIGdsb2JlLiBOYW1pYmlhIGJlYXQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMgYnkgOCB3aWNrZXRzLiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmV5WVFXcXlGZDFQRTJUY3lIVXcwSTQyXzlLUFp5TjRfM0w3NHB3ckNEcjg4V3EzZnY5cnhaLXZDQTBlMnJXRFRJTURNWjI4WVo0THY1UGZUajd0RG5FUEdWZU1OTnBuQ1VsRWZUVnBqTWUtZXFTT1FHdENTSlBXbTBULW1NTERnWWtIR2lGV29TdFcyX1JlSTZwdy14Ym85EgQaAggAGogEEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA4gMIABAAGAAgACoeCgNpcGwVAAAAABoIaXBsc2NvcmUaCGl2O3A7aXBsKiYKBXNjb3JlFQyTXkAaBnNjb3JlZBoGc2NvcmVzGghpcGxzY29yZTKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZleVlRV3F5RmQxUEUyVGN5SFV3MEk0Ml85S1BaeU40XzNMNzRwd3JDRHI4OFdxM2Z2OXJ4Wi12Q0EwZTJyV0RUSU1ETVoyOFlaNEx2NVBmVGo3dERuRVBHVmVNTk5wbkNVbEVmVFZwak1lLWVxU09RR3RDU0pQV20wVC1tTUxEZ1lrSEdpRldvU3RXMl9SZUk2cHcteGJvOTouTGl2ZSBDcmlja2V0IDxiPlNjb3JlPC9iPiAtIFRoZSBJbmRpYW4gRXhwcmVzc0KuATxiPkdldCB0aGUgbGF0ZXN0IHRvZGF5IG1hdGNoIGxpdmUgY3JpY2tldCBzY29yZTwvYj4gZm9yIE9ESSwgVGVzdCwgVDIwSSwgYW5kIElQTCBtYXRjaGVzIGhhcHBlbmluZyBhcm91bmQgdGhlIGdsb2JlLiBOYW1pYmlhIGJlYXQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMgYnkgOCB3aWNrZXRzLiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "The Indian Express"
+  },
+  {
+   "position": 2,
+   "title": "Live cricket scores - ICC Women World Cup 2026",
+   "link": "https://www.flashscore.in/cricket/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVb8x0zJxMzQUXANmJqsgvick6nDlNrbjFL5TFtawVkrrZXAMzsi9iFziRe64rPkRzis1llAI1ndmFMebbQ7-0P9VD_H5X6sG9nIo5m-21R7FlVjuzwQPJog&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQFnoECA8QAQ&uoh=1",
+   "displayed_link": "https://www.flashscore.in › cricket",
+   "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADwBwCdASocABwAPtEutFooIagoGAEAGglkAKwzMB2A_qroEs8f0H_svVG6gHoQD5_7WAjmBiNRdJFbC9xlVikH49c9fbH3CAAA-X0W_SI0wEb6ZctrExYfrVAK3AVqYBPzEf6er6YDLLOVN03k17LlkLaomtlHqT_w96kienJ_sPxUaR5go8pa1L2raon164fi7xX0Uh6pz7w9oYV6UBIXPzYWEHyNfIrg1vaBcjKVlT-_-LGVfB6ynktqE_-hv2JQQE-EK8wyNng5Itu5vnT8GfX6V-R-ZRVyhW-_-1HeWJHSKx7-9h9ZGcFoimstDnNvK0GbaGcf__KYyG82Rvsr3L3sTiYyUUZ9SKX_umliulW9EY4VDrNdEmfc4fv_wa_xr3CRxIjKkMLqPvrl8IvI8NOIJdHgeHe2DQ_-3bwMw7y6boo-iKLJd7OYJeVO0S9ZIAAA.webp",
+   "snippet": "Cricket live scores service on Flashscore offers results from ICC Women World Cup 2026 … won by 7 wickets. Titans won by 8 wickets. (IPL T20,",
+   "snippet_highlighted_words": [
+    "scores",
+    "IPL"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cricket live scores service on Flashscore offers results from ICC Women World Cup 2026 … won by 7 wickets. Titans won by 8 wickets. (IPL T20,",
+     "source_info_link": "https://www.flashscore.in/cricket/",
+     "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADwBwCdASocABwAPtEutFooIagoGAEAGglkAKwzMB2A_qroEs8f0H_svVG6gHoQD5_7WAjmBiNRdJFbC9xlVikH49c9fbH3CAAA-X0W_SI0wEb6ZctrExYfrVAK3AVqYBPzEf6er6YDLLOVN03k17LlkLaomtlHqT_w96kienJ_sPxUaR5go8pa1L2raon164fi7xX0Uh6pz7w9oYV6UBIXPzYWEHyNfIrg1vaBcjKVlT-_-LGVfB6ynktqE_-hv2JQQE-EK8wyNng5Itu5vnT8GfX6V-R-ZRVyhW-_-1HeWJHSKx7-9h9ZGcFoimstDnNvK0GbaGcf__KYyG82Rvsr3L3sTiYyUUZ9SKX_umliulW9EY4VDrNdEmfc4fv_wa_xr3CRxIjKkMLqPvrl8IvI8NOIJdHgeHe2DQ_-3bwMw7y6boo-iKLJd7OYJeVO0S9ZIAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVmI4eDB6SnhNelFVWEFObUpxc2d2aWNrNm5EbE5yYmpGTDVURnRhd1ZrcnJaWEFNenNpOWlGemlSZTY0clBrUnppczFsbEFJMW5kbUZNZWJiUTctMFA5VkRfSDVYNnNHOW5JbzVtLTIxUjdGbFZqdXp3UVBKb2cSBBoCCAAa7AMSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDGAwgAEAAYACAAKh4KA2lwbBURhbk-GghpcGxzY29yZRoIaXY7cDtpcGwqJgoFc2NvcmUVxL0uPxoGc2NvcmVkGgZzY29yZXMaCGlwbHNjb3JlMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVmI4eDB6SnhNelFVWEFObUpxc2d2aWNrNm5EbE5yYmpGTDVURnRhd1ZrcnJaWEFNenNpOWlGemlSZTY0clBrUnppczFsbEFJMW5kbUZNZWJiUTctMFA5VkRfSDVYNnNHOW5JbzVtLTIxUjdGbFZqdXp3UVBKb2c6RUxpdmUgY3JpY2tldCA8Yj5zY29yZXM8L2I-IC0gSUNDIFdvbWVuIFdvcmxkIEN1cCAyMDI2IHwgRmxhc2hzY29yZS5pbkKdAUNyaWNrZXQgbGl2ZSA8Yj5zY29yZXM8L2I-IHNlcnZpY2Ugb24gRmxhc2hzY29yZSBvZmZlcnMgcmVzdWx0cyBmcm9tIElDQyBXb21lbiBXb3JsZCBDdXAgMjAyNiDigKYgd29uIGJ5IDcgd2lja2V0cy4gVGl0YW5zIHdvbiBieSA4IHdpY2tldHMuICg8Yj5JUEw8L2I-IFQyMCwiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVmI4eDB6SnhNelFVWEFObUpxc2d2aWNrNm5EbE5yYmpGTDVURnRhd1ZrcnJaWEFNenNpOWlGemlSZTY0clBrUnppczFsbEFJMW5kbUZNZWJiUTctMFA5VkRfSDVYNnNHOW5JbzVtLTIxUjdGbFZqdXp3UVBKb2cSBBoCCAAa7AMSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDGAwgAEAAYACAAKh4KA2lwbBURhbk-GghpcGxzY29yZRoIaXY7cDtpcGwqJgoFc2NvcmUVxL0uPxoGc2NvcmVkGgZzY29yZXMaCGlwbHNjb3JlMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVmI4eDB6SnhNelFVWEFObUpxc2d2aWNrNm5EbE5yYmpGTDVURnRhd1ZrcnJaWEFNenNpOWlGemlSZTY0clBrUnppczFsbEFJMW5kbUZNZWJiUTctMFA5VkRfSDVYNnNHOW5JbzVtLTIxUjdGbFZqdXp3UVBKb2c6RUxpdmUgY3JpY2tldCA8Yj5zY29yZXM8L2I-IC0gSUNDIFdvbWVuIFdvcmxkIEN1cCAyMDI2IHwgRmxhc2hzY29yZS5pbkKdAUNyaWNrZXQgbGl2ZSA8Yj5zY29yZXM8L2I-IHNlcnZpY2Ugb24gRmxhc2hzY29yZSBvZmZlcnMgcmVzdWx0cyBmcm9tIElDQyBXb21lbiBXb3JsZCBDdXAgMjAyNiDigKYgd29uIGJ5IDcgd2lja2V0cy4gVGl0YW5zIHdvbiBieSA4IHdpY2tldHMuICg8Yj5JUEw8L2I-IFQyMCwiAhABSABYAGgA",
+   "source": "Flashscore.in"
+  },
+  {
+   "position": 3,
+   "title": "Indian Premier League - Live Cricket Scores, Match ...",
+   "link": "https://www.espn.in/cricket/series/_/id/8048/ipl",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVaFCl_5qpu7BmQSJvaesFLDfT63v4ictumkZ61wR9nW0YmCazOySwXhpV3CMnPHFL0fhuaBM_4kvcrQzBJW3WwcSsU8q3aydIySnk9rxZBa0eI0LYnuVPd8HNOp9yzrH7OdqalRJn&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQFnoECBMQAQ&uoh=1",
+   "displayed_link": "https://www.espn.in › cricket › series › ipl",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHXnqrjAeIB62dygfCiD8RISKNr0-QYGvpjrBu0AAP7YnZAVlENbs38Tkn7dQruJyUU-zf5i19JtPOFlewW7N-rl6KA3D-KbS6hzntpf_tof5DH592iF3v7LqhzOlNtD2iHdk7nqkX5d7Pihk85cnf60UoAzYIk4OYkMCkM3edXlHsYrCjr4UNchAfzi4v63H-qxF0zFZMZelYesztXuCxPZ9U9lSuFln5rVB3P1D_M7mUdJ28EEBgGLiP-a8HS-SBdQL6SpTUp4YnjP90f7MznVbi8zJIAA.webp",
+   "snippet": "Hope 102*, Rutherford 84 help West Indies pull off their highest T20I chase. India put up 249 for 5 but without Jasprit Bumrah the bowlers couldn't defend ...",
+   "snippet_highlighted_words": [
+    "Hope 102*, Rutherford 84 help West Indies pull off their highest T20I chase"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Hope 102*, Rutherford 84 help West Indies pull off their highest T20I chase. India put up 249 for 5 but without Jasprit Bumrah the bowlers couldn't defend ...",
+     "source_info_link": "https://www.espn.in/cricket/series/_/id/8048/ipl",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAwBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHXnqrjAeIB62dygfCiD8RISKNr0-QYGvpjrBu0AAP7YnZAVlENbs38Tkn7dQruJyUU-zf5i19JtPOFlewW7N-rl6KA3D-KbS6hzntpf_tof5DH592iF3v7LqhzOlNtD2iHdk7nqkX5d7Pihk85cnf60UoAzYIk4OYkMCkM3edXlHsYrCjr4UNchAfzi4v63H-qxF0zFZMZelYesztXuCxPZ9U9lSuFln5rVB3P1D_M7mUdJ28EEBgGLiP-a8HS-SBdQL6SpTUp4YnjP90f7MznVbi8zJIAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmFGQ2xfNXFwdTdCbVFTSnZhZXNGTERmVDYzdjRpY3R1bWtaNjF3UjluVzBZbUNhek95U3dYaHBWM0NNblBIRkwwZmh1YUJNXzRrdmNyUXpCSlczV3djU3NVOHEzYXlkSXlTbms5cnhaQmEwZUkwTFludVZQZDhITk9wOXl6ckg3T2RxYWxSSm4SBBoCCAAajAQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA6AMIABAAGAAgACoeCgNpcGwVAAAAPxoIaXBsc2NvcmUaCGl2O3A7aXBsKiYKBXNjb3JlFQAAAAAaBnNjb3JlZBoGc2NvcmVzGghpcGxzY29yZTKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZhRkNsXzVxcHU3Qm1RU0p2YWVzRkxEZlQ2M3Y0aWN0dW1rWjYxd1I5blcwWW1DYXpPeVN3WGhwVjNDTW5QSEZMMGZodWFCTV80a3ZjclF6QkpXM1d3Y1NzVThxM2F5ZEl5U25rOXJ4WkJhMGVJMExZbnVWUGQ4SE5PcDl5enJIN09kcWFsUkpuOkRJbmRpYW4gUHJlbWllciBMZWFndWUgLSBMaXZlIENyaWNrZXQgPGI-U2NvcmVzPC9iPiwgTWF0Y2ggLi4uIC0gRVNQTkKuATxiPkhvcGUgMTAyKiwgUnV0aGVyZm9yZCA4NCBoZWxwIFdlc3QgSW5kaWVzIHB1bGwgb2ZmIHRoZWlyIGhpZ2hlc3QgVDIwSSBjaGFzZTwvYj4uIEluZGlhIHB1dCB1cCAyNDkgZm9yIDUgYnV0IHdpdGhvdXQgSmFzcHJpdCBCdW1yYWggdGhlIGJvd2xlcnMgY291bGRuJiMzOTt0IGRlZmVuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVmFGQ2xfNXFwdTdCbVFTSnZhZXNGTERmVDYzdjRpY3R1bWtaNjF3UjluVzBZbUNhek95U3dYaHBWM0NNblBIRkwwZmh1YUJNXzRrdmNyUXpCSlczV3djU3NVOHEzYXlkSXlTbms5cnhaQmEwZUkwTFludVZQZDhITk9wOXl6ckg3T2RxYWxSSm4SBBoCCAAajAQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA6AMIABAAGAAgACoeCgNpcGwVAAAAPxoIaXBsc2NvcmUaCGl2O3A7aXBsKiYKBXNjb3JlFQAAAAAaBnNjb3JlZBoGc2NvcmVzGghpcGxzY29yZTKeAS9nb3RvP3VybD1DQUVTYXdIck96QVZhRkNsXzVxcHU3Qm1RU0p2YWVzRkxEZlQ2M3Y0aWN0dW1rWjYxd1I5blcwWW1DYXpPeVN3WGhwVjNDTW5QSEZMMGZodWFCTV80a3ZjclF6QkpXM1d3Y1NzVThxM2F5ZEl5U25rOXJ4WkJhMGVJMExZbnVWUGQ4SE5PcDl5enJIN09kcWFsUkpuOkRJbmRpYW4gUHJlbWllciBMZWFndWUgLSBMaXZlIENyaWNrZXQgPGI-U2NvcmVzPC9iPiwgTWF0Y2ggLi4uIC0gRVNQTkKuATxiPkhvcGUgMTAyKiwgUnV0aGVyZm9yZCA4NCBoZWxwIFdlc3QgSW5kaWVzIHB1bGwgb2ZmIHRoZWlyIGhpZ2hlc3QgVDIwSSBjaGFzZTwvYj4uIEluZGlhIHB1dCB1cCAyNDkgZm9yIDUgYnV0IHdpdGhvdXQgSmFzcHJpdCBCdW1yYWggdGhlIGJvd2xlcnMgY291bGRuJiMzOTt0IGRlZmVuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "ESPN India",
+   "read_more_link": "https://www.espn.in/cricket/series/_/id/8048/ipl#:~:text=Hope%20102*%2C%20Rutherford%2084%20help,the%20bowlers%20couldn't%20defend%20it"
+  },
+  {
+   "position": 4,
+   "title": "Indian Premier League 2022 - IPL",
+   "link": "https://www.cricbuzz.com/cricket-series/4061/indian-premier-league-2022",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFXQgKL9bm8z7u2Xprf8YXZq5DlEg-K2zAWOZX6j396n-aE9PcmOmE6_sQds1GZVJZMNlRQHckkqTPOynd_kt0Bk7oM4mc5Lv5XC6DooYOhATWwxTVjduRIUR8XgnOuwS6ncBHaQIxV0L2yJsdraqQe88fP-PGWwZR8gXwVhh&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQFnoECA4QAQ&uoh=1",
+   "displayed_link": "https://www.cricbuzz.com › cricket-series › indian-pre...",
+   "favicon": "https://serpapi.com/images/i/UklGRqwBAABXRUJQVlA4IKABAADQCACdASocABwAPtE-tFooIigoFAEAGglsAMAegtUXqAbxN-2no13cH9mQQGrNfD_scGbcjVlX1eFt6Y2Ltcauhu8DHQHtnziWcy9wouAAAP73fnbSMGemV8WoEj3-G7-0MojLTLix2OmdEvbdu_HR94anoxW6Znf5pQsS9nZiKBYyUDo0J-0u9isKj7HPvqpXgGP3Zx48Y2ezNzsZeySQU7M95rbGziyJSV-_fGTjpKkAEz-ySysUkfXtjz2zU1pUHb4we56pViUwuzvJ7v7ORM9RaUfryP-2gc3kV9oTuRilKVzHcN5GgBqic2p6YPD1M1Hvv2g35xHwGy6_w3H3pD-Yky_3HFr3eeqMPGUhOreTdPHyxuf14Bt1aTkdq0yTZRNtAn16fhWT6PpqtjXjHgg4IADcy4r74OqtJqtfazBfzcr8m5rvf84CGSt0hYQBc7lAc5-7on-stMPxnWPQgu7NhnLqRo_lKDmghdRQMEFsNe9V90lfS9pYVUqTCyv3XlkcVaSIqzFniv--O4He8P-sWrC7Nv906SI5tzEAAA.webp",
+   "snippet": "The Gujarat skipper finished with figures of 3 for 17 and scored a crucial 30-ball 34 Sun, May 29 2022. Gujarat Titans' seven-wicket victory against Rajasthan ...",
+   "snippet_highlighted_words": [
+    "scored"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Gujarat skipper finished with figures of 3 for 17 and scored a crucial 30-ball 34 Sun, May 29 2022. Gujarat Titans' seven-wicket victory against Rajasthan ...",
+     "source_info_link": "https://www.cricbuzz.com/cricket-series/4061/indian-premier-league-2022",
+     "icon": "https://serpapi.com/images/i/UklGRqwBAABXRUJQVlA4IKABAADQCACdASocABwAPtE-tFooIigoFAEAGglsAMAegtUXqAbxN-2no13cH9mQQGrNfD_scGbcjVlX1eFt6Y2Ltcauhu8DHQHtnziWcy9wouAAAP73fnbSMGemV8WoEj3-G7-0MojLTLix2OmdEvbdu_HR94anoxW6Znf5pQsS9nZiKBYyUDo0J-0u9isKj7HPvqpXgGP3Zx48Y2ezNzsZeySQU7M95rbGziyJSV-_fGTjpKkAEz-ySysUkfXtjz2zU1pUHb4we56pViUwuzvJ7v7ORM9RaUfryP-2gc3kV9oTuRilKVzHcN5GgBqic2p6YPD1M1Hvv2g35xHwGy6_w3H3pD-Yky_3HFr3eeqMPGUhOreTdPHyxuf14Bt1aTkdq0yTZRNtAn16fhWT6PpqtjXjHgg4IADcy4r74OqtJqtfazBfzcr8m5rvf84CGSt0hYQBc7lAc5-7on-stMPxnWPQgu7NhnLqRo_lKDmghdRQMEFsNe9V90lfS9pYVUqTCyv3XlkcVaSIqzFniv--O4He8P-sWrC7Nv906SI5tzEAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZYUWdLTDlibTh6N3UyWHByZjhZWFpxNURsRWctSzJ6QVdPWlg2ajM5Nm4tYUU5UGNtT21FNl9zUWRzMUdaVkpaTU5sUlFIY2trcVRQT3luZF9rdDBCazdvTTRtYzVMdjVYQzZEb29ZT2hBVFd3eFRWamR1UklVUjhYZ25PdXdTNm5jQkhhUUl4VjBMMnlKc2RyYXFRZTg4ZlAtUEdXd1pSOGdYd1ZoaBIEGgIIABqgBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPoDCAAQABgAIAAqHgoDaXBsFd8wm0AaCGlwbHNjb3JlGghpdjtwO2lwbComCgVzY29yZRV7dxs_GgZzY29yZWQaBnNjb3JlcxoIaXBsc2NvcmUyvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RlhRZ0tMOWJtOHo3dTJYcHJmOFlYWnE1RGxFZy1LMnpBV09aWDZqMzk2bi1hRTlQY21PbUU2X3NRZHMxR1pWSlpNTmxSUUhja2txVFBPeW5kX2t0MEJrN29NNG1jNUx2NVhDNkRvb1lPaEFUV3d4VFZqZHVSSVVSOFhnbk91d1M2bmNCSGFRSXhWMEwyeUpzZHJhcVFlODhmUC1QR1d3WlI4Z1h3VmhoOjJJbmRpYW4gUHJlbWllciBMZWFndWUgMjAyMiAtIDxiPklQTDwvYj4gLSBDcmljYnV6ekKyAVRoZSBHdWphcmF0IHNraXBwZXIgZmluaXNoZWQgd2l0aCBmaWd1cmVzIG9mIDMgZm9yIDE3IGFuZCA8Yj5zY29yZWQ8L2I-IGEgY3J1Y2lhbCAzMC1iYWxsIDM0IFN1biwgTWF5IDI5IDIwMjIuIEd1amFyYXQgVGl0YW5zJiMzOTsgc2V2ZW4td2lja2V0IHZpY3RvcnkgYWdhaW5zdCBSYWphc3RoYW4mbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZYUWdLTDlibTh6N3UyWHByZjhZWFpxNURsRWctSzJ6QVdPWlg2ajM5Nm4tYUU5UGNtT21FNl9zUWRzMUdaVkpaTU5sUlFIY2trcVRQT3luZF9rdDBCazdvTTRtYzVMdjVYQzZEb29ZT2hBVFd3eFRWamR1UklVUjhYZ25PdXdTNm5jQkhhUUl4VjBMMnlKc2RyYXFRZTg4ZlAtUEdXd1pSOGdYd1ZoaBIEGgIIABqgBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPoDCAAQABgAIAAqHgoDaXBsFd8wm0AaCGlwbHNjb3JlGghpdjtwO2lwbComCgVzY29yZRV7dxs_GgZzY29yZWQaBnNjb3JlcxoIaXBsc2NvcmUyvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RlhRZ0tMOWJtOHo3dTJYcHJmOFlYWnE1RGxFZy1LMnpBV09aWDZqMzk2bi1hRTlQY21PbUU2X3NRZHMxR1pWSlpNTmxSUUhja2txVFBPeW5kX2t0MEJrN29NNG1jNUx2NVhDNkRvb1lPaEFUV3d4VFZqZHVSSVVSOFhnbk91d1M2bmNCSGFRSXhWMEwyeUpzZHJhcVFlODhmUC1QR1d3WlI4Z1h3VmhoOjJJbmRpYW4gUHJlbWllciBMZWFndWUgMjAyMiAtIDxiPklQTDwvYj4gLSBDcmljYnV6ekKyAVRoZSBHdWphcmF0IHNraXBwZXIgZmluaXNoZWQgd2l0aCBmaWd1cmVzIG9mIDMgZm9yIDE3IGFuZCA8Yj5zY29yZWQ8L2I-IGEgY3J1Y2lhbCAzMC1iYWxsIDM0IFN1biwgTWF5IDI5IDIwMjIuIEd1amFyYXQgVGl0YW5zJiMzOTsgc2V2ZW4td2lja2V0IHZpY3RvcnkgYWdhaW5zdCBSYWphc3RoYW4mbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Cricbuzz"
+  },
+  {
+   "position": 5,
+   "title": "Tata Indian Premier League - Scores & Fixtures - Cricket",
+   "link": "https://www.bbc.com/sport/cricket/mens-india-twenty20/scores-fixtures",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFTNxMcYidw8KYMdcYcJGANwDkbRacEsD60zmuM2YuMjF_J7qRFyBK8AjJC0--DFT6EhWfIaKdocV6KTxeVsjbYq1oHgfxcFUV8fTdgcJz9EfX7jeDVD_fYx2eGHUS6w_O8dfQ7AAOzjHp_lnDgxhlP9UP4bN879OYPOR3A&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQFnoECBAQAQ&uoh=1",
+   "displayed_link": "https://www.bbc.com › cricket › mens-india-twenty20",
+   "favicon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp",
+   "snippet": "Tata Indian Premier League scores, results and fixtures on BBC Sport. Cricket Scores & Fixtures Tables. All times are UK. Some content is provided by third ...",
+   "snippet_highlighted_words": [
+    "Tata Indian Premier League scores, results and fixtures on BBC Sport"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Tata Indian Premier League scores, results and fixtures on BBC Sport. Cricket Scores & Fixtures Tables. All times are UK. Some content is provided by third ...",
+     "source_info_link": "https://www.bbc.com/sport/cricket/mens-india-twenty20/scores-fixtures",
+     "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZUTnhNY1lpZHc4S1lNZGNZY0pHQU53RGtiUmFjRXNENjB6bXVNMll1TWpGX0o3cVJGeUJLOEFqSkMwLS1ERlQ2RWhXZklhS2RvY1Y2S1R4ZVZzamJZcTFvSGdmeGNGVVY4ZlRkZ2NKejlFZlg3amVEVkRfZll4MmVHSFVTNndfTzhkZlE3QUFPempIcF9sbkRneGhsUDlVUDRiTjg3OU9ZUE9SM0ESBBoCCAAasgQSAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCMBAgAEAAYACAAKh4KA2lwbBUAAAAAGghpcGxzY29yZRoIaXY7cDtpcGwqJgoFc2NvcmUVAAAAABoGc2NvcmVkGgZzY29yZXMaCGlwbHNjb3JlMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZUTnhNY1lpZHc4S1lNZGNZY0pHQU53RGtiUmFjRXNENjB6bXVNMll1TWpGX0o3cVJGeUJLOEFqSkMwLS1ERlQ2RWhXZklhS2RvY1Y2S1R4ZVZzamJZcTFvSGdmeGNGVVY4ZlRkZ2NKejlFZlg3amVEVkRfZll4MmVHSFVTNndfTzhkZlE3QUFPempIcF9sbkRneGhsUDlVUDRiTjg3OU9ZUE9SM0E6SVRhdGEgSW5kaWFuIFByZW1pZXIgTGVhZ3VlIC0gPGI-U2NvcmVzPC9iPiAmYW1wOyBGaXh0dXJlcyAtIENyaWNrZXQgLSBCQkNCrwE8Yj5UYXRhIEluZGlhbiBQcmVtaWVyIExlYWd1ZSBzY29yZXMsIHJlc3VsdHMgYW5kIGZpeHR1cmVzIG9uIEJCQyBTcG9ydDwvYj4uIENyaWNrZXQgU2NvcmVzICZhbXA7IEZpeHR1cmVzIFRhYmxlcy4gQWxsIHRpbWVzIGFyZSBVSy4gU29tZSBjb250ZW50IGlzIHByb3ZpZGVkIGJ5IHRoaXJkJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZUTnhNY1lpZHc4S1lNZGNZY0pHQU53RGtiUmFjRXNENjB6bXVNMll1TWpGX0o3cVJGeUJLOEFqSkMwLS1ERlQ2RWhXZklhS2RvY1Y2S1R4ZVZzamJZcTFvSGdmeGNGVVY4ZlRkZ2NKejlFZlg3amVEVkRfZll4MmVHSFVTNndfTzhkZlE3QUFPempIcF9sbkRneGhsUDlVUDRiTjg3OU9ZUE9SM0ESBBoCCAAasgQSAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCMBAgAEAAYACAAKh4KA2lwbBUAAAAAGghpcGxzY29yZRoIaXY7cDtpcGwqJgoFc2NvcmUVAAAAABoGc2NvcmVkGgZzY29yZXMaCGlwbHNjb3JlMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZUTnhNY1lpZHc4S1lNZGNZY0pHQU53RGtiUmFjRXNENjB6bXVNMll1TWpGX0o3cVJGeUJLOEFqSkMwLS1ERlQ2RWhXZklhS2RvY1Y2S1R4ZVZzamJZcTFvSGdmeGNGVVY4ZlRkZ2NKejlFZlg3amVEVkRfZll4MmVHSFVTNndfTzhkZlE3QUFPempIcF9sbkRneGhsUDlVUDRiTjg3OU9ZUE9SM0E6SVRhdGEgSW5kaWFuIFByZW1pZXIgTGVhZ3VlIC0gPGI-U2NvcmVzPC9iPiAmYW1wOyBGaXh0dXJlcyAtIENyaWNrZXQgLSBCQkNCrwE8Yj5UYXRhIEluZGlhbiBQcmVtaWVyIExlYWd1ZSBzY29yZXMsIHJlc3VsdHMgYW5kIGZpeHR1cmVzIG9uIEJCQyBTcG9ydDwvYj4uIENyaWNrZXQgU2NvcmVzICZhbXA7IEZpeHR1cmVzIFRhYmxlcy4gQWxsIHRpbWVzIGFyZSBVSy4gU29tZSBjb250ZW50IGlzIHByb3ZpZGVkIGJ5IHRoaXJkJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "BBC"
+  },
+  {
+   "position": 6,
+   "title": "IPL 2026 Live Score | IPL News Today, Predictions, ...",
+   "link": "https://www.crictracker.com/t20/ipl-indian-premier-league/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVZxjPcKnHc8Cm7xbPVWe9eWsKVcCbB8tNSu-GHb10hzoBheUOnt_0-V3h0hHFd1FZfyXZ4kqX1iL0yNuP-MsVcdGOuvFa52rvL_bZBrZ4zi0u9AVyCSigQHDc-soirHiLeCPnxYV27ODU3EPUWXbqzA&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQFnoECBYQAQ&uoh=1",
+   "displayed_link": "https://www.crictracker.com › T20",
+   "favicon": "https://serpapi.com/images/i/UklGRpYBAABXRUJQVlA4IIoBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0vPnmfDzPXwANsBt4G-V7xmV4IZf5A_o8YNt2JqF1ineH5X2qQVv4Acv4jGsnyN3I0QAD-9gm_qlk5tuXf69tNyrTOLBHljxIdBb8uggZqVcprb5IX43q3yxU92pvgwyXwErikTf3qMLT9uRxUr27FHwH4IEonKw1M8oqscqjF4bLTYMCwR7UlGgKewI_s2dxK-4k2NxU0lIiy6Dz9OqvlCHcIx7AnwSI_pJzl4YsnGKO59nYiFc6kK24I20JUO1OOQPfuuM5asWTrdKeMnAc9vWte8Ui6wKlClhN74J8QtVCuHY03Y8yQcIaZdGfWm6wvoU30qtWrp_-n9l3Y__f9TxMxJ8_g62bgTj1QT_iWROUMbtjCgEOhx7b5JwjseWVZw_6SnQdHSMPz4vMWvgwE9NGDaFWPNHtG13gFvZjnCv8JH9349sTp6UV1FfAzPQHLfbDZ_RDf8kGeqYskSP3tajdANsD4P48tSixwAAAA.webp",
+   "date": "4 days ago",
+   "snippet": "IPL Score Today: Get live scores, news, schedules, highlights, commentary, points table, RCB RCB winner 161/5 (18 ov) RCB won by 5 wickets. DC ...",
+   "snippet_highlighted_words": [
+    "IPL Score Today"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "IPL Score Today: Get live scores, news, schedules, highlights, commentary, points table, RCB RCB winner 161/5 (18 ov) RCB won by 5 wickets. DC ...",
+     "source_info_link": "https://www.crictracker.com/t20/ipl-indian-premier-league/",
+     "icon": "https://serpapi.com/images/i/UklGRpYBAABXRUJQVlA4IIoBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0vPnmfDzPXwANsBt4G-V7xmV4IZf5A_o8YNt2JqF1ineH5X2qQVv4Acv4jGsnyN3I0QAD-9gm_qlk5tuXf69tNyrTOLBHljxIdBb8uggZqVcprb5IX43q3yxU92pvgwyXwErikTf3qMLT9uRxUr27FHwH4IEonKw1M8oqscqjF4bLTYMCwR7UlGgKewI_s2dxK-4k2NxU0lIiy6Dz9OqvlCHcIx7AnwSI_pJzl4YsnGKO59nYiFc6kK24I20JUO1OOQPfuuM5asWTrdKeMnAc9vWte8Ui6wKlClhN74J8QtVCuHY03Y8yQcIaZdGfWm6wvoU30qtWrp_-n9l3Y__f9TxMxJ8_g62bgTj1QT_iWROUMbtjCgEOhx7b5JwjseWVZw_6SnQdHSMPz4vMWvgwE9NGDaFWPNHtG13gFvZjnCv8JH9349sTp6UV1FfAzPQHLfbDZ_RDf8kGeqYskSP3tajdANsD4P48tSixwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlp4alBjS25IYzhDbTd4YlBWV2U5ZVdzS1ZjQ2JCOHROU3UtR0hiMTBoem9CaGVVT250XzAtVjNoMGhIRmQxRlpmeVhaNGtxWDFpTDB5TnVQLU1zVmNkR091dkZhNTJydkxfYlpCclo0emkwdTlBVnlDU2lnUUhEYy1zb2lySGlMZUNQbnhZVjI3T0RVM0VQVVdYYnF6QRIEGgIIABr5AxICCAEaACICCAEqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0QMIABAAGAAgACoeCgNpcGwVmZumQBoIaXBsc2NvcmUaCGl2O3A7aXBsKiYKBXNjb3JlFYbnHEAaBnNjb3JlZBoGc2NvcmVzGghpcGxzY29yZTKsAS9nb3RvP3VybD1DQUVTZFFIck96QVZaeGpQY0tuSGM4Q203eGJQVldlOWVXc0tWY0NiQjh0TlN1LUdIYjEwaHpvQmhlVU9udF8wLVYzaDBoSEZkMUZaZnlYWjRrcVgxaUwweU51UC1Nc1ZjZEdPdXZGYTUycnZMX2JaQnJaNHppMHU5QVZ5Q1NpZ1FIRGMtc29pckhpTGVDUG54WVYyN09EVTNFUFVXWGJxekE6LzxiPklQTDwvYj4gMjAyNiBMaXZlIDxiPlNjb3JlPC9iPiAtIENyaWNUcmFja2VyQp4BPGI-SVBMIFNjb3JlIFRvZGF5PC9iPjogR2V0IGxpdmUgc2NvcmVzLCBuZXdzLCBzY2hlZHVsZXMsIGhpZ2hsaWdodHMsIGNvbW1lbnRhcnksIHBvaW50cyB0YWJsZSwgUkNCIFJDQiB3aW5uZXIgMTYxLzUgKDE4IG92KSBSQ0Igd29uIGJ5IDUgd2lja2V0cy4gREMmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlp4alBjS25IYzhDbTd4YlBWV2U5ZVdzS1ZjQ2JCOHROU3UtR0hiMTBoem9CaGVVT250XzAtVjNoMGhIRmQxRlpmeVhaNGtxWDFpTDB5TnVQLU1zVmNkR091dkZhNTJydkxfYlpCclo0emkwdTlBVnlDU2lnUUhEYy1zb2lySGlMZUNQbnhZVjI3T0RVM0VQVVdYYnF6QRIEGgIIABr5AxICCAEaACICCAEqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0QMIABAAGAAgACoeCgNpcGwVmZumQBoIaXBsc2NvcmUaCGl2O3A7aXBsKiYKBXNjb3JlFYbnHEAaBnNjb3JlZBoGc2NvcmVzGghpcGxzY29yZTKsAS9nb3RvP3VybD1DQUVTZFFIck96QVZaeGpQY0tuSGM4Q203eGJQVldlOWVXc0tWY0NiQjh0TlN1LUdIYjEwaHpvQmhlVU9udF8wLVYzaDBoSEZkMUZaZnlYWjRrcVgxaUwweU51UC1Nc1ZjZEdPdXZGYTUycnZMX2JaQnJaNHppMHU5QVZ5Q1NpZ1FIRGMtc29pckhpTGVDUG54WVYyN09EVTNFUFVXWGJxekE6LzxiPklQTDwvYj4gMjAyNiBMaXZlIDxiPlNjb3JlPC9iPiAtIENyaWNUcmFja2VyQp4BPGI-SVBMIFNjb3JlIFRvZGF5PC9iPjogR2V0IGxpdmUgc2NvcmVzLCBuZXdzLCBzY2hlZHVsZXMsIGhpZ2hsaWdodHMsIGNvbW1lbnRhcnksIHBvaW50cyB0YWJsZSwgUkNCIFJDQiB3aW5uZXIgMTYxLzUgKDE4IG92KSBSQ0Igd29uIGJ5IDUgd2lja2V0cy4gREMmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "CricTracker"
+  },
+  {
+   "position": 7,
+   "title": "IPL 2026 live scores, Cricket India",
+   "link": "https://www.flashscore.info/cricket/india/ipl/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVBSEsPjMRV2G-TCv_bpCYv4tEtXuvPjc7LztgPwoftAG-A7koN-luDnRaiquEb6hSQJsnnCY-THwxepthtfsLeuq7EW6F91ni-_ZYJI9EFel7tHxubeX2cZRDhtLS_6LHJxd4Wg&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQFnoECBEQAQ&uoh=1",
+   "displayed_link": "https://www.flashscore.info › cricket › india › ipl",
+   "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADwBwCdASocABwAPtEutFooIagoGAEAGglkAKwzMB2A_qroEs8f0H_svVG6gHoQD5_7WAjmBiNRdJFbC9xlVikH49c9fbH3CAAA-X0W_SI0wEb6ZctrExYfrVAK3AVqYBPzEf6er6YDLLOVN03k17LlkLaomtlHqT_w96kienJ_sPxUaR5go8pa1L2raon164fi7xX0Uh6pz7w9oYV6UBIXPzYWEHyNfIrg1vaBcjKVlT-_-LGVfB6ynktqE_-hv2JQQE-EK8wyNng5Itu5vnT8GfX6V-R-ZRVyhW-_-1HeWJHSKx7-9h9ZGcFoimstDnNvK0GbaGcf__KYyG82Rvsr3L3sTiYyUUZ9SKX_umliulW9EY4VDrNdEmfc4fv_wa_xr3CRxIjKkMLqPvrl8IvI8NOIJdHgeHe2DQ_-3bwMw7y6boo-iKLJd7OYJeVO0S9ZIAAA.webp",
+   "snippet": "IPL INDIA: 24.05. Capitals 163/10 (18.4)203/ Delhi Capitals won by 40 runs. 24.05. Rajasthan Royals won by 30 runs. 23.05. Punjab Kings won by 7 wickets.",
+   "snippet_highlighted_words": [
+    "18"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "IPL INDIA: 24.05. Capitals 163/10 (18.4)203/ Delhi Capitals won by 40 runs. 24.05. Rajasthan Royals won by 30 runs. 23.05. Punjab Kings won by 7 wickets.",
+     "source_info_link": "https://www.flashscore.info/cricket/india/ipl/",
+     "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADwBwCdASocABwAPtEutFooIagoGAEAGglkAKwzMB2A_qroEs8f0H_svVG6gHoQD5_7WAjmBiNRdJFbC9xlVikH49c9fbH3CAAA-X0W_SI0wEb6ZctrExYfrVAK3AVqYBPzEf6er6YDLLOVN03k17LlkLaomtlHqT_w96kienJ_sPxUaR5go8pa1L2raon164fi7xX0Uh6pz7w9oYV6UBIXPzYWEHyNfIrg1vaBcjKVlT-_-LGVfB6ynktqE_-hv2JQQE-EK8wyNng5Itu5vnT8GfX6V-R-ZRVyhW-_-1HeWJHSKx7-9h9ZGcFoimstDnNvK0GbaGcf__KYyG82Rvsr3L3sTiYyUUZ9SKX_umliulW9EY4VDrNdEmfc4fv_wa_xr3CRxIjKkMLqPvrl8IvI8NOIJdHgeHe2DQ_-3bwMw7y6boo-iKLJd7OYJeVO0S9ZIAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkJTRXNQak1SVjJHLVRDdl9icENZdjR0RXRYdXZQamM3THp0Z1B3b2Z0QUctQTdrb04tbHVEblJhaXF1RWI2aFNRSnNubkNZLVRId3hlcHRodGZzTGV1cTdFVzZGOTFuaS1fWllKSTlFRmVsN3RIeHViZVgyY1pSRGh0TFNfNkxISnhkNFdnEgQaAggAGvsDEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQNcDCAAQABgAIAAqHgoDaXBsFQFFmkAaCGlwbHNjb3JlGghpdjtwO2lwbComCgVzY29yZRUAAAA_GgZzY29yZWQaBnNjb3JlcxoIaXBsc2NvcmUynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWQlNFc1BqTVJWMkctVEN2X2JwQ1l2NHRFdFh1dlBqYzdMenRnUHdvZnRBRy1BN2tvTi1sdURuUmFpcXVFYjZoU1FKc25uQ1ktVEh3eGVwdGh0ZnNMZXVxN0VXNkY5MW5pLV9aWUpJOUVGZWw3dEh4dWJlWDJjWlJEaHRMU182TEhKeGQ0V2c6QzxiPklQTDwvYj4gMjAyNiBsaXZlIDxiPnNjb3JlczwvYj4sIENyaWNrZXQgSW5kaWEgLSBGbGFzaHNjb3JlLmluZm9CoAFJUEwgSU5ESUE6IDI0LjA1LiBDYXBpdGFscyAxNjMvMTAgKDxiPjE4PC9iPi40KTIwMy8gRGVsaGkgQ2FwaXRhbHMgd29uIGJ5IDQwIHJ1bnMuIDI0LjA1LiBSYWphc3RoYW4gUm95YWxzIHdvbiBieSAzMCBydW5zLiAyMy4wNS4gUHVuamFiIEtpbmdzIHdvbiBieSA3IHdpY2tldHMuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkJTRXNQak1SVjJHLVRDdl9icENZdjR0RXRYdXZQamM3THp0Z1B3b2Z0QUctQTdrb04tbHVEblJhaXF1RWI2aFNRSnNubkNZLVRId3hlcHRodGZzTGV1cTdFVzZGOTFuaS1fWllKSTlFRmVsN3RIeHViZVgyY1pSRGh0TFNfNkxISnhkNFdnEgQaAggAGvsDEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQNcDCAAQABgAIAAqHgoDaXBsFQFFmkAaCGlwbHNjb3JlGghpdjtwO2lwbComCgVzY29yZRUAAAA_GgZzY29yZWQaBnNjb3JlcxoIaXBsc2NvcmUynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWQlNFc1BqTVJWMkctVEN2X2JwQ1l2NHRFdFh1dlBqYzdMenRnUHdvZnRBRy1BN2tvTi1sdURuUmFpcXVFYjZoU1FKc25uQ1ktVEh3eGVwdGh0ZnNMZXVxN0VXNkY5MW5pLV9aWUpJOUVGZWw3dEh4dWJlWDJjWlJEaHRMU182TEhKeGQ0V2c6QzxiPklQTDwvYj4gMjAyNiBsaXZlIDxiPnNjb3JlczwvYj4sIENyaWNrZXQgSW5kaWEgLSBGbGFzaHNjb3JlLmluZm9CoAFJUEwgSU5ESUE6IDI0LjA1LiBDYXBpdGFscyAxNjMvMTAgKDxiPjE4PC9iPi40KTIwMy8gRGVsaGkgQ2FwaXRhbHMgd29uIGJ5IDQwIHJ1bnMuIDI0LjA1LiBSYWphc3RoYW4gUm95YWxzIHdvbiBieSAzMCBydW5zLiAyMy4wNS4gUHVuamFiIEtpbmdzIHdvbiBieSA3IHdpY2tldHMuIgIQAUgAWABoAA",
+   "source": "Flashscore.info"
+  },
+  {
+   "position": 8,
+   "title": "IPL 2026 | IPL Live Score, Match Prediction & Updates 2026",
+   "link": "https://scorex.in/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAV6pC02s-EKVKIQ30xTgnPc9n99PeSe7vrfeNTFr2AMpF61Jzwkhkn9gZyAsy1TCDt6Or9TgOWSYABDk2fzQsGUy4G7-0VoJ9M&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQFnoECBQQAQ&uoh=1",
+   "displayed_link": "https://scorex.in",
+   "favicon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAB2njf6TQYbVmTeABsyOrfq0fsMpmUbUltA0b5KMNWP1Iee9EAAA_veCaSa3M5yhKGZ-34uc3X5EkG1hR9jm5e3-YfQ0g0SHUqm7bUpqpCfnMqHNlaKopC9CbXuRsvUUbJnqc3qK4fFNtCD2zvuelASaMtV7L3HvnLvtgcg7iyDGvZdheZPnYhrv39LoFl-iNONOdcO21l9xnEETt6VZHwdIWkPDAl3fuiP8p-DeyFFfi3sfEnPgU2MH1DWVnApYckOyVgDV5VnMs9n7DIWFwVJzAT-0fk_SfDnzcym11xg4_-UtffA2Z80WVg_RPPutkLdfA5L-QsG33bKzs_ZdcsKn-F7_3x19C0ajP_Pvo2udc7JC3O6bjuXstOKX8YksSmXdBs4ZCnlh1uN9DFNr8P3C2GYFLjWocTJ6eYA5RMgxnJFNdgAA.webp",
+   "snippet": "Get IPL 2026 live scores, live cricket score match predictions, a massive 405 for 7 in 50 overs. taken 56 wickets in 35 List A matches at an average of 22.41. ...",
+   "snippet_highlighted_words": [
+    "Get IPL 2026 live scores"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get IPL 2026 live scores, live cricket score match predictions, a massive 405 for 7 in 50 overs. taken 56 wickets in 35 List A matches at an average of 22.41. ...",
+     "source_info_link": "https://scorex.in/",
+     "icon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAB2njf6TQYbVmTeABsyOrfq0fsMpmUbUltA0b5KMNWP1Iee9EAAA_veCaSa3M5yhKGZ-34uc3X5EkG1hR9jm5e3-YfQ0g0SHUqm7bUpqpCfnMqHNlaKopC9CbXuRsvUUbJnqc3qK4fFNtCD2zvuelASaMtV7L3HvnLvtgcg7iyDGvZdheZPnYhrv39LoFl-iNONOdcO21l9xnEETt6VZHwdIWkPDAl3fuiP8p-DeyFFfi3sfEnPgU2MH1DWVnApYckOyVgDV5VnMs9n7DIWFwVJzAT-0fk_SfDnzcym11xg4_-UtffA2Z80WVg_RPPutkLdfA5L-QsG33bKzs_ZdcsKn-F7_3x19C0ajP_Pvo2udc7JC3O6bjuXstOKX8YksSmXdBs4ZCnlh1uN9DFNr8P3C2GYFLjWocTJ6eYA5RMgxnJFNdgAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CnYvZ290bz91cmw9Q0FFU1RRSHJPekFWNnBDMDJzLUVLVktJUTMweFRnblBjOW45OVBlU2U3dnJmZU5URnIyQU1wRjYxSnp3a2hrbjlnWnlBc3kxVENEdDZPcjlUZ09XU1lBQkRrMmZ6UXNHVXk0RzctMFZvSjlNEgQaAggAGvQDEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzgMIABAAGAAgACoeCgNpcGwVR7ccQBoIaXBsc2NvcmUaCGl2O3A7aXBsKiYKBXNjb3JlFXxqGEAaBnNjb3JlZBoGc2NvcmVzGghpcGxzY29yZTJ2L2dvdG8_dXJsPUNBRVNUUUhyT3pBVjZwQzAycy1FS1ZLSVEzMHhUZ25QYzluOTlQZVNlN3ZyZmVOVEZyMkFNcEY2MUp6d2toa245Z1p5QXN5MVRDRHQ2T3I5VGdPV1NZQUJEazJmelFzR1V5NEc3LTBWb0o5TTpTPGI-SVBMPC9iPiAyMDI2IHwgPGI-SVBMPC9iPiBMaXZlIDxiPlNjb3JlPC9iPiwgTWF0Y2ggUHJlZGljdGlvbiAmYW1wOyBVcGRhdGVzIDIwMjZCrgE8Yj5HZXQgSVBMIDIwMjYgbGl2ZSBzY29yZXM8L2I-LCBsaXZlIGNyaWNrZXQgc2NvcmUgbWF0Y2ggcHJlZGljdGlvbnMsIGEgbWFzc2l2ZSA0MDUgZm9yIDcgaW4gNTAgb3ZlcnMuIHRha2VuIDU2IHdpY2tldHMgaW4gMzUgTGlzdCBBIG1hdGNoZXMgYXQgYW4gYXZlcmFnZSBvZiAyMi40MS4mbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CnYvZ290bz91cmw9Q0FFU1RRSHJPekFWNnBDMDJzLUVLVktJUTMweFRnblBjOW45OVBlU2U3dnJmZU5URnIyQU1wRjYxSnp3a2hrbjlnWnlBc3kxVENEdDZPcjlUZ09XU1lBQkRrMmZ6UXNHVXk0RzctMFZvSjlNEgQaAggAGvQDEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzgMIABAAGAAgACoeCgNpcGwVR7ccQBoIaXBsc2NvcmUaCGl2O3A7aXBsKiYKBXNjb3JlFXxqGEAaBnNjb3JlZBoGc2NvcmVzGghpcGxzY29yZTJ2L2dvdG8_dXJsPUNBRVNUUUhyT3pBVjZwQzAycy1FS1ZLSVEzMHhUZ25QYzluOTlQZVNlN3ZyZmVOVEZyMkFNcEY2MUp6d2toa245Z1p5QXN5MVRDRHQ2T3I5VGdPV1NZQUJEazJmelFzR1V5NEc3LTBWb0o5TTpTPGI-SVBMPC9iPiAyMDI2IHwgPGI-SVBMPC9iPiBMaXZlIDxiPlNjb3JlPC9iPiwgTWF0Y2ggUHJlZGljdGlvbiAmYW1wOyBVcGRhdGVzIDIwMjZCrgE8Yj5HZXQgSVBMIDIwMjYgbGl2ZSBzY29yZXM8L2I-LCBsaXZlIGNyaWNrZXQgc2NvcmUgbWF0Y2ggcHJlZGljdGlvbnMsIGEgbWFzc2l2ZSA0MDUgZm9yIDcgaW4gNTAgb3ZlcnMuIHRha2VuIDU2IHdpY2tldHMgaW4gMzUgTGlzdCBBIG1hdGNoZXMgYXQgYW4gYXZlcmFnZSBvZiAyMi40MS4mbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "scorex.in"
+  },
+  {
+   "position": 9,
+   "title": "Indian Premier League 2025: Live Scores, Schedule ...",
+   "link": "https://www.sofascore.com/cricket/tournament/india/indian-premier-league/11165",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFa39wRyYxBMXK6MGCsj6eaDu2g2vqrXkBsytHZ0zWjIxvMmy-wBOLFsFPxXpmdXog4rv3t45mv9Dg-j_OiP593A2x2Ew5KtWnXPfln76Kxep2TlclAGi7pp5u7YJ_XUn-X7VAr_PrfUGBgD7nCxp3CxWNWv6lRkdhBAUCf3pPd0LJSegpw&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://www.sofascore.com › Cricket › India",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEU3TfU2TPUySfU6UPVdbPZbavb____t7_709v9XZ_YzSvUcOvQUNvQbBsWyAAAAeElEQVR4AWOgDDAqQYEAmCvsGgoGIYZgrkoaFDiBuaowbhCEiyFbDgIVs6DcdKVVICAA4yoKggADjLsQyRlL0jKAXMY9ZxaAuVxnTgN1SbWleSGpkSqD2ssANkcIxmUE26IE465sB7sC5kgVrG7GkHVC8z564FAEAMkFPNUflUglAAAAAElFTkSuQmCC.png",
+   "snippet": "Follow the Indian Premier League 2025 for real-time live scores, match schedules, points table updates, team standings, results, and player stats.",
+   "snippet_highlighted_words": [
+    "real-time live scores"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Follow the Indian Premier League 2025 for real-time live scores, match schedules, points table updates, team standings, results, and player stats.",
+     "source_info_link": "https://www.sofascore.com/cricket/tournament/india/indian-premier-league/11165",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEU3TfU2TPUySfU6UPVdbPZbavb____t7_709v9XZ_YzSvUcOvQUNvQbBsWyAAAAeElEQVR4AWOgDDAqQYEAmCvsGgoGIYZgrkoaFDiBuaowbhCEiyFbDgIVs6DcdKVVICAA4yoKggADjLsQyRlL0jKAXMY9ZxaAuVxnTgN1SbWleSGpkSqD2ssANkcIxmUE26IE465sB7sC5kgVrG7GkHVC8z564FAEAMkFPNUflUglAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZhMzl3UnlZeEJNWEs2TUdDc2o2ZWFEdTJnMnZxclhrQnN5dEhaMHpXakl4dk1teS13Qk9MRnNGUHhYcG1kWG9nNHJ2M3Q0NW12OURnLWpfT2lQNTkzQTJ4MkV3NUt0V25YUGZsbjc2S3hlcDJUbGNsQUdpN3BwNXU3WUpfWFVuLVg3VkFyX1ByZlVHQmdEN25DeHAzQ3hXTld2NmxSa2RoQkFVQ2YzcFBkMExKU2VncHcSBBoCCAAaowQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD9AwgAEAAYACAAKh4KA2lwbBUAAAAAGghpcGxzY29yZRoIaXY7cDtpcGwqJgoFc2NvcmUVDvodPxoGc2NvcmVkGgZzY29yZXMaCGlwbHNjb3JlMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZhMzl3UnlZeEJNWEs2TUdDc2o2ZWFEdTJnMnZxclhrQnN5dEhaMHpXakl4dk1teS13Qk9MRnNGUHhYcG1kWG9nNHJ2M3Q0NW12OURnLWpfT2lQNTkzQTJ4MkV3NUt0V25YUGZsbjc2S3hlcDJUbGNsQUdpN3BwNXU3WUpfWFVuLVg3VkFyX1ByZlVHQmdEN25DeHAzQ3hXTld2NmxSa2RoQkFVQ2YzcFBkMExKU2VncHc6REluZGlhbiBQcmVtaWVyIExlYWd1ZSAyMDI1OiBMaXZlIDxiPlNjb3JlczwvYj4sIFNjaGVkdWxlLCBQb2ludHMgLi4uQpkBRm9sbG93IHRoZSBJbmRpYW4gUHJlbWllciBMZWFndWUgMjAyNSBmb3IgPGI-cmVhbC10aW1lIGxpdmUgc2NvcmVzPC9iPiwgbWF0Y2ggc2NoZWR1bGVzLCBwb2ludHMgdGFibGUgdXBkYXRlcywgdGVhbSBzdGFuZGluZ3MsIHJlc3VsdHMsIGFuZCBwbGF5ZXIgc3RhdHMuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZhMzl3UnlZeEJNWEs2TUdDc2o2ZWFEdTJnMnZxclhrQnN5dEhaMHpXakl4dk1teS13Qk9MRnNGUHhYcG1kWG9nNHJ2M3Q0NW12OURnLWpfT2lQNTkzQTJ4MkV3NUt0V25YUGZsbjc2S3hlcDJUbGNsQUdpN3BwNXU3WUpfWFVuLVg3VkFyX1ByZlVHQmdEN25DeHAzQ3hXTld2NmxSa2RoQkFVQ2YzcFBkMExKU2VncHcSBBoCCAAaowQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD9AwgAEAAYACAAKh4KA2lwbBUAAAAAGghpcGxzY29yZRoIaXY7cDtpcGwqJgoFc2NvcmUVDvodPxoGc2NvcmVkGgZzY29yZXMaCGlwbHNjb3JlMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZhMzl3UnlZeEJNWEs2TUdDc2o2ZWFEdTJnMnZxclhrQnN5dEhaMHpXakl4dk1teS13Qk9MRnNGUHhYcG1kWG9nNHJ2M3Q0NW12OURnLWpfT2lQNTkzQTJ4MkV3NUt0V25YUGZsbjc2S3hlcDJUbGNsQUdpN3BwNXU3WUpfWFVuLVg3VkFyX1ByZlVHQmdEN25DeHAzQ3hXTld2NmxSa2RoQkFVQ2YzcFBkMExKU2VncHc6REluZGlhbiBQcmVtaWVyIExlYWd1ZSAyMDI1OiBMaXZlIDxiPlNjb3JlczwvYj4sIFNjaGVkdWxlLCBQb2ludHMgLi4uQpkBRm9sbG93IHRoZSBJbmRpYW4gUHJlbWllciBMZWFndWUgMjAyNSBmb3IgPGI-cmVhbC10aW1lIGxpdmUgc2NvcmVzPC9iPiwgbWF0Y2ggc2NoZWR1bGVzLCBwb2ludHMgdGFibGUgdXBkYXRlcywgdGVhbSBzdGFuZGluZ3MsIHJlc3VsdHMsIGFuZCBwbGF5ZXIgc3RhdHMuIgIQAUgAWABoAA",
+   "source": "Sofascore"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Today match Score Live",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&q=Today+match+Score+Live&sa=X&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ1QJ6BAhAEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Today+match+Score+Live"
+  },
+  {
+   "block_position": 1,
+   "query": "IPL 2021",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&q=IPL+2021&sa=X&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ1QJ6BAhBEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=IPL+2021"
+  },
+  {
+   "block_position": 1,
+   "query": "Ipl score early",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&q=Ipl+score+early&sa=X&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ1QJ6BAhGEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Ipl+score+early"
+  },
+  {
+   "block_position": 1,
+   "query": "Indian IPL score today",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&q=Indian+IPL+score+today&sa=X&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ1QJ6BAhCEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Indian+IPL+score+today"
+  },
+  {
+   "block_position": 1,
+   "query": "Today match live",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&q=Today+match+live&sa=X&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ1QJ6BAhEEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Today+match+live"
+  },
+  {
+   "block_position": 1,
+   "query": "Yesterday match score live",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&q=Yesterday+match+score+live&sa=X&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Yesterday+match+score+live"
+  },
+  {
+   "block_position": 1,
+   "query": "22 ipl score",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&q=22+ipl+score&sa=X&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ1QJ6BAhFEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=22+ipl+score"
+  },
+  {
+   "block_position": 1,
+   "query": "Ipl score board 2020",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&q=Ipl+score+board+2020&sa=X&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ1QJ6BAhDEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Ipl+score+board+2020"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=IPL+score&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&ei=l1XKarL1KeSs5NoPqfma2A8&start=10&sa=N&sstk=AS6-VmIBvF6rqPnSPhLzWUhbworyGRVmJJeF99GwQZW3J0XU2DMpFxQQ25fu_nuCgm66LGvFTRAvvO81UjCNJvfXdEVS__jO9Od11g&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ8NMDegQIPBAI",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=IPL+score&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&ei=l1XKarL1KeSs5NoPqfma2A8&start=10&sa=N&sstk=AS6-VmIBvF6rqPnSPhLzWUhbworyGRVmJJeF99GwQZW3J0XU2DMpFxQQ25fu_nuCgm66LGvFTRAvvO81UjCNJvfXdEVS__jO9Od11g&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ8tMDegQIPBAE",
+   "3": "https://www.google.co.in/search?q=IPL+score&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntetsg-H0nAfqglFVTGScLDiww1sA:1791645079693&ei=l1XKarL1KeSs5NoPqfma2A8&start=20&sa=N&sstk=AS6-VmIBvF6rqPnSPhLzWUhbworyGRVmJJeF99GwQZW3J0XU2DMpFxQQ25fu_nuCgm66LGvFTRAvvO81UjCNJvfXdEVS__jO9Od11g&ved=2ahUKEwjynKeE3q-XAxVkFlkFHam8BvsQ8tMDegQIPBAG"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=IPL+score&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=IPL+score&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=IPL+score&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=IPL+score&start=20"
+  }
+ }
+}

@@ -1,0 +1,639 @@
+{
+ "search_metadata": {
+  "id": "6aca5529636cb055513e71e8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/EZQtyXzy5UnSfqTEF-pDjf23ixKUzmrDRtXJJNiuYH8/6aca5529636cb055513e71e8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/EZQtyXzy5UnSfqTEF-pDjf23ixKUzmrDRtXJJNiuYH8/6aca5529636cb055513e71e8.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/EZQtyXzy5UnSfqTEF-pDjf23ixKUzmrDRtXJJNiuYH8/6aca5529636cb055513e71e8.json_with_pixel_position",
+  "created_at": "2026-10-10 15:09:29 UTC",
+  "processed_at": "2026-10-10 15:09:29 UTC",
+  "google_url": "https://www.google.co.in/search?q=best+biryani&oq=best+biryani&uule=w+CAIQICIVTmV3IERlbGhpLERlbGhpLEluZGlh&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/EZQtyXzy5UnSfqTEF-pDjf23ixKUzmrDRtXJJNiuYH8/6aca5529636cb055513e71e8.html",
+  "total_time_taken": 7.45
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "best biryani",
+  "location_requested": "New Delhi,Delhi,India",
+  "location_used": "New Delhi,Delhi,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "best biryani",
+  "total_results": 184,
+  "time_taken_displayed": 0.3,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "link": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&udm=local&lsack=MFXKau6rBaumptQP8uHyAQ&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQtgN6BAgiEAM",
+  "image": "https://serpapi.com/searches/6aca5529636cb055513e71e8/images/IOJusBRftkP8xrzW4f-QBA.png",
+  "gps_coordinates": {
+   "latitude": 28.63877337724033,
+   "longitude": 77.18582153320312
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "title": "Bikkgane Biryani",
+    "type": "Biryani restaurant",
+    "rating": 4.1,
+    "reviews": 9279,
+    "price": "₹400–1,400",
+    "description": "\"Bikkgane biryani best biryani ever delicious teast 😋\"",
+    "thumbnail": "https://serpapi.com/searches/6aca5529636cb055513e71e8/images/bSuIvWAw_kSVc-ZC7fWAu0hA9SSHmEMBj8c-ELEoLzSVdUiNuK7ypLdWM6G6ry8Q.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3IoKPA_lOU1UEN_Fb1mrMA2R2eZqjYnZa5TtesL6rmCaJJNCuNWfwyipjF8sr7EXZTyvdQ7rYtlTxnfmhyDaFlkU06d0tvhoFMUXTM6Gzd3iMVSp6-Q_LDc5nfqqtp34dTFjKM2kElXHeMemm_l99ABwaRAOBes8H20sZUXweuBaXGBpueng=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:011 4151 6628",
+     "website": "http://bikkganebiryani.com/"
+    },
+    "place_id": "4711117580386793562",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&ludocid=4711117580386793562&q=best+biryani",
+    "provider_id": "/g/11b_0280hd",
+    "gps_coordinates": {
+     "latitude": 28.631555,
+     "longitude": 77.216246
+    },
+    "address": "2/90 Ground Floor, P, 90, Baba Kharak Singh Rd, opposite PVR Rivoli, Block P, Connaught Place, New Delhi, Delhi 110001",
+    "hours": "Open · Closes 12 am",
+    "phone": "011 4151 6628"
+   },
+   {
+    "position": 2,
+    "title": "Mr Biryaniwalla - North Campus",
+    "type": "Restaurant",
+    "rating": 4.7,
+    "reviews": 92,
+    "price": "₹1–200",
+    "description": "\"Worth for price Delicious 🤤 Best biryani in North campus\"",
+    "thumbnail": "https://serpapi.com/searches/6aca5529636cb055513e71e8/images/bSuIvWAw_kSVc-ZC7fWAu46M1-n-JvtJCA-YEX6HBTZ-TYWYVfijOAmyKCWsy-UA.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW34I1O7EbmyWQA30eZJRUqZRWcHKVOYCz0__4Mk8H6LO8fsn379GQGedKS5_nIC9dVNxVAk8VrdKVRSM3HeIT4rO3_UK1BNvPa12MsM7Ju7ZhwwREaFwmC0wugQv0hsUZt8ZfoYl_9CyT9eedw-OBO0OLiAYg1_50DCIKKf7qBegI75bZktkr5XQg=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:099110 05736",
+     "website": "https://mrbiryaniwalla.com/"
+    },
+    "place_id": "8895947714614278014",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&ludocid=8895947714614278014&q=best+biryani",
+    "provider_id": "/g/11mktxh6g2",
+    "gps_coordinates": {
+     "latitude": 28.695072,
+     "longitude": 77.214047
+    },
+    "address": "shop outside, 5th shop, shop no 5 Vishwavidyalaya metro station gate number 4 outside 5th, New Delhi, Delhi 110007",
+    "hours": "Open · Closes 10:30 pm",
+    "phone": "099110 05736"
+   },
+   {
+    "position": 3,
+    "title": "Saffron Biryani",
+    "type": "Biryani restaurant",
+    "rating": 4.5,
+    "reviews": 1132,
+    "price": "₹200–800",
+    "description": "Reservations required·All you can eat·Happy-hour food",
+    "thumbnail": "https://serpapi.com/searches/6aca5529636cb055513e71e8/images/bSuIvWAw_kSVc-ZC7fWAu_GLs9beZl9taspuqmHJgo0j7R0UCsnGNoL0AL2NzBY5.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW3fL8jPuS8uOknUfmqxssS32HGfW2qoRkeEhoOqhDiouZiXWfxG2M1PC9nf9aXLFmMbh2tYS2nOBIZRIDBRo9qEmsYmo1SohM-iBXGgdzISuPwBHrEG1oILUS6xUkcYmGGCBV-rj0f_eteRIahl-yVAxqwZtu4v4P8-E3Ib8uNUScoOTrA4pyUiXQ=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:078276 64124",
+     "website": "http://saffronbiryani.com/"
+    },
+    "place_id": "7938702926005899850",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&ludocid=7938702926005899850&q=best+biryani",
+    "provider_id": "/g/11rw8_7x9x",
+    "gps_coordinates": {
+     "latitude": 28.547413,
+     "longitude": 77.125372
+    },
+    "address": "Ground Floor, 383/1, Gali No. 3, next to Red Orchid Spa, Mahipalpur, Delhi, 110037",
+    "hours": "Open · Closes 11:45 pm",
+    "phone": "078276 64124"
+   }
+  ],
+  "more_locations_link": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&udm=local&lsack=MFXKau6rBaumptQP8uHyAQ&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQjGp6BAghEAE"
+ },
+ "short_videos": [
+  {
+   "position": 1,
+   "title": "Best Biryani Places In Delhi😍 • Bikkgane ... by YEPDELHI on Instagram. Play on Instagram. 0:05",
+   "source": "Instagram",
+   "profile_name": "YEPDELHI",
+   "extensions": [
+    "YEPDELHI"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "0:05",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_FRenXmh7Kq7vJIqjuwOe_cov4aMOUWm25Shr-rSJ7JZL4jZ0AktI2nQ&s=10",
+   "link": "https://www.instagram.com/reel/DYlu2sohXrI/?hl=en"
+  },
+  {
+   "position": 2,
+   "title": "Best Biryani in Delhi-NCR 😋 . #biryani #streetfood #delhi by Swad Official on Facebook. Play on Facebook. 0:59",
+   "source": "Facebook",
+   "profile_name": "Swad Official",
+   "extensions": [
+    "Swad Official"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "0:59",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREA3i8YancY--XSvA20CiVpmNyTDzsgf3OsiQ99OrI-MbK7gcTP93R3vQ&s=10",
+   "link": "https://www.facebook.com/YouTubeswadofficial/posts/best-biryani-in-delhi-ncr-biryani-streetfood-delhi/1463042278955354/"
+  },
+  {
+   "position": 3,
+   "title": "Best Biryani in Delhi😍🔥 Yes, after eating through the length ... by Sameer Bawa on Instagram. Play on Instagram. 0:48",
+   "source": "Instagram",
+   "profile_name": "Sameer Bawa",
+   "extensions": [
+    "Sameer Bawa"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "0:48",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRKZn2STQKTO1w9yRQPcCbt1fOihV0cJNGITg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYx0fBmMLPw49zP3ItbN3QdVxtMampt59euhLxmiw0IytlV_ucwEPkndE&s=10",
+   "link": "https://www.instagram.com/reel/DNdMis0h2-6/?hl=en"
+  },
+  {
+   "position": 4,
+   "title": "BEST BIRYANI In Delhi ?!?! | WHERE TO ORDER SERIES",
+   "source": "YouTube",
+   "profile_name": "So Saute",
+   "extensions": [
+    "So Saute"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:48",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSpRdR_D5cCEBNM_5vbbBGyjnHFD7rKx4iziQ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJwQorCbjKq46Z-673-gl_vQfWUnj_F5lYH7NDVWN_5ggDflQXHvotIU&s=10",
+   "link": "https://www.youtube.com/shorts/RyIwvB5XVA8"
+  },
+  {
+   "position": 5,
+   "title": "Top 7 Biryanis of Delhi DIL SE GUIDE mein hum aapke liye ... by Dilli Dil Se on Instagram. Play on Instagram. 1:11",
+   "source": "Instagram",
+   "profile_name": "Dilli Dil Se",
+   "extensions": [
+    "Dilli Dil Se"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "1:11",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_yIi4YLuMrDbDsdy7VlIhVKF5idQ5xVx-wbsuhcdDOU6Z2LICDZHMYA&s=10",
+   "link": "https://www.instagram.com/reel/DaiRrAUPV13/?hl=en"
+  },
+  {
+   "position": 6,
+   "title": "Best Biryani in Delhi-NCR 😋 . #biryani #streetfood #delhi by Swad Official on Facebook. Play on Facebook. 0:59",
+   "source": "Facebook",
+   "profile_name": "Swad Official",
+   "extensions": [
+    "Swad Official"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "0:59",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREA3i8YancY--XSvA20CiVpmNyTDzsgf3OsiQ99OrI-MbK7gcTP93R3vQ&s=10",
+   "link": "https://www.facebook.com/YouTubeswadofficial/videos/best-biryani-in-delhi-ncr-biryani-streetfood-delhi/1539736384337508/"
+  },
+  {
+   "position": 7,
+   "title": "Top 5 Biryani Places in India! . . . . . #delhi #delhigram ... by Manvendra Pratap Singh on Instagram. Play on Instagram. 0:42",
+   "source": "Instagram",
+   "profile_name": "Manvendra Pratap Singh",
+   "extensions": [
+    "Manvendra Pratap Singh"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "0:42",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjAqAEaExq7p4AwE7MGSOltIjMWaO5kteHCl9YptfIxSM6S5qxd2yqkE&s=10",
+   "link": "https://www.instagram.com/reel/DVI21TliUua/"
+  },
+  {
+   "position": 8,
+   "title": "Best Biryani in West Delhi? This Legendary Spot Is a Must-Try! ... by Pujneet Singh aka Bhooka Saand on Instagram. Play on Instagram. 1:43",
+   "source": "Instagram",
+   "profile_name": "Pujneet Singh aka Bhooka Saand",
+   "extensions": [
+    "Pujneet Singh aka Bhooka Saand"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "1:43",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdUwlVHln6q5Y4frd91O1OHgDmK4l2HZQXDHcI2wJAAFmIiIVGP1LSyM&s=10",
+   "link": "https://www.instagram.com/reel/DanL0psuTVq/"
+  },
+  {
+   "position": 9,
+   "title": "Top 5 Biryani Spots in Delhi #biryani #delhi #diptijha3 ... by Dipti Jha | FOOD | TRAVEL | LIFESTYLE 🍽️🌍 on Instagram. Play on Instagram. 0:33",
+   "source": "Instagram",
+   "profile_name": "Dipti Jha | FOOD | TRAVEL | LIFESTYLE 🍽️🌍",
+   "extensions": [
+    "Dipti Jha | FOOD | TRAVEL | LIFESTYLE 🍽️🌍"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "0:33",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcYTi4S9a9-hP5_AwGq05m2VOU2yqm8wzQRDzfP2uN_M2xtP68tL52YE&s=10",
+   "link": "https://www.instagram.com/reel/DQwgJ4Fk8Ql/?hl=en"
+  },
+  {
+   "position": 10,
+   "title": "Best biryanis in Delhi😍🔥 Yes, am back with another list and ... by Sameer Bawa on Instagram. Play on Instagram. 0:44",
+   "source": "Instagram",
+   "profile_name": "Sameer Bawa",
+   "extensions": [
+    "Sameer Bawa"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "0:44",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQDxzR_2QFc7j0PkDfyK_TScYjTOoS1xSV1ZQ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT__CKgsLcRTuhzW5VQ6JCkfk55ihwM2ITH8fAhCW-AsYhuWLli_M_gJU&s=10",
+   "link": "https://www.instagram.com/reel/C4H0wCKhaxw/?hl=en"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "Which biryani is considered the best?",
+   "type": "ai_overview",
+   "page_token": "LSOatHicHdDBToMwAADQ-DMeNygO45LFhEFhdWVpoS30YljZAIFSN5RtN__Fr_JrNN7f6X19d41uf-4-63E05-V8Pk3TrBqGqjvM1DBr9Lw4X7Waq6Lr9oVql-6jaz8f1Sr4CLz1-8YjzBjuUytxkEtv-RTb8Ly_0Q91ozsinjwRWFbeGZc5-CpbuMvAAGjGr6mO12VrcAL46c9r6aspAdaF9HBBHPRCwGbkGXZUZ15UWE1FT609xAvGvfHQQ1M4pd5mcBQRavIUHWNmR5iNFg4urkgpU4ntF2_eQqa0Tazcxk5pSEbjODMB1eRGtARCm2avPZ-F1YP0PcEFoiWHfWo_0aCWMe3qbZ4xoFpUl8KeSgjJLuKbA4M0bJBHo_i6E5LhUAIeIlKm2Ekj2R7COi8DlFBwOYl23FLe6fuj-lw59_-bq9djPy7Naah-ARaSgXk",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LSOatHicHdDBToMwAADQ-DMeNygO45LFhEFhdWVpoS30YljZAIFSN5RtN__Fr_JrNN7f6X19d41uf-4-63E05-V8Pk3TrBqGqjvM1DBr9Lw4X7Waq6Lr9oVql-6jaz8f1Sr4CLz1-8YjzBjuUytxkEtv-RTb8Ly_0Q91ozsinjwRWFbeGZc5-CpbuMvAAGjGr6mO12VrcAL46c9r6aspAdaF9HBBHPRCwGbkGXZUZ15UWE1FT609xAvGvfHQQ1M4pd5mcBQRavIUHWNmR5iNFg4urkgpU4ntF2_eQqa0Tazcxk5pSEbjODMB1eRGtARCm2avPZ-F1YP0PcEFoiWHfWo_0aCWMe3qbZ4xoFpUl8KeSgjJLuKbA4M0bJBHo_i6E5LhUAIeIlKm2Ekj2R7COi8DlFBwOYl23FLe6fuj-lw59_-bq9djPy7Naah-ARaSgXk",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS09FNXFaR2hPYm04NVMyWXRabWhGYUhSSlRrbzFhR28zT0RSS1JsQkxjSEZ4TVdwc1QwazNNRlJQUTNsclZrcFBZMjlPVTNkeVYxcDBRMWMwUlRrMlRubFhSMUJ1Ym14SVpYSjBaVFkwVnpONU1IaDNNMk55UlRrMlp4SVdUVVpZUzJGMU5uSkNZWFZ0Y0hSUlVEaDFTSGxCVVJvaVFVUnpjamxtVkV0QmNXUkVRbkZTUjI4MVYzaDZZWHA1TFdGMlJWVTJiRlpoWnciLCJmY3YiOiIzIiwiZWkiOiJNRlhLYXU2ckJhdW1wdFFQOHVIeUFRIiwicWMiOiJDZ3hpWlhOMElHSnBjbmxoYm1rUUFIMXBneFVfIiwicXVlc3Rpb24iOiJXaGljaCBiaXJ5YW5pIGlzIGNvbnNpZGVyZWQgdGhlIGJlc3Q/IiwibGsiOiJHaVIzYUdsamFDQmlhWEo1WVc1cElHbHpJR052Ym5OcFpHVnlaV1FnZEdobElHSmxjM1EiLCJicyI6ImM0M09NUXZDTUJBRllGeHZjZzVhRHFsT0lqWl9JT0FtQ0xwMXZyYkJISlNrSklIaXY3ZXgxT0tndUw3N0h1X2dDdHZTY0cyd1l2OGd5OGdCYTJjRE45cnJCcVBSV09rUWxkeUp2UDhEZ29KMWFTaW1jOG9paGNoRFB0V1V6TVNxX3dIZ0F2bjQwUUNzTzJBeEwxbzhrYjFUNjd4V01oZWJmbmFmckpvWTNHRF9lb2U4SHVkY2g4WHhiYnVXYWgxUzVXd2JKaVZSWkY4Sko3SmNQQUUiLCJpZCI6ImZjX01GWEthdTZyQmF1bXB0UVA4dUh5QVFfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS09FNXFaR2hPYm04NVMyWXRabWhGYUhSSlRrbzFhR28zT0RSS1JsQkxjSEZ4TVdwc1QwazNNRlJQUTNsclZrcFBZMjlPVTNkeVYxcDBRMWMwUlRrMlRubFhSMUJ1Ym14SVpYSjBaVFkwVnpONU1IaDNNMk55UlRrMlp4SVdUVVpZUzJGMU5uSkNZWFZ0Y0hSUlVEaDFTSGxCVVJvaVFVUnpjamxtVkV0QmNXUkVRbkZTUjI4MVYzaDZZWHA1TFdGMlJWVTJiRlpoWnciLCJmY3YiOiIzIiwiZWkiOiJNRlhLYXU2ckJhdW1wdFFQOHVIeUFRIiwicWMiOiJDZ3hpWlhOMElHSnBjbmxoYm1rUUFIMXBneFVfIiwicXVlc3Rpb24iOiJXaGljaCBiaXJ5YW5pIGlzIGNvbnNpZGVyZWQgdGhlIGJlc3Q%2FIiwibGsiOiJHaVIzYUdsamFDQmlhWEo1WVc1cElHbHpJR052Ym5OcFpHVnlaV1FnZEdobElHSmxjM1EiLCJicyI6ImM0M09NUXZDTUJBRllGeHZjZzVhRHFsT0lqWl9JT0FtQ0xwMXZyYkJISlNrSklIaXY3ZXgxT0tndUw3N0h1X2dDdHZTY0cyd1l2OGd5OGdCYTJjRE45cnJCcVBSV09rUWxkeUp2UDhEZ29KMWFTaW1jOG9paGNoRFB0V1V6TVNxX3dIZ0F2bjQwUUNzTzJBeEwxbzhrYjFUNjd4V01oZWJmbmFmckpvWTNHRF9lb2U4SHVkY2g4WHhiYnVXYWgxUzVXd2JKaVZSWkY4Sko3SmNQQUUiLCJpZCI6ImZjX01GWEthdTZyQmF1bXB0UVA4dUh5QVFfNiJ9"
+  },
+  {
+   "question": "What is the tastiest biryani?",
+   "type": "ai_overview",
+   "page_token": "OVbGfHicHdDPboIwAIDx7GU8Kn-cUxOzTKUFpqiFFu1loa1YpAV0TJDb3mVPtaeZ2fE7fcnv-0dlRf77dJN1XX1OB4OmafqnsjypY5-X_awYJJ_3gg94ohRLeD4dvYzM15TPnC9nvrh48x2uKrJERmhIgiO6pBa4MiI0A-gaEGIxe94KOB7Ss9OsO5QmezkUiroBXndrHWgW0zPSNEUKwL0xfCYGwon71sVkAsLcLwT0PUYe7Songa0MCn8loCqOwI-4Qz1iiBEGoCVqbO3sxztuVWLSC7ariECass6HG4g2kSnwQZtNGE_eyVIA7KgtirwO41YftDxQXd4ZRjnbywUBwnYkDZCSq8MeWzz3pYjNRgCw27jEO2KAYObPkRvcNzGNhCnaJEJbBP0hWtKMmSjjGtgU1nWIc-vhYvdSfpvZvX_N2Ueq62l1LU9_6suCrQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OVbGfHicHdDPboIwAIDx7GU8Kn-cUxOzTKUFpqiFFu1loa1YpAV0TJDb3mVPtaeZ2fE7fcnv-0dlRf77dJN1XX1OB4OmafqnsjypY5-X_awYJJ_3gg94ohRLeD4dvYzM15TPnC9nvrh48x2uKrJERmhIgiO6pBa4MiI0A-gaEGIxe94KOB7Ss9OsO5QmezkUiroBXndrHWgW0zPSNEUKwL0xfCYGwon71sVkAsLcLwT0PUYe7Songa0MCn8loCqOwI-4Qz1iiBEGoCVqbO3sxztuVWLSC7ariECass6HG4g2kSnwQZtNGE_eyVIA7KgtirwO41YftDxQXd4ZRjnbywUBwnYkDZCSq8MeWzz3pYjNRgCw27jEO2KAYObPkRvcNzGNhCnaJEJbBP0hWtKMmSjjGtgU1nWIc-vhYvdSfpvZvX_N2Ueq62l1LU9_6suCrQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS09FNXFaR2hPYm04NVMyWXRabWhGYUhSSlRrbzFhR28zT0RSS1JsQkxjSEZ4TVdwc1QwazNNRlJQUTNsclZrcFBZMjlPVTNkeVYxcDBRMWMwUlRrMlRubFhSMUJ1Ym14SVpYSjBaVFkwVnpONU1IaDNNMk55UlRrMlp4SVdUVVpZUzJGMU5uSkNZWFZ0Y0hSUlVEaDFTSGxCVVJvaVFVUnpjamxtVkV0QmNXUkVRbkZTUjI4MVYzaDZZWHA1TFdGMlJWVTJiRlpoWnciLCJmY3YiOiIzIiwiZWkiOiJNRlhLYXU2ckJhdW1wdFFQOHVIeUFRIiwicWMiOiJDZ3hpWlhOMElHSnBjbmxoYm1rUUFIMXBneFVfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB0YXN0aWVzdCBiaXJ5YW5pPyIsImxrIjoiR2h4M2FHRjBJR2x6SUhSb1pTQjBZWE4wYVdWemRDQmlhWEo1WVc1cCIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNWFEcWxPSWpaX0lPQW1DTHAxdnJiQkhKU2tKSUhpdjdleDFPS2d1TDc3SHVfZ0N0dlNjRzJ3WXY4Z3k4Z0JhMmNETjlyckJxUFJXT2tRbGR5SnZQOERnb0oxYVNpbWM4b2loY2hEUHRXVXpNU3Ffd0hnQXZuNDBRQ3NPMkF4TDFvOGtiMVQ2N3hXTWhlYmZuYWZySm9ZM0dEX2VvZThIdWRjaDhYeGJidVdhaDFTNVd3YkppVlJaRjhKSjdKY1BBRSIsImlkIjoiZmNfTUZYS2F1NnJCYXVtcHRRUDh1SHlBUV82In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS09FNXFaR2hPYm04NVMyWXRabWhGYUhSSlRrbzFhR28zT0RSS1JsQkxjSEZ4TVdwc1QwazNNRlJQUTNsclZrcFBZMjlPVTNkeVYxcDBRMWMwUlRrMlRubFhSMUJ1Ym14SVpYSjBaVFkwVnpONU1IaDNNMk55UlRrMlp4SVdUVVpZUzJGMU5uSkNZWFZ0Y0hSUlVEaDFTSGxCVVJvaVFVUnpjamxtVkV0QmNXUkVRbkZTUjI4MVYzaDZZWHA1TFdGMlJWVTJiRlpoWnciLCJmY3YiOiIzIiwiZWkiOiJNRlhLYXU2ckJhdW1wdFFQOHVIeUFRIiwicWMiOiJDZ3hpWlhOMElHSnBjbmxoYm1rUUFIMXBneFVfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSB0YXN0aWVzdCBiaXJ5YW5pPyIsImxrIjoiR2h4M2FHRjBJR2x6SUhSb1pTQjBZWE4wYVdWemRDQmlhWEo1WVc1cCIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNWFEcWxPSWpaX0lPQW1DTHAxdnJiQkhKU2tKSUhpdjdleDFPS2d1TDc3SHVfZ0N0dlNjRzJ3WXY4Z3k4Z0JhMmNETjlyckJxUFJXT2tRbGR5SnZQOERnb0oxYVNpbWM4b2loY2hEUHRXVXpNU3Ffd0hnQXZuNDBRQ3NPMkF4TDFvOGtiMVQ2N3hXTWhlYmZuYWZySm9ZM0dEX2VvZThIdWRjaDhYeGJidVdhaDFTNVd3YkppVlJaRjhKSjdKY1BBRSIsImlkIjoiZmNfTUZYS2F1NnJCYXVtcHRRUDh1SHlBUV82In0%3D"
+  },
+  {
+   "question": "Which is no. 1 biryani in Bangalore?",
+   "type": "ai_overview",
+   "page_token": "n-aks3icHdDBkpowAADQ6c_sUYGwbuuM01lWAmYKmhgSyGUHEzRiCGl1jRz3X_pV_Zp2en3H9_nbnO3lz5e7vt3cdTmfe-9np3E8mW4mx9nZztvrZOVctsYcWnlZLl4W4fejXKUfafL2c5Pgyjm2JsE-cFwYXe8hIThg17KGH3WkJ0HLDbYqlUP1rKJH0nHlG_rqMXA5WUOkaOJZpnYFRVETmLiwZHfgaNoHDDAwxqVF60OtogIaq8Jv1zbaxDTTSPDHgoTQFn1zU8zsuNGutDg-9KQXWXhmQUnF8Choru64v3jBxa4EDtO1SUSut03NWFU3Ea1R0A1fQ2EQpGn8XJlkQQYBUi1KYvSPpq4ieUFa8dArCPE2Z5uugiQ7o4Tk5bTloio4GSqY-C5DW2obIGuXFcD1Ajr8z4Z2CsHTUd5X4On_5ur9ONyW7td4-gsZU4Fh",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n-aks3icHdDBkpowAADQ6c_sUYGwbuuM01lWAmYKmhgSyGUHEzRiCGl1jRz3X_pV_Zp2en3H9_nbnO3lz5e7vt3cdTmfe-9np3E8mW4mx9nZztvrZOVctsYcWnlZLl4W4fejXKUfafL2c5Pgyjm2JsE-cFwYXe8hIThg17KGH3WkJ0HLDbYqlUP1rKJH0nHlG_rqMXA5WUOkaOJZpnYFRVETmLiwZHfgaNoHDDAwxqVF60OtogIaq8Jv1zbaxDTTSPDHgoTQFn1zU8zsuNGutDg-9KQXWXhmQUnF8Choru64v3jBxa4EDtO1SUSut03NWFU3Ea1R0A1fQ2EQpGn8XJlkQQYBUi1KYvSPpq4ieUFa8dArCPE2Z5uugiQ7o4Tk5bTloio4GSqY-C5DW2obIGuXFcD1Ajr8z4Z2CsHTUd5X4On_5ur9ONyW7td4-gsZU4Fh",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS09FNXFaR2hPYm04NVMyWXRabWhGYUhSSlRrbzFhR28zT0RSS1JsQkxjSEZ4TVdwc1QwazNNRlJQUTNsclZrcFBZMjlPVTNkeVYxcDBRMWMwUlRrMlRubFhSMUJ1Ym14SVpYSjBaVFkwVnpONU1IaDNNMk55UlRrMlp4SVdUVVpZUzJGMU5uSkNZWFZ0Y0hSUlVEaDFTSGxCVVJvaVFVUnpjamxtVkV0QmNXUkVRbkZTUjI4MVYzaDZZWHA1TFdGMlJWVTJiRlpoWnciLCJmY3YiOiIzIiwiZWkiOiJNRlhLYXU2ckJhdW1wdFFQOHVIeUFRIiwicWMiOiJDZ3hpWlhOMElHSnBjbmxoYm1rUUFIMXBneFVfIiwicXVlc3Rpb24iOiJXaGljaCBpcyBuby4gMSBiaXJ5YW5pIGluIEJhbmdhbG9yZT8iLCJsayI6IkdpSjNhR2xqYUNCcGN5QnVieUF4SUdKcGNubGhibWtnYVc0Z1ltRnVaMkZzYjNKbCIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNWFEcWxPSWpaX0lPQW1DTHAxdnJiQkhKU2tKSUhpdjdleDFPS2d1TDc3SHVfZ0N0dlNjRzJ3WXY4Z3k4Z0JhMmNETjlyckJxUFJXT2tRbGR5SnZQOERnb0oxYVNpbWM4b2loY2hEUHRXVXpNU3Ffd0hnQXZuNDBRQ3NPMkF4TDFvOGtiMVQ2N3hXTWhlYmZuYWZySm9ZM0dEX2VvZThIdWRjaDhYeGJidVdhaDFTNVd3YkppVlJaRjhKSjdKY1BBRSIsImlkIjoiZmNfTUZYS2F1NnJCYXVtcHRRUDh1SHlBUV82In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS09FNXFaR2hPYm04NVMyWXRabWhGYUhSSlRrbzFhR28zT0RSS1JsQkxjSEZ4TVdwc1QwazNNRlJQUTNsclZrcFBZMjlPVTNkeVYxcDBRMWMwUlRrMlRubFhSMUJ1Ym14SVpYSjBaVFkwVnpONU1IaDNNMk55UlRrMlp4SVdUVVpZUzJGMU5uSkNZWFZ0Y0hSUlVEaDFTSGxCVVJvaVFVUnpjamxtVkV0QmNXUkVRbkZTUjI4MVYzaDZZWHA1TFdGMlJWVTJiRlpoWnciLCJmY3YiOiIzIiwiZWkiOiJNRlhLYXU2ckJhdW1wdFFQOHVIeUFRIiwicWMiOiJDZ3hpWlhOMElHSnBjbmxoYm1rUUFIMXBneFVfIiwicXVlc3Rpb24iOiJXaGljaCBpcyBuby4gMSBiaXJ5YW5pIGluIEJhbmdhbG9yZT8iLCJsayI6IkdpSjNhR2xqYUNCcGN5QnVieUF4SUdKcGNubGhibWtnYVc0Z1ltRnVaMkZzYjNKbCIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNWFEcWxPSWpaX0lPQW1DTHAxdnJiQkhKU2tKSUhpdjdleDFPS2d1TDc3SHVfZ0N0dlNjRzJ3WXY4Z3k4Z0JhMmNETjlyckJxUFJXT2tRbGR5SnZQOERnb0oxYVNpbWM4b2loY2hEUHRXVXpNU3Ffd0hnQXZuNDBRQ3NPMkF4TDFvOGtiMVQ2N3hXTWhlYmZuYWZySm9ZM0dEX2VvZThIdWRjaDhYeGJidVdhaDFTNVd3YkppVlJaRjhKSjdKY1BBRSIsImlkIjoiZmNfTUZYS2F1NnJCYXVtcHRRUDh1SHlBUV82In0%3D"
+  },
+  {
+   "question": "What are the top 10 biryani places in India?",
+   "type": "ai_overview",
+   "page_token": "MT9t03icHdBfboIwHADg7DI-KoXopolZUqUg0yqlf6AvCxYU5CfoRFHfdpedaqdZsu8I3_cPlHX1-3Ir2vZ0mQwGXdf1902zh7xvmn5ZD9LLozYDkwJsU1NNRq8j9L4zU_fq4tl5gUNxOsk5syLr7mhn0RlHl5FtWVnNnnpOipVHb1y-OcZrfe7Lcx7jRrt3YIqsDWKuqnTFa3Yz1fjIhLAMYJt6nWNEVtM4IysInsyVtlIwS6wxNurOElmEMXKRQBgiEiwU2bcrh8VCZHKpEGgSlNylV-7J4xYK0DZ6pICj5FA9Uh_f13Nt5Qf6FJxsEjXccKDztE6GVGYRr4smB83cQlMGxTKJhW2qoMgU6jJCwrUvF7kgzCsDzHz6WCsdcSGG-kCuK3VpY6v9kD7DKYy91G5lAjLcRoj1duY2dXr_m9PP3bGdnL6a_R80U4IX",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MT9t03icHdBfboIwHADg7DI-KoXopolZUqUg0yqlf6AvCxYU5CfoRFHfdpedaqdZsu8I3_cPlHX1-3Ir2vZ0mQwGXdf1902zh7xvmn5ZD9LLozYDkwJsU1NNRq8j9L4zU_fq4tl5gUNxOsk5syLr7mhn0RlHl5FtWVnNnnpOipVHb1y-OcZrfe7Lcx7jRrt3YIqsDWKuqnTFa3Yz1fjIhLAMYJt6nWNEVtM4IysInsyVtlIwS6wxNurOElmEMXKRQBgiEiwU2bcrh8VCZHKpEGgSlNylV-7J4xYK0DZ6pICj5FA9Uh_f13Nt5Qf6FJxsEjXccKDztE6GVGYRr4smB83cQlMGxTKJhW2qoMgU6jJCwrUvF7kgzCsDzHz6WCsdcSGG-kCuK3VpY6v9kD7DKYy91G5lAjLcRoj1duY2dXr_m9PP3bGdnL6a_R80U4IX",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS09FNXFaR2hPYm04NVMyWXRabWhGYUhSSlRrbzFhR28zT0RSS1JsQkxjSEZ4TVdwc1QwazNNRlJQUTNsclZrcFBZMjlPVTNkeVYxcDBRMWMwUlRrMlRubFhSMUJ1Ym14SVpYSjBaVFkwVnpONU1IaDNNMk55UlRrMlp4SVdUVVpZUzJGMU5uSkNZWFZ0Y0hSUlVEaDFTSGxCVVJvaVFVUnpjamxtVkV0QmNXUkVRbkZTUjI4MVYzaDZZWHA1TFdGMlJWVTJiRlpoWnciLCJmY3YiOiIzIiwiZWkiOiJNRlhLYXU2ckJhdW1wdFFQOHVIeUFRIiwicWMiOiJDZ3hpWlhOMElHSnBjbmxoYm1rUUFIMXBneFVfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDEwIGJpcnlhbmkgcGxhY2VzIGluIEluZGlhPyIsImxrIjoiR2g1MGIzQWdNVEFnWW1seWVXRnVhU0J3YkdGalpYTWdhVzRnYVc1a2FXRSIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNWFEcWxPSWpaX0lPQW1DTHAxdnJiQkhKU2tKSUhpdjdleDFPS2d1TDc3SHVfZ0N0dlNjRzJ3WXY4Z3k4Z0JhMmNETjlyckJxUFJXT2tRbGR5SnZQOERnb0oxYVNpbWM4b2loY2hEUHRXVXpNU3Ffd0hnQXZuNDBRQ3NPMkF4TDFvOGtiMVQ2N3hXTWhlYmZuYWZySm9ZM0dEX2VvZThIdWRjaDhYeGJidVdhaDFTNVd3YkppVlJaRjhKSjdKY1BBRSIsImlkIjoiZmNfTUZYS2F1NnJCYXVtcHRRUDh1SHlBUV82In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS09FNXFaR2hPYm04NVMyWXRabWhGYUhSSlRrbzFhR28zT0RSS1JsQkxjSEZ4TVdwc1QwazNNRlJQUTNsclZrcFBZMjlPVTNkeVYxcDBRMWMwUlRrMlRubFhSMUJ1Ym14SVpYSjBaVFkwVnpONU1IaDNNMk55UlRrMlp4SVdUVVpZUzJGMU5uSkNZWFZ0Y0hSUlVEaDFTSGxCVVJvaVFVUnpjamxtVkV0QmNXUkVRbkZTUjI4MVYzaDZZWHA1TFdGMlJWVTJiRlpoWnciLCJmY3YiOiIzIiwiZWkiOiJNRlhLYXU2ckJhdW1wdFFQOHVIeUFRIiwicWMiOiJDZ3hpWlhOMElHSnBjbmxoYm1rUUFIMXBneFVfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDEwIGJpcnlhbmkgcGxhY2VzIGluIEluZGlhPyIsImxrIjoiR2g1MGIzQWdNVEFnWW1seWVXRnVhU0J3YkdGalpYTWdhVzRnYVc1a2FXRSIsImJzIjoiYzQzT01RdkNNQkFGWUZ4dmNnNWFEcWxPSWpaX0lPQW1DTHAxdnJiQkhKU2tKSUhpdjdleDFPS2d1TDc3SHVfZ0N0dlNjRzJ3WXY4Z3k4Z0JhMmNETjlyckJxUFJXT2tRbGR5SnZQOERnb0oxYVNpbWM4b2loY2hEUHRXVXpNU3Ffd0hnQXZuNDBRQ3NPMkF4TDFvOGtiMVQ2N3hXTWhlYmZuYWZySm9ZM0dEX2VvZThIdWRjaDhYeGJidVdhaDFTNVd3YkppVlJaRjhKSjdKY1BBRSIsImlkIjoiZmNfTUZYS2F1NnJCYXVtcHRRUDh1SHlBUV82In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "O_WCYHiczVVZcuI4GD7AnGP80gkGDARS5eqSjBclOERkhRfKW7xg42DZOOSt7zKnmqq5y8gbmATodD9MjSgsS_r975--H3_57nLx9x__OHH8Si5ZNk3Thh2Gtm81jLDhLlmNbJYG-xL6JDKc7yRMIsNyTd5wojCwmCTxLT79JgCEkYAe74NHDokTX5ed19F29pOZ7DuM7fPuknF83loymzXPMQbhm4zl8qr0fK0lvQhqSfAa49t-omwAZnLL_FzXiOVR1948ws5Z-lj8yQ3pokEa1nIuw4aI1fl7ZMlXEDXazTbXGLNaQGXAfzhsEWD6pG8LIJ4QA_BL6hACQMAAbTewUB5sd-gGzg7oT0TF2j6urPCOelk6MPeUQE4BuKlkTjgj1vSmoLQF1DwcgCdfCmg3CmVhtTydj4MRlZ887ITqGT8aCVL3VkCwVXBLAyhtCB-ki6zuWUxzMSUdq3AsTvBJz4GEgaLaAnZPi9ERCqgPK21ySkuCWdOmDdxk9YhOLdY1HCN_iUjW18L9oBlKkhi46eAiUJ3rlSQ6C_U8kBUOcFfjlDV0KueHmmmZc2fe_J6vW-1WtzngLvpnOaYMsgUVqYPqUY7E9nNPeVbtxqgBWxWcaIJ2ed4vDAThoUoJ2QfoU2qrQfvyUA6hUGv70mQuucn2a6UWvGbR1uUeogkHMBX3lKLKQ_AZTuKeSGkQl81p2_mBXUZS00gvlp0NuHc2_hzN535URVgoFgSh0FN2pg3Ah4w4YFIPeq-DM_cwcKVsDqkfKXzI-7RT-wDcQOoq-ngjwSz3ThlW5WFVQbeWYyhl9aBnUFzQ5Z0zxcIEFIBAWUOI2wIJcM934UjVYaZs-hPsHB3XX5JCFW4-wKAOHzFZOESS7qaxJz0oA5OD-nTlD8AQ3OPDcAkD_ddIyPh_YaqiKFxS1FFMTb6EKYTgIYoSy9PC1x1FZZgSbNs-gqlRgamKorKziqJu61aLaD5hSiQ7TG1wTlHqMYr6ZUzBk5iqinQIUw-HMYWOYQqpHzDlqHiPovaqvqWoGqZ-g6Kuf5eicohZxbTPV4lnH-UtBVmt2ZOZzN5j5WI9vV9zWnDuSbE82fyct16C-DLQTP9s7pqXsH0Vb8yzOd0ILy2TWfG6ReJvuhtttKXLBH4U8k3twhvLYH19Zz75XXnYnwk9H6-mQ7R8il7a4_Rdct0hTNyJM3lri-J8Fb8PbnsWMm_uQsd2sXW7fphqXqJI8jLqTqaSYHZGejpMHptNYr1FA38ikW4ogzboegN3MVXWAzyDm-G9DeVwNeQ8Eo9lZ72eWZ70TnKvCK89jtY3vedzp9dkqPvE4ltMEBk8rW_HBjcYPAGgUdyBKxvSS4_-6Tyi8yik16wyBXiYAZkhhja3yJrvd3WrMzD0Tpfj-rpJldrx5pXvcAxZRnzrX_OEX78",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=O_WCYHiczVVZcuI4GD7AnGP80gkGDARS5eqSjBclOERkhRfKW7xg42DZOOSt7zKnmqq5y8gbmATodD9MjSgsS_r975--H3_57nLx9x__OHH8Si5ZNk3Thh2Gtm81jLDhLlmNbJYG-xL6JDKc7yRMIsNyTd5wojCwmCTxLT79JgCEkYAe74NHDokTX5ed19F29pOZ7DuM7fPuknF83loymzXPMQbhm4zl8qr0fK0lvQhqSfAa49t-omwAZnLL_FzXiOVR1948ws5Z-lj8yQ3pokEa1nIuw4aI1fl7ZMlXEDXazTbXGLNaQGXAfzhsEWD6pG8LIJ4QA_BL6hACQMAAbTewUB5sd-gGzg7oT0TF2j6urPCOelk6MPeUQE4BuKlkTjgj1vSmoLQF1DwcgCdfCmg3CmVhtTydj4MRlZ887ITqGT8aCVL3VkCwVXBLAyhtCB-ki6zuWUxzMSUdq3AsTvBJz4GEgaLaAnZPi9ERCqgPK21ySkuCWdOmDdxk9YhOLdY1HCN_iUjW18L9oBlKkhi46eAiUJ3rlSQ6C_U8kBUOcFfjlDV0KueHmmmZc2fe_J6vW-1WtzngLvpnOaYMsgUVqYPqUY7E9nNPeVbtxqgBWxWcaIJ2ed4vDAThoUoJ2QfoU2qrQfvyUA6hUGv70mQuucn2a6UWvGbR1uUeogkHMBX3lKLKQ_AZTuKeSGkQl81p2_mBXUZS00gvlp0NuHc2_hzN535URVgoFgSh0FN2pg3Ah4w4YFIPeq-DM_cwcKVsDqkfKXzI-7RT-wDcQOoq-ngjwSz3ThlW5WFVQbeWYyhl9aBnUFzQ5Z0zxcIEFIBAWUOI2wIJcM934UjVYaZs-hPsHB3XX5JCFW4-wKAOHzFZOESS7qaxJz0oA5OD-nTlD8AQ3OPDcAkD_ddIyPh_YaqiKFxS1FFMTb6EKYTgIYoSy9PC1x1FZZgSbNs-gqlRgamKorKziqJu61aLaD5hSiQ7TG1wTlHqMYr6ZUzBk5iqinQIUw-HMYWOYQqpHzDlqHiPovaqvqWoGqZ-g6Kuf5eicohZxbTPV4lnH-UtBVmt2ZOZzN5j5WI9vV9zWnDuSbE82fyct16C-DLQTP9s7pqXsH0Vb8yzOd0ILy2TWfG6ReJvuhtttKXLBH4U8k3twhvLYH19Zz75XXnYnwk9H6-mQ7R8il7a4_Rdct0hTNyJM3lri-J8Fb8PbnsWMm_uQsd2sXW7fphqXqJI8jLqTqaSYHZGejpMHptNYr1FA38ikW4ogzboegN3MVXWAzyDm-G9DeVwNeQ8Eo9lZ72eWZ70TnKvCK89jtY3vedzp9dkqPvE4ltMEBk8rW_HBjcYPAGgUdyBKxvSS4_-6Tyi8yik16wyBXiYAZkhhja3yJrvd3WrMzD0Tpfj-rpJldrx5pXvcAxZRnzrX_OEX78"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Best Biryani Restaurants In Delhi 2026 | Order Online",
+   "link": "https://www.swiggy.com/city/delhi/biryani-dish-restaurants",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVhyuN8X38VswfZvpeggNK3QtXT3j6X8VFVe22HIOuGA2jDryeNiwwhRaCi0ilg7KoXm4jLJYZkFz6YpdAELs8dSD_hhgVVjguH5FyFrBKB0v2IVs6LptfpVGxKX0MJWFB9ueiknUh-L_xz_4WlFLKog&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://www.swiggy.com › Home › Delhi",
+   "favicon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHV3mduGcYtye807yISqfykPACv5d08Siandzc4hX57vcoRDTR2q1G1AOqVXAAD-7mrJhe_whQUybeQCofTC7g_CXQGVbYHhGWkVypz0kdMhzz3ADpwf_bj8UiTiMiqFKz_47THBdF05nwq9UrzcF2Lu3qwlMPntqBmwzn9ht62hZee73dyBNr4KXE9zk2wcEJEKi-Ncwytqu3TPQL5ptzc3e2CP6O23xK4Hrwx90GYVhIXL4mlk5IOgLH1P5rM-tlhuBh_P9flX9V3NaHqpYa4_Br3wwfsl11_rU_j_pci7HN3NFoYA-y5pz1gHMP_-DwbfCl7a7VIFLJJY8QLs6PjYUVD8fHb-GRIArfW1v0fmtE4gBw_bAPP48ZTM4MAA.webp",
+   "snippet": "Explore The Best Biryani Restaurants In Delhi. View Menus, Photos, Ratings, Reviews Or Order Online And Enjoy Mouth-watering Biryani. 400 EatRight Gourmet Show",
+   "snippet_highlighted_words": [
+    "Explore The Best Biryani Restaurants In Delhi"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Explore The Best Biryani Restaurants In Delhi. View Menus, Photos, Ratings, Reviews Or Order Online And Enjoy Mouth-watering Biryani. 400 EatRight Gourmet Show",
+     "source_info_link": "https://www.swiggy.com/city/delhi/biryani-dish-restaurants",
+     "icon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHV3mduGcYtye807yISqfykPACv5d08Siandzc4hX57vcoRDTR2q1G1AOqVXAAD-7mrJhe_whQUybeQCofTC7g_CXQGVbYHhGWkVypz0kdMhzz3ADpwf_bj8UiTiMiqFKz_47THBdF05nwq9UrzcF2Lu3qwlMPntqBmwzn9ht62hZee73dyBNr4KXE9zk2wcEJEKi-Ncwytqu3TPQL5ptzc3e2CP6O23xK4Hrwx90GYVhIXL4mlk5IOgLH1P5rM-tlhuBh_P9flX9V3NaHqpYa4_Br3wwfsl11_rU_j_pci7HN3NFoYA-y5pz1gHMP_-DwbfCl7a7VIFLJJY8QLs6PjYUVD8fHb-GRIArfW1v0fmtE4gBw_bAPP48ZTM4MAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmh5dU44WDM4VnN3Zlp2cGVnZ05LM1F0WFQzajZYOFZGVmUyMkhJT3VHQTJqRHJ5ZU5pd3doUmFDaTBpbGc3S29YbTRqTEpZWmtGejZZcGRBRUxzOGRTRF9oaGdWVmpndUg1RnlGckJLQjB2MklWczZMcHRmcFZHeEtYME1KV0ZCOXVlaWtuVWgtTF94el80V2xGTEtvZxIEGgIIABquBBICCAAaACIAKgA6AEIECAEQAEoUCAESDERlbGhpLCBEZWxoaRoCCAJaAHIAegCCQPwDCAAQABgAIAAqIwoEYmVzdBWmJVFAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVgwHFQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKsAS9nb3RvP3VybD1DQUVTZFFIck96QVZoeXVOOFgzOFZzd2ZadnBlZ2dOSzNRdFhUM2o2WDhWRlZlMjJISU91R0EyakRyeWVOaXd3aFJhQ2kwaWxnN0tvWG00akxKWVprRno2WXBkQUVMczhkU0RfaGhnVlZqZ3VINUZ5RnJCS0IwdjJJVnM2THB0ZnBWR3hLWDBNSldGQjl1ZWlrblVoLUxfeHpfNFdsRkxLb2c6RTxiPkJlc3QgQmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgSW4gRGVsaGkgMjAyNiB8IE9yZGVyIE9ubGluZSAtIFN3aWdneUKmATxiPkV4cGxvcmUgVGhlIEJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBJbiBEZWxoaTwvYj4uIFZpZXcgTWVudXMsIFBob3RvcywgUmF0aW5ncywgUmV2aWV3cyBPciBPcmRlciBPbmxpbmUgQW5kIEVuam95IE1vdXRoLXdhdGVyaW5nIEJpcnlhbmkuIDQwMCBFYXRSaWdodCBHb3VybWV0IFNob3dSA3RvcCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmh5dU44WDM4VnN3Zlp2cGVnZ05LM1F0WFQzajZYOFZGVmUyMkhJT3VHQTJqRHJ5ZU5pd3doUmFDaTBpbGc3S29YbTRqTEpZWmtGejZZcGRBRUxzOGRTRF9oaGdWVmpndUg1RnlGckJLQjB2MklWczZMcHRmcFZHeEtYME1KV0ZCOXVlaWtuVWgtTF94el80V2xGTEtvZxIEGgIIABquBBICCAAaACIAKgA6AEIECAEQAEoUCAESDERlbGhpLCBEZWxoaRoCCAJaAHIAegCCQPwDCAAQABgAIAAqIwoEYmVzdBWmJVFAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVgwHFQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKsAS9nb3RvP3VybD1DQUVTZFFIck96QVZoeXVOOFgzOFZzd2ZadnBlZ2dOSzNRdFhUM2o2WDhWRlZlMjJISU91R0EyakRyeWVOaXd3aFJhQ2kwaWxnN0tvWG00akxKWVprRno2WXBkQUVMczhkU0RfaGhnVlZqZ3VINUZ5RnJCS0IwdjJJVnM2THB0ZnBWR3hLWDBNSldGQjl1ZWlrblVoLUxfeHpfNFdsRkxLb2c6RTxiPkJlc3QgQmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgSW4gRGVsaGkgMjAyNiB8IE9yZGVyIE9ubGluZSAtIFN3aWdneUKmATxiPkV4cGxvcmUgVGhlIEJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBJbiBEZWxoaTwvYj4uIFZpZXcgTWVudXMsIFBob3RvcywgUmF0aW5ncywgUmV2aWV3cyBPciBPcmRlciBPbmxpbmUgQW5kIEVuam95IE1vdXRoLXdhdGVyaW5nIEJpcnlhbmkuIDQwMCBFYXRSaWdodCBHb3VybWV0IFNob3dSA3RvcCICEAFIAFgAaAA",
+   "source": "Swiggy"
+  },
+  {
+   "position": 2,
+   "title": "Let's end thisss please tell me the best biryani in delhi ncr",
+   "link": "https://www.reddit.com/r/delhi/comments/1i6py34/lets_end_thisss_please_tell_me_the_best_biryani/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFbzEf8pWznmS_rfq_X1wkUxmFTrBbpOpp3AKAX4tIdnGAD6T5s7rU8oUB4iGO0iS25RkcAYUfRuNiAgbIsaeeYc_K2DZbd6suHId1rP4tm5EdB8ukGiXvtFFQmvDWZ5738QasblzMskFBlh7ZM7aAyWUSFiNGGvU102V8NZDeG-U7J3BqImF8plwly7jwjm40kjd8uC2jQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQFnoECDMQAQ&uoh=1",
+   "displayed_link": "160+ comments · 1 year ago",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "Zahra Biryani - Mild and soul satisfying, Bikkagini Biryani. Thailairaj Biryani. Chicken 65 and Pepper Biryani are good Biryani by Kilo - ...",
+   "snippet_highlighted_words": [
+    "Zahra Biryani"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Zahra Biryani - Mild and soul satisfying, Bikkagini Biryani. Thailairaj Biryani. Chicken 65 and Pepper Biryani are good Biryani by Kilo - ...",
+     "source_info_link": "https://www.reddit.com/r/delhi/comments/1i6py34/lets_end_thisss_please_tell_me_the_best_biryani/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiekVmOHBXem5tU19yZnFfWDF3a1V4bUZUckJicE9wcDNBS0FYNHRJZG5HQUQ2VDVzN3JVOG9VQjRpR08waVMyNVJrY0FZVWZSdU5pQWdiSXNhZWVZY19LMkRaYmQ2c3VISWQxclA0dG01RWRCOHVrR2lYdnRGRlFtdkRXWjU3MzhRYXNibHpNc2tGQmxoN1pNN2FBeVdVU0ZpTkdHdlUxMDJWOE5aRGVHLVU3SjNCcUltRjhwbHdseTdqd2ptNDBramQ4dUMyalESBBoCCAAa1gQSABoAIgAqADoAQgQIARAAShQIARIMRGVsaGksIERlbGhpGgIIAloAcgB6AIJApgQIABAAGAAgACojCgRiZXN0FVW5iEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRW8_6lAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiekVmOHBXem5tU19yZnFfWDF3a1V4bUZUckJicE9wcDNBS0FYNHRJZG5HQUQ2VDVzN3JVOG9VQjRpR08waVMyNVJrY0FZVWZSdU5pQWdiSXNhZWVZY19LMkRaYmQ2c3VISWQxclA0dG01RWRCOHVrR2lYdnRGRlFtdkRXWjU3MzhRYXNibHpNc2tGQmxoN1pNN2FBeVdVU0ZpTkdHdlUxMDJWOE5aRGVHLVU3SjNCcUltRjhwbHdseTdqd2ptNDBramQ4dUMyalE6SExldCYjMzk7cyBlbmQgdGhpc3NzIHBsZWFzZSB0ZWxsIG1lIHRoZSA8Yj5iZXN0IGJpcnlhbmk8L2I-IGluIGRlbGhpIG5jckKZATxiPlphaHJhIEJpcnlhbmk8L2I-IC0gTWlsZCBhbmQgc291bCBzYXRpc2Z5aW5nLCBCaWtrYWdpbmkgQmlyeWFuaS4gVGhhaWxhaXJhaiBCaXJ5YW5pLiBDaGlja2VuIDY1IGFuZCBQZXBwZXIgQmlyeWFuaSBhcmUgZ29vZCBCaXJ5YW5pIGJ5IEtpbG8gLSZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiekVmOHBXem5tU19yZnFfWDF3a1V4bUZUckJicE9wcDNBS0FYNHRJZG5HQUQ2VDVzN3JVOG9VQjRpR08waVMyNVJrY0FZVWZSdU5pQWdiSXNhZWVZY19LMkRaYmQ2c3VISWQxclA0dG01RWRCOHVrR2lYdnRGRlFtdkRXWjU3MzhRYXNibHpNc2tGQmxoN1pNN2FBeVdVU0ZpTkdHdlUxMDJWOE5aRGVHLVU3SjNCcUltRjhwbHdseTdqd2ptNDBramQ4dUMyalESBBoCCAAa1gQSABoAIgAqADoAQgQIARAAShQIARIMRGVsaGksIERlbGhpGgIIAloAcgB6AIJApgQIABAAGAAgACojCgRiZXN0FVW5iEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRW8_6lAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiekVmOHBXem5tU19yZnFfWDF3a1V4bUZUckJicE9wcDNBS0FYNHRJZG5HQUQ2VDVzN3JVOG9VQjRpR08waVMyNVJrY0FZVWZSdU5pQWdiSXNhZWVZY19LMkRaYmQ2c3VISWQxclA0dG01RWRCOHVrR2lYdnRGRlFtdkRXWjU3MzhRYXNibHpNc2tGQmxoN1pNN2FBeVdVU0ZpTkdHdlUxMDJWOE5aRGVHLVU3SjNCcUltRjhwbHdseTdqd2ptNDBramQ4dUMyalE6SExldCYjMzk7cyBlbmQgdGhpc3NzIHBsZWFzZSB0ZWxsIG1lIHRoZSA8Yj5iZXN0IGJpcnlhbmk8L2I-IGluIGRlbGhpIG5jckKZATxiPlphaHJhIEJpcnlhbmk8L2I-IC0gTWlsZCBhbmQgc291bCBzYXRpc2Z5aW5nLCBCaWtrYWdpbmkgQmlyeWFuaS4gVGhhaWxhaXJhaiBCaXJ5YW5pLiBDaGlja2VuIDY1IGFuZCBQZXBwZXIgQmlyeWFuaSBhcmUgZ29vZCBCaXJ5YW5pIGJ5IEtpbG8gLSZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "source": "Reddit · r/delhi"
+  },
+  {
+   "position": 3,
+   "title": "Best biryani in Delhi, as picked by the city's top foodies",
+   "link": "https://www.cntraveller.in/story/best-biryani-in-delhi-as-picked-by-the-citys-top-foodies/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFeuAYyi-7sEbn_0MvMda_K7j25qn0uk5HM1lT1o--MIH5HlAVMwci57uwfX6nn3izaNj4q0YY7E1HX9D1MTPu5lkqbsbB5NdT0vltnPu91j1a28_IG6p5rbKFgXPEmSBO9fEG4ieV1Yk2dR4WX7R-y2FlXF4wGAH-UV0ApcnxJSgIKODy32n04_wPheHHE3hvg&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQFnoECDEQAQ&uoh=1",
+   "displayed_link": "https://www.cntraveller.in › Food & Drink › Biryani",
+   "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAKwzMaB0WoZnmegNRVHVpVOLI0n3zOe03lpEgEequgAA_vd14f5zEPwiGVuSTnYPnvaN2CUi7DepI_Ja0baDZilf0ey4KAK0hcqsa8qVUIjebxRFsqd6HP2NChIUPd4HW1dZCIfWJ-OeJUsmRRkhRz3lWo_2uIZuP5Tl6x_k31nkWO7yzswbKTCOlOOFDsEqKeXUEJtS5WoHxocD7U9LYzXaOTTp5O_4BB_960xWLXuf_njJtnqeZuYH9G00h1LjX3sE4UzD9_PicDUPJqG8sXwJzsmTh__NTOfv2dTw9K7-PCz3VxP_yy-n9-_34nueDJHKf1JJ72_wLWb85EEvUD_v9odUcep1fre1SwIrybH4hBkwROev8niqFu9T4ZJbLt5kg1ePCNz1eFJbk2AA.webp",
+   "date": "28 Jan 2023",
+   "snippet": "Best biryani in Delhi · Aminia, CR Park · Dum Pukth, ITC Maurya · Janpath · Andhra Bhavan and Jama Masjid · Bhawan · Behrouz Biryani · Sassy ...",
+   "snippet_highlighted_words": [
+    "Aminia, CR Park"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Best biryani in Delhi · Aminia, CR Park · Dum Pukth, ITC Maurya · Janpath · Andhra Bhavan and Jama Masjid · Bhawan · Behrouz Biryani · Sassy ...",
+     "source_info_link": "https://www.cntraveller.in/story/best-biryani-in-delhi-as-picked-by-the-citys-top-foodies/",
+     "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAKwzMaB0WoZnmegNRVHVpVOLI0n3zOe03lpEgEequgAA_vd14f5zEPwiGVuSTnYPnvaN2CUi7DepI_Ja0baDZilf0ey4KAK0hcqsa8qVUIjebxRFsqd6HP2NChIUPd4HW1dZCIfWJ-OeJUsmRRkhRz3lWo_2uIZuP5Tl6x_k31nkWO7yzswbKTCOlOOFDsEqKeXUEJtS5WoHxocD7U9LYzXaOTTp5O_4BB_960xWLXuf_njJtnqeZuYH9G00h1LjX3sE4UzD9_PicDUPJqG8sXwJzsmTh__NTOfv2dTw9K7-PCz3VxP_yy-n9-_34nueDJHKf1JJ72_wLWb85EEvUD_v9odUcep1fre1SwIrybH4hBkwROev8niqFu9T4ZJbLt5kg1ePCNz1eFJbk2AA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZldUFZeWktN3NFYm5fME12TWRhX0s3ajI1cW4wdWs1SE0xbFQxby0tTUlINUhsQVZNd2NpNTd1d2ZYNm5uM2l6YU5qNHEwWVk3RTFIWDlEMU1UUHU1bGtxYnNiQjVOZFQwdmx0blB1OTFqMWEyOF9JRzZwNXJiS0ZnWFBFbVNCTzlmRUc0aWVWMVlrMmRSNFdYN1IteTJGbFhGNHdHQUgtVVYwQXBjbnhKU2dJS09EeTMybjA0X3dQaGVISEUzaHZnEgQaAggAGoEFEgIIABoAIgAqADoAQgQIARAAShQIARIMRGVsaGksIERlbGhpGgIIAloAcgB6AIJAzwQIABAAGAAgACojCgRiZXN0FfRLhEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRU9KZlAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZldUFZeWktN3NFYm5fME12TWRhX0s3ajI1cW4wdWs1SE0xbFQxby0tTUlINUhsQVZNd2NpNTd1d2ZYNm5uM2l6YU5qNHEwWVk3RTFIWDlEMU1UUHU1bGtxYnNiQjVOZFQwdmx0blB1OTFqMWEyOF9JRzZwNXJiS0ZnWFBFbVNCTzlmRUc0aWVWMVlrMmRSNFdYN1IteTJGbFhGNHdHQUgtVVYwQXBjbnhKU2dJS09EeTMybjA0X3dQaGVISEUzaHZnOkU8Yj5CZXN0IGJpcnlhbmk8L2I-IGluIERlbGhpLCBhcyBwaWNrZWQgYnkgdGhlIGNpdHkmIzM5O3MgdG9wIGZvb2RpZXNCzQFCZXN0IGJpcnlhbmkgaW4gRGVsaGkgJm1pZGRvdDsgPGI-QW1pbmlhLCBDUiBQYXJrPC9iPiAmbWlkZG90OyBEdW0gUHVrdGgsIElUQyBNYXVyeWEgJm1pZGRvdDsgSmFucGF0aCAmbWlkZG90OyBBbmRocmEgQmhhdmFuIGFuZCBKYW1hIE1hc2ppZCAmbWlkZG90OyBCaGF3YW4gJm1pZGRvdDsgQmVocm91eiBCaXJ5YW5pICZtaWRkb3Q7IFNhc3N5Jm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZldUFZeWktN3NFYm5fME12TWRhX0s3ajI1cW4wdWs1SE0xbFQxby0tTUlINUhsQVZNd2NpNTd1d2ZYNm5uM2l6YU5qNHEwWVk3RTFIWDlEMU1UUHU1bGtxYnNiQjVOZFQwdmx0blB1OTFqMWEyOF9JRzZwNXJiS0ZnWFBFbVNCTzlmRUc0aWVWMVlrMmRSNFdYN1IteTJGbFhGNHdHQUgtVVYwQXBjbnhKU2dJS09EeTMybjA0X3dQaGVISEUzaHZnEgQaAggAGoEFEgIIABoAIgAqADoAQgQIARAAShQIARIMRGVsaGksIERlbGhpGgIIAloAcgB6AIJAzwQIABAAGAAgACojCgRiZXN0FfRLhEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRU9KZlAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZldUFZeWktN3NFYm5fME12TWRhX0s3ajI1cW4wdWs1SE0xbFQxby0tTUlINUhsQVZNd2NpNTd1d2ZYNm5uM2l6YU5qNHEwWVk3RTFIWDlEMU1UUHU1bGtxYnNiQjVOZFQwdmx0blB1OTFqMWEyOF9JRzZwNXJiS0ZnWFBFbVNCTzlmRUc0aWVWMVlrMmRSNFdYN1IteTJGbFhGNHdHQUgtVVYwQXBjbnhKU2dJS09EeTMybjA0X3dQaGVISEUzaHZnOkU8Yj5CZXN0IGJpcnlhbmk8L2I-IGluIERlbGhpLCBhcyBwaWNrZWQgYnkgdGhlIGNpdHkmIzM5O3MgdG9wIGZvb2RpZXNCzQFCZXN0IGJpcnlhbmkgaW4gRGVsaGkgJm1pZGRvdDsgPGI-QW1pbmlhLCBDUiBQYXJrPC9iPiAmbWlkZG90OyBEdW0gUHVrdGgsIElUQyBNYXVyeWEgJm1pZGRvdDsgSmFucGF0aCAmbWlkZG90OyBBbmRocmEgQmhhdmFuIGFuZCBKYW1hIE1hc2ppZCAmbWlkZG90OyBCaGF3YW4gJm1pZGRvdDsgQmVocm91eiBCaXJ5YW5pICZtaWRkb3Q7IFNhc3N5Jm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "source": "Condé Nast Traveller India",
+   "read_more_link": "https://www.cntraveller.in/story/best-biryani-in-delhi-as-picked-by-the-citys-top-foodies/#:~:text=Best%20biryani%20in%20Delhi&text=Aminia%2C%20CR%20Park&text=Dum%20Pukth%2C%20ITC%20Maurya&text=Janpath&text=Andhra%20Bhavan%20and%20Jama%20Masjid&text=Bhawan&text=Behrouz%20Biryani&text=Sassy%20Begum"
+  },
+  {
+   "position": 4,
+   "title": "Best Biryani Restaurants in Delhi - Order Food Online",
+   "link": "https://www.justdial.com/Delhi/Biryani-Restaurants/nct-10047018",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVZ5HQo3fc_UWVi1OpNX9gnFvMvlh8zK8TVkqD1OfWY0TLeL489Ka7UIN-S1tv25nqinqK6U1M5hvWW7k9lNyr4E5VM5yH593BOslEMZHwEc4uxUcJ2_htfsmhIjUTwIboNnd2Xc0KcMoIa-ci0SYIovb8wmkH&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://www.justdial.com › ... › 19179+ Listings",
+   "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+   "snippet": "Best Biryani Restaurants in Delhi - Order Food Online · Moti Mahal Delux · Zahra Restaurant & Cafe · Raja Dhaba · Chawlas Tandoori Junction · BS Gulatis Punjabi ...",
+   "snippet_highlighted_words": [
+    "Moti Mahal Delux"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Best Biryani Restaurants in Delhi - Order Food Online · Moti Mahal Delux · Zahra Restaurant & Cafe · Raja Dhaba · Chawlas Tandoori Junction · BS Gulatis Punjabi ...",
+     "source_info_link": "https://www.justdial.com/Delhi/Biryani-Restaurants/nct-10047018",
+     "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlo1SFFvM2ZjX1VXVmkxT3BOWDlnbkZ2TXZsaDh6SzhUVmtxRDFPZldZMFRMZUw0ODlLYTdVSU4tUzF0djI1bnFpbnFLNlUxTTVodldXN2s5bE55cjRFNVZNNXlINTkzQk9zbEVNWkh3RWM0dXhVY0oyX2h0ZnNtaElqVVR3SWJvTm5kMlhjMEtjTW9JYS1jaTBTWUlvdmI4d21rSBIEGgIIABrlBBIAGgAiACoAOgBCBAgBEABKFAgBEgxEZWxoaSwgRGVsaGkaAggCWgByAHoAgkC1BAgAEAAYACAAKiMKBGJlc3QV-oVZQBoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFaykkEAaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWWjVIUW8zZmNfVVdWaTFPcE5YOWduRnZNdmxoOHpLOFRWa3FEMU9mV1kwVExlTDQ4OUthN1VJTi1TMXR2MjVucWlucUs2VTFNNWh2V1c3azlsTnlyNEU1Vk01eUg1OTNCT3NsRU1aSHdFYzR1eFVjSjJfaHRmc21oSWpVVHdJYm9ObmQyWGMwS2NNb0lhLWNpMFNZSW92Yjh3bWtIOkc8Yj5CZXN0IEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIGluIERlbGhpIC0gT3JkZXIgRm9vZCBPbmxpbmUgLSBKdXN0ZGlhbELXAUJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBpbiBEZWxoaSAtIE9yZGVyIEZvb2QgT25saW5lICZtaWRkb3Q7IDxiPk1vdGkgTWFoYWwgRGVsdXg8L2I-ICZtaWRkb3Q7IFphaHJhIFJlc3RhdXJhbnQgJmFtcDsgQ2FmZSAmbWlkZG90OyBSYWphIERoYWJhICZtaWRkb3Q7IENoYXdsYXMgVGFuZG9vcmkgSnVuY3Rpb24gJm1pZGRvdDsgQlMgR3VsYXRpcyBQdW5qYWJpJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlo1SFFvM2ZjX1VXVmkxT3BOWDlnbkZ2TXZsaDh6SzhUVmtxRDFPZldZMFRMZUw0ODlLYTdVSU4tUzF0djI1bnFpbnFLNlUxTTVodldXN2s5bE55cjRFNVZNNXlINTkzQk9zbEVNWkh3RWM0dXhVY0oyX2h0ZnNtaElqVVR3SWJvTm5kMlhjMEtjTW9JYS1jaTBTWUlvdmI4d21rSBIEGgIIABrlBBIAGgAiACoAOgBCBAgBEABKFAgBEgxEZWxoaSwgRGVsaGkaAggCWgByAHoAgkC1BAgAEAAYACAAKiMKBGJlc3QV-oVZQBoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFaykkEAaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWWjVIUW8zZmNfVVdWaTFPcE5YOWduRnZNdmxoOHpLOFRWa3FEMU9mV1kwVExlTDQ4OUthN1VJTi1TMXR2MjVucWlucUs2VTFNNWh2V1c3azlsTnlyNEU1Vk01eUg1OTNCT3NsRU1aSHdFYzR1eFVjSjJfaHRmc21oSWpVVHdJYm9ObmQyWGMwS2NNb0lhLWNpMFNZSW92Yjh3bWtIOkc8Yj5CZXN0IEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIGluIERlbGhpIC0gT3JkZXIgRm9vZCBPbmxpbmUgLSBKdXN0ZGlhbELXAUJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBpbiBEZWxoaSAtIE9yZGVyIEZvb2QgT25saW5lICZtaWRkb3Q7IDxiPk1vdGkgTWFoYWwgRGVsdXg8L2I-ICZtaWRkb3Q7IFphaHJhIFJlc3RhdXJhbnQgJmFtcDsgQ2FmZSAmbWlkZG90OyBSYWphIERoYWJhICZtaWRkb3Q7IENoYXdsYXMgVGFuZG9vcmkgSnVuY3Rpb24gJm1pZGRvdDsgQlMgR3VsYXRpcyBQdW5qYWJpJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "source": "Justdial",
+   "read_more_link": "https://www.justdial.com/Delhi/Biryani-Restaurants/nct-10047018#:~:text=Best%20Biryani%20Restaurants%20in%20Delhi,%2D%20Order%20Food%20Online&text=Moti%20Mahal%20Delux&text=Zahra%20Restaurant%20%26%20Cafe&text=Raja%20Dhaba&text=Chawlas%20Tandoori%20Junction&text=BS%20Gulatis%20Punjabi%20Swad"
+  },
+  {
+   "position": 5,
+   "title": "Best Biryani Near Me in New Delhi",
+   "link": "https://biryanibykilo.com/store-locator/new-delhi",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVKfXyYeftUmElhtxbhh6qg17thlUEbEmeKXlO7h9giXxhEnhXJJIO-MlN-zqEbsSPb3ohB0i8ULzdhZjh7LtwEVG2f9u_55V0qxqJWRD5vTg8XtvLr7o3JPgWh0HRjAekYwAb4uGAvg&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://biryanibykilo.com › store-locator › new-delhi",
+   "favicon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAABwBwCdASogACAAPtE-tFooIigoFAEAGglsAL9q7PtPGTwEsq7yq3YzUBMqH1_9P5vaOKplmAkO0QYL6mDcl4_bbUQOwAD-uE_i3gRTdJK2Cg078uLULvONSEXOgEF3m94XL_6RbKxRb7BsnzlO-xsecLr8PKw0Ohh__NFGOOF_x_-5fAX4sWVqPiLfxu-CiRL7pcEx8kKNBn69fuCoLu5YQbnQeJM7Z5Tf_QumHK2kb_8sWk7C5oVZVZMqhfY6LVEtBE-c01XhJ8uxWd660nN_nEVNVO4eRY3Vs7qPMGpPBDRxMvZK45948O-HXvgcb3DfSMTdzH_r-lD4xeo3jmoGdmiYz4eaYB7jMyWA_lQ-WoTNywGE9lPAZtzcegULMsy4llclQ3u2bLYGgOMXXAt1s4gPcvHxEn1m2J6ME7UGaxGmX_zvcuF5eAkrHwIAkAA.webp",
+   "snippet": "Craving the best biryani in New Delhi? Order freshly cooked handi biryani, kebabs, and curries from Biryani by Kilo. Fast delivery is available.",
+   "snippet_highlighted_words": [
+    "Order freshly cooked handi biryani, kebabs, and curries"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Craving the best biryani in New Delhi? Order freshly cooked handi biryani, kebabs, and curries from Biryani by Kilo. Fast delivery is available.",
+     "source_info_link": "https://biryanibykilo.com/store-locator/new-delhi",
+     "icon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAABwBwCdASogACAAPtE-tFooIigoFAEAGglsAL9q7PtPGTwEsq7yq3YzUBMqH1_9P5vaOKplmAkO0QYL6mDcl4_bbUQOwAD-uE_i3gRTdJK2Cg078uLULvONSEXOgEF3m94XL_6RbKxRb7BsnzlO-xsecLr8PKw0Ohh__NFGOOF_x_-5fAX4sWVqPiLfxu-CiRL7pcEx8kKNBn69fuCoLu5YQbnQeJM7Z5Tf_QumHK2kb_8sWk7C5oVZVZMqhfY6LVEtBE-c01XhJ8uxWd660nN_nEVNVO4eRY3Vs7qPMGpPBDRxMvZK45948O-HXvgcb3DfSMTdzH_r-lD4xeo3jmoGdmiYz4eaYB7jMyWA_lQ-WoTNywGE9lPAZtzcegULMsy4llclQ3u2bLYGgOMXXAt1s4gPcvHxEn1m2J6ME7UGaxGmX_zvcuF5eAkrHwIAkAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVktmWHlZZWZ0VW1FbGh0eGJoaDZxZzE3dGhsVUViRW1lS1hsTzdoOWdpWHhoRW5oWEpKSU8tTWxOLXpxRWJzU1BiM29oQjBpOFVMemRoWmpoN0x0d0VWRzJmOXVfNTVWMHF4cUpXUkQ1dlRnOFh0dkxyN28zSlBnV2gwSFJqQWVrWXdBYjR1R0F2ZxIEGgIIABr2AxICCAAaACIAKgA6AEIECAEQAEoUCAESDERlbGhpLCBEZWxoaRoCCAJaAHIAegCCQMQDCAAQABgAIAAqIwoEYmVzdBVlDWZAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVnbzZQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKgAS9nb3RvP3VybD1DQUVTYkFIck96QVZLZlh5WWVmdFVtRWxodHhiaGg2cWcxN3RobFVFYkVtZUtYbE83aDlnaVh4aEVuaFhKSklPLU1sTi16cUVic1NQYjNvaEIwaThVTHpkaFpqaDdMdHdFVkcyZjl1XzU1VjBxeHFKV1JENXZUZzhYdHZMcjdvM0pQZ1doMEhSakFla1l3QWI0dUdBdmc6KDxiPkJlc3QgQmlyeWFuaTwvYj4gTmVhciBNZSBpbiBOZXcgRGVsaGlClwFDcmF2aW5nIHRoZSBiZXN0IGJpcnlhbmkgaW4gTmV3IERlbGhpPyA8Yj5PcmRlciBmcmVzaGx5IGNvb2tlZCBoYW5kaSBiaXJ5YW5pLCBrZWJhYnMsIGFuZCBjdXJyaWVzPC9iPiBmcm9tIEJpcnlhbmkgYnkgS2lsby4gRmFzdCBkZWxpdmVyeSBpcyBhdmFpbGFibGUuUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVktmWHlZZWZ0VW1FbGh0eGJoaDZxZzE3dGhsVUViRW1lS1hsTzdoOWdpWHhoRW5oWEpKSU8tTWxOLXpxRWJzU1BiM29oQjBpOFVMemRoWmpoN0x0d0VWRzJmOXVfNTVWMHF4cUpXUkQ1dlRnOFh0dkxyN28zSlBnV2gwSFJqQWVrWXdBYjR1R0F2ZxIEGgIIABr2AxICCAAaACIAKgA6AEIECAEQAEoUCAESDERlbGhpLCBEZWxoaRoCCAJaAHIAegCCQMQDCAAQABgAIAAqIwoEYmVzdBVlDWZAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVnbzZQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKgAS9nb3RvP3VybD1DQUVTYkFIck96QVZLZlh5WWVmdFVtRWxodHhiaGg2cWcxN3RobFVFYkVtZUtYbE83aDlnaVh4aEVuaFhKSklPLU1sTi16cUVic1NQYjNvaEIwaThVTHpkaFpqaDdMdHdFVkcyZjl1XzU1VjBxeHFKV1JENXZUZzhYdHZMcjdvM0pQZ1doMEhSakFla1l3QWI0dUdBdmc6KDxiPkJlc3QgQmlyeWFuaTwvYj4gTmVhciBNZSBpbiBOZXcgRGVsaGlClwFDcmF2aW5nIHRoZSBiZXN0IGJpcnlhbmkgaW4gTmV3IERlbGhpPyA8Yj5PcmRlciBmcmVzaGx5IGNvb2tlZCBoYW5kaSBiaXJ5YW5pLCBrZWJhYnMsIGFuZCBjdXJyaWVzPC9iPiBmcm9tIEJpcnlhbmkgYnkgS2lsby4gRmFzdCBkZWxpdmVyeSBpcyBhdmFpbGFibGUuUgN0b3AiAhABSABYAGgA",
+   "source": "Biryani By Kilo"
+  },
+  {
+   "position": 6,
+   "title": "Best Biryani Restaurants in Delhi NCR",
+   "link": "https://www.eazydiner.com/delhi-ncr/restaurants/biryani",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAV0P13AIpyrKZNwKD7JxtSxhu_SYUv1hl1KDdBpKlqeOKD6bmXCH2yKRbCZeG4q8SINb_uooSqi6EjKKpimwetipiPLs9jJpHyCTQ74QKuMFh-LxJ2kjWA2Mvl-V8BP0cxl6DgblvdsUUWOIcYkA&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://www.eazydiner.com › delhi-ncr › biryani",
+   "favicon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHUHo3FVOF-A2wG4Y3gDeM_259I4wATQwwAw7w25KElcRrVEy-KbiguXAxlfsQpgAAD-EBdfGONpHD59a31qy3sSme9jayCUr3Jluwlv82jL8pDfUooGq0ufPn7TCOg1c0Qm2V-_O95K54OpkRFP_47DNeteqUwQCW_miFsKwpOZnWmAo96C7ftaoToxOdGmuXaWvj5zUe4tNKzpft-a0tkP5xFC_5iMQQ9Z8PM8Gt0K67dlT-Vnba7aiZrgqxjqNbhaBkTnFz0Ozqliual-n4bS99PZ1hmKww2g1jRwGeOfO1P6FiQy2VyT_KqtouTs8ShxoY1O7p3KGdFQlDw0lePl0gWLv8DtFrPP-5pHD9AQdn5gSW-pN_8tTWnMiKeGxH-dofV_gtBoAwanlGyVq_YNm2BDaQzpKniN7MEf9w3x_nvX-6yePeWqwAAAAA.webp",
+   "snippet": "Best Biryani Restaurants in Delhi NCR · Lazeez Affaire - Outer Circle · Local · Biryani By Kilo · Punjab Grill · The Imperial Spice · Gola Sizzlers · Farzi Cafe · 24/7 ...",
+   "snippet_highlighted_words": [
+    "Lazeez Affaire - Outer Circle"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Best Biryani Restaurants in Delhi NCR · Lazeez Affaire - Outer Circle · Local · Biryani By Kilo · Punjab Grill · The Imperial Spice · Gola Sizzlers · Farzi Cafe · 24/7 ...",
+     "source_info_link": "https://www.eazydiner.com/delhi-ncr/restaurants/biryani",
+     "icon": "https://serpapi.com/images/i/UklGRnYBAABXRUJQVlA4IGoBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHUHo3FVOF-A2wG4Y3gDeM_259I4wATQwwAw7w25KElcRrVEy-KbiguXAxlfsQpgAAD-EBdfGONpHD59a31qy3sSme9jayCUr3Jluwlv82jL8pDfUooGq0ufPn7TCOg1c0Qm2V-_O95K54OpkRFP_47DNeteqUwQCW_miFsKwpOZnWmAo96C7ftaoToxOdGmuXaWvj5zUe4tNKzpft-a0tkP5xFC_5iMQQ9Z8PM8Gt0K67dlT-Vnba7aiZrgqxjqNbhaBkTnFz0Ozqliual-n4bS99PZ1hmKww2g1jRwGeOfO1P6FiQy2VyT_KqtouTs8ShxoY1O7p3KGdFQlDw0lePl0gWLv8DtFrPP-5pHD9AQdn5gSW-pN_8tTWnMiKeGxH-dofV_gtBoAwanlGyVq_YNm2BDaQzpKniN7MEf9w3x_nvX-6yePeWqwAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjBQMTNBSXB5cktaTndLRDdKeHRTeGh1X1NZVXYxaGwxS0RkQnBLbHFlT0tENmJtWENIMnlLUmJDWmVHNHE4U0lOYl91b29TcWk2RWpLS3BpbXdldGlwaVBMczlqSnBIeUNUUTc0UUt1TUZoLUx4SjJraldBMk12bC1WOEJQMGN4bDZEZ2JsdmRzVVVXT0ljWWtBEgQaAggAGuMEEgAaACIAKgA6AEIECAEQAEoUCAESDERlbGhpLCBEZWxoaRoCCAJaAHIAegCCQLMECAAQABgAIAAqIwoEYmVzdBVdzn8_GgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVYieqQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKoAS9nb3RvP3VybD1DQUVTY2dIck96QVYwUDEzQUlweXJLWk53S0Q3Snh0U3hodV9TWVV2MWhsMUtEZEJwS2xxZU9LRDZibVhDSDJ5S1JiQ1plRzRxOFNJTmJfdW9vU3FpNkVqS0twaW13ZXRpcGlQTHM5akpwSHlDVFE3NFFLdU1GaC1MeEoya2pXQTJNdmwtVjhCUDBjeGw2RGdibHZkc1VVV09JY1lrQTo3PGI-VG9wIEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIGluIERlbGhpIE5DUiAtIEVhenlEaW5lckLvAUJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBpbiBEZWxoaSBOQ1IgJm1pZGRvdDsgPGI-TGF6ZWV6IEFmZmFpcmUgLSBPdXRlciBDaXJjbGU8L2I-ICZtaWRkb3Q7IExvY2FsICZtaWRkb3Q7IEJpcnlhbmkgQnkgS2lsbyAmbWlkZG90OyBQdW5qYWIgR3JpbGwgJm1pZGRvdDsgVGhlIEltcGVyaWFsIFNwaWNlICZtaWRkb3Q7IEdvbGEgU2l6emxlcnMgJm1pZGRvdDsgRmFyemkgQ2FmZSAmbWlkZG90OyAyNC83Jm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjBQMTNBSXB5cktaTndLRDdKeHRTeGh1X1NZVXYxaGwxS0RkQnBLbHFlT0tENmJtWENIMnlLUmJDWmVHNHE4U0lOYl91b29TcWk2RWpLS3BpbXdldGlwaVBMczlqSnBIeUNUUTc0UUt1TUZoLUx4SjJraldBMk12bC1WOEJQMGN4bDZEZ2JsdmRzVVVXT0ljWWtBEgQaAggAGuMEEgAaACIAKgA6AEIECAEQAEoUCAESDERlbGhpLCBEZWxoaRoCCAJaAHIAegCCQLMECAAQABgAIAAqIwoEYmVzdBVdzn8_GgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVYieqQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKoAS9nb3RvP3VybD1DQUVTY2dIck96QVYwUDEzQUlweXJLWk53S0Q3Snh0U3hodV9TWVV2MWhsMUtEZEJwS2xxZU9LRDZibVhDSDJ5S1JiQ1plRzRxOFNJTmJfdW9vU3FpNkVqS0twaW13ZXRpcGlQTHM5akpwSHlDVFE3NFFLdU1GaC1MeEoya2pXQTJNdmwtVjhCUDBjeGw2RGdibHZkc1VVV09JY1lrQTo3PGI-VG9wIEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIGluIERlbGhpIE5DUiAtIEVhenlEaW5lckLvAUJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBpbiBEZWxoaSBOQ1IgJm1pZGRvdDsgPGI-TGF6ZWV6IEFmZmFpcmUgLSBPdXRlciBDaXJjbGU8L2I-ICZtaWRkb3Q7IExvY2FsICZtaWRkb3Q7IEJpcnlhbmkgQnkgS2lsbyAmbWlkZG90OyBQdW5qYWIgR3JpbGwgJm1pZGRvdDsgVGhlIEltcGVyaWFsIFNwaWNlICZtaWRkb3Q7IEdvbGEgU2l6emxlcnMgJm1pZGRvdDsgRmFyemkgQ2FmZSAmbWlkZG90OyAyNC83Jm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+   "source": "EazyDiner",
+   "read_more_link": "https://www.eazydiner.com/delhi-ncr/restaurants/biryani#:~:text=Best%20Biryani%20Restaurants%20in%20Delhi,NCR&text=Lazeez%20Affaire%20%2D%20Outer%20Circle&text=Local&text=Biryani%20By%20Kilo&text=Punjab%20Grill&text=The%20Imperial%20Spice&text=Gola%20Sizzlers&text=Farzi%20Cafe&text=24%2F7%20Restaurant"
+  },
+  {
+   "position": 7,
+   "title": "Best Biryani Places In Delhi • Bikkgane ...",
+   "link": "https://www.instagram.com/reel/DYlu2sohXrI/?hl=en",
+   "displayed_link": "10+ likes · 4 months ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2o49scKCM9QDqVU5MILSmv_4ydPEdZz7cmJZdcZ0VK9JJAYx5sKEyQ&s",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "Renowned for its Dum Hyderabadi Biryani packed with rich spices and slow-cooked flavors. • Andhra Bhavan Canteen, Chanakyapuri Famous for spicy ...",
+   "duration": "0:05",
+   "about_this_result": {
+    "source": {
+     "description": "Renowned for its Dum Hyderabadi Biryani packed with rich spices and slow-cooked flavors. • Andhra Bhavan Canteen, Chanakyapuri Famous for spicy ...",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmlDOUg4UEZVWHV2SzUxMk1KbTN2Wi1aRl90QUFnLWtYUUhtcWJlTW1fRmFpbGp1U2V1T284RS1yeHNIV2pyLUlWZG9pbWFoQ1Q3S1dvUV9VUWhaRFRDTzRuVGt5SEFYa3gtZDZMdUxNczdTRWV6TVJIQTRTRWVKNHNoZldlSHd6d0FqNlV2U05jZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmlDOUg4UEZVWHV2SzUxMk1KbTN2Wi1aRl90QUFnLWtYUUhtcWJlTW1fRmFpbGp1U2V1T284RS1yeHNIV2pyLUlWZG9pbWFoQ1Q3S1dvUV9VUWhaRFRDTzRuVGt5SEFYa3gtZDZMdUxNczdTRWV6TVJIQTRTRWVKNHNoZldlSHd6d0FqNlV2U05jZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Instagram · yep.delhi"
+  }
+ ],
+ "filters": [
+  {
+   "name": "Open now",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b",
+    "q": "best biryani open now"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=best+biryani+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQxKsJKAB6BAgfEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b"
+  },
+  {
+   "name": "Top rated",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ",
+    "q": "top rated best biryani"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=top+rated+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQxKsJKAF6BAgeEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=top+rated+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ"
+  },
+  {
+   "name": "Price",
+   "options": []
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "best biryani near new delhi, delhi",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=best+biryani+near+new+delhi,+delhi&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani+near+new+delhi%2C+delhi"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani near me",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=Best+biryani+near+me&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ1QJ6BAhVEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=Best+biryani+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in india",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=Best+biryani+in+india&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=Best+biryani+in+india"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in Delhi",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=Best+biryani+in+Delhi&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=Best+biryani+in+Delhi"
+  },
+  {
+   "block_position": 1,
+   "query": "Top 10 biryani in Delhi",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=Top+10+biryani+in+Delhi&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=Top+10+biryani+in+Delhi"
+  },
+  {
+   "block_position": 1,
+   "query": "Best Biryani in Delhi home delivery",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=Best+Biryani+in+Delhi+home+delivery&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=Best+Biryani+in+Delhi+home+delivery"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in Delhi Jama masjid",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=Best+biryani+in+Delhi+Jama+masjid&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=Best+biryani+in+Delhi+Jama+masjid"
+  },
+  {
+   "block_position": 1,
+   "query": "Best Biryani in Delhi near me",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&q=Best+Biryani+in+Delhi+near+me&sa=X&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=Best+Biryani+in+Delhi+near+me"
+  }
+ ],
+ "discussions_and_forums": [
+  {
+   "title": "Best places for butter chicken and biryani in Delhi",
+   "link": "https://www.reddit.com/r/delhi/comments/1x03q6x/best_places_for_butter_chicken_and_biryani_in/",
+   "date": "2 days ago",
+   "extensions": [
+    "r/delhi",
+    "10+ comments"
+   ],
+   "source": "Reddit",
+   "answers": [
+    {
+     "link": "https://www.reddit.com/r/delhi/comments/1x03q6x/best_places_for_butter_chicken_and_biryani_in/"
+    }
+   ]
+  },
+  {
+   "title": "Where can I find the best biryani in Delhi?",
+   "link": "https://www.quora.com/Where-can-I-find-the-best-biryani-in-Delhi",
+   "date": "11 years ago",
+   "extensions": [
+    "50+ answers"
+   ],
+   "source": "Quora",
+   "answers": [
+    {
+     "link": "https://www.quora.com/Where-can-I-find-the-best-biryani-in-Delhi?top_ans=48007750",
+     "extensions": [
+      "Top answer",
+      "16 votes",
+      "9 years ago"
+     ]
+    },
+    {
+     "link": "https://www.quora.com/Where-can-I-find-the-best-biryani-in-Delhi?top_ans=244970246",
+     "extensions": [
+      "12 votes",
+      "5 years ago"
+     ]
+    },
+    {
+     "link": "https://www.quora.com/Where-can-I-find-the-best-biryani-in-Delhi?top_ans=236478619",
+     "extensions": [
+      "7 votes",
+      "6 years ago"
+     ]
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=10&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8NMDegQIRhAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=10&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8tMDegQIRhAE",
+   "3": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=20&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8tMDegQIRhAG",
+   "4": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=30&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8tMDegQIRhAI",
+   "5": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=40&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8tMDegQIRhAK",
+   "6": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=50&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8tMDegQIRhAM",
+   "7": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=60&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8tMDegQIRhAO",
+   "8": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=70&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8tMDegQIRhAQ",
+   "9": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=80&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8tMDegQIRhAS",
+   "10": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnv7gyQU4EuYVh7PsMGJcLLRNXN6uQ:1791644976094&ei=MFXKau6rBaumptQP8uHyAQ&start=90&sa=N&sstk=AS6-VmJ4_hjIuMY99W3J1tP52wJwxJGgGWjp6Hj6bFyY5jH7Uyp0DMJATiViDGylikwQnJ_qZ2B1jA0ZjYaDhumpq7Blb0BjPm3mFQ&ved=2ahUKEwjug_TS3a-XAxUrk4kEHfKwPAAQ8tMDegQIRhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=New+Delhi%2CDelhi%2CIndia&q=best+biryani&start=90"
+  }
+ }
+}
