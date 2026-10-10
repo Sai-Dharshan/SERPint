@@ -72,13 +72,19 @@ class LevelResult:
     reasons: dict[str, int]  # redactions by reason
 
 
+# A re-OCR'd line counts as read back from under the blur when at least this much of it
+# lies inside a blurred region; less is neighbouring text touching a region's edge.
+READBACK_INSIDE = 0.5
+
+
 @dataclass(frozen=True)
 class Readback:
     """Text OCR could still read inside blurred regions of re-OCR'd scrubbed images."""
 
     images: int
     blurred_regions: int
-    readable: list[tuple[str, str]]  # (cell, text read back)
+    readable: list[tuple[str, str]]  # (cell, text) mostly inside a blurred region
+    edge: int  # lines that only touch a blurred region's edge
 
 
 def evaluate(
@@ -112,7 +118,7 @@ def evaluate(
 
 def _readback_one(
     shot: Shot, lines: list[scrub.Line], settings: Settings, level: str, out_dir: Path
-) -> tuple[int, list[tuple[str, str]]]:
+) -> tuple[int, list[tuple[str, str]], int]:
     from PIL import Image
 
     gaz = scrub.Gazetteer.load(settings)
@@ -123,13 +129,16 @@ def _readback_one(
     dst.parent.mkdir(parents=True, exist_ok=True)
     scrubbed.save(dst)
     again = scrub.ocr(scrubbed)
-    found = []
+    found, edge = [], 0
     for ln in again:
-        letters = sum(ch.isalpha() for ch in ln.text)
-        inside = any(scrub.overlaps(ln.box, r.box) for r in red)
-        if inside and letters >= 3:
+        if sum(ch.isalpha() for ch in ln.text) < 3:
+            continue
+        inside = scrub.inside_fraction(ln.box, red)
+        if inside >= READBACK_INSIDE:
             found.append((f"{shot.query_id}@{shot.city_id}", ln.text))
-    return len(red), found
+        elif inside > 0:
+            edge += 1
+    return len(red), found, edge
 
 
 def readback(
@@ -152,8 +161,9 @@ def readback(
     )
     return Readback(
         images=len(first),
-        blurred_regions=sum(n for n, _ in results),
-        readable=[x for _, found in results for x in found],
+        blurred_regions=sum(n for n, _, _ in results),
+        readable=[x for _, found, _ in results for x in found],
+        edge=sum(e for _, _, e in results),
     )
 
 
@@ -230,11 +240,16 @@ def scrub_report(
             "",
             f"{rb.images} scrubbed screenshots (one per query, `sections` level) were OCR'd",
             f"again. Across {rb.blurred_regions} blurred regions, OCR read "
-            f"{len(rb.readable)} line(s) with three or more letters inside them"
-            + (":" if rb.readable else "."),
+            f"{len(rb.readable)} line(s) of three or more letters lying at least "
+            f"{READBACK_INSIDE:.0%} inside one" + (":" if rb.readable else "."),
         ]
         if rb.readable:
             out += [""] + [f"- {cell}: `{text}`" for cell, text in rb.readable]
+        out += [
+            "",
+            f"Another {rb.edge} readable line(s) only touch a blurred region's edge: "
+            "neighbouring text, such as a site name above a blurred line.",
+        ]
     return "\n".join(out) + "\n"
 
 

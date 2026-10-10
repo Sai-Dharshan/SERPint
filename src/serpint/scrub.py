@@ -293,6 +293,19 @@ def overlaps(a: tuple[int, int, int, int], b: tuple[int, int, int, int]) -> bool
     return a[0] < b[2] and b[0] < a[2] and a[1] < b[3] and b[1] < a[3]
 
 
+def inside_fraction(box: tuple[int, int, int, int], redactions: list[Redaction]) -> float:
+    """Share of ``box`` covered by the largest single (padded) redaction it overlaps."""
+    x0, y0, x1, y1 = box
+    area = max(1, (x1 - x0) * (y1 - y0))
+    best = 0.0
+    for r in redactions:
+        a, b, c, d = r.box[0] - PAD, r.box[1] - PAD, r.box[2] + PAD, r.box[3] + PAD
+        ix = max(0, min(x1, c) - max(x0, a))
+        iy = max(0, min(y1, d) - max(y0, b))
+        best = max(best, ix * iy / area)
+    return best
+
+
 def kept_lines(lines: list[Line], redactions: list[Redaction]) -> list[Line]:
     """Return the lines that stay readable after blurring."""
     return [ln for ln in lines if not any(overlaps(ln.box, r.box) for r in redactions)]

@@ -13,6 +13,30 @@ builds a scrubber that blurs them.
 > visible elements, city-prediction models, the leak map, the screenshot scrubber and
 > the demo app.
 
+## Findings so far (core data: 16 cities x 15 queries)
+
+From `reports/core_*.md`; chance is 1 city in 16 (6%).
+
+- **Full-page screenshots give the city away.** Google's footer prints the location
+  ("Chennai, Tamil Nadu - From your IP address") on every page. An attacker reading the
+  OCR'd text of an unscrubbed full-page screenshot names the right city 97% of the
+  time, 98% even for neutral queries like "how to boil eggs".
+- **Without the footer, neutral pages mostly don't carry over.** On the parsed page
+  text (no footer), a model trained on other queries gets 12% of neutral pages right.
+  Within a query, though, pages for nearby cities can still look alike ("what is GST":
+  Delhi, Ahmedabad, Lucknow and Chandigarh got the same results), and Google's related
+  searches name the city even for "iphone 16 price".
+- **Related searches are the broadest leak**, on 236 of 240 pages; local results leak
+  most where they appear. With names masked, models key on localities, nearby towns,
+  PIN codes and regional scripts.
+- **Scrubbing works on these screenshots.** Blurring names and location lines (2.8% of
+  the image) takes the attacker from 97% to 12%; also blurring related searches, local
+  results and news (11% of the image) takes it to 7%, chance level. Re-OCR of scrubbed
+  images read nothing back from under the blur.
+
+These are 240 pages from one day and one simulated device; the full 20 x 20 grid and
+a second collection round would firm them up.
+
 ## Setup
 
 ```sh

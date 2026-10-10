@@ -155,3 +155,10 @@ def test_section_ends_where_an_organic_result_starts(gaz):
     sec = scrub.find_sections(lines)
     assert len(sec) == 1
     assert sec[0].box[3] == 3392  # through the ratings row, not the next result
+
+
+def test_inside_fraction():
+    red = [scrub.Redaction((100, 100, 200, 120), "place_name", "x")]
+    assert scrub.inside_fraction((110, 102, 190, 118), red) == 1.0
+    assert scrub.inside_fraction((100, 80, 200, 100), red) == pytest.approx(0.2)  # edge
+    assert scrub.inside_fraction((300, 300, 310, 310), red) == 0.0
