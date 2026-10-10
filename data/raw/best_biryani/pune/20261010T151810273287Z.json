@@ -1,0 +1,500 @@
+{
+ "search_metadata": {
+  "id": "6aca573274268e8e93b87188",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/MMextkvTQl0ZA0IgmlsC9keHee5iUx8hpw7sIUecy3g/6aca573274268e8e93b87188.json",
+  "markdown_endpoint": "https://serpapi.com/searches/MMextkvTQl0ZA0IgmlsC9keHee5iUx8hpw7sIUecy3g/6aca573274268e8e93b87188.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/MMextkvTQl0ZA0IgmlsC9keHee5iUx8hpw7sIUecy3g/6aca573274268e8e93b87188.json_with_pixel_position",
+  "created_at": "2026-10-10 15:18:10 UTC",
+  "processed_at": "2026-10-10 15:18:10 UTC",
+  "google_url": "https://www.google.co.in/search?q=best+biryani&oq=best+biryani&uule=w+CAIQICIWUHVuZSxNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/MMextkvTQl0ZA0IgmlsC9keHee5iUx8hpw7sIUecy3g/6aca573274268e8e93b87188.html",
+  "total_time_taken": 6.17
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "best biryani",
+  "location_requested": "Pune,Maharashtra,India",
+  "location_used": "Pune,Maharashtra,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "best biryani",
+  "total_results": 173,
+  "time_taken_displayed": 0.52,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "link": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&udm=local&lsack=NVfKasH8KfiLptQPjo6s2QE&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQtgN6BAgwEAM",
+  "image": "https://serpapi.com/searches/6aca573274268e8e93b87188/images/Qb1rIjcDJw3XSef95z7ZxA.png",
+  "gps_coordinates": {
+   "latitude": 18.538861614203523,
+   "longitude": 73.8882064819336
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "title": "SP's Biryani House Since 1994",
+    "type": "Biryani restaurant",
+    "rating": 3.9,
+    "reviews": 16446,
+    "price": "₹400–1,000",
+    "description": "Traditional biryani & curry house",
+    "thumbnail": "https://serpapi.com/searches/6aca573274268e8e93b87188/images/Qev1xzVhnxk6K4tJRxXRSOFfdHUaoiAyKltfNGRcBadXyxiMCCIopr2TtY5vxZaZ.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TVDOyKd-Xk9JAeZ7JBYfs3p1C3FVrVhlut3AWdQRt1GoBuWrh1afTSSRCZvTzco2qG6OrTMwglUrmm-adP0Xr1HDKn5cn-R1l7FrgFXcphHw3fY0d6YBW74uuJ6iraV_GuKKk=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:020 2447 5441",
+     "website": "https://spsbiryanihouse.in/"
+    },
+    "place_id": "6134270749183560075",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&ludocid=6134270749183560075&q=best+biryani",
+    "provider_id": "/g/11b6_qtk5c",
+    "gps_coordinates": {
+     "latitude": 18.508315,
+     "longitude": 73.850323
+    },
+    "address": "1472, Tilak Rd, Opposite S.P. College khajina vihir chouk, Lokamanya Nagar, Sadashiv Peth, Pune, Maharashtra 411030",
+    "hours": "Open · Closes 11 pm",
+    "phone": "020 2447 5441"
+   },
+   {
+    "position": 2,
+    "title": "Degchi Biryani",
+    "type": "Biryani restaurant",
+    "rating": 4.6,
+    "reviews": 1296,
+    "price": "₹1–200",
+    "description": "Unadorned eatery for familiar local food",
+    "thumbnail": "https://serpapi.com/searches/6aca573274268e8e93b87188/images/Qev1xzVhnxk6K4tJRxXRSJL7Gu71g3KslR3hnGEYrgrMqpUApAtYhgarmA9uClfQ.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGQE1LJnGjFkzEjmZPYJzJYgjKIAq_rwee8fJzvPZStHZHs28p2lfIT5Dt9UXVLMncwsoQhhE8pYGBJZlVtlDusy0h_4-n8NGjJR6_D0QWJE85UFLgbZk38ILeRk5XYAXO6HHlwOwlQVOxH2M6-VAXNcqb-rm3-ErKr8pashGjl3bFwlLbN73FsOQ=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:098237 47358"
+    },
+    "place_id": "18112127176903804162",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&ludocid=18112127176903804162&q=best+biryani",
+    "provider_id": "/g/11gmvwlwhp",
+    "gps_coordinates": {
+     "latitude": 18.559483,
+     "longitude": 73.930879
+    },
+    "address": "Sangharsh Chowk, opp. Pradeep Book Depo, Chandan Nagar, Pune, Maharashtra 411014",
+    "hours": "Open · Closes 11:30 pm",
+    "phone": "098237 47358"
+   },
+   {
+    "position": 3,
+    "title": "George Restaurant",
+    "type": "Family restaurant",
+    "rating": 4.1,
+    "reviews": 17572,
+    "price": "₹400–1,200",
+    "description": "\"Tired mutton biryani , it was really delicious and the mutton was juicy.\"",
+    "thumbnail": "https://serpapi.com/searches/6aca573274268e8e93b87188/images/Qev1xzVhnxk6K4tJRxXRSGN3YAOwrgA0YoRDl1tqsIoPYNt9yC9SyYJHT-thg07b.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QRy0sEisKo33IcY6NZeDkoLlZ8zoDKnZikZZM1NSC3BXkeE8IJILcZTqwpsbdzDgg_WkUPAhTU7iRaGBS1DyducQbrIE2cysGg1pKvpNZm7zJwh1sJQHeJutqQGgioOw13KzrHhJ7_Aco=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:085529 04066"
+    },
+    "place_id": "8211631728930919860",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&ludocid=8211631728930919860&q=best+biryani",
+    "provider_id": "/g/1tj87wpf",
+    "gps_coordinates": {
+     "latitude": 18.517409,
+     "longitude": 73.87936
+    },
+    "address": "2436, General Thimayya Road, East St, Camp, Pune, Maharashtra 411001",
+    "hours": "Open · Closes 11:25 pm",
+    "phone": "085529 04066"
+   }
+  ],
+  "more_locations_link": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&udm=local&lsack=NVfKasH8KfiLptQPjo6s2QE&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQjGp6BAgyEAE"
+ },
+ "related_questions": [
+  {
+   "question": "Which is the most famous biryani?",
+   "type": "ai_overview",
+   "page_token": "69AnUHicHdDBUqMwGADg8WU8tgnUajvTcaSGFjRBQhJKLg79saWBFFQUys132afap9lZz9_t-_lTn87V36uh7Lr2czmd9n0_OTbNsX6bQDM5naf55-UMU8jrep9DtZzfzvH9AVbkK_DW74EXy7ZVjxwlCZb7ujhESp-U4UZYjKlhcyk1plVouLzp91uWRZJt2Kha7RdPOQKX4mxGE3wTI93SlEuwZaC3XrRz_zvu0zVGkviDGL2dIhVKhJxlbviSVp1INyXKDfcYCqOC8IRWOMos04ALoW2xTkztcMHapGZGuUyItHOEBQSjLtUjdNphz1wQNx_9MVL0ElcLIjYLo13ukrKIlNXP2Y4FEelsLoe-8P04t3cOjCHnvDnFko9gaqsIOOAstlTxgQoWwPYBSVESwPHInIGn53Am4-sDfK_c69_P1evBdsv2ozn-AxEEgSI",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=69AnUHicHdDBUqMwGADg8WU8tgnUajvTcaSGFjRBQhJKLg79saWBFFQUys132afap9lZz9_t-_lTn87V36uh7Lr2czmd9n0_OTbNsX6bQDM5naf55-UMU8jrep9DtZzfzvH9AVbkK_DW74EXy7ZVjxwlCZb7ujhESp-U4UZYjKlhcyk1plVouLzp91uWRZJt2Kha7RdPOQKX4mxGE3wTI93SlEuwZaC3XrRz_zvu0zVGkviDGL2dIhVKhJxlbviSVp1INyXKDfcYCqOC8IRWOMos04ALoW2xTkztcMHapGZGuUyItHOEBQSjLtUjdNphz1wQNx_9MVL0ElcLIjYLo13ukrKIlNXP2Y4FEelsLoe-8P04t3cOjCHnvDnFko9gaqsIOOAstlTxgQoWwPYBSVESwPHInIGn53Am4-sDfK_c69_P1evBdsv2ozn-AxEEgSI",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5VcElOek5aWDFSc2VIcHNWSGxMV0VOaGNVWjBiV05KTmsxWGRWZExXWHBJVjA5cU1tRnpYMEZwZEhVeFdUQm9kbUpFUXkwNFNIWmZVRkp1ZVVKcldUVk9aRGd0YzNReVoyUXRiVFE1U2twSmEyNTVTMVZMVkZOTFFSSVhUbFptUzJGelNEaExabWxNY0hSUlVHcHZObk15VVVVYUlrRkVjM0k1WmxFNVNHSTVkbVZhZUdkMmFHTlFUM1ZEUWtGblZreGZjemsyTFVFIiwiZmN2IjoiMyIsImVpIjoiTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUUiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgwQVh2TS0iLCJxdWVzdGlvbiI6IldoaWNoIGlzIHRoZSBtb3N0IGZhbW91cyBiaXJ5YW5pPyIsImxrIjoiR2lCM2FHbGphQ0JwY3lCMGFHVWdiVzl6ZENCbVlXMXZkWE1nWW1seWVXRnVhUSIsImJzIjoiYzRXUE1RdkNNQkNGY2IzSlJZU2djdm9IaElKelJzSEp6Zm1xS1Rta1NjbGRLZjU3UTJnVmw3cS05NzBQSHB4aGZfTjg5OGlDNmgyMlVSUWJhbU12V0hONlVXQmJIUXdPZnlBb0lsSjhjbmhnYktaOG10Uk9kQlROUTNDQll4RlJjaVhVMk9IcFE2YU1VSjhvcUNBSHZQYkIyV3B0VnI5VWJycmNnSVZ0Y1kxLUpWSE9ndS16bmRrTU04Qnk4UVkiLCJpZCI6ImZjX05WZkthc0g4S2ZpTHB0UVBqbzZzMlFFXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5VcElOek5aWDFSc2VIcHNWSGxMV0VOaGNVWjBiV05KTmsxWGRWZExXWHBJVjA5cU1tRnpYMEZwZEhVeFdUQm9kbUpFUXkwNFNIWmZVRkp1ZVVKcldUVk9aRGd0YzNReVoyUXRiVFE1U2twSmEyNTVTMVZMVkZOTFFSSVhUbFptUzJGelNEaExabWxNY0hSUlVHcHZObk15VVVVYUlrRkVjM0k1WmxFNVNHSTVkbVZhZUdkMmFHTlFUM1ZEUWtGblZreGZjemsyTFVFIiwiZmN2IjoiMyIsImVpIjoiTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUUiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgwQVh2TS0iLCJxdWVzdGlvbiI6IldoaWNoIGlzIHRoZSBtb3N0IGZhbW91cyBiaXJ5YW5pPyIsImxrIjoiR2lCM2FHbGphQ0JwY3lCMGFHVWdiVzl6ZENCbVlXMXZkWE1nWW1seWVXRnVhUSIsImJzIjoiYzRXUE1RdkNNQkNGY2IzSlJZU2djdm9IaElKelJzSEp6Zm1xS1Rta1NjbGRLZjU3UTJnVmw3cS05NzBQSHB4aGZfTjg5OGlDNmgyMlVSUWJhbU12V0hONlVXQmJIUXdPZnlBb0lsSjhjbmhnYktaOG10Uk9kQlROUTNDQll4RlJjaVhVMk9IcFE2YU1VSjhvcUNBSHZQYkIyV3B0VnI5VWJycmNnSVZ0Y1kxLUpWSE9ndS16bmRrTU04Qnk4UVkiLCJpZCI6ImZjX05WZkthc0g4S2ZpTHB0UVBqbzZzMlFFXzIifQ%3D%3D"
+  },
+  {
+   "question": "What kind of biryani is the best?",
+   "type": "ai_overview",
+   "page_token": "RlkXnHicHdBdboIwAADg7DI-Kvi3aWKWMKnIaAmFttCXBYpabZGqbPy87S471U6zZN8Rvu8ffb6q36dONo15rCeTtm3Hp7o-6cNY1OPzdZI_-quYiFzrIhdqvXxe2q9HsXE_987bbe9ExBi6xVasV63YrYYw8e_FIBPkAY8rELAtV9SSl8SdL0LP-HHqqAPREKZljoGy4Y4HnJIeTeddph2ZKxoRC3gFpT5NsxlUwMe2WdLYJnjGryFpYqhNQ5m8BKzu46SE2FokaMt7tsMZYsYnnvaFh98jWjfJVMpCy3vA3CZSvEYzDWNCOQFogBXaF6kjoSq7fNqxjHELazlnADmuLENa8SBL0T50myonXVsCEOXVy1QMPsa4PkcED-KiK6LNGekVjy1eFZadCA_afGdTQsyNaJxRj_S8HR3F12Y2-v_cfByrZm3u9ekPKIiEhg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RlkXnHicHdBdboIwAADg7DI-Kvi3aWKWMKnIaAmFttCXBYpabZGqbPy87S471U6zZN8Rvu8ffb6q36dONo15rCeTtm3Hp7o-6cNY1OPzdZI_-quYiFzrIhdqvXxe2q9HsXE_987bbe9ExBi6xVasV63YrYYw8e_FIBPkAY8rELAtV9SSl8SdL0LP-HHqqAPREKZljoGy4Y4HnJIeTeddph2ZKxoRC3gFpT5NsxlUwMe2WdLYJnjGryFpYqhNQ5m8BKzu46SE2FokaMt7tsMZYsYnnvaFh98jWjfJVMpCy3vA3CZSvEYzDWNCOQFogBXaF6kjoSq7fNqxjHELazlnADmuLENa8SBL0T50myonXVsCEOXVy1QMPsa4PkcED-KiK6LNGekVjy1eFZadCA_afGdTQsyNaJxRj_S8HR3F12Y2-v_cfByrZm3u9ekPKIiEhg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5VcElOek5aWDFSc2VIcHNWSGxMV0VOaGNVWjBiV05KTmsxWGRWZExXWHBJVjA5cU1tRnpYMEZwZEhVeFdUQm9kbUpFUXkwNFNIWmZVRkp1ZVVKcldUVk9aRGd0YzNReVoyUXRiVFE1U2twSmEyNTVTMVZMVkZOTFFSSVhUbFptUzJGelNEaExabWxNY0hSUlVHcHZObk15VVVVYUlrRkVjM0k1WmxFNVNHSTVkbVZhZUdkMmFHTlFUM1ZEUWtGblZreGZjemsyTFVFIiwiZmN2IjoiMyIsImVpIjoiTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUUiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgwQVh2TS0iLCJxdWVzdGlvbiI6IldoYXQga2luZCBvZiBiaXJ5YW5pIGlzIHRoZSBiZXN0PyIsImxrIjoiR2lCM2FHRjBJR3RwYm1RZ2IyWWdZbWx5ZVdGdWFTQnBjeUIwYUdVZ1ltVnpkQSIsImJzIjoiYzRXUE1RdkNNQkNGY2IzSlJZU2djdm9IaElKelJzSEp6Zm1xS1Rta1NjbGRLZjU3UTJnVmw3cS05NzBQSHB4aGZfTjg5OGlDNmgyMlVSUWJhbU12V0hONlVXQmJIUXdPZnlBb0lsSjhjbmhnYktaOG10Uk9kQlROUTNDQll4RlJjaVhVMk9IcFE2YU1VSjhvcUNBSHZQYkIyV3B0VnI5VWJycmNnSVZ0Y1kxLUpWSE9ndS16bmRrTU04Qnk4UVkiLCJpZCI6ImZjX05WZkthc0g4S2ZpTHB0UVBqbzZzMlFFXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5VcElOek5aWDFSc2VIcHNWSGxMV0VOaGNVWjBiV05KTmsxWGRWZExXWHBJVjA5cU1tRnpYMEZwZEhVeFdUQm9kbUpFUXkwNFNIWmZVRkp1ZVVKcldUVk9aRGd0YzNReVoyUXRiVFE1U2twSmEyNTVTMVZMVkZOTFFSSVhUbFptUzJGelNEaExabWxNY0hSUlVHcHZObk15VVVVYUlrRkVjM0k1WmxFNVNHSTVkbVZhZUdkMmFHTlFUM1ZEUWtGblZreGZjemsyTFVFIiwiZmN2IjoiMyIsImVpIjoiTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUUiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgwQVh2TS0iLCJxdWVzdGlvbiI6IldoYXQga2luZCBvZiBiaXJ5YW5pIGlzIHRoZSBiZXN0PyIsImxrIjoiR2lCM2FHRjBJR3RwYm1RZ2IyWWdZbWx5ZVdGdWFTQnBjeUIwYUdVZ1ltVnpkQSIsImJzIjoiYzRXUE1RdkNNQkNGY2IzSlJZU2djdm9IaElKelJzSEp6Zm1xS1Rta1NjbGRLZjU3UTJnVmw3cS05NzBQSHB4aGZfTjg5OGlDNmgyMlVSUWJhbU12V0hONlVXQmJIUXdPZnlBb0lsSjhjbmhnYktaOG10Uk9kQlROUTNDQll4RlJjaVhVMk9IcFE2YU1VSjhvcUNBSHZQYkIyV3B0VnI5VWJycmNnSVZ0Y1kxLUpWSE9ndS16bmRrTU04Qnk4UVkiLCJpZCI6ImZjX05WZkthc0g4S2ZpTHB0UVBqbzZzMlFFXzIifQ%3D%3D"
+  },
+  {
+   "question": "What are the top 5 biryani restaurants in Pune?",
+   "type": "ai_overview",
+   "page_token": "NPMj93icHdBhbqJAGIDh9DL9qcBoqyZmU-qgEgFnYD6Kf5rhA0GYEapsYfm3d9gj7Kn2NNv0AG_y5P39V12u9b-HP2XXtffVdNr3_aRomkLlE2wml-tU3n9dcYpSqVRivXp6fjJ_nHFNP9F-vaHNRNvChhuhFkau3UoYIEAsTc8UwwGSebjtLIyTuRQOlQ5s0AKJmg7hCENkLAmKPQnHYvDi5TE1vPHNxA4qz5Si9NKdHR8EbHyqSLbzB9B-hXHpBfDSg7UgKaGzvHJ8iKgBO_fK9GkMoG34WPZhxe9Y8wp3XAVgj2I7m6WivMkIjsxQhwhe5gBLnVc-Y3FGpICfX_1HREEzo-ik5ns_UmVIFyRyTq-JyD5iaFVS1wYtswD06ZC8-fuAdlqKoc8ch0m9sHB0OefNhQk-YqU0bOyZR8DF2N1C3MyTyCbcogOz3GP2ZcxV0wv2eMbPNXn8fr1-P-tu1d6a4j-PEY0l",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NPMj93icHdBhbqJAGIDh9DL9qcBoqyZmU-qgEgFnYD6Kf5rhA0GYEapsYfm3d9gj7Kn2NNv0AG_y5P39V12u9b-HP2XXtffVdNr3_aRomkLlE2wml-tU3n9dcYpSqVRivXp6fjJ_nHFNP9F-vaHNRNvChhuhFkau3UoYIEAsTc8UwwGSebjtLIyTuRQOlQ5s0AKJmg7hCENkLAmKPQnHYvDi5TE1vPHNxA4qz5Si9NKdHR8EbHyqSLbzB9B-hXHpBfDSg7UgKaGzvHJ8iKgBO_fK9GkMoG34WPZhxe9Y8wp3XAVgj2I7m6WivMkIjsxQhwhe5gBLnVc-Y3FGpICfX_1HREEzo-ik5ns_UmVIFyRyTq-JyD5iaFVS1wYtswD06ZC8-fuAdlqKoc8ch0m9sHB0OefNhQk-YqU0bOyZR8DF2N1C3MyTyCbcogOz3GP2ZcxV0wv2eMbPNXn8fr1-P-tu1d6a4j-PEY0l",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5VcElOek5aWDFSc2VIcHNWSGxMV0VOaGNVWjBiV05KTmsxWGRWZExXWHBJVjA5cU1tRnpYMEZwZEhVeFdUQm9kbUpFUXkwNFNIWmZVRkp1ZVVKcldUVk9aRGd0YzNReVoyUXRiVFE1U2twSmEyNTVTMVZMVkZOTFFSSVhUbFptUzJGelNEaExabWxNY0hSUlVHcHZObk15VVVVYUlrRkVjM0k1WmxFNVNHSTVkbVZhZUdkMmFHTlFUM1ZEUWtGblZreGZjemsyTFVFIiwiZmN2IjoiMyIsImVpIjoiTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUUiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgwQVh2TS0iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSBiaXJ5YW5pIHJlc3RhdXJhbnRzIGluIFB1bmU/IiwibGsiOiJHaFYwYjNBZ05TQmlhWEo1WVc1cElHbHVJSEIxYm1VIiwiYnMiOiJjNFdQTVF2Q01CQ0ZjYjNKUllTZ2N2b0hoSUp6UnNISnpmbXFLVG1rU2NsZEtmNTdRMmdWbDdxLTk3MFBIcHhoZl9OODk4aUM2aDIyVVJRYmFtTXZXSE42VVdCYkhRd09meUFvSWxKOGNuaGdiS1o4bXRST2RCVE5RM0NCWXhGUmNpWFUyT0hwUTZhTVVKOG9xQ0FIdlBiQjJXcHRWcjlVYnJyY2dJVnRjWTEtSlZIT2d1LXpuZGtNTThCeThRWSIsImlkIjoiZmNfTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUVfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5VcElOek5aWDFSc2VIcHNWSGxMV0VOaGNVWjBiV05KTmsxWGRWZExXWHBJVjA5cU1tRnpYMEZwZEhVeFdUQm9kbUpFUXkwNFNIWmZVRkp1ZVVKcldUVk9aRGd0YzNReVoyUXRiVFE1U2twSmEyNTVTMVZMVkZOTFFSSVhUbFptUzJGelNEaExabWxNY0hSUlVHcHZObk15VVVVYUlrRkVjM0k1WmxFNVNHSTVkbVZhZUdkMmFHTlFUM1ZEUWtGblZreGZjemsyTFVFIiwiZmN2IjoiMyIsImVpIjoiTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUUiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgwQVh2TS0iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSBiaXJ5YW5pIHJlc3RhdXJhbnRzIGluIFB1bmU%2FIiwibGsiOiJHaFYwYjNBZ05TQmlhWEo1WVc1cElHbHVJSEIxYm1VIiwiYnMiOiJjNFdQTVF2Q01CQ0ZjYjNKUllTZ2N2b0hoSUp6UnNISnpmbXFLVG1rU2NsZEtmNTdRMmdWbDdxLTk3MFBIcHhoZl9OODk4aUM2aDIyVVJRYmFtTXZXSE42VVdCYkhRd09meUFvSWxKOGNuaGdiS1o4bXRST2RCVE5RM0NCWXhGUmNpWFUyT0hwUTZhTVVKOG9xQ0FIdlBiQjJXcHRWcjlVYnJyY2dJVnRjWTEtSlZIT2d1LXpuZGtNTThCeThRWSIsImlkIjoiZmNfTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUVfMiJ9"
+  },
+  {
+   "question": "What is the tastiest biryani?",
+   "type": "ai_overview",
+   "page_token": "_TjJuHicHdDPUoJAHADg6WU8KkJZOeM0kvzRYJUf7rLspYFFQdkFTHKBW-_SU_U0Nd2_0_f1LU5V-XPXFW3bXOeTiVJqnNd1Lg5jXo9P1SS59hWf8ESINOHlfPY4m74c-cL6XJuvl7UZ4KYhK9DCM6BUtzVYkTCYNrewivtE5ApoExzKrg7dpY4EaAcb3sIVWxOJpBcRlA7ETwUfDmfRM9x2vCogjJ6N1CCbPxtzrVHIIlfsModbyMFa3mKxKYjLLhlFLHOx8qIi8l20405mJlaTsPK-T2VX42mpcwdRJpYGsqb7yHmgjBAviOBKKvgg-6xkEncphl0gUIgw0K2zUb6bgVVkWyKZF1O03lqtTHCnMtsOEvmk82EDAPUpwDDws5DYMG8eLYyYmFVMiRuXfh9TswfqD6CzjtgIMzU68tvCGP1_Lt6Psp03H3X-C7vShj0",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_TjJuHicHdDPUoJAHADg6WU8KkJZOeM0kvzRYJUf7rLspYFFQdkFTHKBW-_SU_U0Nd2_0_f1LU5V-XPXFW3bXOeTiVJqnNd1Lg5jXo9P1SS59hWf8ESINOHlfPY4m74c-cL6XJuvl7UZ4KYhK9DCM6BUtzVYkTCYNrewivtE5ApoExzKrg7dpY4EaAcb3sIVWxOJpBcRlA7ETwUfDmfRM9x2vCogjJ6N1CCbPxtzrVHIIlfsModbyMFa3mKxKYjLLhlFLHOx8qIi8l20405mJlaTsPK-T2VX42mpcwdRJpYGsqb7yHmgjBAviOBKKvgg-6xkEncphl0gUIgw0K2zUb6bgVVkWyKZF1O03lqtTHCnMtsOEvmk82EDAPUpwDDws5DYMG8eLYyYmFVMiRuXfh9TswfqD6CzjtgIMzU68tvCGP1_Lt6Psp03H3X-C7vShj0",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5VcElOek5aWDFSc2VIcHNWSGxMV0VOaGNVWjBiV05KTmsxWGRWZExXWHBJVjA5cU1tRnpYMEZwZEhVeFdUQm9kbUpFUXkwNFNIWmZVRkp1ZVVKcldUVk9aRGd0YzNReVoyUXRiVFE1U2twSmEyNTVTMVZMVkZOTFFSSVhUbFptUzJGelNEaExabWxNY0hSUlVHcHZObk15VVVVYUlrRkVjM0k1WmxFNVNHSTVkbVZhZUdkMmFHTlFUM1ZEUWtGblZreGZjemsyTFVFIiwiZmN2IjoiMyIsImVpIjoiTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUUiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgwQVh2TS0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHRhc3RpZXN0IGJpcnlhbmk/IiwibGsiOiJHaHgzYUdGMElHbHpJSFJvWlNCMFlYTjBhV1Z6ZENCaWFYSjVZVzVwIiwiYnMiOiJjNFdQTVF2Q01CQ0ZjYjNKUllTZ2N2b0hoSUp6UnNISnpmbXFLVG1rU2NsZEtmNTdRMmdWbDdxLTk3MFBIcHhoZl9OODk4aUM2aDIyVVJRYmFtTXZXSE42VVdCYkhRd09meUFvSWxKOGNuaGdiS1o4bXRST2RCVE5RM0NCWXhGUmNpWFUyT0hwUTZhTVVKOG9xQ0FIdlBiQjJXcHRWcjlVYnJyY2dJVnRjWTEtSlZIT2d1LXpuZGtNTThCeThRWSIsImlkIjoiZmNfTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUVfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU5VcElOek5aWDFSc2VIcHNWSGxMV0VOaGNVWjBiV05KTmsxWGRWZExXWHBJVjA5cU1tRnpYMEZwZEhVeFdUQm9kbUpFUXkwNFNIWmZVRkp1ZVVKcldUVk9aRGd0YzNReVoyUXRiVFE1U2twSmEyNTVTMVZMVkZOTFFSSVhUbFptUzJGelNEaExabWxNY0hSUlVHcHZObk15VVVVYUlrRkVjM0k1WmxFNVNHSTVkbVZhZUdkMmFHTlFUM1ZEUWtGblZreGZjemsyTFVFIiwiZmN2IjoiMyIsImVpIjoiTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUUiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgwQVh2TS0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIHRhc3RpZXN0IGJpcnlhbmk%2FIiwibGsiOiJHaHgzYUdGMElHbHpJSFJvWlNCMFlYTjBhV1Z6ZENCaWFYSjVZVzVwIiwiYnMiOiJjNFdQTVF2Q01CQ0ZjYjNKUllTZ2N2b0hoSUp6UnNISnpmbXFLVG1rU2NsZEtmNTdRMmdWbDdxLTk3MFBIcHhoZl9OODk4aUM2aDIyVVJRYmFtTXZXSE42VVdCYkhRd09meUFvSWxKOGNuaGdiS1o4bXRST2RCVE5RM0NCWXhGUmNpWFUyT0hwUTZhTVVKOG9xQ0FIdlBiQjJXcHRWcjlVYnJyY2dJVnRjWTEtSlZIT2d1LXpuZGtNTThCeThRWSIsImlkIjoiZmNfTlZmS2FzSDhLZmlMcHRRUGpvNnMyUUVfMiJ9"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "cezV-niczVXbdqo4GH6AeY7hZtcDoK12LdZeCY2Aim08tfaGBYgB5WBFRb3b7zIPM88wTzPhZLFVd_e-mDVxSUjyk3z_4cv34y_X8Rf__PG3vV4vw_tKJYqiMgkC4lplMyg7fkUP975ZmQVuuDLt75uNawnRNxEoWBGV55E83rwOdr3Js22bXuugy_39ZLBrG15_OcGM7QqWzxBXcHxmvxV4xgyFKmM5Qm886-ih3OjMnO5yjZ_mwW3IYcQkhwmaoYfWnKLZzcOKVqGPxZ_8Ax2Uw7LlaxIsI6xqh5UltaFS5qocX36s6B61Af9hIwhg-qRvC4CumAH4pe0UBQARA-U4gcVs4ThDJ3C8QH9IScfk8mYpOooyA6DNZU-KAOjlNlfAoMK-EcjOAmriDsD9Lzn03tLNgnx4PR5nPco-Gb0bFSN-0RNFPRkBkajgiTqQnSF-sE6jenJilJjJ0aMKH1EfX0UOWhjIKhGxc92MtkBUGjDfTYpoSnBlSmgBVyvGinZsxTFtM3lZhXFdi8NmNWi1kOdEzTtPtTtvLWQv1JInyTzg249RxTSonRvoU2uq2Vr1ezJmObZebfJ3jZuEU2Z4JFVYJNVYWiHu5VZ-UUm5W4ZsTicaoPc4nyYGguBcpsT4A-VTaPNG6_JcDKFYKPvsyMRyH88XUi3OqymUbE6hAQcwQiebKjlC8JlO6MQkOxBnxUlIskAyTwo70osFHYsPnqw9fvbmcz2qCKYbi6KYYs0qkwDwISI26BedPqngGB4GTivuA4ojgqOkTmuFD0AP0nAoH28kGMfeztzKEeYZdAoxhq04H3QNogUdDuxJJPZBSogEGDomSIQJ9txd8ULWIb1O4OQn3LnYOl-yUnLefKBBkT7ywkHj7Qv7BIesw3cluSTXl4o6QIYcnadL4Bm_JkLm_4tTuUThTKIucgp-iVOKAs9JFMpWU6zvEhVzSiSEXOBUN-VULlHxWi5RT8VTU28-cQqF75za40Si1EsS9cucglc5lSfpHKdG5zmlXOJUIlFFTtkqpu5PjhJ1kvWjRBU49RsS1fldiUooZqXdqV5t5uSibiHudie1XAmxoM2XiK69jLyIZ1vgrUR-qlszb33v6VP3RnOm95Brr_fTG41OBPfWlHkTDCtcfzOc1V73HcZzV4FQ1etbvD1od-3dIoreyLy3HY8xa5fEmj8J1P4bXE315UCcq5rU3W2Xr81XCEaj583OQ4dX6VblhqhnecOR67dLQ267WSk7-dZE67BJqhu2dXjmqp3FzO1PZNC2rNJs2B8jg7SnuKWEO6k04zTNCna73mziSx3ZT1CFwuCAFvWHgd9ga4y3MgWa1xoBPQyeAdAp30CbQHrZ0T_tu7TvBvR6lScAP8QEZkJT16xwKzTqhlVrmkatzvMNY1plPLLeL4Uaz4T-SmD_BXhdVp4",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cezV-niczVXbdqo4GH6AeY7hZtcDoK12LdZeCY2Aim08tfaGBYgB5WBFRb3b7zIPM88wTzPhZLFVd_e-mDVxSUjyk3z_4cv34y_X8Rf__PG3vV4vw_tKJYqiMgkC4lplMyg7fkUP975ZmQVuuDLt75uNawnRNxEoWBGV55E83rwOdr3Js22bXuugy_39ZLBrG15_OcGM7QqWzxBXcHxmvxV4xgyFKmM5Qm886-ih3OjMnO5yjZ_mwW3IYcQkhwmaoYfWnKLZzcOKVqGPxZ_8Ax2Uw7LlaxIsI6xqh5UltaFS5qocX36s6B61Af9hIwhg-qRvC4CumAH4pe0UBQARA-U4gcVs4ThDJ3C8QH9IScfk8mYpOooyA6DNZU-KAOjlNlfAoMK-EcjOAmriDsD9Lzn03tLNgnx4PR5nPco-Gb0bFSN-0RNFPRkBkajgiTqQnSF-sE6jenJilJjJ0aMKH1EfX0UOWhjIKhGxc92MtkBUGjDfTYpoSnBlSmgBVyvGinZsxTFtM3lZhXFdi8NmNWi1kOdEzTtPtTtvLWQv1JInyTzg249RxTSonRvoU2uq2Vr1ezJmObZebfJ3jZuEU2Z4JFVYJNVYWiHu5VZ-UUm5W4ZsTicaoPc4nyYGguBcpsT4A-VTaPNG6_JcDKFYKPvsyMRyH88XUi3OqymUbE6hAQcwQiebKjlC8JlO6MQkOxBnxUlIskAyTwo70osFHYsPnqw9fvbmcz2qCKYbi6KYYs0qkwDwISI26BedPqngGB4GTivuA4ojgqOkTmuFD0AP0nAoH28kGMfeztzKEeYZdAoxhq04H3QNogUdDuxJJPZBSogEGDomSIQJ9txd8ULWIb1O4OQn3LnYOl-yUnLefKBBkT7ywkHj7Qv7BIesw3cluSTXl4o6QIYcnadL4Bm_JkLm_4tTuUThTKIucgp-iVOKAs9JFMpWU6zvEhVzSiSEXOBUN-VULlHxWi5RT8VTU28-cQqF75za40Si1EsS9cucglc5lSfpHKdG5zmlXOJUIlFFTtkqpu5PjhJ1kvWjRBU49RsS1fldiUooZqXdqV5t5uSibiHudie1XAmxoM2XiK69jLyIZ1vgrUR-qlszb33v6VP3RnOm95Brr_fTG41OBPfWlHkTDCtcfzOc1V73HcZzV4FQ1etbvD1od-3dIoreyLy3HY8xa5fEmj8J1P4bXE315UCcq5rU3W2Xr81XCEaj583OQ4dX6VblhqhnecOR67dLQ267WSk7-dZE67BJqhu2dXjmqp3FzO1PZNC2rNJs2B8jg7SnuKWEO6k04zTNCna73mziSx3ZT1CFwuCAFvWHgd9ga4y3MgWa1xoBPQyeAdAp30CbQHrZ0T_tu7TvBvR6lScAP8QEZkJT16xwKzTqhlVrmkatzvMNY1plPLLeL4Uaz4T-SmD_BXhdVp4"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Best Biryani Places in Pune",
+   "link": "https://www.zomato.com/pune/collection/classic-biryanis",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVxhkSXsTwOaeYQoUzHekv51bUjsqFeqKykbHa3_0HVnbAZgf-4pUX4Sdch1bDgMV0GZR7UdGk3_Gen1xe8ekMrUZrov_DX-B0Z6kI39AdH3afZEsAfyMD0SM6f6LkU8AZ92nBVEbQmMCZguecJQ&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://www.zomato.com › Pune › Collections",
+   "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWj_50BztOYUKajSUqY0nxN_2kmmnO3MgAP6l_pFa1HehfrmOhi8DDnkzYvfS2FA_2MNfDwf-Cq3uUgIr_vILjPrTCBf_jePStpEEESUD77kFWFF9hNgvOYS3TSekcDmUmzIOBGzqNsnrLX_9Kj31aZ7P-CCJ_f9c2MTTC99iz_-ZhAJ7GJ4jboK7Q-E_gBDJO95ASmnr3_tPsjeIePS_PzY21euI7uqBZlYTzB97Cr_NqBBIjBw2DMjP1w7wW3LQ_nQAAA.webp",
+   "snippet": "Classic biryani places ; Aishwarya Biryani House · Aishwarya Biryani House · Biryani, North Indian, Mughlai, Chinese, Malwani · Chinchwad, Pune ; Birinj Biriyan.",
+   "snippet_highlighted_words": [
+    "Classic biryani places"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Classic biryani places ; Aishwarya Biryani House · Aishwarya Biryani House · Biryani, North Indian, Mughlai, Chinese, Malwani · Chinchwad, Pune ; Birinj Biriyan.",
+     "source_info_link": "https://www.zomato.com/pune/collection/classic-biryanis",
+     "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWj_50BztOYUKajSUqY0nxN_2kmmnO3MgAP6l_pFa1HehfrmOhi8DDnkzYvfS2FA_2MNfDwf-Cq3uUgIr_vILjPrTCBf_jePStpEEESUD77kFWFF9hNgvOYS3TSekcDmUmzIOBGzqNsnrLX_9Kj31aZ7P-CCJ_f9c2MTTC99iz_-ZhAJ7GJ4jboK7Q-E_gBDJO95ASmnr3_tPsjeIePS_PzY21euI7uqBZlYTzB97Cr_NqBBIjBw2DMjP1w7wW3LQ_nQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnhoa1NYc1R3T2FlWVFvVXpIZWt2NTFiVWpzcUZlcUt5a2JIYTNfMEhWbmJBWmdmLTRwVVg0U2RjaDFiRGdNVjBHWlI3VWRHazNfR2VuMXhlOGVrTXJVWnJvdl9EWC1CMFo2a0kzOUFkSDNhZlpFc0FmeU1EMFNNNmY2TGtVOEFaOTJuQlZFYlFtTUNaZ3VlY0pREgQaAggAGqoEEgAaACIAKgA6AEIECAEQAEoZCAESEVB1bmUsIE1haGFyYXNodHJhGgIIAloAcgB6AIJA9QMIABAAGAAgACojCgRiZXN0FcAlgEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRUscrtAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnhoa1NYc1R3T2FlWVFvVXpIZWt2NTFiVWpzcUZlcUt5a2JIYTNfMEhWbmJBWmdmLTRwVVg0U2RjaDFiRGdNVjBHWlI3VWRHazNfR2VuMXhlOGVrTXJVWnJvdl9EWC1CMFo2a0kzOUFkSDNhZlpFc0FmeU1EMFNNNmY2TGtVOEFaOTJuQlZFYlFtTUNaZ3VlY0pROis8Yj5CZXN0IEJpcnlhbmk8L2I-IFBsYWNlcyBpbiBQdW5lIHwgWm9tYXRvQr0BPGI-Q2xhc3NpYyBiaXJ5YW5pIHBsYWNlczwvYj4gOyBBaXNod2FyeWEgQmlyeWFuaSBIb3VzZSAmbWlkZG90OyBBaXNod2FyeWEgQmlyeWFuaSBIb3VzZSAmbWlkZG90OyBCaXJ5YW5pLCBOb3J0aCBJbmRpYW4sIE11Z2hsYWksIENoaW5lc2UsIE1hbHdhbmkgJm1pZGRvdDsgQ2hpbmNod2FkLCBQdW5lIDsgQmlyaW5qIEJpcml5YW4uUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnhoa1NYc1R3T2FlWVFvVXpIZWt2NTFiVWpzcUZlcUt5a2JIYTNfMEhWbmJBWmdmLTRwVVg0U2RjaDFiRGdNVjBHWlI3VWRHazNfR2VuMXhlOGVrTXJVWnJvdl9EWC1CMFo2a0kzOUFkSDNhZlpFc0FmeU1EMFNNNmY2TGtVOEFaOTJuQlZFYlFtTUNaZ3VlY0pREgQaAggAGqoEEgAaACIAKgA6AEIECAEQAEoZCAESEVB1bmUsIE1haGFyYXNodHJhGgIIAloAcgB6AIJA9QMIABAAGAAgACojCgRiZXN0FcAlgEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRUscrtAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnhoa1NYc1R3T2FlWVFvVXpIZWt2NTFiVWpzcUZlcUt5a2JIYTNfMEhWbmJBWmdmLTRwVVg0U2RjaDFiRGdNVjBHWlI3VWRHazNfR2VuMXhlOGVrTXJVWnJvdl9EWC1CMFo2a0kzOUFkSDNhZlpFc0FmeU1EMFNNNmY2TGtVOEFaOTJuQlZFYlFtTUNaZ3VlY0pROis8Yj5CZXN0IEJpcnlhbmk8L2I-IFBsYWNlcyBpbiBQdW5lIHwgWm9tYXRvQr0BPGI-Q2xhc3NpYyBiaXJ5YW5pIHBsYWNlczwvYj4gOyBBaXNod2FyeWEgQmlyeWFuaSBIb3VzZSAmbWlkZG90OyBBaXNod2FyeWEgQmlyeWFuaSBIb3VzZSAmbWlkZG90OyBCaXJ5YW5pLCBOb3J0aCBJbmRpYW4sIE11Z2hsYWksIENoaW5lc2UsIE1hbHdhbmkgJm1pZGRvdDsgQ2hpbmNod2FkLCBQdW5lIDsgQmlyaW5qIEJpcml5YW4uUgN0b3AiAhABSABYAGgA",
+   "source": "Zomato",
+   "read_more_link": "https://www.zomato.com/pune/collection/classic-biryanis#:~:text=These%20biryani%20spots%20in%20the&text=4.0&text=Aishwarya%20Biryani%20House,Chinchwad%2C%20Pune&text=Flat%2020%25%20OFF"
+  },
+  {
+   "position": 2,
+   "title": "From PK to Blue Nile, these are my top 5 Biryani ...",
+   "link": "https://www.instagram.com/reel/DaKzoCeNC02/",
+   "displayed_link": "67.6K+ likes · 3 months ago",
+   "thumbnail": "https://serpapi.com/searches/6aca573274268e8e93b87188/images/X16Qp_0uer5VQiK1dJEDEO0mN1BBTGjZYd8UJahZzUc.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "From PK to Blue Nile, these are my top 5 Biryani recommendations in Pune! most famous biryani spot. Introducing Thalairaj Biryani – Chicken ...",
+   "duration": "1:39",
+   "about_this_result": {
+    "source": {
+     "description": "From PK to Blue Nile, these are my top 5 Biryani recommendations in Pune! most famous biryani spot. Introducing Thalairaj Biryani – Chicken ...",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkxpaXFCMjNLQ2NiazFDTFNPQ0x3a1dnR0pzancwNUJTbEVwNVhwb2pVdnNfT01sTlRrMjVzODNEbzV1VHFONmw2aHROSUFJZVAtamQ1RFlJV0UwT2hyWExDSWRQZUxJUHNpbGxqdHFlNVhuZGhtSjRvM3d6SG1GdDdQTlgza0haMEESIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkxpaXFCMjNLQ2NiazFDTFNPQ0x3a1dnR0pzancwNUJTbEVwNVhwb2pVdnNfT01sTlRrMjVzODNEbzV1VHFONmw2aHROSUFJZVAtamQ1RFlJV0UwT2hyWExDSWRQZUxJUHNpbGxqdHFlNVhuZGhtSjRvM3d6SG1GdDdQTlgza0haMEESIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Instagram · realestate_with_nikhill"
+  },
+  {
+   "position": 3,
+   "title": "Best Biryani in Pune? : r/pune",
+   "link": "https://www.reddit.com/r/pune/comments/13ju0k8/best_biryani_in_pune/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVIgoLPU95Oby8tkWX3THqwe1rhIXJiVECVofA6IIHwMWgBTWCjHyNyLncpVNffuHuP0Y5aPDFbPLreq14EQJJuxhvl_8E9piu40cN-MV45CAUgJ0MY9aKtoWnYJ08gzqqcyvUeH3J4wUh1-C-bAcT7wmVUD_cKDvDvRE&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQFnoECEEQAQ&uoh=1",
+   "displayed_link": "80+ comments · 3 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "Where can I have very good mutton biryani in Pune? Please don't recommend PK Biryani. By good biryani I don't mean masala-bhaat or chicken/mutton pieces ...",
+   "about_this_result": {
+    "source": {
+     "description": "Hinjewadi phase 3 is good. Taareef's (Aundh) biryani fabulous! Blue Nile and George Restaurant in Camp have good biryani. Biryani By Kilo is by ...",
+     "source_info_link": "https://www.reddit.com/r/pune/comments/13ju0k8/best_biryani_in_pune/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVklnb0xQVTk1T2J5OHRrV1gzVEhxd2UxcmhJWEppVkVDVm9mQTZJSUh3TVdnQlRXQ2pIeU55TG5jcFZOZmZ1SHVQMFk1YVBERmJQTHJlcTE0RVFKSnV4aHZsXzhFOXBpdTQwY04tTVY0NUNBVWdKME1ZOWFLdG9XbllKMDhnenFxY3l2VWVIM0o0d1VoMS1DLWJBY1Q3d21WVURfY0tEdkR2UkUSBBoCCAAapgQSAggAGgAiACoAOgBCBAgBEABKGQgBEhFQdW5lLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQO8DCAAQABgAIAAqIwoEYmVzdBUlCJFAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVXKuvQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTK5AS9nb3RvP3VybD1DQUVTZndIck96QVZJZ29MUFU5NU9ieTh0a1dYM1RIcXdlMXJoSVhKaVZFQ1ZvZkE2SUlId01XZ0JUV0NqSHlOeUxuY3BWTmZmdUh1UDBZNWFQREZiUExyZXExNEVRSkp1eGh2bF84RTlwaXU0MGNOLU1WNDVDQVVnSjBNWTlhS3RvV25ZSjA4Z3pxcWN5dlVlSDNKNHdVaDEtQy1iQWNUN3dtVlVEX2NLRHZEdlJFOi48Yj5CZXN0IEJpcnlhbmk8L2I-IGluIFB1bmU_IDogci9wdW5lIC0gUmVkZGl0QqMBPGI-SGluamV3YWRpIHBoYXNlIDMgaXMgZ29vZDwvYj4uIFRhYXJlZWYmIzM5O3MgKEF1bmRoKSBiaXJ5YW5pIGZhYnVsb3VzISBCbHVlIE5pbGUgYW5kIEdlb3JnZSBSZXN0YXVyYW50IGluIENhbXAgaGF2ZSBnb29kIGJpcnlhbmkuIEJpcnlhbmkgQnkgS2lsbyBpcyBieSZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVklnb0xQVTk1T2J5OHRrV1gzVEhxd2UxcmhJWEppVkVDVm9mQTZJSUh3TVdnQlRXQ2pIeU55TG5jcFZOZmZ1SHVQMFk1YVBERmJQTHJlcTE0RVFKSnV4aHZsXzhFOXBpdTQwY04tTVY0NUNBVWdKME1ZOWFLdG9XbllKMDhnenFxY3l2VWVIM0o0d1VoMS1DLWJBY1Q3d21WVURfY0tEdkR2UkUSBBoCCAAapgQSAggAGgAiACoAOgBCBAgBEABKGQgBEhFQdW5lLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQO8DCAAQABgAIAAqIwoEYmVzdBUlCJFAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVXKuvQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTK5AS9nb3RvP3VybD1DQUVTZndIck96QVZJZ29MUFU5NU9ieTh0a1dYM1RIcXdlMXJoSVhKaVZFQ1ZvZkE2SUlId01XZ0JUV0NqSHlOeUxuY3BWTmZmdUh1UDBZNWFQREZiUExyZXExNEVRSkp1eGh2bF84RTlwaXU0MGNOLU1WNDVDQVVnSjBNWTlhS3RvV25ZSjA4Z3pxcWN5dlVlSDNKNHdVaDEtQy1iQWNUN3dtVlVEX2NLRHZEdlJFOi48Yj5CZXN0IEJpcnlhbmk8L2I-IGluIFB1bmU_IDogci9wdW5lIC0gUmVkZGl0QqMBPGI-SGluamV3YWRpIHBoYXNlIDMgaXMgZ29vZDwvYj4uIFRhYXJlZWYmIzM5O3MgKEF1bmRoKSBiaXJ5YW5pIGZhYnVsb3VzISBCbHVlIE5pbGUgYW5kIEdlb3JnZSBSZXN0YXVyYW50IGluIENhbXAgaGF2ZSBnb29kIGJpcnlhbmkuIEJpcnlhbmkgQnkgS2lsbyBpcyBieSZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "source": "Reddit · r/pune"
+  },
+  {
+   "position": 4,
+   "title": "Best Biryani Restaurants In Pune 2026 | Order Online",
+   "link": "https://www.swiggy.com/city/pune/biryani-dish-restaurants",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVeRlj99ZPTEh009tIFfmVQ3nAjYVN8qSuJFDrFPvigBiRq9zucs039U4eU3ntgyJsCOT4Loc7VCaQ0oy2kT8fvthoGDDRhVOpgydsrpvwtBSM8oifNHp8alLpjiJUxt2GjONQSxWR4TwOId90xEl5&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://www.swiggy.com › Home › Pune",
+   "favicon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHV3mduGcYtye807yISqfykPACv5d08Siandzc4hX57vcoRDTR2q1G1AOqVXAAD-7mrJhe_whQUybeQCofTC7g_CXQGVbYHhGWkVypz0kdMhzz3ADpwf_bj8UiTiMiqFKz_47THBdF05nwq9UrzcF2Lu3qwlMPntqBmwzn9ht62hZee73dyBNr4KXE9zk2wcEJEKi-Ncwytqu3TPQL5ptzc3e2CP6O23xK4Hrwx90GYVhIXL4mlk5IOgLH1P5rM-tlhuBh_P9flX9V3NaHqpYa4_Br3wwfsl11_rU_j_pci7HN3NFoYA-y5pz1gHMP_-DwbfCl7a7VIFLJJY8QLs6PjYUVD8fHb-GRIArfW1v0fmtE4gBw_bAPP48ZTM4MAA.webp",
+   "snippet": "Explore The Best Biryani Restaurants In Pune. View Menus, Photos, Ratings, Reviews Or Order Online. EatRight Gourmet Spicy 50 dishes found for biryani",
+   "snippet_highlighted_words": [
+    "Explore The Best Biryani Restaurants In Pune"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Explore The Best Biryani Restaurants In Pune. View Menus, Photos, Ratings, Reviews Or Order Online. EatRight Gourmet Spicy 50 dishes found for biryani",
+     "source_info_link": "https://www.swiggy.com/city/pune/biryani-dish-restaurants",
+     "icon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHV3mduGcYtye807yISqfykPACv5d08Siandzc4hX57vcoRDTR2q1G1AOqVXAAD-7mrJhe_whQUybeQCofTC7g_CXQGVbYHhGWkVypz0kdMhzz3ADpwf_bj8UiTiMiqFKz_47THBdF05nwq9UrzcF2Lu3qwlMPntqBmwzn9ht62hZee73dyBNr4KXE9zk2wcEJEKi-Ncwytqu3TPQL5ptzc3e2CP6O23xK4Hrwx90GYVhIXL4mlk5IOgLH1P5rM-tlhuBh_P9flX9V3NaHqpYa4_Br3wwfsl11_rU_j_pci7HN3NFoYA-y5pz1gHMP_-DwbfCl7a7VIFLJJY8QLs6PjYUVD8fHb-GRIArfW1v0fmtE4gBw_bAPP48ZTM4MAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVmVSbGo5OVpQVEVoMDA5dElGZm1WUTNuQWpZVk44cVN1SkZEckZQdmlnQmlScTl6dWNzMDM5VTRlVTNudGd5SnNDT1Q0TG9jN1ZDYVEwb3kya1Q4ZnZ0aG9HRERSaFZPcGd5ZHNycHZ3dEJTTThvaWZOSHA4YWxMcGppSlV4dDJHak9OUVN4V1I0VHdPSWQ5MHhFbDUSBBoCCAAapwQSAggAGgAiACoAOgBCBAgBEABKGQgBEhFQdW5lLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQPADCAAQABgAIAAqIwoEYmVzdBW2mFFAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkV3FfQQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZlUmxqOTlaUFRFaDAwOXRJRmZtVlEzbkFqWVZOOHFTdUpGRHJGUHZpZ0JpUnE5enVjczAzOVU0ZVUzbnRneUpzQ09UNExvYzdWQ2FRMG95MmtUOGZ2dGhvR0REUmhWT3BneWRzcnB2d3RCU004b2lmTkhwOGFsTHBqaUpVeHQyR2pPTlFTeFdSNFR3T0lkOTB4RWw1OkQ8Yj5CZXN0IEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIEluIFB1bmUgMjAyNiB8IE9yZGVyIE9ubGluZSAtIFN3aWdneUKdATxiPkV4cGxvcmUgVGhlIEJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBJbiBQdW5lPC9iPi4gVmlldyBNZW51cywgUGhvdG9zLCBSYXRpbmdzLCBSZXZpZXdzIE9yIE9yZGVyIE9ubGluZS4gRWF0UmlnaHQgR291cm1ldCBTcGljeSA1MCBkaXNoZXMgZm91bmQgZm9yIGJpcnlhbmlSA3RvcCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVmVSbGo5OVpQVEVoMDA5dElGZm1WUTNuQWpZVk44cVN1SkZEckZQdmlnQmlScTl6dWNzMDM5VTRlVTNudGd5SnNDT1Q0TG9jN1ZDYVEwb3kya1Q4ZnZ0aG9HRERSaFZPcGd5ZHNycHZ3dEJTTThvaWZOSHA4YWxMcGppSlV4dDJHak9OUVN4V1I0VHdPSWQ5MHhFbDUSBBoCCAAapwQSAggAGgAiACoAOgBCBAgBEABKGQgBEhFQdW5lLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQPADCAAQABgAIAAqIwoEYmVzdBW2mFFAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkV3FfQQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZlUmxqOTlaUFRFaDAwOXRJRmZtVlEzbkFqWVZOOHFTdUpGRHJGUHZpZ0JpUnE5enVjczAzOVU0ZVUzbnRneUpzQ09UNExvYzdWQ2FRMG95MmtUOGZ2dGhvR0REUmhWT3BneWRzcnB2d3RCU004b2lmTkhwOGFsTHBqaUpVeHQyR2pPTlFTeFdSNFR3T0lkOTB4RWw1OkQ8Yj5CZXN0IEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIEluIFB1bmUgMjAyNiB8IE9yZGVyIE9ubGluZSAtIFN3aWdneUKdATxiPkV4cGxvcmUgVGhlIEJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBJbiBQdW5lPC9iPi4gVmlldyBNZW51cywgUGhvdG9zLCBSYXRpbmdzLCBSZXZpZXdzIE9yIE9yZGVyIE9ubGluZS4gRWF0UmlnaHQgR291cm1ldCBTcGljeSA1MCBkaXNoZXMgZm91bmQgZm9yIGJpcnlhbmlSA3RvcCICEAFIAFgAaAA",
+   "source": "Swiggy"
+  },
+  {
+   "position": 5,
+   "title": "these are my top 5 Biryani recommendations in Pune!",
+   "link": "https://www.youtube.com/shorts/BESNQJ6Ibz4?xstg=CAMSBhUDzO3xHw%3D%3D",
+   "displayed_link": "3.1K+ views · 3 months ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OWtcdmB61V4uff9DJDgw3w1y5UI1Yo89v7TrRDZ16IL_HxooMJw2fA&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "From PK to Blue Nile, these are my top 5 Biryani recommendations in Pune! Which one is your personal favorite? Call/DM - 9561477575",
+   "duration": "1:40",
+   "about_this_result": {
+    "source": {
+     "description": "From PK to Blue Nile, these are my top 5 Biryani recommendations in Pune! Which one is your personal favorite? Call/DM - 9561477575",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkVFekN1MUhka3N6LWJJSU03b0ZlSVVOM044NmR1TUlWcFJOUnhDZHk2dEVKY0RIWWFwakM5YVEyWEMtcUhLQXZBUDlJU085Qlp3cEh1SF93dV9lYUVmMXZETXd3Z2Q4eWUyTjBmQm5TcG10Uk15bW1RSU5HdlkydWRjOC1xUGcyEiEKFQoECDBIAgoECEhIAgoCCD8KAwiAARIECgIIWhoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkVFekN1MUhka3N6LWJJSU03b0ZlSVVOM044NmR1TUlWcFJOUnhDZHk2dEVKY0RIWWFwakM5YVEyWEMtcUhLQXZBUDlJU085Qlp3cEh1SF93dV9lYUVmMXZETXd3Z2Q4eWUyTjBmQm5TcG10Uk15bW1RSU5HdlkydWRjOC1xUGcyEiEKFQoECDBIAgoECEhIAgoCCD8KAwiAARIECgIIWhoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS20sBQgKsPG7qnM7ttGH-aCfBBl_p6Uu-Icw",
+   "source": "YouTube · Nikhil Mawale"
+  },
+  {
+   "position": 6,
+   "title": "Top Biryani Restaurants near Pune - Best Biryani House",
+   "link": "https://www.justdial.com/Pune/Biryani-Restaurants/nct-10047018",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVDcF0r6tXK0iWPKGrGi2bSImRP8rWS5BvvrRDqRZnC1jC6vkPPZiC8TBLXoYpH-Igtq88-OLAqRbmsN4imwPTi11MG_serMfvo2LlSpB-mv5nWzpseCY2SlfunXqJAIZoRCoO9GEQqhmlWY97HRs2_-SQUpE&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQFnoECDoQAQ&uoh=1",
+   "displayed_link": "https://www.justdial.com › ... › 10095+ Listings",
+   "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+   "snippet": "Best Biryani Restaurants in Pune - Order Food Online · Chopsticks Spice Malabar Restaurant · Hotel Shauryawada And Family Restaurant · Nimantran Restaurant.",
+   "snippet_highlighted_words": [
+    "Chopsticks Spice Malabar Restaurant"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Best Biryani Restaurants in Pune - Order Food Online · Chopsticks Spice Malabar Restaurant · Hotel Shauryawada And Family Restaurant · Nimantran Restaurant.",
+     "source_info_link": "https://www.justdial.com/Pune/Biryani-Restaurants/nct-10047018",
+     "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkRjRjByNnRYSzBpV1BLR3JHaTJiU0ltUlA4cldTNUJ2dnJSRHFSWm5DMWpDNnZrUFBaaUM4VEJMWG9ZcEgtSWd0cTg4LU9MQXFSYm1zTjRpbXdQVGkxMU1HX3Nlck1mdm8yTGxTcEItbXY1bld6cHNlQ1kyU2xmdW5YcUpBSVpvUkNvTzlHRVFxaG1sV1k5N0hSczJfLVNRVXBFEgQaAggAGskEEgAaACIAKgA6AEIECAEQAEoZCAESEVB1bmUsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAlAQIABAAGAAgACojCgRiZXN0FfQDVEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRUaLZJAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkRjRjByNnRYSzBpV1BLR3JHaTJiU0ltUlA4cldTNUJ2dnJSRHFSWm5DMWpDNnZrUFBaaUM4VEJMWG9ZcEgtSWd0cTg4LU9MQXFSYm1zTjRpbXdQVGkxMU1HX3Nlck1mdm8yTGxTcEItbXY1bld6cHNlQ1kyU2xmdW5YcUpBSVpvUkNvTzlHRVFxaG1sV1k5N0hSczJfLVNRVXBFOkY8Yj5CZXN0IEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIGluIFB1bmUgLSBPcmRlciBGb29kIE9ubGluZSAtIEp1c3RkaWFsQrgBQmVzdCBCaXJ5YW5pIFJlc3RhdXJhbnRzIGluIFB1bmUgLSBPcmRlciBGb29kIE9ubGluZSAmbWlkZG90OyA8Yj5DaG9wc3RpY2tzIFNwaWNlIE1hbGFiYXIgUmVzdGF1cmFudDwvYj4gJm1pZGRvdDsgSG90ZWwgU2hhdXJ5YXdhZGEgQW5kIEZhbWlseSBSZXN0YXVyYW50ICZtaWRkb3Q7IE5pbWFudHJhbiBSZXN0YXVyYW50LlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkRjRjByNnRYSzBpV1BLR3JHaTJiU0ltUlA4cldTNUJ2dnJSRHFSWm5DMWpDNnZrUFBaaUM4VEJMWG9ZcEgtSWd0cTg4LU9MQXFSYm1zTjRpbXdQVGkxMU1HX3Nlck1mdm8yTGxTcEItbXY1bld6cHNlQ1kyU2xmdW5YcUpBSVpvUkNvTzlHRVFxaG1sV1k5N0hSczJfLVNRVXBFEgQaAggAGskEEgAaACIAKgA6AEIECAEQAEoZCAESEVB1bmUsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAlAQIABAAGAAgACojCgRiZXN0FfQDVEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRUaLZJAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkRjRjByNnRYSzBpV1BLR3JHaTJiU0ltUlA4cldTNUJ2dnJSRHFSWm5DMWpDNnZrUFBaaUM4VEJMWG9ZcEgtSWd0cTg4LU9MQXFSYm1zTjRpbXdQVGkxMU1HX3Nlck1mdm8yTGxTcEItbXY1bld6cHNlQ1kyU2xmdW5YcUpBSVpvUkNvTzlHRVFxaG1sV1k5N0hSczJfLVNRVXBFOkY8Yj5CZXN0IEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIGluIFB1bmUgLSBPcmRlciBGb29kIE9ubGluZSAtIEp1c3RkaWFsQrgBQmVzdCBCaXJ5YW5pIFJlc3RhdXJhbnRzIGluIFB1bmUgLSBPcmRlciBGb29kIE9ubGluZSAmbWlkZG90OyA8Yj5DaG9wc3RpY2tzIFNwaWNlIE1hbGFiYXIgUmVzdGF1cmFudDwvYj4gJm1pZGRvdDsgSG90ZWwgU2hhdXJ5YXdhZGEgQW5kIEZhbWlseSBSZXN0YXVyYW50ICZtaWRkb3Q7IE5pbWFudHJhbiBSZXN0YXVyYW50LlIDdG9wIgIQAUgAWABoAA",
+   "source": "Justdial",
+   "read_more_link": "https://www.justdial.com/Pune/Biryani-Restaurants/nct-10047018#:~:text=Best%20Biryani%20Restaurants%20in%20Pune,%2D%20Order%20Food%20Online&text=Chopsticks%20Spice%20Malabar%20Restaurant&text=Hotel%20Shauryawada%20And%20Family%20Restaurant&text=Nimantran%20Restaurant"
+  },
+  {
+   "position": 7,
+   "title": "Find The Best Biryani In Pune At These 10 Spots! - LBB",
+   "link": "https://lbb.in/pune/best-biryani-pune/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVvN-etw1eHAhe1RYzKbmUP-NcChW4O34Ob86WfA28tDB75twuz3zeDavOnoHpB6cHRYhcxXDfdheejY16KIJ8Xhc2aLrkmsF-9BALwwz2kPVKHeJAkA8-skpvofQ&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQFnoECDsQAQ&uoh=1",
+   "displayed_link": "https://lbb.in › pune › best-biryani-pune",
+   "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAADQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmFoCWct5gIiAMx-C5r3w0S4U47LUv2pg4AAP5rTTqTRiK6lIzWZNrvAUnuWuuTuzYpY562sUH4U7jr88abRB6YQt-6Yfi0z4vN-hWCvQsZk6ogreFKIj3YFgHQYf-brrm6bL4aCS1zOxN7A-f2Eo1ga7IX2DOLogNBGgWuyPcWuEb1sxgnoQUtFBhvZw6Z6kIJehTwOx6YCVH_vhPmLh8k_wNT3sLt9AreHuM1hjgamKAZshhDrgymfwWBsen_5NoSXv3W33p83OFvAMbgzPCft1NLr9LE1nYo4Z_Qx4qOEDYbl9hFgxfEe3_WFZiUBEsgp7X6CJVGGlKPdb37QAAA.webp",
+   "snippet": "Find The Best Biryani In Pune At These 10 Spots! · 1. SP's Biryani House · 2. Savya Rasa · 3. Blue Nile · 4. Madinah Restaurant · 5. George Restaurant · 6.",
+   "snippet_highlighted_words": [
+    "1. SP's Biryani House"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Find The Best Biryani In Pune At These 10 Spots! · 1. SP's Biryani House · 2. Savya Rasa · 3. Blue Nile · 4. Madinah Restaurant · 5. George Restaurant · 6.",
+     "source_info_link": "https://lbb.in/pune/best-biryani-pune/",
+     "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAADQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmFoCWct5gIiAMx-C5r3w0S4U47LUv2pg4AAP5rTTqTRiK6lIzWZNrvAUnuWuuTuzYpY562sUH4U7jr88abRB6YQt-6Yfi0z4vN-hWCvQsZk6ogreFKIj3YFgHQYf-brrm6bL4aCS1zOxN7A-f2Eo1ga7IX2DOLogNBGgWuyPcWuEb1sxgnoQUtFBhvZw6Z6kIJehTwOx6YCVH_vhPmLh8k_wNT3sLt9AreHuM1hjgamKAZshhDrgymfwWBsen_5NoSXv3W33p83OFvAMbgzPCft1NLr9LE1nYo4Z_Qx4qOEDYbl9hFgxfEe3_WFZiUBEsgp7X6CJVGGlKPdb37QAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVnZOLWV0dzFlSEFoZTFSWXpLYm1VUC1OY0NoVzRPMzRPYjg2V2ZBMjh0REI3NXR3dXozemVEYXZPbm9IcEI2Y0hSWWhjeFhEZmRoZWVqWTE2S0lKOFhoYzJhTHJrbXNGLTlCQUx3d3oya1BWS0hlSkFrQTgtc2twdm9mURIEGgIIABq4BBIAGgAiACoAOgBCBAgBEABKGQgBEhFQdW5lLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQIMECAAQABgAIAAqIwoEYmVzdBVcFpRAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVLdHMQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZ2Ti1ldHcxZUhBaGUxUll6S2JtVVAtTmNDaFc0TzM0T2I4NldmQTI4dERCNzV0d3V6M3plRGF2T25vSHBCNmNIUlloY3hYRGZkaGVlalkxNktJSjhYaGMyYUxya21zRi05QkFMd3d6MmtQVktIZUpBa0E4LXNrcHZvZlE6PUZpbmQgVGhlIDxiPkJlc3QgQmlyeWFuaTwvYj4gSW4gUHVuZSBBdCBUaGVzZSAxMCBTcG90cyEgLSBMQkJC0AFGaW5kIFRoZSBCZXN0IEJpcnlhbmkgSW4gUHVuZSBBdCBUaGVzZSAxMCBTcG90cyEgJm1pZGRvdDsgPGI-MS4gU1AmIzM5O3MgQmlyeWFuaSBIb3VzZTwvYj4gJm1pZGRvdDsgMi4gU2F2eWEgUmFzYSAmbWlkZG90OyAzLiBCbHVlIE5pbGUgJm1pZGRvdDsgNC4gTWFkaW5haCBSZXN0YXVyYW50ICZtaWRkb3Q7IDUuIEdlb3JnZSBSZXN0YXVyYW50ICZtaWRkb3Q7IDYuUgN0b3AiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVnZOLWV0dzFlSEFoZTFSWXpLYm1VUC1OY0NoVzRPMzRPYjg2V2ZBMjh0REI3NXR3dXozemVEYXZPbm9IcEI2Y0hSWWhjeFhEZmRoZWVqWTE2S0lKOFhoYzJhTHJrbXNGLTlCQUx3d3oya1BWS0hlSkFrQTgtc2twdm9mURIEGgIIABq4BBIAGgAiACoAOgBCBAgBEABKGQgBEhFQdW5lLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQIMECAAQABgAIAAqIwoEYmVzdBVcFpRAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVLdHMQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZ2Ti1ldHcxZUhBaGUxUll6S2JtVVAtTmNDaFc0TzM0T2I4NldmQTI4dERCNzV0d3V6M3plRGF2T25vSHBCNmNIUlloY3hYRGZkaGVlalkxNktJSjhYaGMyYUxya21zRi05QkFMd3d6MmtQVktIZUpBa0E4LXNrcHZvZlE6PUZpbmQgVGhlIDxiPkJlc3QgQmlyeWFuaTwvYj4gSW4gUHVuZSBBdCBUaGVzZSAxMCBTcG90cyEgLSBMQkJC0AFGaW5kIFRoZSBCZXN0IEJpcnlhbmkgSW4gUHVuZSBBdCBUaGVzZSAxMCBTcG90cyEgJm1pZGRvdDsgPGI-MS4gU1AmIzM5O3MgQmlyeWFuaSBIb3VzZTwvYj4gJm1pZGRvdDsgMi4gU2F2eWEgUmFzYSAmbWlkZG90OyAzLiBCbHVlIE5pbGUgJm1pZGRvdDsgNC4gTWFkaW5haCBSZXN0YXVyYW50ICZtaWRkb3Q7IDUuIEdlb3JnZSBSZXN0YXVyYW50ICZtaWRkb3Q7IDYuUgN0b3AiAhABSABYAGgA",
+   "source": "lbb.in",
+   "read_more_link": "https://lbb.in/pune/best-biryani-pune/#:~:text=Find%20The%20Best%20Biryani%20In,Pune%20At%20These%2010%20Spots!&text=1.%20SP's%20Biryani%20House&text=2.%20Savya%20Rasa&text=3.%20Blue%20Nile&text=4.%20Madinah%20Restaurant&text=5.%20George%20Restaurant&text=6.%20Aroma's%20Hyderabad%20House"
+  },
+  {
+   "position": 8,
+   "title": "Best biryani in Pune, as picked by the city's top foodies",
+   "link": "https://www.cntraveller.in/story/the-insiders-guide-to-punes-best-biryani/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFfPtp_25QdimAIS2_tvphvSb7vUwvCIibnXkah5Mox8qy-k_3pFHlSMs7jU0p2a4hs9W0gIuvXHOAYzTJAqXrUeYT4Hx4UCxLbG7HagKYdD_g3YYYdFRTeSGncF04F4WTxs1RDtw-DLTwV__BqEqxahDWgb2Dg8ETsq_s6s3vZr5&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQFnoECEAQAQ&uoh=1",
+   "displayed_link": "https://www.cntraveller.in › Food & Drink › PUNE",
+   "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAKwzMaB0WoZnmegNRVHVpVOLI0n3zOe03lpEgEequgAA_vd14f5zEPwiGVuSTnYPnvaN2CUi7DepI_Ja0baDZilf0ey4KAK0hcqsa8qVUIjebxRFsqd6HP2NChIUPd4HW1dZCIfWJ-OeJUsmRRkhRz3lWo_2uIZuP5Tl6x_k31nkWO7yzswbKTCOlOOFDsEqKeXUEJtS5WoHxocD7U9LYzXaOTTp5O_4BB_960xWLXuf_njJtnqeZuYH9G00h1LjX3sE4UzD9_PicDUPJqG8sXwJzsmTh__NTOfv2dTw9K7-PCz3VxP_yy-n9-_34nueDJHKf1JJ72_wLWb85EEvUD_v9odUcep1fre1SwIrybH4hBkwROev8niqFu9T4ZJbLt5kg1ePCNz1eFJbk2AA.webp",
+   "date": "14 Jan 2023",
+   "snippet": "Best biryani in Pune, as picked by the city's top foodies · Tiranga, Satara Road · SP's Biryani House, Sadashiv Peth · Blue Nile, Camp · Sameena ...",
+   "snippet_highlighted_words": [
+    "Tiranga, Satara Road"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Best biryani in Pune, as picked by the city's top foodies · Tiranga, Satara Road · SP's Biryani House, Sadashiv Peth · Blue Nile, Camp · Sameena ...",
+     "source_info_link": "https://www.cntraveller.in/story/the-insiders-guide-to-punes-best-biryani/",
+     "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAKwzMaB0WoZnmegNRVHVpVOLI0n3zOe03lpEgEequgAA_vd14f5zEPwiGVuSTnYPnvaN2CUi7DepI_Ja0baDZilf0ey4KAK0hcqsa8qVUIjebxRFsqd6HP2NChIUPd4HW1dZCIfWJ-OeJUsmRRkhRz3lWo_2uIZuP5Tl6x_k31nkWO7yzswbKTCOlOOFDsEqKeXUEJtS5WoHxocD7U9LYzXaOTTp5O_4BB_960xWLXuf_njJtnqeZuYH9G00h1LjX3sE4UzD9_PicDUPJqG8sXwJzsmTh__NTOfv2dTw9K7-PCz3VxP_yy-n9-_34nueDJHKf1JJ72_wLWb85EEvUD_v9odUcep1fre1SwIrybH4hBkwROev8niqFu9T4ZJbLt5kg1ePCNz1eFJbk2AA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZmUHRwXzI1UWRpbUFJUzJfdHZwaHZTYjd2VXd2Q0lpYm5Ya2FoNU1veDhxeS1rXzNwRkhsU01zN2pVMHAyYTRoczlXMGdJdXZYSE9BWXpUSkFxWHJVZVlUNEh4NFVDeExiRzdIYWdLWWREX2czWVlZZEZSVGVTR25jRjA0RjRXVHhzMVJEdHctRExUd1ZfX0JxRXF4YWhEV2diMkRnOEVUc3FfczZzM3ZacjUSBBoCCAAa6AQSAggAGgIIASIAKgA6AEIECAEQAEoZCAESEVB1bmUsIE1haGFyYXNodHJhGgIIAloAcgB6AIJArwQIABAAGAAgACojCgRiZXN0FSqagEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRU2oJhAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZmUHRwXzI1UWRpbUFJUzJfdHZwaHZTYjd2VXd2Q0lpYm5Ya2FoNU1veDhxeS1rXzNwRkhsU01zN2pVMHAyYTRoczlXMGdJdXZYSE9BWXpUSkFxWHJVZVlUNEh4NFVDeExiRzdIYWdLWWREX2czWVlZZEZSVGVTR25jRjA0RjRXVHhzMVJEdHctRExUd1ZfX0JxRXF4YWhEV2diMkRnOEVUc3FfczZzM3ZacjU6RDxiPkJlc3QgYmlyeWFuaTwvYj4gaW4gUHVuZSwgYXMgcGlja2VkIGJ5IHRoZSBjaXR5JiMzOTtzIHRvcCBmb29kaWVzQsQBQmVzdCBiaXJ5YW5pIGluIFB1bmUsIGFzIHBpY2tlZCBieSB0aGUgY2l0eSYjMzk7cyB0b3AgZm9vZGllcyAmbWlkZG90OyA8Yj5UaXJhbmdhLCBTYXRhcmEgUm9hZDwvYj4gJm1pZGRvdDsgU1AmIzM5O3MgQmlyeWFuaSBIb3VzZSwgU2FkYXNoaXYgUGV0aCAmbWlkZG90OyBCbHVlIE5pbGUsIENhbXAgJm1pZGRvdDsgU2FtZWVuYSZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZmUHRwXzI1UWRpbUFJUzJfdHZwaHZTYjd2VXd2Q0lpYm5Ya2FoNU1veDhxeS1rXzNwRkhsU01zN2pVMHAyYTRoczlXMGdJdXZYSE9BWXpUSkFxWHJVZVlUNEh4NFVDeExiRzdIYWdLWWREX2czWVlZZEZSVGVTR25jRjA0RjRXVHhzMVJEdHctRExUd1ZfX0JxRXF4YWhEV2diMkRnOEVUc3FfczZzM3ZacjUSBBoCCAAa6AQSAggAGgIIASIAKgA6AEIECAEQAEoZCAESEVB1bmUsIE1haGFyYXNodHJhGgIIAloAcgB6AIJArwQIABAAGAAgACojCgRiZXN0FSqagEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRU2oJhAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZmUHRwXzI1UWRpbUFJUzJfdHZwaHZTYjd2VXd2Q0lpYm5Ya2FoNU1veDhxeS1rXzNwRkhsU01zN2pVMHAyYTRoczlXMGdJdXZYSE9BWXpUSkFxWHJVZVlUNEh4NFVDeExiRzdIYWdLWWREX2czWVlZZEZSVGVTR25jRjA0RjRXVHhzMVJEdHctRExUd1ZfX0JxRXF4YWhEV2diMkRnOEVUc3FfczZzM3ZacjU6RDxiPkJlc3QgYmlyeWFuaTwvYj4gaW4gUHVuZSwgYXMgcGlja2VkIGJ5IHRoZSBjaXR5JiMzOTtzIHRvcCBmb29kaWVzQsQBQmVzdCBiaXJ5YW5pIGluIFB1bmUsIGFzIHBpY2tlZCBieSB0aGUgY2l0eSYjMzk7cyB0b3AgZm9vZGllcyAmbWlkZG90OyA8Yj5UaXJhbmdhLCBTYXRhcmEgUm9hZDwvYj4gJm1pZGRvdDsgU1AmIzM5O3MgQmlyeWFuaSBIb3VzZSwgU2FkYXNoaXYgUGV0aCAmbWlkZG90OyBCbHVlIE5pbGUsIENhbXAgJm1pZGRvdDsgU2FtZWVuYSZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "source": "Condé Nast Traveller India",
+   "read_more_link": "https://www.cntraveller.in/story/the-insiders-guide-to-punes-best-biryani/#:~:text=Best%20biryani%20in%20Pune%2C%20as,by%20the%20city's%20top%20foodies&text=Tiranga%2C%20Satara%20Road&text=SP's%20Biryani%20House%2C%20Sadashiv%20Peth&text=Blue%20Nile%2C%20Camp&text=Sameena%20Moloo%2C%20Camp"
+  },
+  {
+   "position": 9,
+   "title": "Best Biryani in Pune: A Foodie's Guide to the Top 10 Spots",
+   "link": "https://citylocal.co.in/best-biryani-in-pune/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVMaNgplVPWDBAlI2C6vCe7NtdaQ5kFK9xq38MaQq0Gi-gsL8aTA17I_qmb9oM2RmbzsFQJXfBPWTkCIiFnOBlOiojWanti-9dIAFRmfpcN63Nr-MpiQfCs7Ce-bU6BLc0JKca&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://citylocal.co.in › best-biryani-in-pune",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAAAwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0v1kS7YDbAaEz1Du8beTATKoXlxpMGLlCFYIysP33P8ikfFztVwgAA_vYIvSFLPzsho9sGSd5SKDqO8IOW9zV1SCwtyhw9USQC_rKC7P_nj3f_DsJXcMD0PMu4NXdtI4ZAdcS_1RlKz-8ZqAfDjtmShXxcH_nCHBzbromSGGclEfBWm3zgfChmFn-LoS5Ja1Nw8cBQLdsEPywiAG8krjn6nBewZ3wfpiKsUphTWXwHWiCVBwtd_zvHW_l3IuEogrpnhavtaRSmZ1v2Bre_mxa1_GZgkOQFgRPdltUtqxxwa2eqjH8RPZp__GlGFW1wrRzpGUxuMejyU-UE_GFQ8AUG5sZDSTyCDEdQYIz9kUuu50doOYESemnRicKqk_MUt5XbSGGMOVRcDdkWLZoAAAA.webp",
+   "date": "2 Jul 2026",
+   "snippet": "Hamid's has earned its reputation as 'The Biryani King Of Pune' among true enthusiasts. They specialize in authentic Hyderabadi-style dum ...",
+   "snippet_highlighted_words": [
+    "Hamid's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Hamid's has earned its reputation as 'The Biryani King Of Pune' among true enthusiasts. They specialize in authentic Hyderabadi-style dum ...",
+     "source_info_link": "https://citylocal.co.in/best-biryani-in-pune/",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAAAwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0v1kS7YDbAaEz1Du8beTATKoXlxpMGLlCFYIysP33P8ikfFztVwgAA_vYIvSFLPzsho9sGSd5SKDqO8IOW9zV1SCwtyhw9USQC_rKC7P_nj3f_DsJXcMD0PMu4NXdtI4ZAdcS_1RlKz-8ZqAfDjtmShXxcH_nCHBzbromSGGclEfBWm3zgfChmFn-LoS5Ja1Nw8cBQLdsEPywiAG8krjn6nBewZ3wfpiKsUphTWXwHWiCVBwtd_zvHW_l3IuEogrpnhavtaRSmZ1v2Bre_mxa1_GZgkOQFgRPdltUtqxxwa2eqjH8RPZp__GlGFW1wrRzpGUxuMejyU-UE_GFQ8AUG5sZDSTyCDEdQYIz9kUuu50doOYESemnRicKqk_MUt5XbSGGMOVRcDdkWLZoAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVk1hTmdwbFZQV0RCQWxJMkM2dkNlN050ZGFRNWtGSzl4cTM4TWFRcTBHaS1nc0w4YVRBMTdJX3FtYjlvTTJSbWJ6c0ZRSlhmQlBXVGtDSWlGbk9CbE9pb2pXYW50aS05ZElBRlJtZnBjTjYzTnItTXBpUWZDczdDZS1iVTZCTGMwSktjYRIEGgIIABqeBBIAGgAiACoAOgBCBAgBEABKGQgBEhFQdW5lLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQOkDCAAQABgAIAAqIwoEYmVzdBVssKNAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVhkbKQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKaAS9nb3RvP3VybD1DQUVTYUFIck96QVZNYU5ncGxWUFdEQkFsSTJDNnZDZTdOdGRhUTVrRks5eHEzOE1hUXEwR2ktZ3NMOGFUQTE3SV9xbWI5b00yUm1ienNGUUpYZkJQV1RrQ0lpRm5PQmxPaW9qV2FudGktOWRJQUZSbWZwY042M05yLU1waVFmQ3M3Q2UtYlU2QkxjMEpLY2E6RTxiPkJlc3QgQmlyeWFuaTwvYj4gaW4gUHVuZTogQSBGb29kaWUmIzM5O3MgR3VpZGUgdG8gdGhlIFRvcCAxMCBTcG90c0KlATxiPkhhbWlkJiMzOTtzPC9iPiBoYXMgZWFybmVkIGl0cyByZXB1dGF0aW9uIGFzICYjMzk7VGhlIEJpcnlhbmkgS2luZyBPZiBQdW5lJiMzOTsgYW1vbmcgdHJ1ZSBlbnRodXNpYXN0cy4gVGhleSBzcGVjaWFsaXplIGluIGF1dGhlbnRpYyBIeWRlcmFiYWRpLXN0eWxlIGR1bSZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVk1hTmdwbFZQV0RCQWxJMkM2dkNlN050ZGFRNWtGSzl4cTM4TWFRcTBHaS1nc0w4YVRBMTdJX3FtYjlvTTJSbWJ6c0ZRSlhmQlBXVGtDSWlGbk9CbE9pb2pXYW50aS05ZElBRlJtZnBjTjYzTnItTXBpUWZDczdDZS1iVTZCTGMwSktjYRIEGgIIABqeBBIAGgAiACoAOgBCBAgBEABKGQgBEhFQdW5lLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQOkDCAAQABgAIAAqIwoEYmVzdBVssKNAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVhkbKQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKaAS9nb3RvP3VybD1DQUVTYUFIck96QVZNYU5ncGxWUFdEQkFsSTJDNnZDZTdOdGRhUTVrRks5eHEzOE1hUXEwR2ktZ3NMOGFUQTE3SV9xbWI5b00yUm1ienNGUUpYZkJQV1RrQ0lpRm5PQmxPaW9qV2FudGktOWRJQUZSbWZwY042M05yLU1waVFmQ3M3Q2UtYlU2QkxjMEpLY2E6RTxiPkJlc3QgQmlyeWFuaTwvYj4gaW4gUHVuZTogQSBGb29kaWUmIzM5O3MgR3VpZGUgdG8gdGhlIFRvcCAxMCBTcG90c0KlATxiPkhhbWlkJiMzOTtzPC9iPiBoYXMgZWFybmVkIGl0cyByZXB1dGF0aW9uIGFzICYjMzk7VGhlIEJpcnlhbmkgS2luZyBPZiBQdW5lJiMzOTsgYW1vbmcgdHJ1ZSBlbnRodXNpYXN0cy4gVGhleSBzcGVjaWFsaXplIGluIGF1dGhlbnRpYyBIeWRlcmFiYWRpLXN0eWxlIGR1bSZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "source": "citylocal.co.in",
+   "read_more_link": "https://citylocal.co.in/best-biryani-in-pune/#:~:text=Hamid's%20has%20earned%20its%20reputation,in%20authentic%20Hyderabadi%2Dstyle%20dum%20biryani."
+  }
+ ],
+ "filters": [
+  {
+   "name": "Open now",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b",
+    "q": "best biryani open now"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=best+biryani+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQxKsJKAB6BAgiEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b"
+  },
+  {
+   "name": "Top rated",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ",
+    "q": "top rated best biryani"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=top+rated+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQxKsJKAF6BAghEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=top+rated+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ"
+  },
+  {
+   "name": "Price",
+   "options": []
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Best biryani near me",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=Best+biryani+near+me&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ1QJ6BAg-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Best+biryani+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in Pune",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=Best+biryani+in+Pune&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Best+biryani+in+Pune"
+  },
+  {
+   "block_position": 1,
+   "query": "Top 10 biryani in Pune",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=Top+10+biryani+in+Pune&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Top+10+biryani+in+Pune"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani Kharadi",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=Best+biryani+Kharadi&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Best+biryani+Kharadi"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani Viman Nagar",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=Best+biryani+Viman+Nagar&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Best+biryani+Viman+Nagar"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani Hadapsar",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=Best+biryani+Hadapsar&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Best+biryani+Hadapsar"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in Pune online",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=Best+biryani+in+Pune+online&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ1QJ6BAhGEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Best+biryani+in+Pune+online"
+  },
+  {
+   "block_position": 1,
+   "query": "Best Biryani in pune on Zomato",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&q=Best+Biryani+in+pune+on+Zomato&sa=X&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ1QJ6BAhCEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Best+Biryani+in+pune+on+Zomato"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=10&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8NMDegQIVRAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=10&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8tMDegQIVRAE",
+   "3": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=20&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8tMDegQIVRAG",
+   "4": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=30&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8tMDegQIVRAI",
+   "5": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=40&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8tMDegQIVRAK",
+   "6": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=50&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8tMDegQIVRAM",
+   "7": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=60&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8tMDegQIVRAO",
+   "8": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=70&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8tMDegQIVRAQ",
+   "9": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=80&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8tMDegQIVRAS",
+   "10": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnu0dP1hnPstVpwCrEftvM30S3vGyw:1791645493694&ei=NVfKasH8KfiLptQPjo6s2QE&start=90&sa=N&sstk=AS6-VmLxSwTHzuV7_ecStIR6Mg47lie9ev3TXmRMk8iUABZ-OWClhdT7kpiE3qSVqfAEEs_Pa4hsBmloOSTmMGyUZo3JsW-WA82p6g&ved=2ahUKEwiB69vJ36-XAxX4hYkEHQ4HKxsQ8tMDegQIVRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=best+biryani&start=90"
+  }
+ }
+}

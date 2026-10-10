@@ -1,0 +1,594 @@
+{
+ "search_metadata": {
+  "id": "6aca573c1e760bc36ed87050",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/b9BpS4QuxB-Va5nlmo75RlQzB08SLryYMFpJ6QOTTJE/6aca573c1e760bc36ed87050.json",
+  "markdown_endpoint": "https://serpapi.com/searches/b9BpS4QuxB-Va5nlmo75RlQzB08SLryYMFpJ6QOTTJE/6aca573c1e760bc36ed87050.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/b9BpS4QuxB-Va5nlmo75RlQzB08SLryYMFpJ6QOTTJE/6aca573c1e760bc36ed87050.json_with_pixel_position",
+  "created_at": "2026-10-10 15:18:20 UTC",
+  "processed_at": "2026-10-10 15:18:20 UTC",
+  "google_url": "https://www.google.co.in/search?q=best+biryani&oq=best+biryani&uule=w+CAIQICIZSHlkZXJhYmFkLFRlbGFuZ2FuYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/b9BpS4QuxB-Va5nlmo75RlQzB08SLryYMFpJ6QOTTJE/6aca573c1e760bc36ed87050.html",
+  "total_time_taken": 13.75
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "best biryani",
+  "location_requested": "Hyderabad,Telangana,India",
+  "location_used": "Hyderabad,Telangana,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "best biryani",
+  "total_results": 124,
+  "time_taken_displayed": 0.35,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "link": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&udm=local&lsack=SVfKaqu_EeOg5NoPy4XLmQk&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQtgN6BAg2EAM",
+  "image": "https://serpapi.com/searches/6aca573c1e760bc36ed87050/images/JFurnl_JTbhSFMgOPj_pzA.png",
+  "gps_coordinates": {
+   "latitude": 17.4148564622157,
+   "longitude": 78.486328125
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "title": "Bawarchi Restaurant",
+    "type": "Hyderabadi restaurant",
+    "rating": 4.1,
+    "reviews": 86277,
+    "price": "₹200–400",
+    "description": "\"Good place for tasty biryani with rich flavor and generous portions.\"",
+    "thumbnail": "https://serpapi.com/searches/6aca573c1e760bc36ed87050/images/xsVULiluSCl33_wSjJIzEln0UOjq_1Z5vZa8ioqOjr68ByKbFPKkAwrFZBGxIPhd.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TydBl3ko1Ny_dvnVhD8fLo_0IoRBMc4uL4Kp5qTKBi29Ltgrar6Sxc-4b-j-qHo-YLLO70m1ZPaLRY_pXJgv5of2_08uOYi42wT3euZQU-OwCgqbBNVmaBiY77FK1S2haflorJtg=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:080740 44409"
+    },
+    "place_id": "560634053754126992",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&ludocid=560634053754126992&q=best+biryani",
+    "provider_id": "/g/1td4sr1c",
+    "gps_coordinates": {
+     "latitude": 17.406627,
+     "longitude": 78.497686
+    },
+    "address": "Plot No. 44, RTC X Rd, Beside Sandhya Theatre, Chikkadpally, New Nallakunta, Hyderabad, Telangana 500020",
+    "hours": "Open · Closes 11:30 pm",
+    "phone": "080740 44409"
+   },
+   {
+    "position": 2,
+    "title": "Hotel Shadab",
+    "type": "Hyderabadi restaurant",
+    "rating": 4,
+    "reviews": 90958,
+    "price": "₹200–600",
+    "description": "\"Piece from the sumptuous biryani melts in mouth.\"",
+    "thumbnail": "https://serpapi.com/searches/6aca573c1e760bc36ed87050/images/xsVULiluSCl33_wSjJIzEuik7SQSc_co_nKQJ3SOPv3WOpZH56hIhxyi6aZzfF_b.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TcinPa5lXSqq35iXbpodlbinfTSs3P1zb3sKaH_h1uzNX5Ho06izF8iBwfrXuWQgMIBUbS4dSKoyf0n4tmNJJkZaWtY392mAZFXas8O0TpMmVjHZq8gOTTl1SF0MCN67N06O8N6ryuQbxB=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:096424 21990",
+     "website": "http://www.shadab.ai/"
+    },
+    "place_id": "7876124088418144061",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&ludocid=7876124088418144061&q=best+biryani",
+    "provider_id": "/g/1v_vrcb6",
+    "gps_coordinates": {
+     "latitude": 17.368888,
+     "longitude": 78.47551
+    },
+    "address": "Madina Circle, 21-1-140-144, High Court Rd, near High Court, Charminar, Ghansi Bazaar, Hyderabad, Telangana 500002",
+    "hours": "Open · Closes 12:20 am",
+    "phone": "096424 21990"
+   },
+   {
+    "position": 3,
+    "title": "Cafe Bahar",
+    "type": "Hyderabadi restaurant",
+    "rating": 4.2,
+    "reviews": 50904,
+    "price": "₹200–400",
+    "description": "\"Best biryani of hyderabad with very mild flavours.\"",
+    "thumbnail": "https://serpapi.com/searches/6aca573c1e760bc36ed87050/images/xsVULiluSCl33_wSjJIzEvB8wZdY1AEor71YY-3PbTJ5AnEAIyOhQGP-LaiD_yB2.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGhBQ8C_dxqEb2W0XId1MNtKdCEwUDGX8-s8V7b0s4rnBqtEd6knLyq59zm70VuPUfv1Hp1VfbDpbWtwXMEfsPoH6baJeRYDKUC_ulxOdxQndQmhBAMQ_M4PvZLd8QLd1DmlH-dgp2M_CuxcaxIIXqqirOpQqO_tNN9Wmd3h_CpzlWd4NAZzPpB=w1000-h1000-c-n",
+    "links": {
+     "phone": "tel:040 2324 3798"
+    },
+    "place_id": "80422379589588919",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&ludocid=80422379589588919&q=best+biryani",
+    "provider_id": "/m/0h3m8qm",
+    "gps_coordinates": {
+     "latitude": 17.39979,
+     "longitude": 78.478585
+    },
+    "address": "3-5, 815/A, Old MLA Quarters Rd, Avanti Nagar, Himayatnagar, Hyderabad, Telangana 500029",
+    "hours": "Open · Closes 12 am",
+    "phone": "040 2324 3798"
+   }
+  ],
+  "more_locations_link": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&udm=local&lsack=SVfKaqu_EeOg5NoPy4XLmQk&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQjGp6BAg3EAE"
+ },
+ "short_videos": [
+  {
+   "position": 1,
+   "title": "Top 5 Must-Try Biryani Spots in Hyderabad | Bawarchi",
+   "source": "YouTube",
+   "profile_name": "Hyderabad",
+   "extensions": [
+    "Hyderabad"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:18",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRBh0MPbI-nOvSiV5waGjYvdpCkrpARH4mpcA",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGuBArBRutzr5Xf-MXMbBpCVM6_DaMtbLMqCDIx2E22Gnftb5HPzWGnd0&s=10",
+   "link": "https://www.youtube.com/shorts/G_CwX1ySfOc"
+  },
+  {
+   "position": 2,
+   "title": "Best biryani in India every traveler must try 🇮🇳 You don't just ... by Nishi Kumari on Facebook. Play on Facebook. 0:53",
+   "source": "Facebook",
+   "profile_name": "Nishi Kumari",
+   "extensions": [
+    "Nishi Kumari"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "0:53",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpilxftuK-HODCJdFS1gyBEZpghfkgPF6gD8eEeQ04iMW-4EOgLKgAM8w&s=10",
+   "link": "https://www.facebook.com/theindiaexplorer/videos/best-biryani-in-india-every-traveler-must-try-you-dont-just-eat-biryani-in-india/932926976106813/"
+  },
+  {
+   "position": 3,
+   "title": "Best Biryani In kukatpally Hyderabad under 100",
+   "source": "YouTube",
+   "profile_name": "Vijay Foodie",
+   "extensions": [
+    "Vijay Foodie"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "2:01",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRzezqbGAxaiZkD6ib9BppCj0Cao1IA_L5vyg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB8O8QDO19xJEAzO94dQZRZO9KSf3OaszNiBvgJxcrmOjcH05T-E65Y00&s=10",
+   "link": "https://www.youtube.com/watch?v=btLBhFJHrqY"
+  },
+  {
+   "position": 4,
+   "title": "Best mutton biryani in tirupur",
+   "source": "YouTube",
+   "profile_name": "Adipoli foodie",
+   "extensions": [
+    "Adipoli foodie"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0vsWzOpa6QD2AZirkgG8t-SqngPdVQgIhPuY7QnfGTuhkHCCafWwEspXiAAP79K1T914se1S0hw8uWbXIYlTtaQoimvqxmIYKoYD3frD6a5W6Y9qlH8OxzGr5_tN-PxaeuqGI2m4Zz-9CzP48op__f9Bm2CT4HfqeSSLbWZxBXOMfrzs-Ha9TzPINw3Ax6lVF51803KBeM7Ab3H89_36DkJOoZmQ0ljraRalZvQMceZBos_f6K8NKxvQt3-nvCl_N43J4eBXK99cT6h-2PwUv_b-ipf3AxPF_5oLX0RT6LnBPZ6MuU-pXNvWj4txo7i3_TKPDxpoad0cHTmsOVtF1Ne3TsAAA.webp",
+   "duration": "0:52",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQa-YEhPMNlBt4Hg8pQb4f92E5H3GjLG1a65g",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydo5VAWFTujbqmnoQHFMpvpTbI5T9JszvVbfdjivydad3fCqjTgV66SA&s=10",
+   "link": "https://www.youtube.com/watch?v=W3x2M7chMns"
+  },
+  {
+   "position": 5,
+   "title": "Top 10 Biryani in Gurgaon! We Are Gurgaon",
+   "source": "YouTube",
+   "profile_name": "We Are Gurgaon",
+   "extensions": [
+    "We Are Gurgaon"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:58",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSSGYHVRusRqtz8-k8qtdxFAFwe6NhTrCAg_g",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvXVD2dqPkFNiLuhvERG5OPku2lllPf3LiSfZDQy2eWfGSfOrfvOna0ig&s=10",
+   "link": "https://www.youtube.com/shorts/SqE7FhDnMq0"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "Which is the number one biryani in Hyderabad?",
+   "type": "ai_overview",
+   "page_token": "rXGoMnicHdBdjqIwAADgzGXmUWkVZ8fEbAICOhFmWvoDvExKixZboKtEdN72DnuEPdWeZpP5jvD9_mvb3vx7-qPH0V3X8_k0TbPTMJxsM5PDrO3n4vro5VwKa2shzXr1sgI_j3IT3WQQXmSAqHNsi72cR56kE0TG3SoPExxlmkSYc1PdZOF-ycQHeRIT1L9tSaxgtjMeL-xCbHXBuE9JIh-Kj5olupO9Noza3TtnGndjRdh-qvusEjmA9S67Cvq6LfmPu4hAkHMGqadCVAQfyJglI3pfgNilDw--x9kOM3fBrTcx61b5OT5grsKmUxXhy68DS_0U6BCfg1QZFgo-osbufWbjfdOVS0QyoyC-1tA_Nja4MwgWqg_iSCvCuupQFjEoPGYJlIB0r6ghuCQJwOI-tIjiL3m2HWW6TZN7UVIH68RGVYwjUZSwZCqUPAMqshih56O8bRbP39ebz2M3rt1lOP0Hw3CMVw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rXGoMnicHdBdjqIwAADgzGXmUWkVZ8fEbAICOhFmWvoDvExKixZboKtEdN72DnuEPdWeZpP5jvD9_mvb3vx7-qPH0V3X8_k0TbPTMJxsM5PDrO3n4vro5VwKa2shzXr1sgI_j3IT3WQQXmSAqHNsi72cR56kE0TG3SoPExxlmkSYc1PdZOF-ycQHeRIT1L9tSaxgtjMeL-xCbHXBuE9JIh-Kj5olupO9Noza3TtnGndjRdh-qvusEjmA9S67Cvq6LfmPu4hAkHMGqadCVAQfyJglI3pfgNilDw--x9kOM3fBrTcx61b5OT5grsKmUxXhy68DS_0U6BCfg1QZFgo-osbufWbjfdOVS0QyoyC-1tA_Nja4MwgWqg_iSCvCuupQFjEoPGYJlIB0r6ghuCQJwOI-tIjiL3m2HWW6TZN7UVIH68RGVYwjUZSwZCqUPAMqshih56O8bRbP39ebz2M3rt1lOP0Hw3CMVw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rcHJPRXBIT1ZSRGFFdHljMmxrYmtOSk5FOVJPR2t5VjFOSVppMW1RVFZHWjIxWWFXeEtRazg1WW5aeldXWklibTVmZEdsVmJHTjFOVXhZUkU5RWEzQnpXVjlMWW1oaVJXaGxVMjVJWVZveVFrbExNM0ZGVlUxaVFSSVhVMVptUzJGeGRWOUZaVTluTlU1dlVIazBXRXh0VVdzYUlrRkVjM0k1WmxSQ1ZIVmZTWFoxV1UxV05tdzFUVWRGTUVwV01tdEtMV3BDUjFFIiwiZmN2IjoiMyIsImVpIjoiU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWsiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgydXVCMF8iLCJxdWVzdGlvbiI6IldoaWNoIGlzIHRoZSBudW1iZXIgb25lIGJpcnlhbmkgaW4gSHlkZXJhYmFkPyIsImxrIjoiR2l4M2FHbGphQ0JwY3lCMGFHVWdiblZ0WW1WeUlHOXVaU0JpYVhKNVlXNXBJR2x1SUdoNVpHVnlZV0poWkEiLCJicyI6ImM0V09QUXNDTVF5R2NjMGs2bFFRbzA3aXg5QV8wTlVEZDBkSnZVZ0xYaXR0ajZQX1hxV2NDZzQzQlpMM2VmTENCZlpuWTY4R2JjUmtHRjNiYUE3b0hhTzJJWk96YUIwZWM4MkJOTlZLSHNTdUd3Wk1EOEFXcGxYOG5BelRQWm1zNUV4TTdOOGFLbGlWTmlrX0dQM3RxeXpQTk1lazVGb3N1NkVVbkdCVFZKV3JMVG1NaVJLX0V6ZHFmUHNhUHZTY2tnc3hfM0VVZVFGS2VqeDZBZyIsImlkIjoiZmNfU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWtfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rcHJPRXBIT1ZSRGFFdHljMmxrYmtOSk5FOVJPR2t5VjFOSVppMW1RVFZHWjIxWWFXeEtRazg1WW5aeldXWklibTVmZEdsVmJHTjFOVXhZUkU5RWEzQnpXVjlMWW1oaVJXaGxVMjVJWVZveVFrbExNM0ZGVlUxaVFSSVhVMVptUzJGeGRWOUZaVTluTlU1dlVIazBXRXh0VVdzYUlrRkVjM0k1WmxSQ1ZIVmZTWFoxV1UxV05tdzFUVWRGTUVwV01tdEtMV3BDUjFFIiwiZmN2IjoiMyIsImVpIjoiU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWsiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgydXVCMF8iLCJxdWVzdGlvbiI6IldoaWNoIGlzIHRoZSBudW1iZXIgb25lIGJpcnlhbmkgaW4gSHlkZXJhYmFkPyIsImxrIjoiR2l4M2FHbGphQ0JwY3lCMGFHVWdiblZ0WW1WeUlHOXVaU0JpYVhKNVlXNXBJR2x1SUdoNVpHVnlZV0poWkEiLCJicyI6ImM0V09QUXNDTVF5R2NjMGs2bFFRbzA3aXg5QV8wTlVEZDBkSnZVZ0xYaXR0ajZQX1hxV2NDZzQzQlpMM2VmTENCZlpuWTY4R2JjUmtHRjNiYUE3b0hhTzJJWk96YUIwZWM4MkJOTlZLSHNTdUd3Wk1EOEFXcGxYOG5BelRQWm1zNUV4TTdOOGFLbGlWTmlrX0dQM3RxeXpQTk1lazVGb3N1NkVVbkdCVFZKV3JMVG1NaVJLX0V6ZHFmUHNhUHZTY2tnc3hfM0VVZVFGS2VqeDZBZyIsImlkIjoiZmNfU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWtfNiJ9"
+  },
+  {
+   "question": "Is biryani healthy?",
+   "type": "ai_overview",
+   "page_token": "tj_xNHicHdBLboJAGADg9DIu5RVsY2KaTHUQKqPMyD_IpuEhjA4wVGgBd71LT9XTtOn-W31f39WlkT8Psej7tltq2jAM81KpsjrPMzW_NFrSTU2mZUlVpUkml4vHhfFcZKtNN6AXNaAgbFtYU53xfmAVCmgoDFYHA6lQSytlxaYYQyxt34z9hOfuKXyy82vsEq7GnIs-W6MEatBzs58CEPbumL-Gzp_RPcyl7fkOVvSaR-cGdIIrHprCIBg456QlDXxSi3zsQgGRFe8SU6C8QcUxyhO6AWASDiyEiVqne2JgGkTlyKxWgI5lWncMG4THshdZBAXlcIjvsE8NZBMs_BTwzbl4iG7JtOfx8QzEO4HnwR29c-kOQUNGprduZHpbxgwEjmfNiuxzZc3-x1ZvRd0v25sqfwF-S3k3",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tj_xNHicHdBLboJAGADg9DIu5RVsY2KaTHUQKqPMyD_IpuEhjA4wVGgBd71LT9XTtOn-W31f39WlkT8Psej7tltq2jAM81KpsjrPMzW_NFrSTU2mZUlVpUkml4vHhfFcZKtNN6AXNaAgbFtYU53xfmAVCmgoDFYHA6lQSytlxaYYQyxt34z9hOfuKXyy82vsEq7GnIs-W6MEatBzs58CEPbumL-Gzp_RPcyl7fkOVvSaR-cGdIIrHprCIBg456QlDXxSi3zsQgGRFe8SU6C8QcUxyhO6AWASDiyEiVqne2JgGkTlyKxWgI5lWncMG4THshdZBAXlcIjvsE8NZBMs_BTwzbl4iG7JtOfx8QzEO4HnwR29c-kOQUNGprduZHpbxgwEjmfNiuxzZc3-x1ZvRd0v25sqfwF-S3k3",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rcHJPRXBIT1ZSRGFFdHljMmxrYmtOSk5FOVJPR2t5VjFOSVppMW1RVFZHWjIxWWFXeEtRazg1WW5aeldXWklibTVmZEdsVmJHTjFOVXhZUkU5RWEzQnpXVjlMWW1oaVJXaGxVMjVJWVZveVFrbExNM0ZGVlUxaVFSSVhVMVptUzJGeGRWOUZaVTluTlU1dlVIazBXRXh0VVdzYUlrRkVjM0k1WmxSQ1ZIVmZTWFoxV1UxV05tdzFUVWRGTUVwV01tdEtMV3BDUjFFIiwiZmN2IjoiMyIsImVpIjoiU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWsiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgydXVCMF8iLCJxdWVzdGlvbiI6IklzIGJpcnlhbmkgaGVhbHRoeT8iLCJsayI6IkdoSnBjeUJpYVhKNVlXNXBJR2hsWVd4MGFIayIsImJzIjoiYzRXT1BRc0NNUXlHY2MwazZsUVFvMDdpeDlBXzBOVURkMGRKdlVnTFhpdHRqNlBfWHFXY0NnNDNCWkwzZWZMQ0JmWm5ZNjhHYmNSa0dGM2JhQTdvSGFPMklaT3phQjBlYzgyQk5OVktIc1N1R3daTUQ4QVdwbFg4bkF6VFBabXM1RXhNN044YUtsaVZOaWtfR1AzdHF5elBOTWVrNUZvc3U2RVVuR0JUVkpXckxUbU1pUktfRXpkcWZQc2FQdlNja2dzeF8zRVVlUUZLZWp4NkFnIiwiaWQiOiJmY19TVmZLYXF1X0VlT2c1Tm9QeTRYTG1Ra182In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rcHJPRXBIT1ZSRGFFdHljMmxrYmtOSk5FOVJPR2t5VjFOSVppMW1RVFZHWjIxWWFXeEtRazg1WW5aeldXWklibTVmZEdsVmJHTjFOVXhZUkU5RWEzQnpXVjlMWW1oaVJXaGxVMjVJWVZveVFrbExNM0ZGVlUxaVFSSVhVMVptUzJGeGRWOUZaVTluTlU1dlVIazBXRXh0VVdzYUlrRkVjM0k1WmxSQ1ZIVmZTWFoxV1UxV05tdzFUVWRGTUVwV01tdEtMV3BDUjFFIiwiZmN2IjoiMyIsImVpIjoiU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWsiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgydXVCMF8iLCJxdWVzdGlvbiI6IklzIGJpcnlhbmkgaGVhbHRoeT8iLCJsayI6IkdoSnBjeUJpYVhKNVlXNXBJR2hsWVd4MGFIayIsImJzIjoiYzRXT1BRc0NNUXlHY2MwazZsUVFvMDdpeDlBXzBOVURkMGRKdlVnTFhpdHRqNlBfWHFXY0NnNDNCWkwzZWZMQ0JmWm5ZNjhHYmNSa0dGM2JhQTdvSGFPMklaT3phQjBlYzgyQk5OVktIc1N1R3daTUQ4QVdwbFg4bkF6VFBabXM1RXhNN044YUtsaVZOaWtfR1AzdHF5elBOTWVrNUZvc3U2RVVuR0JUVkpXckxUbU1pUktfRXpkcWZQc2FQdlNja2dzeF8zRVVlUUZLZWp4NkFnIiwiaWQiOiJmY19TVmZLYXF1X0VlT2c1Tm9QeTRYTG1Ra182In0%3D"
+  },
+  {
+   "question": "Which type of biryani is the best?",
+   "type": "ai_overview",
+   "page_token": "Wkw6FHicHdBRbpswAABQ9TL9TDA02RopmkQKJKh2hbGN8c9k7BCHYGCJGyB_u8tO1dNU2jvC-_uvPXeXr6fJODfcNsvlOI6LU9-f2uNC9Ytzt5S3uVNLJdu2kuqyWf9Yg1-12kafh3D35xBmdBjYG_Zyau4ZSbMimq7lBa5wIXYVj2ds47qkUwST0UEQCm1fHExMTYHhR-uc5OwFN6Wv9ylilKGPvT7kAAaSozj32wT6IlDWeR80NdpDuXgzq9ITO9hdXOXFV0nUXERmjQq0IzxzVcE8badAJ-lDEHGTRHSwC5s8wCPxTESj2MJEgSoR7zpBXHXaZTy0wh9WdJ_WMkYtYghHRhNmxXvJY8A91hJfAWJfsyPBJUkAllN_zih-qKa1tHgFVaBnVvycZaF8bId70cAHTdKSNgjnMzBZ9lyr-zZ4_v-5_V1btxmu_ekb5h-DlQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Wkw6FHicHdBRbpswAABQ9TL9TDA02RopmkQKJKh2hbGN8c9k7BCHYGCJGyB_u8tO1dNU2jvC-_uvPXeXr6fJODfcNsvlOI6LU9-f2uNC9Ytzt5S3uVNLJdu2kuqyWf9Yg1-12kafh3D35xBmdBjYG_Zyau4ZSbMimq7lBa5wIXYVj2ds47qkUwST0UEQCm1fHExMTYHhR-uc5OwFN6Wv9ylilKGPvT7kAAaSozj32wT6IlDWeR80NdpDuXgzq9ITO9hdXOXFV0nUXERmjQq0IzxzVcE8badAJ-lDEHGTRHSwC5s8wCPxTESj2MJEgSoR7zpBXHXaZTy0wh9WdJ_WMkYtYghHRhNmxXvJY8A91hJfAWJfsyPBJUkAllN_zih-qKa1tHgFVaBnVvycZaF8bId70cAHTdKSNgjnMzBZ9lyr-zZ4_v-5_V1btxmu_ekb5h-DlQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rcHJPRXBIT1ZSRGFFdHljMmxrYmtOSk5FOVJPR2t5VjFOSVppMW1RVFZHWjIxWWFXeEtRazg1WW5aeldXWklibTVmZEdsVmJHTjFOVXhZUkU5RWEzQnpXVjlMWW1oaVJXaGxVMjVJWVZveVFrbExNM0ZGVlUxaVFSSVhVMVptUzJGeGRWOUZaVTluTlU1dlVIazBXRXh0VVdzYUlrRkVjM0k1WmxSQ1ZIVmZTWFoxV1UxV05tdzFUVWRGTUVwV01tdEtMV3BDUjFFIiwiZmN2IjoiMyIsImVpIjoiU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWsiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgydXVCMF8iLCJxdWVzdGlvbiI6IldoaWNoIHR5cGUgb2YgYmlyeWFuaSBpcyB0aGUgYmVzdD8iLCJsayI6IkdpRjNhR2xqYUNCMGVYQmxJRzltSUdKcGNubGhibWtnYVhNZ2RHaGxJR0psYzNRIiwiYnMiOiJjNFdPUFFzQ01ReUdjYzBrNmxRUW8wN2l4OUFfME5VRGQwZEp2VWdMWGl0dGo2UF9YcVdjQ2c0M0JaTDNlZkxDQmZablk2OEdiY1JrR0YzYmFBN29IYU8ySVpPemFCMGVjODJCTk5WS0hzU3VHd1pNRDhBV3BsWDhuQXpUUFptczVFeE03TjhhS2xpVk5pa19HUDN0cXl6UE5NZWs1Rm9zdTZFVW5HQlRWSldyTFRtTWlSS19FemRxZlBzYVB2U2NrZ3N4XzNFVWVRRktlang2QWciLCJpZCI6ImZjX1NWZkthcXVfRWVPZzVOb1B5NFhMbVFrXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rcHJPRXBIT1ZSRGFFdHljMmxrYmtOSk5FOVJPR2t5VjFOSVppMW1RVFZHWjIxWWFXeEtRazg1WW5aeldXWklibTVmZEdsVmJHTjFOVXhZUkU5RWEzQnpXVjlMWW1oaVJXaGxVMjVJWVZveVFrbExNM0ZGVlUxaVFSSVhVMVptUzJGeGRWOUZaVTluTlU1dlVIazBXRXh0VVdzYUlrRkVjM0k1WmxSQ1ZIVmZTWFoxV1UxV05tdzFUVWRGTUVwV01tdEtMV3BDUjFFIiwiZmN2IjoiMyIsImVpIjoiU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWsiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgydXVCMF8iLCJxdWVzdGlvbiI6IldoaWNoIHR5cGUgb2YgYmlyeWFuaSBpcyB0aGUgYmVzdD8iLCJsayI6IkdpRjNhR2xqYUNCMGVYQmxJRzltSUdKcGNubGhibWtnYVhNZ2RHaGxJR0psYzNRIiwiYnMiOiJjNFdPUFFzQ01ReUdjYzBrNmxRUW8wN2l4OUFfME5VRGQwZEp2VWdMWGl0dGo2UF9YcVdjQ2c0M0JaTDNlZkxDQmZablk2OEdiY1JrR0YzYmFBN29IYU8ySVpPemFCMGVjODJCTk5WS0hzU3VHd1pNRDhBV3BsWDhuQXpUUFptczVFeE03TjhhS2xpVk5pa19HUDN0cXl6UE5NZWs1Rm9zdTZFVW5HQlRWSldyTFRtTWlSS19FemRxZlBzYVB2U2NrZ3N4XzNFVWVRRktlang2QWciLCJpZCI6ImZjX1NWZkthcXVfRWVPZzVOb1B5NFhMbVFrXzYifQ%3D%3D"
+  },
+  {
+   "question": "Which Indian state is famous for biryani?",
+   "type": "ai_overview",
+   "page_token": "mXail3icHdBdboIwAADg7DI-KgVl0cQsgYHKaJeWthReFmlB5LebOpC33WWn2mm27AZfvq_v5tzVPw9jeb3qy2axGIZhfur7U5PPZT8_d4vj5d7JhTw2TXaU9cZ-tMFTIbfe7eC47wcHM635MzGillNYBW4YoxHVCJMp8JDQVsT1FFclk52yY9FYMK5XxPOTTCCcmdznVRpCDxXYBDdqLgGhJYQ0XUWuMSBfVaRKz9QiL8gI-lc2mHELr2GsQmgqwiZp4Y5NtPXTiHOkauCme12xeLRyUU-JBZeKpl1CUUAEu2eCg9zzP6WVuog1Baf8z-4MkX8YacsH1SmsdrqP2NrxSkV5m4aJ8IEweENNCWi7xjklCd0Bchz7M2ZkklXTMkHcPA7czPBhVMFlyNWIDe0mguwzBmxpAKaGWSE_t9bs_3P7VrTXjf7oT7-U84LT",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mXail3icHdBdboIwAADg7DI-KgVl0cQsgYHKaJeWthReFmlB5LebOpC33WWn2mm27AZfvq_v5tzVPw9jeb3qy2axGIZhfur7U5PPZT8_d4vj5d7JhTw2TXaU9cZ-tMFTIbfe7eC47wcHM635MzGillNYBW4YoxHVCJMp8JDQVsT1FFclk52yY9FYMK5XxPOTTCCcmdznVRpCDxXYBDdqLgGhJYQ0XUWuMSBfVaRKz9QiL8gI-lc2mHELr2GsQmgqwiZp4Y5NtPXTiHOkauCme12xeLRyUU-JBZeKpl1CUUAEu2eCg9zzP6WVuog1Baf8z-4MkX8YacsH1SmsdrqP2NrxSkV5m4aJ8IEweENNCWi7xjklCd0Bchz7M2ZkklXTMkHcPA7czPBhVMFlyNWIDe0mguwzBmxpAKaGWSE_t9bs_3P7VrTXjf7oT7-U84LT",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rcHJPRXBIT1ZSRGFFdHljMmxrYmtOSk5FOVJPR2t5VjFOSVppMW1RVFZHWjIxWWFXeEtRazg1WW5aeldXWklibTVmZEdsVmJHTjFOVXhZUkU5RWEzQnpXVjlMWW1oaVJXaGxVMjVJWVZveVFrbExNM0ZGVlUxaVFSSVhVMVptUzJGeGRWOUZaVTluTlU1dlVIazBXRXh0VVdzYUlrRkVjM0k1WmxSQ1ZIVmZTWFoxV1UxV05tdzFUVWRGTUVwV01tdEtMV3BDUjFFIiwiZmN2IjoiMyIsImVpIjoiU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWsiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgydXVCMF8iLCJxdWVzdGlvbiI6IldoaWNoIEluZGlhbiBzdGF0ZSBpcyBmYW1vdXMgZm9yIGJpcnlhbmk/IiwibGsiOiJHaDFpYVhKNVlXNXBJR2x6SUhkb2FXTm9JSE4wWVhSbElHWmhiVzkxY3ciLCJicyI6ImM0V09QUXNDTVF5R2NjMGs2bFFRbzA3aXg5QV8wTlVEZDBkSnZVZ0xYaXR0ajZQX1hxV2NDZzQzQlpMM2VmTENCZlpuWTY4R2JjUmtHRjNiYUE3b0hhTzJJWk96YUIwZWM4MkJOTlZLSHNTdUd3Wk1EOEFXcGxYOG5BelRQWm1zNUV4TTdOOGFLbGlWTmlrX0dQM3RxeXpQTk1lazVGb3N1NkVVbkdCVFZKV3JMVG1NaVJLX0V6ZHFmUHNhUHZTY2tnc3hfM0VVZVFGS2VqeDZBZyIsImlkIjoiZmNfU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWtfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rcHJPRXBIT1ZSRGFFdHljMmxrYmtOSk5FOVJPR2t5VjFOSVppMW1RVFZHWjIxWWFXeEtRazg1WW5aeldXWklibTVmZEdsVmJHTjFOVXhZUkU5RWEzQnpXVjlMWW1oaVJXaGxVMjVJWVZveVFrbExNM0ZGVlUxaVFSSVhVMVptUzJGeGRWOUZaVTluTlU1dlVIazBXRXh0VVdzYUlrRkVjM0k1WmxSQ1ZIVmZTWFoxV1UxV05tdzFUVWRGTUVwV01tdEtMV3BDUjFFIiwiZmN2IjoiMyIsImVpIjoiU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWsiLCJxYyI6IkNneGlaWE4wSUdKcGNubGhibWtRQUgydXVCMF8iLCJxdWVzdGlvbiI6IldoaWNoIEluZGlhbiBzdGF0ZSBpcyBmYW1vdXMgZm9yIGJpcnlhbmk%2FIiwibGsiOiJHaDFpYVhKNVlXNXBJR2x6SUhkb2FXTm9JSE4wWVhSbElHWmhiVzkxY3ciLCJicyI6ImM0V09QUXNDTVF5R2NjMGs2bFFRbzA3aXg5QV8wTlVEZDBkSnZVZ0xYaXR0ajZQX1hxV2NDZzQzQlpMM2VmTENCZlpuWTY4R2JjUmtHRjNiYUE3b0hhTzJJWk96YUIwZWM4MkJOTlZLSHNTdUd3Wk1EOEFXcGxYOG5BelRQWm1zNUV4TTdOOGFLbGlWTmlrX0dQM3RxeXpQTk1lazVGb3N1NkVVbkdCVFZKV3JMVG1NaVJLX0V6ZHFmUHNhUHZTY2tnc3hfM0VVZVFGS2VqeDZBZyIsImlkIjoiZmNfU1ZmS2FxdV9FZU9nNU5vUHk0WExtUWtfNiJ9"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "k7cmEniczVbbcqJIGH6AfY7lZqIiamJSRU11E5BW0LSaRHNDAZIG5aCgEnM377LvtFX7NNucDBp1MnOxtW1J290___nrzx9_uY6_-OePv-31ehnd1WpxHFdJEBDXqppB1fFrerTzzdpr4EahaX_fbFyLj78JAGEkoJeR7C5eJl176kkLRRq6RkfavHDSZjp66xrecDnFDHF5x2dsl7d8ZrflG4wZ8SxjOfzo6bWnrzaaaA1Iqx887JoTxcMLJjXIa4YeWXPq0ds8qmk1-lj82bini2pUtXytA6siVrX30Op0IapyLNeoDmq6R2XAfziICDB90l8LIF4QA_BL6hACQMAA7TewkB_sd-gGTg7oR0x2e5n5M8oy76iXuQPaXPY6MQD9QuaCM2JJb5xKJs6oaTgAD78U0MfIlAXF8nI-TkaUv_L4IVTO-NlIkHqwAgJRwQMNILchHElnWT2wGKdicjxQ4UAc4oueAwkDWSUCdi6L0REIqA0LbZ2YlgTXZoQ2MFszQjrVa45pm-mPMEr6WhjfsoFsddoSCt8srofkSUufbuPeLQpktW_immlQOTfQZ9ZMszX2e7quc_Wb22v2unmVYsqM9qCKyqB66oQiN7mWJyqpKlVYL-BEE_SR58PCQBCcqpSQvIA-pbYY3ayDjwcUSm2fm0SJ5C7ZL5VamLOZK_keogkHMBYPlKLCQ_AZTuKBSG4Qo6w5CUkPSB5JSSO9WD5swIOzwedoPvejKsJMsSAImZ68Mwk4zogNhuWgDzo4cQ8DR0rmgPoRw8e0T5ulF0AfUlfR8Y0EkzvBzsMqEFhU0CnlGEpJPegZFBd0ObIxFob5OyhpCHFfIAGmvhfhCuW8lJoDJsqmP8HO2dH7khQqcHMEgzJ8xJnvG6zSWrxxutuqrNSoXbmRIdKHMjgNl8Azfo2EzP8XpgqKwjlFncUU_BKmEIKnKErMTzNfC4pCYoKpHiHkDKaUDFMFRSVnBUU9lK1m0XzClBh9YGqHU4pSz1HUL2MKXsRUUaRTmHo8jSl0DlNIPcKUrWIa_nRPUQeY2lNUCVO_QVG936WoFGJWNh3y1WZOzvJWh2Mdv8EOn2_8OkL2RlrRP5nDiA0dQn7KW6_e-s7TZ-6V5szuINdd72ZXGt0I7qwZs-INK1p_M5xwp_sO47lhwLP69ag1VoJ5OHRexXdJHisVK1KXy9kE13H7KVD1IAq2Y5aDoyY7f0RT_aU3Grdu2h1DaijbQcXivN1udD-1uXcSepXWYhSB67babMfLflttPRh-z7hdbcO4r-Gp8RbGbWejDETdQqzw3mi8PD-ZdksRGpVwNb7veCOUOhbxT9JisH6_eVgik6ERRBZfZ7zQ5GmJmwT0MXgGQKfQA10C6b1Hv3RW6KwE9KaVpwDfJ1hmIlPXrGjLt1uG1bw1jWar0WgbM5bxyHq35Jt1JvJDvv4v4wBa5w",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=k7cmEniczVbbcqJIGH6AfY7lZqIiamJSRU11E5BW0LSaRHNDAZIG5aCgEnM377LvtFX7NNucDBp1MnOxtW1J290___nrzx9_uY6_-OePv-31ehnd1WpxHFdJEBDXqppB1fFrerTzzdpr4EahaX_fbFyLj78JAGEkoJeR7C5eJl176kkLRRq6RkfavHDSZjp66xrecDnFDHF5x2dsl7d8ZrflG4wZ8SxjOfzo6bWnrzaaaA1Iqx887JoTxcMLJjXIa4YeWXPq0ds8qmk1-lj82bini2pUtXytA6siVrX30Op0IapyLNeoDmq6R2XAfziICDB90l8LIF4QA_BL6hACQMAA7TewkB_sd-gGTg7oR0x2e5n5M8oy76iXuQPaXPY6MQD9QuaCM2JJb5xKJs6oaTgAD78U0MfIlAXF8nI-TkaUv_L4IVTO-NlIkHqwAgJRwQMNILchHElnWT2wGKdicjxQ4UAc4oueAwkDWSUCdi6L0REIqA0LbZ2YlgTXZoQ2MFszQjrVa45pm-mPMEr6WhjfsoFsddoSCt8srofkSUufbuPeLQpktW_immlQOTfQZ9ZMszX2e7quc_Wb22v2unmVYsqM9qCKyqB66oQiN7mWJyqpKlVYL-BEE_SR58PCQBCcqpSQvIA-pbYY3ayDjwcUSm2fm0SJ5C7ZL5VamLOZK_keogkHMBYPlKLCQ_AZTuKBSG4Qo6w5CUkPSB5JSSO9WD5swIOzwedoPvejKsJMsSAImZ68Mwk4zogNhuWgDzo4cQ8DR0rmgPoRw8e0T5ulF0AfUlfR8Y0EkzvBzsMqEFhU0CnlGEpJPegZFBd0ObIxFob5OyhpCHFfIAGmvhfhCuW8lJoDJsqmP8HO2dH7khQqcHMEgzJ8xJnvG6zSWrxxutuqrNSoXbmRIdKHMjgNl8Azfo2EzP8XpgqKwjlFncUU_BKmEIKnKErMTzNfC4pCYoKpHiHkDKaUDFMFRSVnBUU9lK1m0XzClBh9YGqHU4pSz1HUL2MKXsRUUaRTmHo8jSl0DlNIPcKUrWIa_nRPUQeY2lNUCVO_QVG936WoFGJWNh3y1WZOzvJWh2Mdv8EOn2_8OkL2RlrRP5nDiA0dQn7KW6_e-s7TZ-6V5szuINdd72ZXGt0I7qwZs-INK1p_M5xwp_sO47lhwLP69ag1VoJ5OHRexXdJHisVK1KXy9kE13H7KVD1IAq2Y5aDoyY7f0RT_aU3Grdu2h1DaijbQcXivN1udD-1uXcSepXWYhSB67babMfLflttPRh-z7hdbcO4r-Gp8RbGbWejDETdQqzw3mi8PD-ZdksRGpVwNb7veCOUOhbxT9JisH6_eVgik6ERRBZfZ7zQ5GmJmwT0MXgGQKfQA10C6b1Hv3RW6KwE9KaVpwDfJ1hmIlPXrGjLt1uG1bw1jWar0WgbM5bxyHq35Jt1JvJDvv4v4wBa5w"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "In search of that PERFECT biryani in Hyderabad? This is ...",
+   "link": "https://www.thehosteller.com/blogs/best-biryani-in-hyderabad",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVhTosFZ9kVA4Evn-3IrIPrX1q4moNY5oQUcsgVf1jKVz1iT0WQdmdCa81TaiB2bkNegLISX6qsJ3APvJpQTp7rHaOqtd7CS7Sxj5_E2o3Dth8pE9xhJbXyteRsnv6XkA0L3F1YMxNQSbudu8c0zMqnHN-&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://www.thehosteller.com › blogs › best-biryani-in-h...",
+   "thumbnail": "https://serpapi.com/searches/6aca573c1e760bc36ed87050/images/1T0CZmlGXHnBhwM-cbAmAATC6_QeKSOsbB-Cqkwzlsg.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAABQCQCdASofAB8APtEutFooIagoGAEAGglsAJ0yhH43qv4q1JvAW2y126bxv-3Dhn10dYA4km7OvQYwl_QVwXlEk6YlDQvegkwmXIezgm_Ge-LAAAD-9hES8p57W428uEWArhElrfB1sWfok1_m6vvEpzj2Q8yx8xUN9uEy7YPB5fvN12yLO9RbA57X2T9L3XN_D1u8KuuIbrMM5vBrCFa36qoBKl-0F3_wbAaSSj1BG3_b9dymF6HjgfTRP_Dvie-pa9Cydx-Nh_wcE7_9eKL3sul9DpITWgX-s82_UaO7QTKI3_idz1PDroOxD_m2rrlSK2_Bz-YfqqJzbkVsV_X_p_rJORloHN-2TszWgwwRfc5eRYjVfDEHLGDXaVg5pICV-2h6O9dy8BZTuy3Q-ni1UwFD3nX8WYN7oF4fe2oFOgtlGskwKRi6_EoAO_-GgBBSIML7L0EFSlurgU7ImmJav20xvb8OexVPwfp_XM1czqbM3f1H9uG88ev63T5P_6r36f9P6kYG5w__X_hcRPolH-Nm1tq8mvZSEliEw7diIrwAAAA.webp",
+   "date": "24 Jul 2026",
+   "snippet": "1. Pista House Most people know Pista House for its Haleem, but their biryani is solid too. The meat is tender, and the biryani isn't too spicy ...",
+   "snippet_highlighted_words": [
+    "Pista House"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "1. Pista House Most people know Pista House for its Haleem, but their biryani is solid too. The meat is tender, and the biryani isn't too spicy ...",
+     "source_info_link": "https://www.thehosteller.com/blogs/best-biryani-in-hyderabad",
+     "icon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAABQCQCdASofAB8APtEutFooIagoGAEAGglsAJ0yhH43qv4q1JvAW2y126bxv-3Dhn10dYA4km7OvQYwl_QVwXlEk6YlDQvegkwmXIezgm_Ge-LAAAD-9hES8p57W428uEWArhElrfB1sWfok1_m6vvEpzj2Q8yx8xUN9uEy7YPB5fvN12yLO9RbA57X2T9L3XN_D1u8KuuIbrMM5vBrCFa36qoBKl-0F3_wbAaSSj1BG3_b9dymF6HjgfTRP_Dvie-pa9Cydx-Nh_wcE7_9eKL3sul9DpITWgX-s82_UaO7QTKI3_idz1PDroOxD_m2rrlSK2_Bz-YfqqJzbkVsV_X_p_rJORloHN-2TszWgwwRfc5eRYjVfDEHLGDXaVg5pICV-2h6O9dy8BZTuy3Q-ni1UwFD3nX8WYN7oF4fe2oFOgtlGskwKRi6_EoAO_-GgBBSIML7L0EFSlurgU7ImmJav20xvb8OexVPwfp_XM1czqbM3f1H9uG88ev63T5P_6r36f9P6kYG5w__X_hcRPolH-Nm1tq8mvZSEliEw7diIrwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmhUb3NGWjlrVkE0RXZuLTNJcklQclgxcTRtb05ZNW9RVWNzZ1ZmMWpLVnoxaVQwV1FkbWRDYTgxVGFpQjJia05lZ0xJU1g2cXNKM0FQdkpwUVRwN3JIYU9xdGQ3Q1M3U3hqNV9FMm8zRHRoOHBFOXhoSmJYeXRlUnNudjZYa0EwTDNGMVlNeE5RU2J1ZHU4YzB6TXFuSE4tEgQaAggAGrgEEgIIABoCCAEiACoAOgBCBAgBEABKHAgBEhRIeWRlcmFiYWQsIFRlbGFuZ2FuYRoCCAJaAHIAegCCQPwDCAAQABgAIAAqIwoEYmVzdBWg-QZAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVccywQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZoVG9zRlo5a1ZBNEV2bi0zSXJJUHJYMXE0bW9OWTVvUVVjc2dWZjFqS1Z6MWlUMFdRZG1kQ2E4MVRhaUIyYmtOZWdMSVNYNnFzSjNBUHZKcFFUcDdySGFPcXRkN0NTN1N4ajVfRTJvM0R0aDhwRTl4aEpiWHl0ZVJzbnY2WGtBMEwzRjFZTXhOUVNidWR1OGMwek1xbkhOLTpGSW4gc2VhcmNoIG9mIHRoYXQgUEVSRkVDVCA8Yj5iaXJ5YW5pPC9iPiBpbiBIeWRlcmFiYWQ_IFRoaXMgaXMgdGhlIC4uLkKjATEuIDxiPlBpc3RhIEhvdXNlPC9iPiBNb3N0IHBlb3BsZSBrbm93IFBpc3RhIEhvdXNlIGZvciBpdHMgSGFsZWVtLCBidXQgdGhlaXIgYmlyeWFuaSBpcyBzb2xpZCB0b28uIFRoZSBtZWF0IGlzIHRlbmRlciwgYW5kIHRoZSBiaXJ5YW5pIGlzbiYjMzk7dCB0b28gc3BpY3kmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmhUb3NGWjlrVkE0RXZuLTNJcklQclgxcTRtb05ZNW9RVWNzZ1ZmMWpLVnoxaVQwV1FkbWRDYTgxVGFpQjJia05lZ0xJU1g2cXNKM0FQdkpwUVRwN3JIYU9xdGQ3Q1M3U3hqNV9FMm8zRHRoOHBFOXhoSmJYeXRlUnNudjZYa0EwTDNGMVlNeE5RU2J1ZHU4YzB6TXFuSE4tEgQaAggAGrgEEgIIABoCCAEiACoAOgBCBAgBEABKHAgBEhRIeWRlcmFiYWQsIFRlbGFuZ2FuYRoCCAJaAHIAegCCQPwDCAAQABgAIAAqIwoEYmVzdBWg-QZAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVccywQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZoVG9zRlo5a1ZBNEV2bi0zSXJJUHJYMXE0bW9OWTVvUVVjc2dWZjFqS1Z6MWlUMFdRZG1kQ2E4MVRhaUIyYmtOZWdMSVNYNnFzSjNBUHZKcFFUcDdySGFPcXRkN0NTN1N4ajVfRTJvM0R0aDhwRTl4aEpiWHl0ZVJzbnY2WGtBMEwzRjFZTXhOUVNidWR1OGMwek1xbkhOLTpGSW4gc2VhcmNoIG9mIHRoYXQgUEVSRkVDVCA8Yj5iaXJ5YW5pPC9iPiBpbiBIeWRlcmFiYWQ_IFRoaXMgaXMgdGhlIC4uLkKjATEuIDxiPlBpc3RhIEhvdXNlPC9iPiBNb3N0IHBlb3BsZSBrbm93IFBpc3RhIEhvdXNlIGZvciBpdHMgSGFsZWVtLCBidXQgdGhlaXIgYmlyeWFuaSBpcyBzb2xpZCB0b28uIFRoZSBtZWF0IGlzIHRlbmRlciwgYW5kIHRoZSBiaXJ5YW5pIGlzbiYjMzk7dCB0b28gc3BpY3kmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+   "source": "The Hosteller"
+  },
+  {
+   "position": 2,
+   "title": "Best Biryani Restaurants in Lb Nagar, Hyderabad",
+   "link": "https://www.justdial.com/Hyderabad/Biryani-Restaurants-in-Lb-Nagar/nct-10047018",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFd5yY7sUAvSObCyHdnTZ7R540fsb3Il8hkFml1f5LA70G4p55ppouVTMCKOXa1OJlmYLvnDixkTAbGEiQYLAGcI5PMOhn_Z168wfiFNM9vVW0J-SBDe7Lo0m2cTD1GIlYjp13adtqH2cA3NGuUzrfKbsBQkVJ_xZknmmJQFstc2QwpIuQrM&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://www.justdial.com › ... › 127+ Listings",
+   "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp",
+   "snippet": "Best Biryani Restaurants in Lb Nagar, Hyderabad - Order Food Online · Swagath Grand · Lucky Restaurant · Swagath Grand · Amaravathi Family Restaurant & Bar.",
+   "snippet_highlighted_words": [
+    "Swagath Grand"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Best Biryani Restaurants in Lb Nagar, Hyderabad - Order Food Online · Swagath Grand · Lucky Restaurant · Swagath Grand · Amaravathi Family Restaurant & Bar.",
+     "source_info_link": "https://www.justdial.com/Hyderabad/Biryani-Restaurants-in-Lb-Nagar/nct-10047018",
+     "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADwAgCdASoQABAAAsBMJbACdDiAP0A4CkFq58psin0SkAD--q31jH7d5W1uxfXO5nb8LSdefKaagozfP45QnxuH4vNL1KtsnPCpMJUuGP_FrEFbNoaquFgwJzn34CIyxoWia3lxLLsb-8VB4cmZOAYN_1krQMDF0t8L_p2aqhj9f-w2zUnHUm8H7QdRLxoFBciseJRQuvI02frQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkNXlZN3NVQXZTT2JDeUhkblRaN1I1NDBmc2IzSWw4aGtGbWwxZjVMQTcwRzRwNTVwcG91VlRNQ0tPWGExT0psbVlMdm5EaXhrVEFiR0VpUVlMQUdjSTVQTU9obl9aMTY4d2ZpRk5NOXZWVzBKLVNCRGU3TG8wbTJjVEQxR0lsWWpwMTNhZHRxSDJjQTNOR3VVenJmS2JzQlFrVkpfeFprbm1tSlFGc3RjMlF3cEl1UXJNEgQaAggAGuoEEgAaACIAKgA6AEIECAEQAEocCAESFEh5ZGVyYWJhZCwgVGVsYW5nYW5hGgIIAloAcgB6AIJAsgQIABAAGAAgACojCgRiZXN0FV5RTkAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRW78JlAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkNXlZN3NVQXZTT2JDeUhkblRaN1I1NDBmc2IzSWw4aGtGbWwxZjVMQTcwRzRwNTVwcG91VlRNQ0tPWGExT0psbVlMdm5EaXhrVEFiR0VpUVlMQUdjSTVQTU9obl9aMTY4d2ZpRk5NOXZWVzBKLVNCRGU3TG8wbTJjVEQxR0lsWWpwMTNhZHRxSDJjQTNOR3VVenJmS2JzQlFrVkpfeFprbm1tSlFGc3RjMlF3cEl1UXJNOkE8Yj5CZXN0IEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIGluIExiIE5hZ2FyLCBIeWRlcmFiYWQgLSBKdXN0ZGlhbELDAUJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBpbiBMYiBOYWdhciwgSHlkZXJhYmFkIC0gT3JkZXIgRm9vZCBPbmxpbmUgJm1pZGRvdDsgPGI-U3dhZ2F0aCBHcmFuZDwvYj4gJm1pZGRvdDsgTHVja3kgUmVzdGF1cmFudCAmbWlkZG90OyBTd2FnYXRoIEdyYW5kICZtaWRkb3Q7IEFtYXJhdmF0aGkgRmFtaWx5IFJlc3RhdXJhbnQgJmFtcDsgQmFyLlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkNXlZN3NVQXZTT2JDeUhkblRaN1I1NDBmc2IzSWw4aGtGbWwxZjVMQTcwRzRwNTVwcG91VlRNQ0tPWGExT0psbVlMdm5EaXhrVEFiR0VpUVlMQUdjSTVQTU9obl9aMTY4d2ZpRk5NOXZWVzBKLVNCRGU3TG8wbTJjVEQxR0lsWWpwMTNhZHRxSDJjQTNOR3VVenJmS2JzQlFrVkpfeFprbm1tSlFGc3RjMlF3cEl1UXJNEgQaAggAGuoEEgAaACIAKgA6AEIECAEQAEocCAESFEh5ZGVyYWJhZCwgVGVsYW5nYW5hGgIIAloAcgB6AIJAsgQIABAAGAAgACojCgRiZXN0FV5RTkAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRW78JlAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkNXlZN3NVQXZTT2JDeUhkblRaN1I1NDBmc2IzSWw4aGtGbWwxZjVMQTcwRzRwNTVwcG91VlRNQ0tPWGExT0psbVlMdm5EaXhrVEFiR0VpUVlMQUdjSTVQTU9obl9aMTY4d2ZpRk5NOXZWVzBKLVNCRGU3TG8wbTJjVEQxR0lsWWpwMTNhZHRxSDJjQTNOR3VVenJmS2JzQlFrVkpfeFprbm1tSlFGc3RjMlF3cEl1UXJNOkE8Yj5CZXN0IEJpcnlhbmk8L2I-IFJlc3RhdXJhbnRzIGluIExiIE5hZ2FyLCBIeWRlcmFiYWQgLSBKdXN0ZGlhbELDAUJlc3QgQmlyeWFuaSBSZXN0YXVyYW50cyBpbiBMYiBOYWdhciwgSHlkZXJhYmFkIC0gT3JkZXIgRm9vZCBPbmxpbmUgJm1pZGRvdDsgPGI-U3dhZ2F0aCBHcmFuZDwvYj4gJm1pZGRvdDsgTHVja3kgUmVzdGF1cmFudCAmbWlkZG90OyBTd2FnYXRoIEdyYW5kICZtaWRkb3Q7IEFtYXJhdmF0aGkgRmFtaWx5IFJlc3RhdXJhbnQgJmFtcDsgQmFyLlIDdG9wIgIQAUgAWABoAA",
+   "source": "Justdial",
+   "read_more_link": "https://www.justdial.com/Hyderabad/Biryani-Restaurants-in-Lb-Nagar/nct-10047018#:~:text=Best%20Biryani%20Restaurants%20in%20Lb,Hyderabad%20%2D%20Order%20Food%20Online&text=Swagath%20Grand&text=Lucky%20Restaurant&text=Swagath%20Grand&text=Amaravathi%20Family%20Restaurant%20%26%20Bar"
+  },
+  {
+   "position": 3,
+   "title": "Best biryani in Hyderabad, as picked by the city's top foodies",
+   "link": "https://www.cntraveller.in/story/best-biryanis-in-hyderabad-as-picked-by-the-citys-top-foodies/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFVjosNnAV11xXqlGj0BjUJVhxiABReN01_Rcela2B5KiTcvl1f0gsy0_55f0bXWAiE2HJT6keHTpffN-MBEuiXgtosUEQ2CtpXIQachpgQoZIOtDTFALYtdG7rUn6-6XWQC5ruxMgxCf_elaURow-YwRpa3S6kXonR45Z7lKqo4nNSGvjgN8PB72w0fm68zWCcqqALiE&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.cntraveller.in › Food & Drink › Biryani",
+   "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAKwzMaB0WoZnmegNRVHVpVOLI0n3zOe03lpEgEequgAA_vd14f5zEPwiGVuSTnYPnvaN2CUi7DepI_Ja0baDZilf0ey4KAK0hcqsa8qVUIjebxRFsqd6HP2NChIUPd4HW1dZCIfWJ-OeJUsmRRkhRz3lWo_2uIZuP5Tl6x_k31nkWO7yzswbKTCOlOOFDsEqKeXUEJtS5WoHxocD7U9LYzXaOTTp5O_4BB_960xWLXuf_njJtnqeZuYH9G00h1LjX3sE4UzD9_PicDUPJqG8sXwJzsmTh__NTOfv2dTw9K7-PCz3VxP_yy-n9-_34nueDJHKf1JJ72_wLWb85EEvUD_v9odUcep1fre1SwIrybH4hBkwROev8niqFu9T4ZJbLt5kg1ePCNz1eFJbk2AA.webp",
+   "date": "8 Apr 2024",
+   "snippet": "Best biryani in Hyderabad · Choice Hotel · Fanooz Restaurant · Adaa · The Spicy Venue. “In Hyderabad, you also get Telugu biryani. In that style ...",
+   "snippet_highlighted_words": [
+    "Choice Hotel"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Best biryani in Hyderabad · Choice Hotel · Fanooz Restaurant · Adaa · The Spicy Venue. “In Hyderabad, you also get Telugu biryani. In that style ...",
+     "source_info_link": "https://www.cntraveller.in/story/best-biryanis-in-hyderabad-as-picked-by-the-citys-top-foodies/",
+     "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglsAKwzMaB0WoZnmegNRVHVpVOLI0n3zOe03lpEgEequgAA_vd14f5zEPwiGVuSTnYPnvaN2CUi7DepI_Ja0baDZilf0ey4KAK0hcqsa8qVUIjebxRFsqd6HP2NChIUPd4HW1dZCIfWJ-OeJUsmRRkhRz3lWo_2uIZuP5Tl6x_k31nkWO7yzswbKTCOlOOFDsEqKeXUEJtS5WoHxocD7U9LYzXaOTTp5O_4BB_960xWLXuf_njJtnqeZuYH9G00h1LjX3sE4UzD9_PicDUPJqG8sXwJzsmTh__NTOfv2dTw9K7-PCz3VxP_yy-n9-_34nueDJHKf1JJ72_wLWb85EEvUD_v9odUcep1fre1SwIrybH4hBkwROev8niqFu9T4ZJbLt5kg1ePCNz1eFJbk2AA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZWam9zTm5BVjExeFhxbEdqMEJqVUpWaHhpQUJSZU4wMV9SY2VsYTJCNUtpVGN2bDFmMGdzeTBfNTVmMGJYV0FpRTJISlQ2a2VIVHBmZk4tTUJFdWlYZ3Rvc1VFUTJDdHBYSVFhY2hwZ1FvWklPdERURkFMWXRkRzdyVW42LTZYV1FDNXJ1eE1neENmX2VsYVVSb3ctWXdScGEzUzZrWG9uUjQ1WjdsS3FvNG5OU0d2amdOOFBCNzJ3MGZtNjh6V0NjcXFBTGlFEgQaAggAGoYFEgIIABoCCAEiACoAOgBCBAgBEABKHAgBEhRIeWRlcmFiYWQsIFRlbGFuZ2FuYRoCCAJaAHIAegCCQMoECAAQABgAIAAqIwoEYmVzdBWSbqJAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVgrO0QBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGVmpvc05uQVYxMXhYcWxHajBCalVKVmh4aUFCUmVOMDFfUmNlbGEyQjVLaVRjdmwxZjBnc3kwXzU1ZjBiWFdBaUUySEpUNmtlSFRwZmZOLU1CRXVpWGd0b3NVRVEyQ3RwWElRYWNocGdRb1pJT3REVEZBTFl0ZEc3clVuNi02WFdRQzVydXhNZ3hDZl9lbGFVUm93LVl3UnBhM1M2a1hvblI0NVo3bEtxbzRuTlNHdmpnTjhQQjcydzBmbTY4eldDY3FxQUxpRTpJPGI-QmVzdCBiaXJ5YW5pPC9iPiBpbiBIeWRlcmFiYWQsIGFzIHBpY2tlZCBieSB0aGUgY2l0eSYjMzk7cyB0b3AgZm9vZGllc0K-AUJlc3QgYmlyeWFuaSBpbiBIeWRlcmFiYWQgJm1pZGRvdDsgPGI-Q2hvaWNlIEhvdGVsPC9iPiAmbWlkZG90OyBGYW5vb3ogUmVzdGF1cmFudCAmbWlkZG90OyBBZGFhICZtaWRkb3Q7IFRoZSBTcGljeSBWZW51ZS4g4oCcSW4gSHlkZXJhYmFkLCB5b3UgYWxzbyBnZXQgVGVsdWd1IGJpcnlhbmkuIEluIHRoYXQgc3R5bGUmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZWam9zTm5BVjExeFhxbEdqMEJqVUpWaHhpQUJSZU4wMV9SY2VsYTJCNUtpVGN2bDFmMGdzeTBfNTVmMGJYV0FpRTJISlQ2a2VIVHBmZk4tTUJFdWlYZ3Rvc1VFUTJDdHBYSVFhY2hwZ1FvWklPdERURkFMWXRkRzdyVW42LTZYV1FDNXJ1eE1neENmX2VsYVVSb3ctWXdScGEzUzZrWG9uUjQ1WjdsS3FvNG5OU0d2amdOOFBCNzJ3MGZtNjh6V0NjcXFBTGlFEgQaAggAGoYFEgIIABoCCAEiACoAOgBCBAgBEABKHAgBEhRIeWRlcmFiYWQsIFRlbGFuZ2FuYRoCCAJaAHIAegCCQMoECAAQABgAIAAqIwoEYmVzdBWSbqJAGgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVgrO0QBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGVmpvc05uQVYxMXhYcWxHajBCalVKVmh4aUFCUmVOMDFfUmNlbGEyQjVLaVRjdmwxZjBnc3kwXzU1ZjBiWFdBaUUySEpUNmtlSFRwZmZOLU1CRXVpWGd0b3NVRVEyQ3RwWElRYWNocGdRb1pJT3REVEZBTFl0ZEc3clVuNi02WFdRQzVydXhNZ3hDZl9lbGFVUm93LVl3UnBhM1M2a1hvblI0NVo3bEtxbzRuTlNHdmpnTjhQQjcydzBmbTY4eldDY3FxQUxpRTpJPGI-QmVzdCBiaXJ5YW5pPC9iPiBpbiBIeWRlcmFiYWQsIGFzIHBpY2tlZCBieSB0aGUgY2l0eSYjMzk7cyB0b3AgZm9vZGllc0K-AUJlc3QgYmlyeWFuaSBpbiBIeWRlcmFiYWQgJm1pZGRvdDsgPGI-Q2hvaWNlIEhvdGVsPC9iPiAmbWlkZG90OyBGYW5vb3ogUmVzdGF1cmFudCAmbWlkZG90OyBBZGFhICZtaWRkb3Q7IFRoZSBTcGljeSBWZW51ZS4g4oCcSW4gSHlkZXJhYmFkLCB5b3UgYWxzbyBnZXQgVGVsdWd1IGJpcnlhbmkuIEluIHRoYXQgc3R5bGUmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+   "source": "Condé Nast Traveller India",
+   "read_more_link": "https://www.cntraveller.in/story/best-biryanis-in-hyderabad-as-picked-by-the-citys-top-foodies/#:~:text=Best%20biryani%20in%20Hyderabad&text=Choice%20Hotel&text=Fanooz%20Restaurant&text=Adaa&text=The%20Spicy%20Venue,the%20most%20outstanding%20jackfruit%20biryani."
+  },
+  {
+   "position": 4,
+   "title": "Premium Fine Dining Biryani Restaurants in Hyderabad",
+   "link": "https://www.zomato.com/hyderabad/restaurants/biryani?cft=5",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVTKoW98WXUmDZ3Y8bgQ2yHaT4jEvZvu5LJYXnlMtMCHH8FbKgOl0iR5htdmmKLPaN1UT9om3SrwOo0hbmXLApE8XaNosIzPd8MuqGxzmEqqPmBvD-gv9n1gE2wzS9jhJ6erJxqbsqEnP4UbmUb7RY_w&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://www.zomato.com › hyderabad › biryani",
+   "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWj_50BztOYUKajSUqY0nxN_2kmmnO3MgAP6l_pFa1HehfrmOhi8DDnkzYvfS2FA_2MNfDwf-Cq3uUgIr_vILjPrTCBf_jePStpEEESUD77kFWFF9hNgvOYS3TSekcDmUmzIOBGzqNsnrLX_9Kj31aZ7P-CCJ_f9c2MTTC99iz_-ZhAJ7GJ4jboK7Q-E_gBDJO95ASmnr3_tPsjeIePS_PzY21euI7uqBZlYTzB97Cr_NqBBIjBw2DMjP1w7wW3LQ_nQAAA.webp",
+   "snippet": "Premium Fine Dining Biryani Restaurants in Hyderabad · Aish - The Park · Saffron Soul - Marigold Hotel · Punjab Grill · TOS Club · The Grandline - World's Largest ...",
+   "snippet_highlighted_words": [
+    "Aish - The Park"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Premium Fine Dining Biryani Restaurants in Hyderabad · Aish - The Park · Saffron Soul - Marigold Hotel · Punjab Grill · TOS Club · The Grandline - World's Largest ...",
+     "source_info_link": "https://www.zomato.com/hyderabad/restaurants/biryani?cft=5",
+     "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWj_50BztOYUKajSUqY0nxN_2kmmnO3MgAP6l_pFa1HehfrmOhi8DDnkzYvfS2FA_2MNfDwf-Cq3uUgIr_vILjPrTCBf_jePStpEEESUD77kFWFF9hNgvOYS3TSekcDmUmzIOBGzqNsnrLX_9Kj31aZ7P-CCJ_f9c2MTTC99iz_-ZhAJ7GJ4jboK7Q-E_gBDJO95ASmnr3_tPsjeIePS_PzY21euI7uqBZlYTzB97Cr_NqBBIjBw2DMjP1w7wW3LQ_nQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlRLb1c5OFdYVW1EWjNZOGJnUTJ5SGFUNGpFdlp2dTVMSllYbmxNdE1DSEg4RmJLZ09sMGlSNWh0ZG1tS0xQYU4xVVQ5b20zU3J3T28waGJtWExBcEU4WGFOb3NJelBkOE11cUd4em1FcXFQbUJ2RC1ndjluMWdFMnd6UzlqaEo2ZXJKeHFic3FFblA0VWJtVWI3UllfdxIEGgIIABrdBBIAGgAiACoAOgBCBAgBEABKHAgBEhRIeWRlcmFiYWQsIFRlbGFuZ2FuYRoCCAJaAHIAegCCQKUECAAQABgAIAAqIwoEYmVzdBVE_Ow9GgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkV1a5-QBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKsAS9nb3RvP3VybD1DQUVTZFFIck96QVZUS29XOThXWFVtRFozWThiZ1EyeUhhVDRqRXZadnU1TEpZWG5sTXRNQ0hIOEZiS2dPbDBpUjVodGRtbUtMUGFOMVVUOW9tM1Nyd09vMGhibVhMQXBFOFhhTm9zSXpQZDhNdXFHeHptRXFxUG1CdkQtZ3Y5bjFnRTJ3elM5amhKNmVySnhxYnNxRW5QNFVibVViN1JZX3c6O1ByZW1pdW0gRmluZSBEaW5pbmcgPGI-QmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgaW4gSHlkZXJhYmFkQtkBUHJlbWl1bSBGaW5lIERpbmluZyBCaXJ5YW5pIFJlc3RhdXJhbnRzIGluIEh5ZGVyYWJhZCAmbWlkZG90OyA8Yj5BaXNoIC0gVGhlIFBhcms8L2I-ICZtaWRkb3Q7IFNhZmZyb24gU291bCAtIE1hcmlnb2xkIEhvdGVsICZtaWRkb3Q7IFB1bmphYiBHcmlsbCAmbWlkZG90OyBUT1MgQ2x1YiAmbWlkZG90OyBUaGUgR3JhbmRsaW5lIC0gV29ybGQmIzM5O3MgTGFyZ2VzdCZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlRLb1c5OFdYVW1EWjNZOGJnUTJ5SGFUNGpFdlp2dTVMSllYbmxNdE1DSEg4RmJLZ09sMGlSNWh0ZG1tS0xQYU4xVVQ5b20zU3J3T28waGJtWExBcEU4WGFOb3NJelBkOE11cUd4em1FcXFQbUJ2RC1ndjluMWdFMnd6UzlqaEo2ZXJKeHFic3FFblA0VWJtVWI3UllfdxIEGgIIABrdBBIAGgAiACoAOgBCBAgBEABKHAgBEhRIeWRlcmFiYWQsIFRlbGFuZ2FuYRoCCAJaAHIAegCCQKUECAAQABgAIAAqIwoEYmVzdBVE_Ow9GgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkV1a5-QBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKsAS9nb3RvP3VybD1DQUVTZFFIck96QVZUS29XOThXWFVtRFozWThiZ1EyeUhhVDRqRXZadnU1TEpZWG5sTXRNQ0hIOEZiS2dPbDBpUjVodGRtbUtMUGFOMVVUOW9tM1Nyd09vMGhibVhMQXBFOFhhTm9zSXpQZDhNdXFHeHptRXFxUG1CdkQtZ3Y5bjFnRTJ3elM5amhKNmVySnhxYnNxRW5QNFVibVViN1JZX3c6O1ByZW1pdW0gRmluZSBEaW5pbmcgPGI-QmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgaW4gSHlkZXJhYmFkQtkBUHJlbWl1bSBGaW5lIERpbmluZyBCaXJ5YW5pIFJlc3RhdXJhbnRzIGluIEh5ZGVyYWJhZCAmbWlkZG90OyA8Yj5BaXNoIC0gVGhlIFBhcms8L2I-ICZtaWRkb3Q7IFNhZmZyb24gU291bCAtIE1hcmlnb2xkIEhvdGVsICZtaWRkb3Q7IFB1bmphYiBHcmlsbCAmbWlkZG90OyBUT1MgQ2x1YiAmbWlkZG90OyBUaGUgR3JhbmRsaW5lIC0gV29ybGQmIzM5O3MgTGFyZ2VzdCZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+   "source": "Zomato",
+   "read_more_link": "https://www.zomato.com/hyderabad/restaurants/biryani?cft=5#:~:text=Premium%20Fine%20Dining%20Biryani%20Restaurants,in%20Hyderabad&text=Aish%20%2D%20The%20Park&text=Saffron%20Soul%20%2D%20Marigold%20Hotel&text=Punjab%20Grill&text=TOS%20Club&text=The%20Grandline%20%2D%20World's%20Largest,Buffet"
+  },
+  {
+   "position": 5,
+   "title": "Best Biryani Places in Hyderabad: A Foodie's Complete ...",
+   "link": "https://www.zingbus.com/blog/best-biryani-places-in-hyderabad-guide/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVF27xoBff3Syzp7IRJceKLbUyR9NHEbjxg8aC3KAGfoCg5qY1grdZpgspzO_IDcHx3pPGw1aqpX4uGeCkWh-u_O1WIsFmJkiMn-X5xW7Fj-u9O46jnx5zLZp9NPIsIuch1zx5I_y3pM1okXmzVS0VS0UYI9-8iVLH5jU&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQFnoECEkQAQ&uoh=1",
+   "displayed_link": "https://www.zingbus.com › blog › best-biryani-places-in-...",
+   "favicon": "https://serpapi.com/images/i/UklGRqYBAABXRUJQVlA4IJoBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ05QTSWJAbbPb__Sq6gDeXayfIgR4HufyH_FL_J06TxZ9FDrjjrr83Ag8TqVFvhEbdaGAD-_sOcTj-D959RMoNgaQEDeqzokfHFGxsNIW0-oY87ckpY28LCdL-uaMELVFrPz9cww7a4F3UUNFlna1n_i-Nrgb_7D0VGbJv_sQY5-WFe_bDo_4_hYQ6YvwLh5OPjrHHyh24yANN9g0QvLM4A4pDNtj6-z6QYUGhbGT_jcz0RZfNkSebRBShavqbr-oQnz4QeFgEYqwMLkqBkTqB5WtktHKFHAMt3Krq4UbxE_TLHC5ZfQDtz20vC7Fg5E5TZ4jwk8gUZ-5AyELSuufGnzeEyhhVVUWdXAMyo1zYu0HWXKb4Xcd7e32N5NWDjojPPj8bb_-Ghyccir5YJLXmNyIzpq9p2PTT3mrQOkDpcYDRe8X1-9vKwHWYoZXfslCOUQfz6RKALkjWwJIcOs-uMN_2_z8krcx9rRvGoW90PvfsjQv40Ga3dFhvWHqIAAA.webp",
+   "date": "28 Apr 2026",
+   "snippet": "Paradise, Bawarchi, Shah Ghouse, Cafe Bahar, Hotel Shadab, and Hotel Nayaab are among the best biryani places in Hyderabad.",
+   "snippet_highlighted_words": [
+    "best biryani"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Paradise, Bawarchi, Shah Ghouse, Cafe Bahar, Hotel Shadab, and Hotel Nayaab are among the best biryani places in Hyderabad.",
+     "source_info_link": "https://www.zingbus.com/blog/best-biryani-places-in-hyderabad-guide/",
+     "icon": "https://serpapi.com/images/i/UklGRqYBAABXRUJQVlA4IJoBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ05QTSWJAbbPb__Sq6gDeXayfIgR4HufyH_FL_J06TxZ9FDrjjrr83Ag8TqVFvhEbdaGAD-_sOcTj-D959RMoNgaQEDeqzokfHFGxsNIW0-oY87ckpY28LCdL-uaMELVFrPz9cww7a4F3UUNFlna1n_i-Nrgb_7D0VGbJv_sQY5-WFe_bDo_4_hYQ6YvwLh5OPjrHHyh24yANN9g0QvLM4A4pDNtj6-z6QYUGhbGT_jcz0RZfNkSebRBShavqbr-oQnz4QeFgEYqwMLkqBkTqB5WtktHKFHAMt3Krq4UbxE_TLHC5ZfQDtz20vC7Fg5E5TZ4jwk8gUZ-5AyELSuufGnzeEyhhVVUWdXAMyo1zYu0HWXKb4Xcd7e32N5NWDjojPPj8bb_-Ghyccir5YJLXmNyIzpq9p2PTT3mrQOkDpcYDRe8X1-9vKwHWYoZXfslCOUQfz6RKALkjWwJIcOs-uMN_2_z8krcx9rRvGoW90PvfsjQv40Ga3dFhvWHqIAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkYyN3hvQmZmM1N5enA3SVJKY2VLTGJVeVI5TkhFYmp4ZzhhQzNLQUdmb0NnNXFZMWdyZFpwZ3Nwek9fSURjSHgzcFBHdzFhcXBYNHVHZUNrV2gtdV9PMVdJc0ZtSmtpTW4tWDV4VzdGai11OU80NmpueDV6TFpwOU5QSXNJdWNoMXp4NUlfeTNwTTFva1htelZTMFZTMFVZSTktOGlWTEg1alUSBBoCCAAangQSABoAIgAqADoAQgQIARAAShwIARIUSHlkZXJhYmFkLCBUZWxhbmdhbmEaAggCWgByAHoAgkDmAwgAEAAYACAAKiMKBGJlc3QVqiSeQBoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFZDBu0AaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkyuQEvZ290bz91cmw9Q0FFU2Z3SHJPekFWRjI3eG9CZmYzU3l6cDdJUkpjZUtMYlV5UjlOSEVianhnOGFDM0tBR2ZvQ2c1cVkxZ3JkWnBnc3B6T19JRGNIeDNwUEd3MWFxcFg0dUdlQ2tXaC11X08xV0lzRm1Ka2lNbi1YNXhXN0ZqLXU5TzQ2am54NXpMWnA5TlBJc0l1Y2gxeng1SV95M3BNMW9rWG16VlMwVlMwVVlJOS04aVZMSDVqVTpGPGI-QmVzdCBCaXJ5YW5pPC9iPiBQbGFjZXMgaW4gSHlkZXJhYmFkOiBBIEZvb2RpZSYjMzk7cyBDb21wbGV0ZSBHdWlkZUKCAVBhcmFkaXNlLCBCYXdhcmNoaSwgU2hhaCBHaG91c2UsIENhZmUgQmFoYXIsIEhvdGVsIFNoYWRhYiwgYW5kIEhvdGVsIE5heWFhYiBhcmUgYW1vbmcgdGhlIDxiPmJlc3QgYmlyeWFuaTwvYj4gcGxhY2VzIGluIEh5ZGVyYWJhZC5SA3RvcCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkYyN3hvQmZmM1N5enA3SVJKY2VLTGJVeVI5TkhFYmp4ZzhhQzNLQUdmb0NnNXFZMWdyZFpwZ3Nwek9fSURjSHgzcFBHdzFhcXBYNHVHZUNrV2gtdV9PMVdJc0ZtSmtpTW4tWDV4VzdGai11OU80NmpueDV6TFpwOU5QSXNJdWNoMXp4NUlfeTNwTTFva1htelZTMFZTMFVZSTktOGlWTEg1alUSBBoCCAAangQSABoAIgAqADoAQgQIARAAShwIARIUSHlkZXJhYmFkLCBUZWxhbmdhbmEaAggCWgByAHoAgkDmAwgAEAAYACAAKiMKBGJlc3QVqiSeQBoEZ29vZBoDdG9wGgtiZXN0YmlyeWFuaSopCgdiaXJ5YW5pFZDBu0AaC2Jlc3RiaXJ5YW5pGgxpdjtwO2JpcnlhbmkyuQEvZ290bz91cmw9Q0FFU2Z3SHJPekFWRjI3eG9CZmYzU3l6cDdJUkpjZUtMYlV5UjlOSEVianhnOGFDM0tBR2ZvQ2c1cVkxZ3JkWnBnc3B6T19JRGNIeDNwUEd3MWFxcFg0dUdlQ2tXaC11X08xV0lzRm1Ka2lNbi1YNXhXN0ZqLXU5TzQ2am54NXpMWnA5TlBJc0l1Y2gxeng1SV95M3BNMW9rWG16VlMwVlMwVVlJOS04aVZMSDVqVTpGPGI-QmVzdCBCaXJ5YW5pPC9iPiBQbGFjZXMgaW4gSHlkZXJhYmFkOiBBIEZvb2RpZSYjMzk7cyBDb21wbGV0ZSBHdWlkZUKCAVBhcmFkaXNlLCBCYXdhcmNoaSwgU2hhaCBHaG91c2UsIENhZmUgQmFoYXIsIEhvdGVsIFNoYWRhYiwgYW5kIEhvdGVsIE5heWFhYiBhcmUgYW1vbmcgdGhlIDxiPmJlc3QgYmlyeWFuaTwvYj4gcGxhY2VzIGluIEh5ZGVyYWJhZC5SA3RvcCICEAFIAFgAaAA",
+   "source": "zingbus"
+  },
+  {
+   "position": 6,
+   "title": "Best Briyani Restaurants In Hyderabad 2026 | Order Online",
+   "link": "https://www.swiggy.com/city/hyderabad/briyani-dish-restaurants",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVb4uPofTdarggU3bbgDqL5dh8onyStLlvRnT-XFAqPavd6XMATWVdwam2-5rk9_OlEXsOazw8me7LE8oEqmhFAEK7DKeGCbo9XNyb5anmzvh2qopjpy0wkTrCGdOliG47hYTtf97kSY9kMUcn4HCRIXI-7jM&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.swiggy.com › Home › Hyderabad",
+   "favicon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHV3mduGcYtye807yISqfykPACv5d08Siandzc4hX57vcoRDTR2q1G1AOqVXAAD-7mrJhe_whQUybeQCofTC7g_CXQGVbYHhGWkVypz0kdMhzz3ADpwf_bj8UiTiMiqFKz_47THBdF05nwq9UrzcF2Lu3qwlMPntqBmwzn9ht62hZee73dyBNr4KXE9zk2wcEJEKi-Ncwytqu3TPQL5ptzc3e2CP6O23xK4Hrwx90GYVhIXL4mlk5IOgLH1P5rM-tlhuBh_P9flX9V3NaHqpYa4_Br3wwfsl11_rU_j_pci7HN3NFoYA-y5pz1gHMP_-DwbfCl7a7VIFLJJY8QLs6PjYUVD8fHb-GRIArfW1v0fmtE4gBw_bAPP48ZTM4MAA.webp",
+   "snippet": "Best Briyani Restaurants in Hyderabad ; Chicken Dum Biryani. ₹290. 4.2 ; Mutton Dum Biryani. ₹360. 3.9 ; Chicken 65 Biryani. ₹350. 3.8 ; Egg Biryani. ₹189. 3.9.",
+   "snippet_highlighted_words": [
+    "Best Briyani Restaurants in Hyderabad"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Best Briyani Restaurants in Hyderabad ; Chicken Dum Biryani. ₹290. 4.2 ; Mutton Dum Biryani. ₹360. 3.9 ; Chicken 65 Biryani. ₹350. 3.8 ; Egg Biryani. ₹189. 3.9.",
+     "source_info_link": "https://www.swiggy.com/city/hyderabad/briyani-dish-restaurants",
+     "icon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAAAwCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHV3mduGcYtye807yISqfykPACv5d08Siandzc4hX57vcoRDTR2q1G1AOqVXAAD-7mrJhe_whQUybeQCofTC7g_CXQGVbYHhGWkVypz0kdMhzz3ADpwf_bj8UiTiMiqFKz_47THBdF05nwq9UrzcF2Lu3qwlMPntqBmwzn9ht62hZee73dyBNr4KXE9zk2wcEJEKi-Ncwytqu3TPQL5ptzc3e2CP6O23xK4Hrwx90GYVhIXL4mlk5IOgLH1P5rM-tlhuBh_P9flX9V3NaHqpYa4_Br3wwfsl11_rU_j_pci7HN3NFoYA-y5pz1gHMP_-DwbfCl7a7VIFLJJY8QLs6PjYUVD8fHb-GRIArfW1v0fmtE4gBw_bAPP48ZTM4MAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmI0dVBvZlRkYXJnZ1UzYmJnRHFMNWRoOG9ueVN0TGx2Um5ULVhGQXFQYXZkNlhNQVRXVmR3YW0yLTVyazlfT2xFWHNPYXp3OG1lN0xFOG9FcW1oRkFFSzdES2VHQ2JvOVhOeWI1YW5tenZoMnFvcGpweTB3a1RyQ0dkT2xpRzQ3aFlUdGY5N2tTWTlrTVVjbjRIQ1JJWEktN2pNEgQaAggAGr0EEgAaACIAKgA6AEIECAEQAEocCAESFEh5ZGVyYWJhZCwgVGVsYW5nYW5hGgIIAloAcgB6AIJAhQQIABAAGAAgACojCgRiZXN0Fak8AEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRXeqSBAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmI0dVBvZlRkYXJnZ1UzYmJnRHFMNWRoOG9ueVN0TGx2Um5ULVhGQXFQYXZkNlhNQVRXVmR3YW0yLTVyazlfT2xFWHNPYXp3OG1lN0xFOG9FcW1oRkFFSzdES2VHQ2JvOVhOeWI1YW5tenZoMnFvcGpweTB3a1RyQ0dkT2xpRzQ3aFlUdGY5N2tTWTlrTVVjbjRIQ1JJWEktN2pNOkA8Yj5CZXN0PC9iPiBCcml5YW5pIFJlc3RhdXJhbnRzIEluIEh5ZGVyYWJhZCAyMDI2IHwgT3JkZXIgT25saW5lQq8BPGI-QmVzdCBCcml5YW5pIFJlc3RhdXJhbnRzIGluIEh5ZGVyYWJhZDwvYj4gOyBDaGlja2VuIER1bSBCaXJ5YW5pLiDigrkyOTAuIDQuMiA7IE11dHRvbiBEdW0gQmlyeWFuaS4g4oK5MzYwLiAzLjkgOyBDaGlja2VuIDY1IEJpcnlhbmkuIOKCuTM1MC4gMy44IDsgRWdnIEJpcnlhbmkuIOKCuTE4OS4gMy45LlIDdG9wIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmI0dVBvZlRkYXJnZ1UzYmJnRHFMNWRoOG9ueVN0TGx2Um5ULVhGQXFQYXZkNlhNQVRXVmR3YW0yLTVyazlfT2xFWHNPYXp3OG1lN0xFOG9FcW1oRkFFSzdES2VHQ2JvOVhOeWI1YW5tenZoMnFvcGpweTB3a1RyQ0dkT2xpRzQ3aFlUdGY5N2tTWTlrTVVjbjRIQ1JJWEktN2pNEgQaAggAGr0EEgAaACIAKgA6AEIECAEQAEocCAESFEh5ZGVyYWJhZCwgVGVsYW5nYW5hGgIIAloAcgB6AIJAhQQIABAAGAAgACojCgRiZXN0Fak8AEAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRXeqSBAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmI0dVBvZlRkYXJnZ1UzYmJnRHFMNWRoOG9ueVN0TGx2Um5ULVhGQXFQYXZkNlhNQVRXVmR3YW0yLTVyazlfT2xFWHNPYXp3OG1lN0xFOG9FcW1oRkFFSzdES2VHQ2JvOVhOeWI1YW5tenZoMnFvcGpweTB3a1RyQ0dkT2xpRzQ3aFlUdGY5N2tTWTlrTVVjbjRIQ1JJWEktN2pNOkA8Yj5CZXN0PC9iPiBCcml5YW5pIFJlc3RhdXJhbnRzIEluIEh5ZGVyYWJhZCAyMDI2IHwgT3JkZXIgT25saW5lQq8BPGI-QmVzdCBCcml5YW5pIFJlc3RhdXJhbnRzIGluIEh5ZGVyYWJhZDwvYj4gOyBDaGlja2VuIER1bSBCaXJ5YW5pLiDigrkyOTAuIDQuMiA7IE11dHRvbiBEdW0gQmlyeWFuaS4g4oK5MzYwLiAzLjkgOyBDaGlja2VuIDY1IEJpcnlhbmkuIOKCuTM1MC4gMy44IDsgRWdnIEJpcnlhbmkuIOKCuTE4OS4gMy45LlIDdG9wIgIQAUgAWABoAA",
+   "source": "Swiggy",
+   "read_more_link": "https://www.swiggy.com/city/hyderabad/briyani-dish-restaurants#:~:text=Best%20Briyani%20Restaurants%20in%20Hyderabad&text=Chicken%20Dum%20Biryani,4.2&text=Mutton%20Dum%20Biryani,3.9&text=Chicken%2065%20Biryani,3.8&text=Egg%20Biryani,3.9"
+  },
+  {
+   "position": 7,
+   "title": "BEST BIRYANI, Hyderabad - Hi-tech City/Gachibowli",
+   "link": "https://www.tripadvisor.in/Restaurant_Review-g297586-d8276518-Reviews-Best_Biryani-Hyderabad_Hyderabad_District_Telangana.html",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuQEB6zswFawhmb7YeVyuHhkD7QStnEELrctNpw9NZu3y2Hn1pNlDyN4Mm17FkaBPMHLWHJKL1M1SZngoCkhVOaVvdsbTmhqtY27mzd1J69QAX808cdgZ9KpAZ7Pdi_uWgSlZb4G_kZTorD8p4Cu2iJA4DfpO3Tyr4qdJ1NAjGCnmyAxyBaWWOi8cn5krCOCxa3-_u5NDsMsXhoDjVbU58hgaV7h5JKn3H_ZbaDl73kCC_WT5SfqHmErvEA&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQFnoECEwQAQ&uoh=1",
+   "displayed_link": "https://www.tripadvisor.in › ... › Hyderabad Restaurants",
+   "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAADQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y43UHrqeAN4sRoIQDV4vgCTRvB1tMXw-Ape1f4gxv7fJIlmAA_FHCFlLdcABXyY72clExk4RdAtev8mLy_Ws-uojgoLjRWQZ0Gku77ttm-gMJFu3wFcz6gfhtA_OZN_79epZAT2R1__0YegM5bI2MS1sgfHl64Ymve17rG-lDfFSkP0pfcGpBIipy0siH9dzFV4xzcVO-6OrAR2QkZyrGrsLlkJJACSgyoWsgnNLLc5mXcbTqYXfBtftqxSxjvuV-6f1iJrv9NKKGGVrzr55G7G76DtPh7l8RrCfPlKt4k-QrcVlba5dWvj71G5MmPPx1ZbpHL-xUS1c4Ve8M_Co8xZoYJUKG-Z3wfFCGQUJmSLSO4_79-i6ze-Ay_IbZCcAAAAA.webp",
+   "snippet": "Best Biryani, Hyderabad: See 5 unbiased reviews of Best Biryani, rated 4.2 of 5 on Tripadvisor and ranked #775 of 2031 restaurants in Hyderabad.",
+   "snippet_highlighted_words": [
+    "Best Biryani, Hyderabad"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.2,
+      "reviews": 5
+     },
+     "extensions": [
+      "4.2(5)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Best Biryani, Hyderabad: See 5 unbiased reviews of Best Biryani, rated 4.2 of 5 on Tripadvisor and ranked #775 of 2031 restaurants in Hyderabad.",
+     "source_info_link": "https://www.tripadvisor.in/Restaurant_Review-g297586-d8276518-Reviews-Best_Biryani-Hyderabad_Hyderabad_District_Telangana.html",
+     "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAADQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y43UHrqeAN4sRoIQDV4vgCTRvB1tMXw-Ape1f4gxv7fJIlmAA_FHCFlLdcABXyY72clExk4RdAtev8mLy_Ws-uojgoLjRWQZ0Gku77ttm-gMJFu3wFcz6gfhtA_OZN_79epZAT2R1__0YegM5bI2MS1sgfHl64Ymve17rG-lDfFSkP0pfcGpBIipy0siH9dzFV4xzcVO-6OrAR2QkZyrGrsLlkJJACSgyoWsgnNLLc5mXcbTqYXfBtftqxSxjvuV-6f1iJrv9NKKGGVrzr55G7G76DtPh7l8RrCfPlKt4k-QrcVlba5dWvj71G5MmPPx1ZbpHL-xUS1c4Ve8M_Co8xZoYJUKG-Z3wfFCGQUJmSLSO4_79-i6ze-Ay_IbZCcAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0Zhd2htYjdZZVZ5dUhoa0Q3UVN0bkVFTHJjdE5wdzlOWnUzeTJIbjFwTmxEeU40TW0xN0ZrYUJQTUhMV0hKS0wxTTFTWm5nb0NraFZPYVZ2ZHNiVG1ocXRZMjdtemQxSjY5UUFYODA4Y2RnWjlLcEFaN1BkaV91V2dTbFpiNEdfa1pUb3JEOHA0Q3UyaUpBNERmcE8zVHlyNHFkSjFOQWpHQ25teUF4eUJhV1dPaThjbjVrckNPQ3hhMy1fdTVORHNNc1hob0RqVmJVNThoZ2FWN2g1SktuM0hfWmJhRGw3M2tDQ19XVDVTZnFIbUVydkVBEgQaAggAGvQEEgAaACIAKgA6AEIECAEQAEocCAESFEh5ZGVyYWJhZCwgVGVsYW5nYW5hGgIIAloAcgB6AIJAvAQIABAAGAAgACojCgRiZXN0FfpjjkAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRVRgIVAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0Zhd2htYjdZZVZ5dUhoa0Q3UVN0bkVFTHJjdE5wdzlOWnUzeTJIbjFwTmxEeU40TW0xN0ZrYUJQTUhMV0hKS0wxTTFTWm5nb0NraFZPYVZ2ZHNiVG1ocXRZMjdtemQxSjY5UUFYODA4Y2RnWjlLcEFaN1BkaV91V2dTbFpiNEdfa1pUb3JEOHA0Q3UyaUpBNERmcE8zVHlyNHFkSjFOQWpHQ25teUF4eUJhV1dPaThjbjVrckNPQ3hhMy1fdTVORHNNc1hob0RqVmJVNThoZ2FWN2g1SktuM0hfWmJhRGw3M2tDQ19XVDVTZnFIbUVydkVBOjg8Yj5CRVNUIEJJUllBTkk8L2I-LCBIeWRlcmFiYWQgLSBIaS10ZWNoIENpdHkvR2FjaGlib3dsaUKXATxiPkJlc3QgQmlyeWFuaSwgSHlkZXJhYmFkPC9iPjogU2VlIDUgdW5iaWFzZWQgcmV2aWV3cyBvZiBCZXN0IEJpcnlhbmksIHJhdGVkIDQuMiBvZiA1IG9uIFRyaXBhZHZpc29yIGFuZCByYW5rZWQgIzc3NSBvZiAyMDMxIHJlc3RhdXJhbnRzIGluIEh5ZGVyYWJhZC5SA3RvcCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0Zhd2htYjdZZVZ5dUhoa0Q3UVN0bkVFTHJjdE5wdzlOWnUzeTJIbjFwTmxEeU40TW0xN0ZrYUJQTUhMV0hKS0wxTTFTWm5nb0NraFZPYVZ2ZHNiVG1ocXRZMjdtemQxSjY5UUFYODA4Y2RnWjlLcEFaN1BkaV91V2dTbFpiNEdfa1pUb3JEOHA0Q3UyaUpBNERmcE8zVHlyNHFkSjFOQWpHQ25teUF4eUJhV1dPaThjbjVrckNPQ3hhMy1fdTVORHNNc1hob0RqVmJVNThoZ2FWN2g1SktuM0hfWmJhRGw3M2tDQ19XVDVTZnFIbUVydkVBEgQaAggAGvQEEgAaACIAKgA6AEIECAEQAEocCAESFEh5ZGVyYWJhZCwgVGVsYW5nYW5hGgIIAloAcgB6AIJAvAQIABAAGAAgACojCgRiZXN0FfpjjkAaBGdvb2QaA3RvcBoLYmVzdGJpcnlhbmkqKQoHYmlyeWFuaRVRgIVAGgtiZXN0YmlyeWFuaRoMaXY7cDtiaXJ5YW5pMogCL2dvdG8_dXJsPUNBRVN1UUVCNnpzd0Zhd2htYjdZZVZ5dUhoa0Q3UVN0bkVFTHJjdE5wdzlOWnUzeTJIbjFwTmxEeU40TW0xN0ZrYUJQTUhMV0hKS0wxTTFTWm5nb0NraFZPYVZ2ZHNiVG1ocXRZMjdtemQxSjY5UUFYODA4Y2RnWjlLcEFaN1BkaV91V2dTbFpiNEdfa1pUb3JEOHA0Q3UyaUpBNERmcE8zVHlyNHFkSjFOQWpHQ25teUF4eUJhV1dPaThjbjVrckNPQ3hhMy1fdTVORHNNc1hob0RqVmJVNThoZ2FWN2g1SktuM0hfWmJhRGw3M2tDQ19XVDVTZnFIbUVydkVBOjg8Yj5CRVNUIEJJUllBTkk8L2I-LCBIeWRlcmFiYWQgLSBIaS10ZWNoIENpdHkvR2FjaGlib3dsaUKXATxiPkJlc3QgQmlyeWFuaSwgSHlkZXJhYmFkPC9iPjogU2VlIDUgdW5iaWFzZWQgcmV2aWV3cyBvZiBCZXN0IEJpcnlhbmksIHJhdGVkIDQuMiBvZiA1IG9uIFRyaXBhZHZpc29yIGFuZCByYW5rZWQgIzc3NSBvZiAyMDMxIHJlc3RhdXJhbnRzIGluIEh5ZGVyYWJhZC5SA3RvcCICEAFIAFgAaAA",
+   "source": "Tripadvisor"
+  },
+  {
+   "position": 8,
+   "title": "Premium Biryani Restaurants in Hyderabad",
+   "link": "https://www.zomato.com/hyderabad/restaurants/biryani?cft=3",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV-ok8rCssHGXiHMWSoCgMYzCiK2PT7FBqCaO90cq8gYbxOZ7HdgB77U7ErNvsH-v96c9PWXs_CzQPBF9Ac9tNDhjoKqD4teAqtbilOAFE1sID1F6kZ1Nb1ZgXPkY5MI6XQ8fKK0pYVQTxY9RzQW_EHg&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.zomato.com › hyderabad › biryani",
+   "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWj_50BztOYUKajSUqY0nxN_2kmmnO3MgAP6l_pFa1HehfrmOhi8DDnkzYvfS2FA_2MNfDwf-Cq3uUgIr_vILjPrTCBf_jePStpEEESUD77kFWFF9hNgvOYS3TSekcDmUmzIOBGzqNsnrLX_9Kj31aZ7P-CCJ_f9c2MTTC99iz_-ZhAJ7GJ4jboK7Q-E_gBDJO95ASmnr3_tPsjeIePS_PzY21euI7uqBZlYTzB97Cr_NqBBIjBw2DMjP1w7wW3LQ_nQAAA.webp",
+   "snippet": "Premium Biryani Restaurants in Hyderabad · Amritsar Haveli · Gulaab And Ghee - Elevated Vegetarian Cuisine · Golden Pavilion · Rayalaseema Ruchulu · Blue Fox · Kadali ...",
+   "snippet_highlighted_words": [
+    "Amritsar Haveli"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Premium Biryani Restaurants in Hyderabad · Amritsar Haveli · Gulaab And Ghee - Elevated Vegetarian Cuisine · Golden Pavilion · Rayalaseema Ruchulu · Blue Fox · Kadali ...",
+     "source_info_link": "https://www.zomato.com/hyderabad/restaurants/biryani?cft=3",
+     "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zWj_50BztOYUKajSUqY0nxN_2kmmnO3MgAP6l_pFa1HehfrmOhi8DDnkzYvfS2FA_2MNfDwf-Cq3uUgIr_vILjPrTCBf_jePStpEEESUD77kFWFF9hNgvOYS3TSekcDmUmzIOBGzqNsnrLX_9Kj31aZ7P-CCJ_f9c2MTTC99iz_-ZhAJ7GJ4jboK7Q-E_gBDJO95ASmnr3_tPsjeIePS_PzY21euI7uqBZlYTzB97Cr_NqBBIjBw2DMjP1w7wW3LQ_nQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVi1vazhyQ3NzSEdYaUhNV1NvQ2dNWXpDaUsyUFQ3RkJxQ2FPOTBjcThnWWJ4T1o3SGRnQjc3VTdFck52c0gtdjk2YzlQV1hzX0N6UVBCRjlBYzl0TkRoam9LcUQ0dGVBcXRiaWxPQUZFMXNJRDFGNmtaMU5iMVpnWFBrWTVNSTZYUThmS0swcFlWUVR4WTlSelFXX0VIZxIEGgIIABrhBBIAGgAiACoAOgBCBAgBEABKHAgBEhRIeWRlcmFiYWQsIFRlbGFuZ2FuYRoCCAJaAHIAegCCQKkECAAQABgAIAAqIwoEYmVzdBVjZvE9GgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVw_eEQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKsAS9nb3RvP3VybD1DQUVTZFFIck96QVYtb2s4ckNzc0hHWGlITVdTb0NnTVl6Q2lLMlBUN0ZCcUNhTzkwY3E4Z1lieE9aN0hkZ0I3N1U3RXJOdnNILXY5NmM5UFdYc19DelFQQkY5QWM5dE5EaGpvS3FENHRlQXF0YmlsT0FGRTFzSUQxRjZrWjFOYjFaZ1hQa1k1TUk2WFE4ZktLMHBZVlFUeFk5UnpRV19FSGc6OFByZW1pdW0gPGI-QmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgaW4gSHlkZXJhYmFkIC0gWm9tYXRvQuABUHJlbWl1bSBCaXJ5YW5pIFJlc3RhdXJhbnRzIGluIEh5ZGVyYWJhZCAmbWlkZG90OyA8Yj5BbXJpdHNhciBIYXZlbGk8L2I-ICZtaWRkb3Q7IEd1bGFhYiBBbmQgR2hlZSAtIEVsZXZhdGVkIFZlZ2V0YXJpYW4gQ3Vpc2luZSAmbWlkZG90OyBHb2xkZW4gUGF2aWxpb24gJm1pZGRvdDsgUmF5YWxhc2VlbWEgUnVjaHVsdSAmbWlkZG90OyBCbHVlIEZveCAmbWlkZG90OyBLYWRhbGkmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVi1vazhyQ3NzSEdYaUhNV1NvQ2dNWXpDaUsyUFQ3RkJxQ2FPOTBjcThnWWJ4T1o3SGRnQjc3VTdFck52c0gtdjk2YzlQV1hzX0N6UVBCRjlBYzl0TkRoam9LcUQ0dGVBcXRiaWxPQUZFMXNJRDFGNmtaMU5iMVpnWFBrWTVNSTZYUThmS0swcFlWUVR4WTlSelFXX0VIZxIEGgIIABrhBBIAGgAiACoAOgBCBAgBEABKHAgBEhRIeWRlcmFiYWQsIFRlbGFuZ2FuYRoCCAJaAHIAegCCQKkECAAQABgAIAAqIwoEYmVzdBVjZvE9GgRnb29kGgN0b3AaC2Jlc3RiaXJ5YW5pKikKB2JpcnlhbmkVw_eEQBoLYmVzdGJpcnlhbmkaDGl2O3A7YmlyeWFuaTKsAS9nb3RvP3VybD1DQUVTZFFIck96QVYtb2s4ckNzc0hHWGlITVdTb0NnTVl6Q2lLMlBUN0ZCcUNhTzkwY3E4Z1lieE9aN0hkZ0I3N1U3RXJOdnNILXY5NmM5UFdYc19DelFQQkY5QWM5dE5EaGpvS3FENHRlQXF0YmlsT0FGRTFzSUQxRjZrWjFOYjFaZ1hQa1k1TUk2WFE4ZktLMHBZVlFUeFk5UnpRV19FSGc6OFByZW1pdW0gPGI-QmlyeWFuaTwvYj4gUmVzdGF1cmFudHMgaW4gSHlkZXJhYmFkIC0gWm9tYXRvQuABUHJlbWl1bSBCaXJ5YW5pIFJlc3RhdXJhbnRzIGluIEh5ZGVyYWJhZCAmbWlkZG90OyA8Yj5BbXJpdHNhciBIYXZlbGk8L2I-ICZtaWRkb3Q7IEd1bGFhYiBBbmQgR2hlZSAtIEVsZXZhdGVkIFZlZ2V0YXJpYW4gQ3Vpc2luZSAmbWlkZG90OyBHb2xkZW4gUGF2aWxpb24gJm1pZGRvdDsgUmF5YWxhc2VlbWEgUnVjaHVsdSAmbWlkZG90OyBCbHVlIEZveCAmbWlkZG90OyBLYWRhbGkmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+   "source": "Zomato",
+   "read_more_link": "https://www.zomato.com/hyderabad/restaurants/biryani?cft=3#:~:text=Premium%20Biryani%20Restaurants%20in%20Hyderabad&text=Amritsar%20Haveli&text=Gulaab%20And%20Ghee%20%2D%20Elevated,Vegetarian%20Cuisine&text=Golden%20Pavilion&text=Rayalaseema%20Ruchulu&text=Blue%20Fox&text=Kadali%20Kitchen"
+  }
+ ],
+ "filters": [
+  {
+   "name": "Open now",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b",
+    "q": "best biryani open now"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=best+biryani+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQxKsJKAB6BAgkEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1IzvcILZYUssKJ4XVxlj-mvhf955r9S3vXkVm5wxJBHKDKrRgG8vFuV-x0Bf6VAH8Uw6WLFCAPdouIWB5XCBGIxRABWbvU96e15ZUOypJbTSBYF4Xuiix1XRaYK9ixy2lvnq5yfa8b"
+  },
+  {
+   "name": "Top rated",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ",
+    "q": "top rated best biryani"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=top+rated+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQxKsJKAF6BAglEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=top+rated+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4r6lclnUuEFz1h_qVdzJ_AdqvPM3LjMNV-gEFILq-zkCOehkUm7R6NS8kmyYkgO8jfGIV8Vsu_iCaFj2S-fIrAaYYWKB7kX26rDaVzNrsNQkFsOGxru7Y0pefthBnpXwbg4vXdcl33SjFObKC6En9VnZDLRORgzo1ZT1YekzdSWC9z6pxZ"
+  },
+  {
+   "name": "Cheap",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH3QvHM66SHvTmQMcnRk2-b-DcYrPxtxVZBfQ_OZePjHyXNtaUaZrGLm6gWDNWIZFbmAeEQEGPEBAF4kLxh-fK5g8rSWsbpK50kYm7T1tGAhQ5w7p4XlNPJp-Vnzj6s2_-ivzg5X5x3JL_D4l2_E6Y76I8rSg",
+    "q": "cheap best biryani"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=cheap+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH3QvHM66SHvTmQMcnRk2-b-DcYrPxtxVZBfQ_OZePjHyXNtaUaZrGLm6gWDNWIZFbmAeEQEGPEBAF4kLxh-fK5g8rSWsbpK50kYm7T1tGAhQ5w7p4XlNPJp-Vnzj6s2_-ivzg5X5x3JL_D4l2_E6Y76I8rSg&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQxKsJKAJ6BAgmEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=cheap+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rFa2o0JhNkSECFiglsbMkH3QvHM66SHvTmQMcnRk2-b-DcYrPxtxVZBfQ_OZePjHyXNtaUaZrGLm6gWDNWIZFbmAeEQEGPEBAF4kLxh-fK5g8rSWsbpK50kYm7T1tGAhQ5w7p4XlNPJp-Vnzj6s2_-ivzg5X5x3JL_D4l2_E6Y76I8rSg"
+  },
+  {
+   "name": "Upscale",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1Izvd1wDYGDSs9NJNTxC8KRi3crZnVdqvyslJfzCloOKptkxIyJktUEO7zrjFaN2hNfQu3_bfWDRcq4tPULkBoBozNpPDphEDeSNsuHPa0-gu5aPLIc22dztGFx6T0MUPm6Ni0UV1B",
+    "q": "upscale best biryani"
+   },
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=upscale+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1Izvd1wDYGDSs9NJNTxC8KRi3crZnVdqvyslJfzCloOKptkxIyJktUEO7zrjFaN2hNfQu3_bfWDRcq4tPULkBoBozNpPDphEDeSNsuHPa0-gu5aPLIc22dztGFx6T0MUPm6Ni0UV1B&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQxKsJKAN6BAgoEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=upscale+best+biryani&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rqi--IS5qqFykt0uxkCtW_EIYIdV6z8McguC9YU1Izvd1wDYGDSs9NJNTxC8KRi3crZnVdqvyslJfzCloOKptkxIyJktUEO7zrjFaN2hNfQu3_bfWDRcq4tPULkBoBozNpPDphEDeSNsuHPa0-gu5aPLIc22dztGFx6T0MUPm6Ni0UV1B"
+  },
+  {
+   "name": "Price",
+   "options": []
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Best biryani in hyderabad",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=Best+biryani+in+hyderabad&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ1QJ6BAhAEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=Best+biryani+in+hyderabad"
+  },
+  {
+   "block_position": 1,
+   "query": "Best Biryani near me",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=Best+Biryani+near+me&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=Best+Biryani+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "Top 5 best biryani in Hyderabad",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=Top+5+best+biryani+in+Hyderabad&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=Top+5+best+biryani+in+Hyderabad"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani Hyderabad near me",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=Best+biryani+Hyderabad+near+me&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ1QJ6BAhKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=Best+biryani+Hyderabad+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani Kukatpally",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=Best+biryani+Kukatpally&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ1QJ6BAhGEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=Best+biryani+Kukatpally"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani Secunderabad",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=Best+biryani+Secunderabad&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ1QJ6BAhDEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=Best+biryani+Secunderabad"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani in LB Nagar",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=Best+biryani+in+LB+Nagar&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ1QJ6BAhCEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=Best+biryani+in+LB+Nagar"
+  },
+  {
+   "block_position": 1,
+   "query": "Best biryani Gachibowli",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&q=Best+biryani+Gachibowli&sa=X&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ1QJ6BAhBEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=Best+biryani+Gachibowli"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=10&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8NMDegQIPhAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=10&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8tMDegQIPhAE",
+   "3": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=20&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8tMDegQIPhAG",
+   "4": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=30&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8tMDegQIPhAI",
+   "5": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=40&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8tMDegQIPhAK",
+   "6": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=50&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8tMDegQIPhAM",
+   "7": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=60&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8tMDegQIPhAO",
+   "8": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=70&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8tMDegQIPhAQ",
+   "9": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=80&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8tMDegQIPhAS",
+   "10": "https://www.google.co.in/search?q=best+biryani&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntwFt-M28d_xTbcHOckI-NRSDW3Pw:1791645513293&ei=SVfKaqu_EeOg5NoPy4XLmQk&start=90&sa=N&sstk=AS6-VmLfuuyhy38w1qEBImkvzrJMFiczpHT-VIjfpgpk4hQW4ghsmWqRkoNabMXe5lg-E4a0FQ_BNrqgArKwt8srkNuSEoUN7x01mQ&ved=2ahUKEwjrh4jT36-XAxVjEFkFHcvCMpMQ8tMDegQIPhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Hyderabad%2CTelangana%2CIndia&q=best+biryani&start=90"
+  }
+ }
+}

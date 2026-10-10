@@ -1,0 +1,4502 @@
+{
+ "search_metadata": {
+  "id": "6aca56aa27c2b0971939e93d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/jBTy3d0qm4Xxy3Eks_tUFaQQKJBJXLbN97-gqZFc5-U/6aca56aa27c2b0971939e93d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/jBTy3d0qm4Xxy3Eks_tUFaQQKJBJXLbN97-gqZFc5-U/6aca56aa27c2b0971939e93d.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/jBTy3d0qm4Xxy3Eks_tUFaQQKJBJXLbN97-gqZFc5-U/6aca56aa27c2b0971939e93d.json_with_pixel_position",
+  "created_at": "2026-10-10 15:15:54 UTC",
+  "processed_at": "2026-10-10 15:15:54 UTC",
+  "google_url": "https://www.google.co.in/search?q=weather&oq=weather&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/jBTy3d0qm4Xxy3Eks_tUFaQQKJBJXLbN97-gqZFc5-U/6aca56aa27c2b0971939e93d.html",
+  "total_time_taken": 4.66
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "weather",
+  "location_requested": "Bengaluru,Karnataka,India",
+  "location_used": "Bengaluru,Karnataka,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "weather",
+  "total_results": 52,
+  "time_taken_displayed": 0.28,
+  "organic_results_state": "Results for exact spelling",
+  "results_for": "Bengaluru, Karnataka"
+ },
+ "answer_box": {
+  "type": "weather_result",
+  "temperature": "25",
+  "unit": "Celsius",
+  "precipitation": "0%",
+  "humidity": "55%",
+  "wind": "11 km/h",
+  "location": "Bengaluru, Karnataka",
+  "date": "Saturday, 8:00 pm",
+  "weather": "Partly cloudy",
+  "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/exTOhRw0jTgnPbeJJJk9T9YUTRrfSt-iuMesb1G_GlQ.svg+xml",
+  "forecast": [
+   {
+    "day": "Saturday",
+    "temperature": {
+     "high": "31",
+     "low": "20"
+    },
+    "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/58EbD-cm_YY8EwK6NBYM6-5B8vQG_ajh020GkW5AQ30.svg+xml",
+    "weather": "Partly sunny",
+    "humidity": "54%",
+    "precipitation": "10%",
+    "wind": "11 km/h"
+   },
+   {
+    "day": "Sunday",
+    "temperature": {
+     "high": "31",
+     "low": "19"
+    },
+    "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/58EbD-cm_YY8EwK6NBYM6zmJNy4QrsqcyJZyqmiP6k8.svg+xml",
+    "weather": "Sunny",
+    "humidity": "42%",
+    "precipitation": "0%",
+    "wind": "18 km/h"
+   },
+   {
+    "day": "Monday",
+    "temperature": {
+     "high": "31",
+     "low": "19"
+    },
+    "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/58EbD-cm_YY8EwK6NBYM60Mj8yXWepHLZPUgtHpE9ms.svg+xml",
+    "weather": "Mostly sunny",
+    "humidity": "45%",
+    "precipitation": "15%",
+    "wind": "18 km/h"
+   },
+   {
+    "day": "Tuesday",
+    "temperature": {
+     "high": "31",
+     "low": "19"
+    },
+    "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/58EbD-cm_YY8EwK6NBYM67OwQLuS0O1BtwvMf-crVCE.svg+xml",
+    "weather": "Partly sunny",
+    "humidity": "41%",
+    "precipitation": "5%",
+    "wind": "18 km/h"
+   },
+   {
+    "day": "Wednesday",
+    "temperature": {
+     "high": "31",
+     "low": "21"
+    },
+    "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/58EbD-cm_YY8EwK6NBYM66GtN7b5-AEchYGzw8dSDS8.svg+xml",
+    "weather": "Mostly cloudy",
+    "humidity": "43%",
+    "precipitation": "10%",
+    "wind": "13 km/h"
+   },
+   {
+    "day": "Thursday",
+    "temperature": {
+     "high": "30",
+     "low": "21"
+    },
+    "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/58EbD-cm_YY8EwK6NBYM6ztFF9hb5s2or4VrxtZ_S5k.svg+xml",
+    "weather": "Partly sunny",
+    "humidity": "52%",
+    "precipitation": "10%",
+    "wind": "10 km/h"
+   },
+   {
+    "day": "Friday",
+    "temperature": {
+     "high": "29",
+     "low": "21"
+    },
+    "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/58EbD-cm_YY8EwK6NBYM62dGJGoS4Yq1kPtjc2wNZNE.svg+xml",
+    "weather": "Light rain",
+    "humidity": "57%",
+    "precipitation": "35%",
+    "wind": "8 km/h"
+   },
+   {
+    "day": "Saturday",
+    "temperature": {
+     "high": "29",
+     "low": "21"
+    },
+    "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/58EbD-cm_YY8EwK6NBYM68r-uzNyXysXl7PeXZgsJVg.svg+xml",
+    "weather": "Partly sunny",
+    "humidity": "64%",
+    "precipitation": "75%",
+    "wind": "6 km/h"
+   }
+  ],
+  "hourly_forecast": [
+   {
+    "time": "Saturday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "25",
+    "precipitation": "0%",
+    "humidity": "55%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Saturday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "25",
+    "precipitation": "0%",
+    "humidity": "56%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Saturday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "24",
+    "precipitation": "5%",
+    "humidity": "59%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Saturday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "23",
+    "precipitation": "5%",
+    "humidity": "63%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Sunday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "68%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Sunday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "72%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Sunday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "75%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "77%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "79%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "20",
+    "precipitation": "0%",
+    "humidity": "81%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "20",
+    "precipitation": "0%",
+    "humidity": "79%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "70%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "24",
+    "precipitation": "0%",
+    "humidity": "58%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Sunday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "27",
+    "precipitation": "0%",
+    "humidity": "48%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Sunday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "28",
+    "precipitation": "0%",
+    "humidity": "41%",
+    "wind": "18 km/h"
+   },
+   {
+    "time": "Sunday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "38%",
+    "wind": "18 km/h"
+   },
+   {
+    "time": "Sunday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "30",
+    "precipitation": "0%",
+    "humidity": "36%",
+    "wind": "18 km/h"
+   },
+   {
+    "time": "Sunday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "31",
+    "precipitation": "0%",
+    "humidity": "35%",
+    "wind": "18 km/h"
+   },
+   {
+    "time": "Sunday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "31",
+    "precipitation": "0%",
+    "humidity": "34%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Sunday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "31",
+    "precipitation": "0%",
+    "humidity": "33%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Sunday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "30",
+    "precipitation": "0%",
+    "humidity": "35%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Sunday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "39%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Sunday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "27",
+    "precipitation": "0%",
+    "humidity": "46%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Sunday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "26",
+    "precipitation": "0%",
+    "humidity": "52%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Sunday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "25",
+    "precipitation": "0%",
+    "humidity": "57%",
+    "wind": "14 km/h"
+   },
+   {
+    "time": "Sunday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "24",
+    "precipitation": "0%",
+    "humidity": "60%",
+    "wind": "14 km/h"
+   },
+   {
+    "time": "Sunday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "64%",
+    "wind": "14 km/h"
+   },
+   {
+    "time": "Sunday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "68%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Monday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "74%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Monday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "78%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Monday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "81%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Monday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "20",
+    "precipitation": "0%",
+    "humidity": "84%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Monday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "19",
+    "precipitation": "0%",
+    "humidity": "86%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Monday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "19",
+    "precipitation": "0%",
+    "humidity": "89%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Monday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "19",
+    "precipitation": "0%",
+    "humidity": "89%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Monday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "81%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Monday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "69%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Monday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "26",
+    "precipitation": "0%",
+    "humidity": "57%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Monday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "27",
+    "precipitation": "0%",
+    "humidity": "49%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Monday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "28",
+    "precipitation": "0%",
+    "humidity": "43%",
+    "wind": "18 km/h"
+   },
+   {
+    "time": "Monday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "39%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Monday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "30",
+    "precipitation": "0%",
+    "humidity": "37%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Monday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "31",
+    "precipitation": "0%",
+    "humidity": "36%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Monday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "31",
+    "precipitation": "0%",
+    "humidity": "36%",
+    "wind": "14 km/h"
+   },
+   {
+    "time": "Monday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "30",
+    "precipitation": "15%",
+    "humidity": "38%",
+    "wind": "14 km/h"
+   },
+   {
+    "time": "Monday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "29",
+    "precipitation": "15%",
+    "humidity": "41%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Monday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "27",
+    "precipitation": "0%",
+    "humidity": "47%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Monday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "26",
+    "precipitation": "0%",
+    "humidity": "53%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Monday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "25",
+    "precipitation": "0%",
+    "humidity": "57%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Monday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "24",
+    "precipitation": "0%",
+    "humidity": "61%",
+    "wind": "14 km/h"
+   },
+   {
+    "time": "Monday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "64%",
+    "wind": "14 km/h"
+   },
+   {
+    "time": "Monday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "69%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Tuesday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "73%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "76%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "78%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "80%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "20",
+    "precipitation": "0%",
+    "humidity": "82%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Tuesday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "19",
+    "precipitation": "0%",
+    "humidity": "83%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "19",
+    "precipitation": "0%",
+    "humidity": "82%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Tuesday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "73%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "24",
+    "precipitation": "0%",
+    "humidity": "61%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Tuesday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "27",
+    "precipitation": "0%",
+    "humidity": "50%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Tuesday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "28",
+    "precipitation": "0%",
+    "humidity": "42%",
+    "wind": "18 km/h"
+   },
+   {
+    "time": "Tuesday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "37%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Tuesday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "31",
+    "precipitation": "0%",
+    "humidity": "35%",
+    "wind": "16 km/h"
+   },
+   {
+    "time": "Tuesday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "31",
+    "precipitation": "0%",
+    "humidity": "33%",
+    "wind": "14 km/h"
+   },
+   {
+    "time": "Tuesday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/sunny_light.svg",
+    "weather": "Sunny",
+    "temperature": "31",
+    "precipitation": "0%",
+    "humidity": "32%",
+    "wind": "14 km/h"
+   },
+   {
+    "time": "Tuesday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "31",
+    "precipitation": "0%",
+    "humidity": "32%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Tuesday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "31",
+    "precipitation": "5%",
+    "humidity": "34%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Tuesday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "38%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "27",
+    "precipitation": "0%",
+    "humidity": "43%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "26",
+    "precipitation": "10%",
+    "humidity": "49%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "25",
+    "precipitation": "0%",
+    "humidity": "54%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "24",
+    "precipitation": "0%",
+    "humidity": "58%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "23",
+    "precipitation": "5%",
+    "humidity": "63%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Tuesday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "69%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Wednesday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "74%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "77%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "80%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "21",
+    "precipitation": "5%",
+    "humidity": "81%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Wednesday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "20",
+    "precipitation": "10%",
+    "humidity": "84%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Wednesday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "19",
+    "precipitation": "10%",
+    "humidity": "86%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Wednesday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "19",
+    "precipitation": "10%",
+    "humidity": "85%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Wednesday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "22",
+    "precipitation": "5%",
+    "humidity": "76%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Wednesday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "24",
+    "precipitation": "5%",
+    "humidity": "64%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Wednesday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "26",
+    "precipitation": "10%",
+    "humidity": "53%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Wednesday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "28",
+    "precipitation": "10%",
+    "humidity": "45%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Wednesday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "29",
+    "precipitation": "10%",
+    "humidity": "40%",
+    "wind": "13 km/h"
+   },
+   {
+    "time": "Wednesday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "30",
+    "precipitation": "10%",
+    "humidity": "37%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Wednesday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "31",
+    "precipitation": "10%",
+    "humidity": "35%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Wednesday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "31",
+    "precipitation": "10%",
+    "humidity": "34%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "31",
+    "precipitation": "10%",
+    "humidity": "34%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "31",
+    "precipitation": "10%",
+    "humidity": "35%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "29",
+    "precipitation": "10%",
+    "humidity": "39%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Wednesday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "28",
+    "precipitation": "10%",
+    "humidity": "45%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Wednesday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "26",
+    "precipitation": "5%",
+    "humidity": "50%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "26",
+    "precipitation": "5%",
+    "humidity": "55%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Wednesday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "25",
+    "precipitation": "0%",
+    "humidity": "59%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Wednesday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "24",
+    "precipitation": "0%",
+    "humidity": "64%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Wednesday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "70%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Thursday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "75%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Thursday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "78%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "80%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Thursday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "82%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Thursday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "84%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Thursday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "86%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Thursday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "87%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Thursday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "81%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Thursday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "24",
+    "precipitation": "0%",
+    "humidity": "71%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Thursday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "26",
+    "precipitation": "0%",
+    "humidity": "61%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "28",
+    "precipitation": "0%",
+    "humidity": "54%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "49%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "29",
+    "precipitation": "5%",
+    "humidity": "46%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "30",
+    "precipitation": "5%",
+    "humidity": "44%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "30",
+    "precipitation": "10%",
+    "humidity": "44%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "29",
+    "precipitation": "10%",
+    "humidity": "44%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "29",
+    "precipitation": "10%",
+    "humidity": "47%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "28",
+    "precipitation": "10%",
+    "humidity": "51%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "27",
+    "precipitation": "10%",
+    "humidity": "55%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Thursday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "26",
+    "precipitation": "10%",
+    "humidity": "60%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Thursday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "24",
+    "precipitation": "10%",
+    "humidity": "64%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Thursday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "24",
+    "precipitation": "5%",
+    "humidity": "68%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Thursday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "23",
+    "precipitation": "5%",
+    "humidity": "72%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Thursday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "75%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Friday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "82%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "85%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Friday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "87%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Friday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "88%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Friday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/clear_night_light.svg",
+    "weather": "Clear",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "89%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Friday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "90%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Friday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_clear_night_light.svg",
+    "weather": "Clear with periodic clouds",
+    "temperature": "21",
+    "precipitation": "0%",
+    "humidity": "90%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Friday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "85%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Friday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "24",
+    "precipitation": "0%",
+    "humidity": "76%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Friday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "26",
+    "precipitation": "0%",
+    "humidity": "67%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "27",
+    "precipitation": "0%",
+    "humidity": "59%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "28",
+    "precipitation": "0%",
+    "humidity": "54%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "50%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "48%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_sunny_light.svg",
+    "weather": "Mostly sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "47%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "48%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Friday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "29",
+    "precipitation": "0%",
+    "humidity": "51%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Friday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "28",
+    "precipitation": "5%",
+    "humidity": "56%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Friday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Chance of showers",
+    "temperature": "26",
+    "precipitation": "35%",
+    "humidity": "61%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Friday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "25",
+    "precipitation": "55%",
+    "humidity": "66%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Chance of showers",
+    "temperature": "24",
+    "precipitation": "25%",
+    "humidity": "71%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Chance of showers",
+    "temperature": "24",
+    "precipitation": "20%",
+    "humidity": "74%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "23",
+    "precipitation": "15%",
+    "humidity": "78%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Friday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "23",
+    "precipitation": "0%",
+    "humidity": "81%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Saturday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "22",
+    "precipitation": "0%",
+    "humidity": "87%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "22",
+    "precipitation": "5%",
+    "humidity": "89%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "22",
+    "precipitation": "5%",
+    "humidity": "90%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Saturday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "22",
+    "precipitation": "5%",
+    "humidity": "90%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Saturday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "21",
+    "precipitation": "5%",
+    "humidity": "91%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Saturday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "91%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Saturday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_night_light.svg",
+    "weather": "Partly cloudy",
+    "temperature": "21",
+    "precipitation": "5%",
+    "humidity": "92%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Saturday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "22",
+    "precipitation": "5%",
+    "humidity": "88%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Saturday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "24",
+    "precipitation": "5%",
+    "humidity": "80%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Saturday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "25",
+    "precipitation": "5%",
+    "humidity": "71%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Saturday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "27",
+    "precipitation": "5%",
+    "humidity": "64%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Saturday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "28",
+    "precipitation": "0%",
+    "humidity": "58%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "28",
+    "precipitation": "15%",
+    "humidity": "54%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "29",
+    "precipitation": "15%",
+    "humidity": "53%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "28",
+    "precipitation": "15%",
+    "humidity": "53%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "28",
+    "precipitation": "15%",
+    "humidity": "55%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "27",
+    "precipitation": "55%",
+    "humidity": "59%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "26",
+    "precipitation": "75%",
+    "humidity": "65%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "25",
+    "precipitation": "75%",
+    "humidity": "71%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "24",
+    "precipitation": "75%",
+    "humidity": "76%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "23",
+    "precipitation": "75%",
+    "humidity": "79%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "23",
+    "precipitation": "75%",
+    "humidity": "81%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "23",
+    "precipitation": "75%",
+    "humidity": "84%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Saturday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "22",
+    "precipitation": "75%",
+    "humidity": "86%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "22",
+    "precipitation": "75%",
+    "humidity": "90%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Sunday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "21",
+    "precipitation": "70%",
+    "humidity": "91%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Sunday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "21",
+    "precipitation": "55%",
+    "humidity": "92%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Sunday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "21",
+    "precipitation": "30%",
+    "humidity": "92%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Sunday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "21",
+    "precipitation": "20%",
+    "humidity": "93%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Sunday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "93%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Sunday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "92%",
+    "wind": "3 km/h"
+   },
+   {
+    "time": "Sunday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "22",
+    "precipitation": "10%",
+    "humidity": "88%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Sunday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "23",
+    "precipitation": "10%",
+    "humidity": "82%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "25",
+    "precipitation": "10%",
+    "humidity": "74%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "26",
+    "precipitation": "10%",
+    "humidity": "67%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "27",
+    "precipitation": "10%",
+    "humidity": "61%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "28",
+    "precipitation": "20%",
+    "humidity": "56%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "28",
+    "precipitation": "20%",
+    "humidity": "55%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "28",
+    "precipitation": "20%",
+    "humidity": "56%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "28",
+    "precipitation": "30%",
+    "humidity": "58%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "27",
+    "precipitation": "55%",
+    "humidity": "61%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "26",
+    "precipitation": "70%",
+    "humidity": "67%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "24",
+    "precipitation": "75%",
+    "humidity": "74%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "23",
+    "precipitation": "75%",
+    "humidity": "78%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Sunday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "23",
+    "precipitation": "75%",
+    "humidity": "81%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "23",
+    "precipitation": "75%",
+    "humidity": "82%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "22",
+    "precipitation": "75%",
+    "humidity": "84%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Sunday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "22",
+    "precipitation": "75%",
+    "humidity": "85%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Monday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "22",
+    "precipitation": "75%",
+    "humidity": "89%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Monday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "22",
+    "precipitation": "75%",
+    "humidity": "91%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Monday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "21",
+    "precipitation": "30%",
+    "humidity": "92%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Monday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/cloudy_light.svg",
+    "weather": "Cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "92%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Monday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/cloudy_light.svg",
+    "weather": "Cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "93%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Monday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/cloudy_light.svg",
+    "weather": "Cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "93%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Monday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/cloudy_light.svg",
+    "weather": "Cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "93%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Monday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "22",
+    "precipitation": "10%",
+    "humidity": "89%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Monday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "23",
+    "precipitation": "10%",
+    "humidity": "82%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Monday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "25",
+    "precipitation": "10%",
+    "humidity": "74%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Monday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "26",
+    "precipitation": "5%",
+    "humidity": "67%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Monday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "27",
+    "precipitation": "5%",
+    "humidity": "61%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Monday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "28",
+    "precipitation": "15%",
+    "humidity": "58%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Monday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/partly_cloudy_light.svg",
+    "weather": "Partly sunny",
+    "temperature": "28",
+    "precipitation": "15%",
+    "humidity": "56%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Monday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "28",
+    "precipitation": "15%",
+    "humidity": "57%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Monday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "28",
+    "precipitation": "55%",
+    "humidity": "58%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Monday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "27",
+    "precipitation": "70%",
+    "humidity": "62%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Monday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "26",
+    "precipitation": "75%",
+    "humidity": "67%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Monday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "24",
+    "precipitation": "75%",
+    "humidity": "73%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Monday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "23",
+    "precipitation": "75%",
+    "humidity": "78%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Monday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "23",
+    "precipitation": "75%",
+    "humidity": "80%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Monday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/heavy_rain_light.svg",
+    "weather": "Heavy rain",
+    "temperature": "22",
+    "precipitation": "85%",
+    "humidity": "82%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Monday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/heavy_rain_light.svg",
+    "weather": "Heavy rain",
+    "temperature": "22",
+    "precipitation": "85%",
+    "humidity": "84%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Monday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain",
+    "temperature": "22",
+    "precipitation": "75%",
+    "humidity": "86%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Tuesday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "22",
+    "precipitation": "70%",
+    "humidity": "90%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Tuesday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "21",
+    "precipitation": "65%",
+    "humidity": "91%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Tuesday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "21",
+    "precipitation": "20%",
+    "humidity": "92%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Tuesday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "92%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Tuesday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/cloudy_light.svg",
+    "weather": "Cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "92%",
+    "wind": "5 km/h"
+   },
+   {
+    "time": "Tuesday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/cloudy_light.svg",
+    "weather": "Cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "93%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Tuesday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/cloudy_light.svg",
+    "weather": "Cloudy",
+    "temperature": "21",
+    "precipitation": "15%",
+    "humidity": "92%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Tuesday, 7:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/cloudy_light.svg",
+    "weather": "Cloudy",
+    "temperature": "22",
+    "precipitation": "15%",
+    "humidity": "89%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Tuesday, 8:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "23",
+    "precipitation": "15%",
+    "humidity": "83%",
+    "wind": "6 km/h"
+   },
+   {
+    "time": "Tuesday, 9:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "24",
+    "precipitation": "15%",
+    "humidity": "76%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Tuesday, 10:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "26",
+    "precipitation": "15%",
+    "humidity": "69%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Tuesday, 11:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_day_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "27",
+    "precipitation": "15%",
+    "humidity": "63%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Tuesday, 12:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "28",
+    "precipitation": "20%",
+    "humidity": "58%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 1:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "28",
+    "precipitation": "20%",
+    "humidity": "57%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 2:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "28",
+    "precipitation": "20%",
+    "humidity": "57%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 3:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "27",
+    "precipitation": "20%",
+    "humidity": "59%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 4:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "27",
+    "precipitation": "30%",
+    "humidity": "62%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 5:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "26",
+    "precipitation": "65%",
+    "humidity": "68%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 6:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "24",
+    "precipitation": "55%",
+    "humidity": "74%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 7:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "23",
+    "precipitation": "65%",
+    "humidity": "78%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Tuesday, 8:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/rain_showers_light.svg",
+    "weather": "Rain showers",
+    "temperature": "23",
+    "precipitation": "65%",
+    "humidity": "81%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 9:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/drizzle_light.svg",
+    "weather": "Light rain",
+    "temperature": "23",
+    "precipitation": "30%",
+    "humidity": "82%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 10:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "22",
+    "precipitation": "15%",
+    "humidity": "84%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Tuesday, 11:00 pm",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "22",
+    "precipitation": "10%",
+    "humidity": "85%",
+    "wind": "11 km/h"
+   },
+   {
+    "time": "Wednesday, 12:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "22",
+    "precipitation": "10%",
+    "humidity": "89%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 1:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "91%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 2:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "92%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 3:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "93%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 4:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "93%",
+    "wind": "10 km/h"
+   },
+   {
+    "time": "Wednesday, 5:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "93%",
+    "wind": "8 km/h"
+   },
+   {
+    "time": "Wednesday, 6:00 am",
+    "thumbnail": "https://www.gstatic.com/weather/conditions/v1/svg/mostly_cloudy_night_light.svg",
+    "weather": "Mostly cloudy",
+    "temperature": "21",
+    "precipitation": "10%",
+    "humidity": "93%",
+    "wind": "10 km/h"
+   }
+  ],
+  "precipitation_forecast": [
+   {
+    "precipitation": "0%",
+    "day": "Saturday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Saturday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Sunday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Monday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Monday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Monday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Tuesday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Tuesday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Tuesday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Tuesday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Wednesday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Wednesday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Wednesday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Wednesday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Wednesday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Wednesday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Wednesday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Wednesday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Wednesday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Wednesday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Wednesday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Wednesday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Thursday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Thursday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Thursday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Thursday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Thursday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Thursday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Thursday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Thursday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Thursday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Thursday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Thursday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Thursday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Friday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "35%",
+    "day": "Friday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "55%",
+    "day": "Friday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "25%",
+    "day": "Friday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Friday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Friday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Friday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Saturday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Saturday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Saturday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "0%",
+    "day": "Saturday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Saturday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Saturday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Saturday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Saturday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "55%",
+    "day": "Saturday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Saturday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Saturday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Saturday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Saturday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Saturday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Saturday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Saturday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Sunday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "70%",
+    "day": "Sunday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "55%",
+    "day": "Sunday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "30%",
+    "day": "Sunday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Sunday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Sunday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Sunday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Sunday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Sunday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Sunday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Sunday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Sunday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Sunday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Sunday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Sunday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "30%",
+    "day": "Sunday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "55%",
+    "day": "Sunday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "70%",
+    "day": "Sunday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Sunday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Sunday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Sunday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Sunday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Sunday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Sunday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Monday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Monday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "30%",
+    "day": "Monday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Monday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Monday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Monday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Monday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Monday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Monday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Monday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Monday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "5%",
+    "day": "Monday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Monday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Monday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Monday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "55%",
+    "day": "Monday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "70%",
+    "day": "Monday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Monday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Monday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Monday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Monday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "85%",
+    "day": "Monday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "85%",
+    "day": "Monday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "75%",
+    "day": "Monday,",
+    "time": "11:00 pm"
+   },
+   {
+    "precipitation": "70%",
+    "day": "Tuesday,",
+    "time": "12:00 am"
+   },
+   {
+    "precipitation": "65%",
+    "day": "Tuesday,",
+    "time": "1:00 am"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Tuesday,",
+    "time": "2:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Tuesday,",
+    "time": "3:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Tuesday,",
+    "time": "4:00 am"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Tuesday,",
+    "time": "5:00 am"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Tuesday,",
+    "time": "6:00 am"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Tuesday,",
+    "time": "7:00 am"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Tuesday,",
+    "time": "8:00 am"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Tuesday,",
+    "time": "9:00 am"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Tuesday,",
+    "time": "10:00 am"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Tuesday,",
+    "time": "11:00 am"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Tuesday,",
+    "time": "12:00 pm"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Tuesday,",
+    "time": "1:00 pm"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Tuesday,",
+    "time": "2:00 pm"
+   },
+   {
+    "precipitation": "20%",
+    "day": "Tuesday,",
+    "time": "3:00 pm"
+   },
+   {
+    "precipitation": "30%",
+    "day": "Tuesday,",
+    "time": "4:00 pm"
+   },
+   {
+    "precipitation": "65%",
+    "day": "Tuesday,",
+    "time": "5:00 pm"
+   },
+   {
+    "precipitation": "55%",
+    "day": "Tuesday,",
+    "time": "6:00 pm"
+   },
+   {
+    "precipitation": "65%",
+    "day": "Tuesday,",
+    "time": "7:00 pm"
+   },
+   {
+    "precipitation": "65%",
+    "day": "Tuesday,",
+    "time": "8:00 pm"
+   },
+   {
+    "precipitation": "30%",
+    "day": "Tuesday,",
+    "time": "9:00 pm"
+   },
+   {
+    "precipitation": "15%",
+    "day": "Tuesday,",
+    "time": "10:00 pm"
+   },
+   {
+    "precipitation": "10%",
+    "day": "Tuesday,",
+    "time": "11:00 pm"
+   }
+  ],
+  "wind_forecast": [
+   {
+    "angle": 172,
+    "direction": "From east",
+    "speed": "11 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 174,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 180,
+    "direction": "From east",
+    "speed": "8 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 196,
+    "direction": "From east",
+    "speed": "8 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 200,
+    "direction": "From east",
+    "speed": "16 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 195,
+    "direction": "From east",
+    "speed": "18 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 190,
+    "direction": "From east",
+    "speed": "16 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 173,
+    "direction": "From east",
+    "speed": "11 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 176,
+    "direction": "From east",
+    "speed": "14 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 179,
+    "direction": "From east",
+    "speed": "11 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 185,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 193,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 196,
+    "direction": "From east",
+    "speed": "16 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 198,
+    "direction": "From east",
+    "speed": "16 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 200,
+    "direction": "From east",
+    "speed": "14 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 183,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 179,
+    "direction": "From east",
+    "speed": "14 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 178,
+    "direction": "From east",
+    "speed": "11 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 190,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 202,
+    "direction": "From east",
+    "speed": "8 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 211,
+    "direction": "From northeast",
+    "speed": "16 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 212,
+    "direction": "From northeast",
+    "speed": "16 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 212,
+    "direction": "From northeast",
+    "speed": "13 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 189,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 179,
+    "direction": "From east",
+    "speed": "11 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 176,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 184,
+    "direction": "From east",
+    "speed": "8 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 200,
+    "direction": "From east",
+    "speed": "8 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 215,
+    "direction": "From northeast",
+    "speed": "13 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 221,
+    "direction": "From northeast",
+    "speed": "11 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 214,
+    "direction": "From northeast",
+    "speed": "10 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 195,
+    "direction": "From east",
+    "speed": "8 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 173,
+    "direction": "From east",
+    "speed": "11 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 166,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 167,
+    "direction": "From east",
+    "speed": "5 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 187,
+    "direction": "From east",
+    "speed": "5 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 212,
+    "direction": "From northeast",
+    "speed": "8 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 233,
+    "direction": "From northeast",
+    "speed": "8 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 250,
+    "direction": "From north",
+    "speed": "8 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 204,
+    "direction": "From northeast",
+    "speed": "8 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 171,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 151,
+    "direction": "From southeast",
+    "speed": "8 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 129,
+    "direction": "From southeast",
+    "speed": "5 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 148,
+    "direction": "From southeast",
+    "speed": "3 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 221,
+    "direction": "From northeast",
+    "speed": "8 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 236,
+    "direction": "From northeast",
+    "speed": "8 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 232,
+    "direction": "From northeast",
+    "speed": "6 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 171,
+    "direction": "From east",
+    "speed": "6 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 153,
+    "direction": "From southeast",
+    "speed": "8 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 140,
+    "direction": "From southeast",
+    "speed": "6 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 127,
+    "direction": "From southeast",
+    "speed": "5 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 164,
+    "direction": "From east",
+    "speed": "3 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 201,
+    "direction": "From east",
+    "speed": "5 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 220,
+    "direction": "From northeast",
+    "speed": "6 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 215,
+    "direction": "From northeast",
+    "speed": "6 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 179,
+    "direction": "From east",
+    "speed": "6 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 166,
+    "direction": "From east",
+    "speed": "6 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 156,
+    "direction": "From southeast",
+    "speed": "5 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 158,
+    "direction": "From east",
+    "speed": "3 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 187,
+    "direction": "From east",
+    "speed": "3 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 198,
+    "direction": "From east",
+    "speed": "6 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 218,
+    "direction": "From northeast",
+    "speed": "6 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 225,
+    "direction": "From northeast",
+    "speed": "8 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 199,
+    "direction": "From east",
+    "speed": "6 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 180,
+    "direction": "From east",
+    "speed": "8 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 179,
+    "direction": "From east",
+    "speed": "6 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 170,
+    "direction": "From east",
+    "speed": "5 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 177,
+    "direction": "From east",
+    "speed": "5 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 181,
+    "direction": "From east",
+    "speed": "8 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 197,
+    "direction": "From east",
+    "speed": "6 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 215,
+    "direction": "From northeast",
+    "speed": "8 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 211,
+    "direction": "From northeast",
+    "speed": "8 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 196,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "9 pm"
+   },
+   {
+    "angle": 190,
+    "direction": "From east",
+    "speed": "6 km/h",
+    "time": "12 am"
+   },
+   {
+    "angle": 189,
+    "direction": "From east",
+    "speed": "5 km/h",
+    "time": "3 am"
+   },
+   {
+    "angle": 208,
+    "direction": "From northeast",
+    "speed": "6 km/h",
+    "time": "6 am"
+   },
+   {
+    "angle": 196,
+    "direction": "From east",
+    "speed": "8 km/h",
+    "time": "9 am"
+   },
+   {
+    "angle": 210,
+    "direction": "From northeast",
+    "speed": "10 km/h",
+    "time": "12 pm"
+   },
+   {
+    "angle": 227,
+    "direction": "From northeast",
+    "speed": "11 km/h",
+    "time": "3 pm"
+   },
+   {
+    "angle": 223,
+    "direction": "From northeast",
+    "speed": "11 km/h",
+    "time": "6 pm"
+   },
+   {
+    "angle": 201,
+    "direction": "From east",
+    "speed": "10 km/h",
+    "time": "9 pm"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Google Weather",
+    "link": "https://support.google.com/websearch/answer/13687874"
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "https://www.accuweather.com/en/in/bengaluru/204108...",
+   "link": "https://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFaZ2oV9a9qxphlbfb4adw9qbWHiqDg23pYVle-VrlPkMRALk8Kb1tYwWwEjVlQ-ZsAiX0zhCybPCGhQ3tx1xScrRloLHj-NheY32r50LFK_J1EXjJBLafBKC3gqpKwGzLtg_LGIeNZH3YFB5ERn1rP-BwrF3HaD95cWitRNWaxcT3uM3IWFcAv_KZRjHtg&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://www.accuweather.com › hourly-weather-forecast",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOXo3D06d948mbgAbYDngNMA3kv_Io8DaYsFxmfoAQhE0rNjuqZKjvnl6RhN6gNxAAAD-9_Ct5j0oZ6be0P0W049cHz9vP1uvqEyOY5EEj9PNiEx1RXUsh4piUuMMFWvbanGP3Yg2LIzw9R8RPQaFv-vGmiDjufcvyV-eF5_pzYEqeaZ4niUeZj99QdU5h3NO_7jq3hNQ-2JBnyPuWh-_O6I3y79J5TAMwp_qM_eT2OlXSHCfv-WyJgc4N9cNdEuSDj39rz3Uy_7Q6E8V1Rf4aDu3fddHoGb2aONRADNHaZ62MMRRg80OAh45JbsEjnxTu7QDoQIPjdxyJWhvkmq0mFDUlTr-1m8l4s6mbbLEdiVADCHrpqyJ97t_XniK3azMLJh81KSUIBkfsQdVCKf4rIHWfZ5KwTFm0gqId0oid5dYjvzNJTTrvGQJNldbAjFx1OF6YAAA.webp",
+   "snippet": "No information is available for this page.",
+   "about_this_result": {
+    "source": {
+     "source_info_link": "https://www.accuweather.com/en/in/bengaluru/204108/hourly-weather-forecast/204108?day=2",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOXo3D06d948mbgAbYDngNMA3kv_Io8DaYsFxmfoAQhE0rNjuqZKjvnl6RhN6gNxAAAD-9_Ct5j0oZ6be0P0W049cHz9vP1uvqEyOY5EEj9PNiEx1RXUsh4piUuMMFWvbanGP3Yg2LIzw9R8RPQaFv-vGmiDjufcvyV-eF5_pzYEqeaZ4niUeZj99QdU5h3NO_7jq3hNQ-2JBnyPuWh-_O6I3y79J5TAMwp_qM_eT2OlXSHCfv-WyJgc4N9cNdEuSDj39rz3Uy_7Q6E8V1Rf4aDu3fddHoGb2aONRADNHaZ62MMRRg80OAh45JbsEjnxTu7QDoQIPjdxyJWhvkmq0mFDUlTr-1m8l4s6mbbLEdiVADCHrpqyJ97t_XniK3azMLJh81KSUIBkfsQdVCKf4rIHWfZ5KwTFm0gqId0oid5dYjvzNJTTrvGQJNldbAjFx1OF6YAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZhWjJvVjlhOXF4cGhsYmZiNGFkdzlxYldIaXFEZzIzcFlWbGUtVnJsUGtNUkFMazhLYjF0WXdXd0VqVmxRLVpzQWlYMHpoQ3liUENHaFEzdHgxeFNjclJsb0xIai1OaGVZMzJyNTBMRktfSjFFWGpKQkxhZkJLQzNncXBLd0d6THRnX0xHSWVOWkgzWUZCNUVSbjFyUC1Cd3JGM0hhRDk1Y1dpdFJOV2F4Y1QzdU0zSVdGY0F2X0taUmpIdGcSBBoCCAAaqwISAggAGgAiACoAOgBCBAgBEABKHAgBEhRCZW5nYWx1cnUsIEthcm5hdGFrYRoCCAJaAHIAegCCQPEBCAAQABgAIAAqDgoHd2VhdGhlchUAAAA_MtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZhWjJvVjlhOXF4cGhsYmZiNGFkdzlxYldIaXFEZzIzcFlWbGUtVnJsUGtNUkFMazhLYjF0WXdXd0VqVmxRLVpzQWlYMHpoQ3liUENHaFEzdHgxeFNjclJsb0xIai1OaGVZMzJyNTBMRktfSjFFWGpKQkxhZkJLQzNncXBLd0d6THRnX0xHSWVOWkgzWUZCNUVSbjFyUC1Cd3JGM0hhRDk1Y1dpdFJOV2F4Y1QzdU0zSVdGY0F2X0taUmpIdGc6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZhWjJvVjlhOXF4cGhsYmZiNGFkdzlxYldIaXFEZzIzcFlWbGUtVnJsUGtNUkFMazhLYjF0WXdXd0VqVmxRLVpzQWlYMHpoQ3liUENHaFEzdHgxeFNjclJsb0xIai1OaGVZMzJyNTBMRktfSjFFWGpKQkxhZkJLQzNncXBLd0d6THRnX0xHSWVOWkgzWUZCNUVSbjFyUC1Cd3JGM0hhRDk1Y1dpdFJOV2F4Y1QzdU0zSVdGY0F2X0taUmpIdGcSBBoCCAAaqwISAggAGgAiACoAOgBCBAgBEABKHAgBEhRCZW5nYWx1cnUsIEthcm5hdGFrYRoCCAJaAHIAegCCQPEBCAAQABgAIAAqDgoHd2VhdGhlchUAAAA_MtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZhWjJvVjlhOXF4cGhsYmZiNGFkdzlxYldIaXFEZzIzcFlWbGUtVnJsUGtNUkFMazhLYjF0WXdXd0VqVmxRLVpzQWlYMHpoQ3liUENHaFEzdHgxeFNjclJsb0xIai1OaGVZMzJyNTBMRktfSjFFWGpKQkxhZkJLQzNncXBLd0d6THRnX0xHSWVOWkgzWUZCNUVSbjFyUC1Cd3JGM0hhRDk1Y1dpdFJOV2F4Y1QzdU0zSVdGY0F2X0taUmpIdGc6ACICEAFIAFgAaAA",
+   "source": "AccuWeather"
+  },
+  {
+   "position": 2,
+   "title": "Bellary, India Hourly Weather Forecast",
+   "link": "https://www.wunderground.com/hourly/in/gutti/VOBI",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAV62-PnRtZd82zoQMMh41HU8UBE5WuBVYMK2LnTF7vdw05s1rj8Zh8s6ss8HV_RM-C66HnGwuAT5v3-qVtNzEakFIsvGuDPZ0fDX3ywWxGuAOqmeHHFDg_Kie9S1bg94VGg2wY-S6r-A&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://www.wunderground.com › hourly › gutti › VOBI",
+   "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAABQCACdASogACAAPrUurVanIacnG_DgFolsAL9qhID6wKEBtgLtV9ADpXf-BWpZEDsq7AuEGrhjN5SVZEAp219PIwBuZ1MCIaDAgAAA_vogpgCxVUDBzS0swFC9KpMv3b5omBzeq8fAdBV0HrVCJH2NUlPYIASgJkgS2dv6c1R0uhMg3cY38MGnMokuuYdoM0RDgYqL00-fz8h61ekC3P3_qmEvVooh62hxPqKS7i10BHw7d12b6-vog5CEVckwx7jzmd0b0fgOCzpej7aKII_lXCqkyuLr6hwoLWCQfrBcPK1HwSrG7T1I43k-z0LmUNHJtF__4hHLX-0WLNTBevwaILVSia_WuEJ-CuxLj3GhtcNSxiufWRifJap2ju57k5gt-ZNV_TMQhDMJXBKZ1YzEkPYAAAAA.webp",
+   "snippet": "Today 07/30 42% / 0.02 in Mostly cloudy and windy with showers developing this afternoon. Hazy. High 88F. Winds W at 20 to 30 mph. Chance of rain 40%.",
+   "snippet_highlighted_words": [
+    "Mostly cloudy and windy with showers developing this afternoon"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Today 07/30 42% / 0.02 in Mostly cloudy and windy with showers developing this afternoon. Hazy. High 88F. Winds W at 20 to 30 mph. Chance of rain 40%.",
+     "source_info_link": "https://www.wunderground.com/hourly/in/gutti/VOBI",
+     "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAABQCACdASogACAAPrUurVanIacnG_DgFolsAL9qhID6wKEBtgLtV9ADpXf-BWpZEDsq7AuEGrhjN5SVZEAp219PIwBuZ1MCIaDAgAAA_vogpgCxVUDBzS0swFC9KpMv3b5omBzeq8fAdBV0HrVCJH2NUlPYIASgJkgS2dv6c1R0uhMg3cY38MGnMokuuYdoM0RDgYqL00-fz8h61ekC3P3_qmEvVooh62hxPqKS7i10BHw7d12b6-vog5CEVckwx7jzmd0b0fgOCzpej7aKII_lXCqkyuLr6hwoLWCQfrBcPK1HwSrG7T1I43k-z0LmUNHJtF__4hHLX-0WLNTBevwaILVSia_WuEJ-CuxLj3GhtcNSxiufWRifJap2ju57k5gt-ZNV_TMQhDMJXBKZ1YzEkPYAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVjYyLVBuUnRaZDgyem9RTU1oNDFIVThVQkU1V3VCVllNSzJMblRGN3ZkdzA1czFyajhaaDhzNnNzOEhWX1JNLUM2NkhuR3d1QVQ1djMtcVZ0TnpFYWtGSXN2R3VEUFowZkRYM3l3V3hHdUFPcW1lSEhGRGdfS2llOVMxYmc5NFZHZzJ3WS1TNnItQRIEGgIIABquAxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCKAwgAEAAYACAAKg4KB3dlYXRoZXIVknudQDKgAS9nb3RvP3VybD1DQUVTYkFIck96QVY2Mi1QblJ0WmQ4MnpvUU1NaDQxSFU4VUJFNVd1QlZZTUsyTG5URjd2ZHcwNXMxcmo4Wmg4czZzczhIVl9STS1DNjZIbkd3dUFUNXYzLXFWdE56RWFrRklzdkd1RFBaMGZEWDN5d1d4R3VBT3FtZUhIRkRnX0tpZTlTMWJnOTRWR2cyd1ktUzZyLUE6LUJlbGxhcnksIEluZGlhIEhvdXJseSA8Yj5XZWF0aGVyPC9iPiBGb3JlY2FzdEKdAVRvZGF5IDA3LzMwIDQyJSAvIDAuMDIgaW4gPGI-TW9zdGx5IGNsb3VkeSBhbmQgd2luZHkgd2l0aCBzaG93ZXJzIGRldmVsb3BpbmcgdGhpcyBhZnRlcm5vb248L2I-LiBIYXp5LiBIaWdoIDg4Ri4gV2luZHMgVyBhdCAyMCB0byAzMCBtcGguIENoYW5jZSBvZiByYWluIDQwJS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVjYyLVBuUnRaZDgyem9RTU1oNDFIVThVQkU1V3VCVllNSzJMblRGN3ZkdzA1czFyajhaaDhzNnNzOEhWX1JNLUM2NkhuR3d1QVQ1djMtcVZ0TnpFYWtGSXN2R3VEUFowZkRYM3l3V3hHdUFPcW1lSEhGRGdfS2llOVMxYmc5NFZHZzJ3WS1TNnItQRIEGgIIABquAxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCKAwgAEAAYACAAKg4KB3dlYXRoZXIVknudQDKgAS9nb3RvP3VybD1DQUVTYkFIck96QVY2Mi1QblJ0WmQ4MnpvUU1NaDQxSFU4VUJFNVd1QlZZTUsyTG5URjd2ZHcwNXMxcmo4Wmg4czZzczhIVl9STS1DNjZIbkd3dUFUNXYzLXFWdE56RWFrRklzdkd1RFBaMGZEWDN5d1d4R3VBT3FtZUhIRkRnX0tpZTlTMWJnOTRWR2cyd1ktUzZyLUE6LUJlbGxhcnksIEluZGlhIEhvdXJseSA8Yj5XZWF0aGVyPC9iPiBGb3JlY2FzdEKdAVRvZGF5IDA3LzMwIDQyJSAvIDAuMDIgaW4gPGI-TW9zdGx5IGNsb3VkeSBhbmQgd2luZHkgd2l0aCBzaG93ZXJzIGRldmVsb3BpbmcgdGhpcyBhZnRlcm5vb248L2I-LiBIYXp5LiBIaWdoIDg4Ri4gV2luZHMgVyBhdCAyMCB0byAzMCBtcGguIENoYW5jZSBvZiByYWluIDQwJS4iAhABSABYAGgA",
+   "source": "Weather Underground"
+  },
+  {
+   "position": 3,
+   "title": "Weather Forecast for India",
+   "link": "https://weathercity.com/in",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVzkmPPJQNAqf5PwGtpB8daitrF-qwf_xWYSAFY9hdRwpkMLq6TDqVL6QO3Na-9mlsAhk1PnsM2biczap-9PsI6rOheCSRBlSOOLdrRdg5DyU&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://weathercity.com › ...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAAAAAD_aE28AAAAZElEQVR4AWP4DwVYGAsY2P8r_TdgZPir0P-XYf8Pf4b_Cfo_GPK_7Wf4v4H3i4P-F6DijxxPNnAfAzK-scz4xN4FZPxkzPnGFA9k_BPQ_80AYvx3qP-vMB_EaNj_P_H9fzyWAgCqpGD4CROrnAAAAABJRU5ErkJggg.png",
+   "snippet": "WeatherCity provides accurate local weather forecasts and conditions for cities around the world ... Weather Forecasts for India Ahmedabad Mumbai Nagpur",
+   "snippet_highlighted_words": [
+    "accurate local weather forecasts"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "WeatherCity provides accurate local weather forecasts and conditions for cities around the world ... Weather Forecasts for India Ahmedabad Mumbai Nagpur",
+     "source_info_link": "https://weathercity.com/in",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAAAAAD_aE28AAAAZElEQVR4AWP4DwVYGAsY2P8r_TdgZPir0P-XYf8Pf4b_Cfo_GPK_7Wf4v4H3i4P-F6DijxxPNnAfAzK-scz4xN4FZPxkzPnGFA9k_BPQ_80AYvx3qP-vMB_EaNj_P_H9fzyWAgCqpGD4CROrnAAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVnprbVBQSlFOQXFmNVB3R3RwQjhkYWl0ckYtcXdmX3hXWVNBRlk5aGRSd3BrTUxxNlREcVZMNlFPM05hLTltbHNBaGsxUG5zTTJiaWN6YXAtOVBzSTZyT2hlQ1NSQmxTT09MZHJSZGc1RHlVEgQaAggAGocDEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA4QIIABAAGAAgACoOCgd3ZWF0aGVyFXbLhEAygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWemttUFBKUU5BcWY1UHdHdHBCOGRhaXRyRi1xd2ZfeFdZU0FGWTloZFJ3cGtNTHE2VERxVkw2UU8zTmEtOW1sc0FoazFQbnNNMmJpY3phcC05UHNJNnJPaGVDU1JCbFNPT0xkclJkZzVEeVU6ITxiPldlYXRoZXI8L2I-IEZvcmVjYXN0IGZvciBJbmRpYUKfAVdlYXRoZXJDaXR5IHByb3ZpZGVzIDxiPmFjY3VyYXRlIGxvY2FsIHdlYXRoZXIgZm9yZWNhc3RzPC9iPiBhbmQgY29uZGl0aW9ucyBmb3IgY2l0aWVzIGFyb3VuZCB0aGUgd29ybGQgLi4uIFdlYXRoZXIgRm9yZWNhc3RzIGZvciBJbmRpYSBBaG1lZGFiYWQgTXVtYmFpIE5hZ3B1ciICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVnprbVBQSlFOQXFmNVB3R3RwQjhkYWl0ckYtcXdmX3hXWVNBRlk5aGRSd3BrTUxxNlREcVZMNlFPM05hLTltbHNBaGsxUG5zTTJiaWN6YXAtOVBzSTZyT2hlQ1NSQmxTT09MZHJSZGc1RHlVEgQaAggAGocDEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA4QIIABAAGAAgACoOCgd3ZWF0aGVyFXbLhEAygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWemttUFBKUU5BcWY1UHdHdHBCOGRhaXRyRi1xd2ZfeFdZU0FGWTloZFJ3cGtNTHE2VERxVkw2UU8zTmEtOW1sc0FoazFQbnNNMmJpY3phcC05UHNJNnJPaGVDU1JCbFNPT0xkclJkZzVEeVU6ITxiPldlYXRoZXI8L2I-IEZvcmVjYXN0IGZvciBJbmRpYUKfAVdlYXRoZXJDaXR5IHByb3ZpZGVzIDxiPmFjY3VyYXRlIGxvY2FsIHdlYXRoZXIgZm9yZWNhc3RzPC9iPiBhbmQgY29uZGl0aW9ucyBmb3IgY2l0aWVzIGFyb3VuZCB0aGUgd29ybGQgLi4uIFdlYXRoZXIgRm9yZWNhc3RzIGZvciBJbmRpYSBBaG1lZGFiYWQgTXVtYmFpIE5hZ3B1ciICEAFIAFgAaAA",
+   "source": "WeatherCity",
+   "read_more_link": "https://weathercity.com/in#:~:text=Weather%20Forecasts%20for%20India,Ahmedabad%20Mumbai%20Nagpur"
+  },
+  {
+   "position": 4,
+   "title": "Jaipur, Rajasthan, India Weather Forecast",
+   "link": "https://www.msn.com/en-my/weather/forecast/in-Jaipur,Rajasthan",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVu386rccLDiLBDg2DrzHQ5VNY7MVaZPXSpB6bwOBXW3xGnjFcjBbTQ4hzkm6kwgh98zlC6jWwJlRcuLPlUXD0Pyi80mmSjTWc4iGHHKYu98kocdqBa9lbU_DcUCWJ3lMr4j-myXm9-6q-PryVHKPNSflAL5Y&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://www.msn.com › en-my › in-Jaipur,Rajasthan",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp",
+   "snippet": "Current weather 5:30 AM Partly sunny 32°C Feels Like 33° Partly sunny 27°, Clear. Precipitation -- 34° 26° today Precipitation 0% 36° 23° Sunday. No ...",
+   "snippet_highlighted_words": [
+    "weather"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Current weather 5:30 AM Partly sunny 32°C Feels Like 33° Partly sunny 27°, Clear. Precipitation -- 34° 26° today Precipitation 0% 36° 23° Sunday. No ...",
+     "source_info_link": "https://www.msn.com/en-my/weather/forecast/in-Jaipur,Rajasthan",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnUzODZyY2NMRGlMQkRnMkRyekhRNVZOWTdNVmFaUFhTcEI2YndPQlhXM3hHbmpGY2pCYlRRNGh6a202a3dnaDk4emxDNmpXd0psUmN1TFBsVVhEMFB5aTgwbW1TalRXYzRpR0hIS1l1OThrb2NkcUJhOWxiVV9EY1VDV0ozbE1yNGotbXlYbTktNnEtUHJ5VkhLUE5TZmxBTDVZEgQaAggAGtYDEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLIDCAAQABgAIAAqDgoHd2VhdGhlchXOFZxAMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnUzODZyY2NMRGlMQkRnMkRyekhRNVZOWTdNVmFaUFhTcEI2YndPQlhXM3hHbmpGY2pCYlRRNGh6a202a3dnaDk4emxDNmpXd0psUmN1TFBsVVhEMFB5aTgwbW1TalRXYzRpR0hIS1l1OThrb2NkcUJhOWxiVV9EY1VDV0ozbE1yNGotbXlYbTktNnEtUHJ5VkhLUE5TZmxBTDVZOjZKYWlwdXIsIFJhamFzdGhhbiwgSW5kaWEgPGI-V2VhdGhlcjwvYj4gRm9yZWNhc3QgLSBNU05CqwFDdXJyZW50IDxiPndlYXRoZXI8L2I-IDU6MzAgQU0gUGFydGx5IHN1bm55IDMywrBDIEZlZWxzIExpa2UgMzPCsCBQYXJ0bHkgc3VubnkgMjfCsCwgQ2xlYXIuIFByZWNpcGl0YXRpb24gLS0gMzTCsCAyNsKwIHRvZGF5IFByZWNpcGl0YXRpb24gMCUgMzbCsCAyM8KwIFN1bmRheS4gTm8mbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnUzODZyY2NMRGlMQkRnMkRyekhRNVZOWTdNVmFaUFhTcEI2YndPQlhXM3hHbmpGY2pCYlRRNGh6a202a3dnaDk4emxDNmpXd0psUmN1TFBsVVhEMFB5aTgwbW1TalRXYzRpR0hIS1l1OThrb2NkcUJhOWxiVV9EY1VDV0ozbE1yNGotbXlYbTktNnEtUHJ5VkhLUE5TZmxBTDVZEgQaAggAGtYDEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLIDCAAQABgAIAAqDgoHd2VhdGhlchXOFZxAMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnUzODZyY2NMRGlMQkRnMkRyekhRNVZOWTdNVmFaUFhTcEI2YndPQlhXM3hHbmpGY2pCYlRRNGh6a202a3dnaDk4emxDNmpXd0psUmN1TFBsVVhEMFB5aTgwbW1TalRXYzRpR0hIS1l1OThrb2NkcUJhOWxiVV9EY1VDV0ozbE1yNGotbXlYbTktNnEtUHJ5VkhLUE5TZmxBTDVZOjZKYWlwdXIsIFJhamFzdGhhbiwgSW5kaWEgPGI-V2VhdGhlcjwvYj4gRm9yZWNhc3QgLSBNU05CqwFDdXJyZW50IDxiPndlYXRoZXI8L2I-IDU6MzAgQU0gUGFydGx5IHN1bm55IDMywrBDIEZlZWxzIExpa2UgMzPCsCBQYXJ0bHkgc3VubnkgMjfCsCwgQ2xlYXIuIFByZWNpcGl0YXRpb24gLS0gMzTCsCAyNsKwIHRvZGF5IFByZWNpcGl0YXRpb24gMCUgMzbCsCAyM8KwIFN1bmRheS4gTm8mbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "MSN"
+  },
+  {
+   "position": 5,
+   "title": "Warangal, Telangana, India Weather Forecast",
+   "link": "https://www.msn.com/en-us/weather/forecast/in-Warangal,TG",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVJQ_SBzeafZ9owAbfyHULMYbn-eLjwDpA5bn0YiX9vRCJv4IY9ZKBtAEcADCfr5GiQNmuPKhyCWaClkG3f_2Dm0cemQ7igeSr2tGkn1T0OB-2SmCC6yVWikLUTI6QHjjNLUtIWCAHjt3awTPFsjao&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://www.msn.com › en-us › forecast › in-Warangal,TG",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp",
+   "snippet": "Current weather 5:30 AM Partly cloudy 79°F Feels Like 81° clear. No precipitation for at least 2 hours.",
+   "snippet_highlighted_words": [
+    "Current weather 5:30 AM Partly cloudy 79°F"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Current weather 5:30 AM Partly cloudy 79°F Feels Like 81° clear. No precipitation for at least 2 hours.",
+     "source_info_link": "https://www.msn.com/en-us/weather/forecast/in-Warangal,TG",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkpRX1NCemVhZlo5b3dBYmZ5SFVMTVlibi1lTGp3RHBBNWJuMFlpWDl2UkNKdjRJWTlaS0J0QUVjQURDZnI1R2lRTm11UEtoeUNXYUNsa0czZl8yRG0wY2VtUTdpZ2VTcjJ0R2tuMVQwT0ItMlNtQ0M2eVZXaWtMVVRJNlFIampOTFV0SVdDQUhqdDNhd1RQRnNqYW8SBBoCCAAalQMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA8QIIABAAGAAgACoOCgd3ZWF0aGVyFawRp0AyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWSlFfU0J6ZWFmWjlvd0FiZnlIVUxNWWJuLWVMandEcEE1Ym4wWWlYOXZSQ0p2NElZOVpLQnRBRWNBRENmcjVHaVFObXVQS2h5Q1dhQ2xrRzNmXzJEbTBjZW1RN2lnZVNyMnRHa24xVDBPQi0yU21DQzZ5Vldpa0xVVEk2UUhqak5MVXRJV0NBSGp0M2F3VFBGc2phbzo4V2FyYW5nYWwsIFRlbGFuZ2FuYSwgSW5kaWEgPGI-V2VhdGhlcjwvYj4gRm9yZWNhc3QgLSBNU05CcDxiPkN1cnJlbnQgd2VhdGhlciA1OjMwIEFNIFBhcnRseSBjbG91ZHkgNznCsEY8L2I-IEZlZWxzIExpa2UgODHCsCBjbGVhci4gTm8gcHJlY2lwaXRhdGlvbiBmb3IgYXQgbGVhc3QgMiBob3Vycy4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkpRX1NCemVhZlo5b3dBYmZ5SFVMTVlibi1lTGp3RHBBNWJuMFlpWDl2UkNKdjRJWTlaS0J0QUVjQURDZnI1R2lRTm11UEtoeUNXYUNsa0czZl8yRG0wY2VtUTdpZ2VTcjJ0R2tuMVQwT0ItMlNtQ0M2eVZXaWtMVVRJNlFIampOTFV0SVdDQUhqdDNhd1RQRnNqYW8SBBoCCAAalQMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA8QIIABAAGAAgACoOCgd3ZWF0aGVyFawRp0AyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWSlFfU0J6ZWFmWjlvd0FiZnlIVUxNWWJuLWVMandEcEE1Ym4wWWlYOXZSQ0p2NElZOVpLQnRBRWNBRENmcjVHaVFObXVQS2h5Q1dhQ2xrRzNmXzJEbTBjZW1RN2lnZVNyMnRHa24xVDBPQi0yU21DQzZ5Vldpa0xVVEk2UUhqak5MVXRJV0NBSGp0M2F3VFBGc2phbzo4V2FyYW5nYWwsIFRlbGFuZ2FuYSwgSW5kaWEgPGI-V2VhdGhlcjwvYj4gRm9yZWNhc3QgLSBNU05CcDxiPkN1cnJlbnQgd2VhdGhlciA1OjMwIEFNIFBhcnRseSBjbG91ZHkgNznCsEY8L2I-IEZlZWxzIExpa2UgODHCsCBjbGVhci4gTm8gcHJlY2lwaXRhdGlvbiBmb3IgYXQgbGVhc3QgMiBob3Vycy4iAhABSABYAGgA",
+   "source": "MSN"
+  },
+  {
+   "position": 6,
+   "title": "Howrah, West Bengal Weather Forecast",
+   "link": "https://www.msn.com/en-in/weather/forecast/in-Howrah,WB",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVI8iZLHhXie_heWpkuntZVY7iKxquPxhgaAf4AZNMEI9WYvfv7rgctEXSqCVUsRpwFTTp41t44NRmXumReDhtK96yPmczKc532mi8ZxFrhmJjaCvwtn7AWkVWzYRPp77XoNCkuXqlQx2b8ZaNew&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQFnoECD4QAQ&uoh=1",
+   "displayed_link": "https://www.msn.com › en-in › forecast › in-Howrah,WB",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp",
+   "snippet": "Current weather 5:30 AM Sunny 25°C Feels Like 28° Sunny Air quality 286 Wind 0 km/h Humidity 89% Visibility 1.5 km Pressure 1013 mb Dew point 24° Today",
+   "snippet_highlighted_words": [
+    "Current weather 5:30 AM Sunny 25°C Feels Like 28°"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Current weather 5:30 AM Sunny 25°C Feels Like 28° Sunny Air quality 286 Wind 0 km/h Humidity 89% Visibility 1.5 km Pressure 1013 mb Dew point 24° Today",
+     "source_info_link": "https://www.msn.com/en-in/weather/forecast/in-Howrah,WB",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVkk4aVpMSGhYaWVfaGVXcGt1bnRaVlk3aUt4cXVQeGhnYUFmNEFaTk1FSTlXWXZmdjdyZ2N0RVhTcUNWVXNScHdGVFRwNDF0NDROUm1YdW1SZURodEs5NnlQbWN6S2M1MzJtaThaeEZyaG1KamFDdnd0bjdBV2tWV3pZUlBwNzdYb05Da3VYcWxReDJiOFphTmV3EgQaAggAGr4DEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJoDCAAQABgAIAAqDgoHd2VhdGhlchXWwqZAMqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVkk4aVpMSGhYaWVfaGVXcGt1bnRaVlk3aUt4cXVQeGhnYUFmNEFaTk1FSTlXWXZmdjdyZ2N0RVhTcUNWVXNScHdGVFRwNDF0NDROUm1YdW1SZURodEs5NnlQbWN6S2M1MzJtaThaeEZyaG1KamFDdnd0bjdBV2tWV3pZUlBwNzdYb05Da3VYcWxReDJiOFphTmV3OjFIb3dyYWgsIFdlc3QgQmVuZ2FsIDxiPldlYXRoZXI8L2I-IEZvcmVjYXN0IC0gTVNOQqEBPGI-Q3VycmVudCB3ZWF0aGVyIDU6MzAgQU0gU3VubnkgMjXCsEMgRmVlbHMgTGlrZSAyOMKwPC9iPiBTdW5ueSBBaXIgcXVhbGl0eSAyODYgV2luZCAwIGttL2ggSHVtaWRpdHkgODklIFZpc2liaWxpdHkgMS41IGttIFByZXNzdXJlIDEwMTMgbWIgRGV3IHBvaW50IDI0wrAgVG9kYXkiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVkk4aVpMSGhYaWVfaGVXcGt1bnRaVlk3aUt4cXVQeGhnYUFmNEFaTk1FSTlXWXZmdjdyZ2N0RVhTcUNWVXNScHdGVFRwNDF0NDROUm1YdW1SZURodEs5NnlQbWN6S2M1MzJtaThaeEZyaG1KamFDdnd0bjdBV2tWV3pZUlBwNzdYb05Da3VYcWxReDJiOFphTmV3EgQaAggAGr4DEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJoDCAAQABgAIAAqDgoHd2VhdGhlchXWwqZAMqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVkk4aVpMSGhYaWVfaGVXcGt1bnRaVlk3aUt4cXVQeGhnYUFmNEFaTk1FSTlXWXZmdjdyZ2N0RVhTcUNWVXNScHdGVFRwNDF0NDROUm1YdW1SZURodEs5NnlQbWN6S2M1MzJtaThaeEZyaG1KamFDdnd0bjdBV2tWV3pZUlBwNzdYb05Da3VYcWxReDJiOFphTmV3OjFIb3dyYWgsIFdlc3QgQmVuZ2FsIDxiPldlYXRoZXI8L2I-IEZvcmVjYXN0IC0gTVNOQqEBPGI-Q3VycmVudCB3ZWF0aGVyIDU6MzAgQU0gU3VubnkgMjXCsEMgRmVlbHMgTGlrZSAyOMKwPC9iPiBTdW5ueSBBaXIgcXVhbGl0eSAyODYgV2luZCAwIGttL2ggSHVtaWRpdHkgODklIFZpc2liaWxpdHkgMS41IGttIFByZXNzdXJlIDEwMTMgbWIgRGV3IHBvaW50IDI0wrAgVG9kYXkiAhABSABYAGgA",
+   "source": "MSN"
+  },
+  {
+   "position": 7,
+   "title": "నేటి వాతావరణ నివేదిక",
+   "link": "https://telugu.oneindia.com/weather/?user_location",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVneNpOY9slqnWVzR9AWhGckOglY09ALqWpMHwWn6lK0mVz_PbMeoQNdyTvt3mHIbzPC6tRovNos4JfHJR0yHdLVEpPkdT3U9sf18XiP1KSRhVrSsunMReWruEDc-bytFYqQnFh7K7gf4&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://telugu.oneindia.com › weat...",
+   "favicon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABQBgCdASocABwAPtE-tFooIigoFAEAGglAGM-7gYvFm2-jd-6HHvnqGmojRcN7_uv2hl5tN96tMDgxAAD-9gnTHXrrURATtKpNuURcLxS_NzEwfA8AULYvMbtubwADVt8S9DbR996NGy_LUU1iazDxg_5JI067kgLctFO7oSThXnv5JFWKhU_PiPTHiG_TrREbXPdVkDkjj71Q9hRuhW980DkVNLjOykH2dNCBuBeJDAvSRZaB45Vn5H6CQfbUnNUhP_qW_09oeu_s5qOhDQTlSu8Q44XxftR4e5Iovf5_ZzCzwfnrI-RlX_809zr_2bXP6oJ30O6oiWyP73ioNI-s2nztIkXkK3wDi1k-KdFopwmOCylkHTLaWuvhtq0ocPQAAA.webp",
+   "snippet": "నేటి వాతావరణ నివేదిక ; Hyderabad · 29° ; Warangal · 24° ; Adilabad · 24° ; Ramagundam · 31° ; Visakhapatnam · 29°.",
+   "snippet_highlighted_words": [
+    "నేటి వాతావరణ నివేదిక"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "నేటి వాతావరణ నివేదిక ; Hyderabad · 29° ; Warangal · 24° ; Adilabad · 24° ; Ramagundam · 31° ; Visakhapatnam · 29°.",
+     "source_info_link": "https://telugu.oneindia.com/weather/?user_location",
+     "icon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABQBgCdASocABwAPtE-tFooIigoFAEAGglAGM-7gYvFm2-jd-6HHvnqGmojRcN7_uv2hl5tN96tMDgxAAD-9gnTHXrrURATtKpNuURcLxS_NzEwfA8AULYvMbtubwADVt8S9DbR996NGy_LUU1iazDxg_5JI067kgLctFO7oSThXnv5JFWKhU_PiPTHiG_TrREbXPdVkDkjj71Q9hRuhW980DkVNLjOykH2dNCBuBeJDAvSRZaB45Vn5H6CQfbUnNUhP_qW_09oeu_s5qOhDQTlSu8Q44XxftR4e5Iovf5_ZzCzwfnrI-RlX_809zr_2bXP6oJ30O6oiWyP73ioNI-s2nztIkXkK3wDi1k-KdFopwmOCylkHTLaWuvhtq0ocPQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVm5lTnBPWTlzbHFuV1Z6UjlBV2hHY2tPZ2xZMDlBTHFXcE1Id1duNmxLMG1Wel9QYk1lb1FOZHlUdnQzbUhJYnpQQzZ0Um92Tm9zNEpmSEpSMHlIZExWRXBQa2RUM1U5c2YxOFhpUDFLU1JoVnJTc3VuTVJlV3J1RURjLWJ5dEZZcVFuRmg3SzdnZjQSBBoCCAAa9gMSAggAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkDQAwgAEAAYACAAKg4KB3dlYXRoZXIVq6oUQDKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZuZU5wT1k5c2xxbldWelI5QVdoR2NrT2dsWTA5QUxxV3BNSHdXbjZsSzBtVnpfUGJNZW9RTmR5VHZ0M21ISWJ6UEM2dFJvdk5vczRKZkhKUjB5SGRMVkVwUGtkVDNVOXNmMThYaVAxS1NSaFZyU3N1bk1SZVdydUVEYy1ieXRGWXFRbkZoN0s3Z2Y0OkrgsKjgsYfgsJ_gsL8g4LC14LC-4LCk4LC-4LC14LCw4LCjIOCwqOCwv-CwteCxh-CwpuCwv-CwlSAtIE9uZWluZGlhIFRlbHVndULFATxiPuCwqOCxh-Cwn-CwvyDgsLXgsL7gsKTgsL7gsLXgsLDgsKMg4LCo4LC_4LC14LGH4LCm4LC_4LCVPC9iPiA7IEh5ZGVyYWJhZCAmbWlkZG90OyAyOcKwIDsgV2FyYW5nYWwgJm1pZGRvdDsgMjTCsCA7IEFkaWxhYmFkICZtaWRkb3Q7IDI0wrAgOyBSYW1hZ3VuZGFtICZtaWRkb3Q7IDMxwrAgOyBWaXNha2hhcGF0bmFtICZtaWRkb3Q7IDI5wrAuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVm5lTnBPWTlzbHFuV1Z6UjlBV2hHY2tPZ2xZMDlBTHFXcE1Id1duNmxLMG1Wel9QYk1lb1FOZHlUdnQzbUhJYnpQQzZ0Um92Tm9zNEpmSEpSMHlIZExWRXBQa2RUM1U5c2YxOFhpUDFLU1JoVnJTc3VuTVJlV3J1RURjLWJ5dEZZcVFuRmg3SzdnZjQSBBoCCAAa9gMSAggAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkDQAwgAEAAYACAAKg4KB3dlYXRoZXIVq6oUQDKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZuZU5wT1k5c2xxbldWelI5QVdoR2NrT2dsWTA5QUxxV3BNSHdXbjZsSzBtVnpfUGJNZW9RTmR5VHZ0M21ISWJ6UEM2dFJvdk5vczRKZkhKUjB5SGRMVkVwUGtkVDNVOXNmMThYaVAxS1NSaFZyU3N1bk1SZVdydUVEYy1ieXRGWXFRbkZoN0s3Z2Y0OkrgsKjgsYfgsJ_gsL8g4LC14LC-4LCk4LC-4LC14LCw4LCjIOCwqOCwv-CwteCxh-CwpuCwv-CwlSAtIE9uZWluZGlhIFRlbHVndULFATxiPuCwqOCxh-Cwn-CwvyDgsLXgsL7gsKTgsL7gsLXgsLDgsKMg4LCo4LC_4LC14LGH4LCm4LC_4LCVPC9iPiA7IEh5ZGVyYWJhZCAmbWlkZG90OyAyOcKwIDsgV2FyYW5nYWwgJm1pZGRvdDsgMjTCsCA7IEFkaWxhYmFkICZtaWRkb3Q7IDI0wrAgOyBSYW1hZ3VuZGFtICZtaWRkb3Q7IDMxwrAgOyBWaXNha2hhcGF0bmFtICZtaWRkb3Q7IDI5wrAuIgIQAUgAWABoAA",
+   "source": "Oneindia Telugu",
+   "read_more_link": "https://telugu.oneindia.com/weather/?user_location#:~:text=%E0%B0%A8%E0%B1%87%E0%B0%9F%E0%B0%BF%20%E0%B0%B5%E0%B0%BE%E0%B0%A4%E0%B0%BE%E0%B0%B5%E0%B0%B0%E0%B0%A3%20%E0%B0%A8%E0%B0%BF%E0%B0%B5%E0%B1%87%E0%B0%A6%E0%B0%BF%E0%B0%95&text=Hyderabad&text=29%C2%B0C&text=Warangal&text=24%C2%B0C&text=Adilabad&text=24%C2%B0C&text=Ramagundam&text=31%C2%B0C&text=Visakhapatnam&text=29%C2%B0C"
+  },
+  {
+   "position": 8,
+   "title": "Bellampally, India Hourly Weather Forecast",
+   "link": "https://www.wunderground.com/hourly/in/bellampally",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVA8vT7OVX64aIgJif7eY8ZCzWfcztcN3PTNmwJehcZF3nsZRdu8E0s_v_gOuSlBVrXOmk-G3e-q344bBXvSIHhRVxwMAoT1177tTsza7c5cF71qEPVWF3uzFzLjTB6FKSzw-YssRGbN8&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://www.wunderground.com › hourly › bellampally",
+   "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAABQCACdASogACAAPrUurVanIacnG_DgFolsAL9qhID6wKEBtgLtV9ADpXf-BWpZEDsq7AuEGrhjN5SVZEAp219PIwBuZ1MCIaDAgAAA_vogpgCxVUDBzS0swFC9KpMv3b5omBzeq8fAdBV0HrVCJH2NUlPYIASgJkgS2dv6c1R0uhMg3cY38MGnMokuuYdoM0RDgYqL00-fz8h61ekC3P3_qmEvVooh62hxPqKS7i10BHw7d12b6-vog5CEVckwx7jzmd0b0fgOCzpej7aKII_lXCqkyuLr6hwoLWCQfrBcPK1HwSrG7T1I43k-z0LmUNHJtF__4hHLX-0WLNTBevwaILVSia_WuEJ-CuxLj3GhtcNSxiufWRifJap2ju57k5gt-ZNV_TMQhDMJXBKZ1YzEkPYAAAAA.webp",
+   "snippet": "Partly cloudy. Hazy. High 93F. Winds NE at 5 to 10 mph. Low near 75F. Winds light and variable.",
+   "snippet_highlighted_words": [
+    "Partly cloudy. Hazy. High 93F"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Partly cloudy. Hazy. High 93F. Winds NE at 5 to 10 mph. Low near 75F. Winds light and variable.",
+     "source_info_link": "https://www.wunderground.com/hourly/in/bellampally",
+     "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAABQCACdASogACAAPrUurVanIacnG_DgFolsAL9qhID6wKEBtgLtV9ADpXf-BWpZEDsq7AuEGrhjN5SVZEAp219PIwBuZ1MCIaDAgAAA_vogpgCxVUDBzS0swFC9KpMv3b5omBzeq8fAdBV0HrVCJH2NUlPYIASgJkgS2dv6c1R0uhMg3cY38MGnMokuuYdoM0RDgYqL00-fz8h61ekC3P3_qmEvVooh62hxPqKS7i10BHw7d12b6-vog5CEVckwx7jzmd0b0fgOCzpej7aKII_lXCqkyuLr6hwoLWCQfrBcPK1HwSrG7T1I43k-z0LmUNHJtF__4hHLX-0WLNTBevwaILVSia_WuEJ-CuxLj3GhtcNSxiufWRifJap2ju57k5gt-ZNV_TMQhDMJXBKZ1YzEkPYAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVkE4dlQ3T1ZYNjRhSWdKaWY3ZVk4WkN6V2ZjenRjTjNQVE5td0plaGNaRjNuc1pSZHU4RTBzX3ZfZ091U2xCVnJYT21rLUczZS1xMzQ0YkJYdlNJSGhSVnh3TUFvVDExNzd0VHN6YTdjNWNGNzFxRVBWV0YzdXpGekxqVEI2RktTenctWXNzUkdiTjgSBBoCCAAa-wISABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA1wIIABAAGAAgACoOCgd3ZWF0aGVyFTRpl0AyoQEvZ290bz91cmw9Q0FFU2JRSHJPekFWQTh2VDdPVlg2NGFJZ0ppZjdlWThaQ3pXZmN6dGNOM1BUTm13SmVoY1pGM25zWlJkdThFMHNfdl9nT3VTbEJWclhPbWstRzNlLXEzNDRiQlh2U0lIaFJWeHdNQW9UMTE3N3RUc3phN2M1Y0Y3MXFFUFZXRjN1ekZ6TGpUQjZGS1N6dy1Zc3NSR2JOODoxQmVsbGFtcGFsbHksIEluZGlhIEhvdXJseSA8Yj5XZWF0aGVyPC9iPiBGb3JlY2FzdEJmPGI-UGFydGx5IGNsb3VkeS4gSGF6eS4gSGlnaCA5M0Y8L2I-LiBXaW5kcyBORSBhdCA1IHRvIDEwIG1waC4gTG93IG5lYXIgNzVGLiBXaW5kcyBsaWdodCBhbmQgdmFyaWFibGUuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVkE4dlQ3T1ZYNjRhSWdKaWY3ZVk4WkN6V2ZjenRjTjNQVE5td0plaGNaRjNuc1pSZHU4RTBzX3ZfZ091U2xCVnJYT21rLUczZS1xMzQ0YkJYdlNJSGhSVnh3TUFvVDExNzd0VHN6YTdjNWNGNzFxRVBWV0YzdXpGekxqVEI2RktTenctWXNzUkdiTjgSBBoCCAAa-wISABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA1wIIABAAGAAgACoOCgd3ZWF0aGVyFTRpl0AyoQEvZ290bz91cmw9Q0FFU2JRSHJPekFWQTh2VDdPVlg2NGFJZ0ppZjdlWThaQ3pXZmN6dGNOM1BUTm13SmVoY1pGM25zWlJkdThFMHNfdl9nT3VTbEJWclhPbWstRzNlLXEzNDRiQlh2U0lIaFJWeHdNQW9UMTE3N3RUc3phN2M1Y0Y3MXFFUFZXRjN1ekZ6TGpUQjZGS1N6dy1Zc3NSR2JOODoxQmVsbGFtcGFsbHksIEluZGlhIEhvdXJseSA8Yj5XZWF0aGVyPC9iPiBGb3JlY2FzdEJmPGI-UGFydGx5IGNsb3VkeS4gSGF6eS4gSGlnaCA5M0Y8L2I-LiBXaW5kcyBORSBhdCA1IHRvIDEwIG1waC4gTG93IG5lYXIgNzVGLiBXaW5kcyBsaWdodCBhbmQgdmFyaWFibGUuIgIQAUgAWABoAA",
+   "source": "Weather Underground"
+  },
+  {
+   "position": 9,
+   "title": "Secunderabad, Hyderabad",
+   "link": "https://www.skymetweather.com/forecast/weather/india/telangana/hyderabad/secunderabad",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFRQtVNo8Mj49DTAerf-4k8FC0aPaIlQrqqTPiOggT1ba51lg-VW_bzNiQNiMjZ8iem9zo2eveHfnZZwyr_Vm3L6KtvqCiqjjOx85N3Dbt5-x0Wv39Jt9ybDC8Qsy2SwjHsXCV2NMudVMYPwo9OEC0RmjdNXmDIoxBlpbY0xt7e4XXOeB2QSaFI1-uF0&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://www.skymetweather.com › ... › Secunderabad",
+   "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAACQBwCdASocABwAPtEutFooIagoGAEAGglsAIFEMGkH4x9zYUBuAL1hX4GkvZ0GCvotvXMyXj89JocF67R7kCNOtZInJgAA_vYRCHDV8M6Ck4y5Ofhdz9eh1EX-l4ICqoYp6zphJd2i53xxgavuEByFZF__xUeHEjTP0jnrfghINuvtiiZugdH6OLR83_7am7WXDuJy__8mL0pSSZdVTzhFcpwRoovBhmicX99vn1x0vhYQ48y5PVYQ_I0uZDA4xWf5wPvis1v3384hTA8oRkbQHusWw4s84ac7XDPkbUSFw43pWH1naa_8nPYUAkiLwOWklFEXTkNiO4cd_i91XLvZVoYcn7ZynRAvfszR1DzL6r8DfceDf0-ZL63jok0D5zE2aekfZk4659oz2CeplhuuSI0VYRueunUyPHgFwbz8hxKBSSjo3_z_FTpfAAAA.webp",
+   "snippet": "The weather today will start off partly cloudy in the morning with temperatures ranging between 20°C and 32°C, accompanied by humidity levels of 62% to 90%.",
+   "snippet_highlighted_words": [
+    "weather"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The weather today will start off partly cloudy in the morning with temperatures ranging between 20°C and 32°C, accompanied by humidity levels of 62% to 90%.",
+     "source_info_link": "https://www.skymetweather.com/forecast/weather/india/telangana/hyderabad/secunderabad",
+     "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAACQBwCdASocABwAPtEutFooIagoGAEAGglsAIFEMGkH4x9zYUBuAL1hX4GkvZ0GCvotvXMyXj89JocF67R7kCNOtZInJgAA_vYRCHDV8M6Ck4y5Ofhdz9eh1EX-l4ICqoYp6zphJd2i53xxgavuEByFZF__xUeHEjTP0jnrfghINuvtiiZugdH6OLR83_7am7WXDuJy__8mL0pSSZdVTzhFcpwRoovBhmicX99vn1x0vhYQ48y5PVYQ_I0uZDA4xWf5wPvis1v3384hTA8oRkbQHusWw4s84ac7XDPkbUSFw43pWH1naa_8nPYUAkiLwOWklFEXTkNiO4cd_i91XLvZVoYcn7ZynRAvfszR1DzL6r8DfceDf0-ZL63jok0D5zE2aekfZk4659oz2CeplhuuSI0VYRueunUyPHgFwbz8hxKBSSjo3_z_FTpfAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZSUXRWTm84TWo0OURUQWVyZi00azhGQzBhUGFJbFFycXFUUGlPZ2dUMWJhNTFsZy1WV19iek5pUU5pTWpaOGllbTl6bzJldmVIZm5aWnd5cl9WbTNMNkt0dnFDaXFqak94ODVOM0RidDUteDBXdjM5SnQ5eWJEQzhRc3kyU3dqSHNYQ1YyTk11ZFZNWVB3bzlPRUMwUm1qZE5YbURJb3hCbHBiWTB4dDdlNFhYT2VCMlFTYUZJMS11RjASBBoCCAAa4gMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgACoOCgd3ZWF0aGVyFUa-b0Ay0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RlJRdFZObzhNajQ5RFRBZXJmLTRrOEZDMGFQYUlsUXJxcVRQaU9nZ1QxYmE1MWxnLVZXX2J6TmlRTmlNalo4aWVtOXpvMmV2ZUhmblpad3lyX1ZtM0w2S3R2cUNpcWpqT3g4NU4zRGJ0NS14MFd2MzlKdDl5YkRDOFFzeTJTd2pIc1hDVjJOTXVkVk1ZUHdvOU9FQzBSbWpkTlhtRElveEJscGJZMHh0N2U0WFhPZUIyUVNhRkkxLXVGMDooU2VjdW5kZXJhYmFkLCBIeWRlcmFiYWQgLSBTa3ltZXQgV2VhdGhlckKlAVRoZSA8Yj53ZWF0aGVyPC9iPiB0b2RheSB3aWxsIHN0YXJ0IG9mZiBwYXJ0bHkgY2xvdWR5IGluIHRoZSBtb3JuaW5nIHdpdGggdGVtcGVyYXR1cmVzIHJhbmdpbmcgYmV0d2VlbiAyMMKwQyBhbmQgMzLCsEMsIGFjY29tcGFuaWVkIGJ5IGh1bWlkaXR5IGxldmVscyBvZiA2MiUgdG8gOTAlLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZSUXRWTm84TWo0OURUQWVyZi00azhGQzBhUGFJbFFycXFUUGlPZ2dUMWJhNTFsZy1WV19iek5pUU5pTWpaOGllbTl6bzJldmVIZm5aWnd5cl9WbTNMNkt0dnFDaXFqak94ODVOM0RidDUteDBXdjM5SnQ5eWJEQzhRc3kyU3dqSHNYQ1YyTk11ZFZNWVB3bzlPRUMwUm1qZE5YbURJb3hCbHBiWTB4dDdlNFhYT2VCMlFTYUZJMS11RjASBBoCCAAa4gMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgACoOCgd3ZWF0aGVyFUa-b0Ay0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RlJRdFZObzhNajQ5RFRBZXJmLTRrOEZDMGFQYUlsUXJxcVRQaU9nZ1QxYmE1MWxnLVZXX2J6TmlRTmlNalo4aWVtOXpvMmV2ZUhmblpad3lyX1ZtM0w2S3R2cUNpcWpqT3g4NU4zRGJ0NS14MFd2MzlKdDl5YkRDOFFzeTJTd2pIc1hDVjJOTXVkVk1ZUHdvOU9FQzBSbWpkTlhtRElveEJscGJZMHh0N2U0WFhPZUIyUVNhRkkxLXVGMDooU2VjdW5kZXJhYmFkLCBIeWRlcmFiYWQgLSBTa3ltZXQgV2VhdGhlckKlAVRoZSA8Yj53ZWF0aGVyPC9iPiB0b2RheSB3aWxsIHN0YXJ0IG9mZiBwYXJ0bHkgY2xvdWR5IGluIHRoZSBtb3JuaW5nIHdpdGggdGVtcGVyYXR1cmVzIHJhbmdpbmcgYmV0d2VlbiAyMMKwQyBhbmQgMzLCsEMsIGFjY29tcGFuaWVkIGJ5IGh1bWlkaXR5IGxldmVscyBvZiA2MiUgdG8gOTAlLiICEAFIAFgAaAA",
+   "source": "www.skymetweather.com",
+   "read_more_link": "https://www.skymetweather.com/forecast/weather/india/telangana/hyderabad/secunderabad#:~:text=The%20weather%20today%20will%20start,levels%20of%2062%25%20to%2090%25."
+  }
+ ],
+ "local_news": [
+  {
+   "source": "Public TV",
+   "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/u0jF9lmbABIoLojh6PkP0sJwyyRWNiS1WWy3dP2S4k4.jpeg",
+   "title": "ರಾಜ್ಯದ ಹವಾಮಾನ ವರದಿ 10-10-2026",
+   "date": "1 day ago"
+  },
+  {
+   "source": "Kannada News Today",
+   "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/V448uzHAXNSEHI3sZOuraHR0s63NqppsGCuV-7m4eOI.jpeg",
+   "title": "ಕರ್ನಾಟಕ ಹವಾಮಾನ ವರದಿ: ಬೆಂಗಳೂರು, ಮೈಸೂರು ಭಾಗದಲ್ಲಿ ಮೋಡಕವಿದ ವಾತಾವರಣ, ಕರಾವಳಿಯಲ್ಲಿ ಮಳೆ",
+   "date": "12 hours ago"
+  },
+  {
+   "source": "News18 Kannada",
+   "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/ERWd7k1a8zwXOFcIp_rpilwCdlhHX2Jh4VIhTsWh_9o.jpeg",
+   "title": "Karnataka Weather: ಅಕ್ಟೋಬರ್ 9ರಂದು ವರುಣನ ಆರ್ಭಟ ಜೋರು, ನಿಮ್ಮೂರಿನಲ್ಲೂ ಮಳೆ ಬರುತ್ತಾ?",
+   "date": "2 days ago"
+  },
+  {
+   "source": "Kannada News Today",
+   "title": "ಕರ್ನಾಟಕ ಮಳೆ ಮುನ್ಸೂಚನೆ; ಮುಂದಿನ 2 ದಿನ ರಾತ್ರಿ-ಹಗಲು ಮಳೆ! ಬೆಂಗಳೂರು ಮಂದಿಗೂ ಅಲರ್ಟ್",
+   "date": "1 day ago"
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "ರಾಜ್ಯದ ಹವಾಮಾನ ವರದಿ 10-10-2026",
+   "link": "https://publictv.in/karnataka-weather-report-10-10-2026/",
+   "source": "Public TV",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAkFBMVEVHcEzoHSLJAAAAd76_wMYVFjgLd7wAAAshBw4QK0kAb7AAiNcAL2oHd77____k5OcWWpG3uMDrICTlIiZXVmrBx9Gmpq-gHi5fYXUAAibt7fCVl6SdJzcZGjzW3eP29vaurrfNztUmFDQAaqtteZHn2ttCS2KGjZ0ATYSUiZRFUWe1Mj8AQ4D2oqPsERWAbnqRsbbMAAAADXRSTlMAYrWQ_FApVD8_7RJ2xRkFmAAAAJVJREFUGJWVj9kOgkAMRasOAiodOhszg6wC7vr_fyeoiYkvxpObNj25LwX4h-XXvV7AbFzhSDCNcLNi8yAE4o0vNHme611_rWogg5XTxCdRoSuA0eAVr4mVTefRWjiq9t43Ha8tp9yWe8iEuJ1LRKXwkiRJClspZTZgrpk5vISQIlPoEIv00zhxZ8xbxE-iOJoy8vvDB_g0DH5FNbyJAAAAAElFTkSuQmCC.png",
+   "date": "1 day ago",
+   "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/GLJzY5LMNnV8jTd2gqg7DQea-sRE11Cap6-2W78TTdE.jpeg"
+  },
+  {
+   "title": "ಕರ್ನಾಟಕ ಹವಾಮಾನ ವರದಿ: ಬೆಂಗಳೂರು, ಮೈಸೂರು ಭಾಗದಲ್ಲಿ ಮೋಡಕವಿದ ವಾತಾವರಣ, ಕರಾವಳಿಯಲ್ಲಿ ಮಳೆ",
+   "link": "https://kannadanews.today/karnataka-news/karnataka-weather-rainfall-eases-dry-conditions-continue/",
+   "source": "Kannada News Today",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA_1BMVEVHcEwAAAAAAAAAAQAAAAABAAAAAAABAAEAAAAVBgsOAAgAAQAAAgD__4UQLT8AAADu_1E7Y3_8_8Rnak8AAAD___8AIT8ADxcAAAD___-zr7LZ2dnZhIpfX1cIK0QPEAmTk5OwSFYLBQNLFyV3eW721N_9t7-hFCn8_uGOkm3FxKFoIzaWlpitLURgZ5Nyq9UAHjtTUFLh4eFkBhekzOvI3v1vSWO3vt71o6vFwcjHWF8WDAyAWGFfmb2ZmZkxMDKvs4_1-M9nZ2SDsdfIcnO52vwlO2mWwN2FAADnjplAPWttjbfzqrK21veLNlU4OS38-_z0pq2UXGTOdoD_w86ZH1Y6AAAAGHRSTlMAMlZLje0hP7lrm6bLT1XhOETc9fcMyNGciZQ1AAAA2klEQVQYlTWP1VIDQRBFO8lqcL8zO-tG3BUJgQR3-P9vYWZTnKe-p-pWdxMpTM2ytNLJ4T5tog4smgmOzneKbEPSYw6Spa1yxb1uBgGXolaHKcVx0HcYc5xb3LjQicrwI3z24fuoyapJW-CsIHCXPlClbSSMAzPW-6gjurCk4Erw9HvwGLYalqy4qZi38nwunrL0UqMK0MjEV_b7OhWrMJZ7dQym4icM38fttrenDkecj2eTyWi07ngldWo5il_ehp3hw93V7uY54-z-2fO63dMD-sewq5ptFOMfqaQbdyVxI9IAAAAASUVORK5CYII.png",
+   "date": "12 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/aGB8uSwO8LvCvZs4tt1TyWx54j5-FNjzOjI-_jXQwBw.jpeg"
+  },
+  {
+   "title": "Karnataka Weather: ಅಕ್ಟೋಬರ್ 9ರಂದು ವರುಣನ ಆರ್ಭಟ ಜೋರು, ನಿಮ್ಮೂರಿನಲ್ಲೂ ಮಳೆ ಬರುತ್ತಾ?",
+   "link": "https://kannada.news18.com/photogallery/bengaluru-urban/heavy-rains-continue-in-karnataka-forecast-for-various-districts-svl-local18-ws-kl-2503795.html",
+   "source": "News18 Kannada",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAXVBMVEXsICf____rAADsHSTsJi3sFR75zM3rAAj61NX96erxbG_4vb7sEhvrAA7sGiLvS0_rCRX2pqjyfoHuRkr84eLwV1v_-Pn6z9D0mpzxcnXwZmr-8vP0lpjyeXzzhIYIORdPAAAAdUlEQVQYlY2OwRKDIBBDN2sBQa2oSKW1_v9nCtOujjffLZnsJkQHT7rS9f6i_YCxFVFl1ITAoh-FGfFvVIQf2kii1tritYgmldw7YEtJSUGOxwh85KlfsTI3cFLLAUsxmu7chHyB7zHMbLW12kkg0zKzUXSPHTY1BBj_tBXEAAAAAElFTkSuQmCC.png",
+   "date": "2 days ago",
+   "thumbnail": "https://serpapi.com/searches/6aca56aa27c2b0971939e93d/images/SA_AtKDtVfw_hto975iNtWJadZP5dZtfMuew5Hzq04g.jpeg"
+  },
+  {
+   "title": "ಕರ್ನಾಟಕ ಮಳೆ ಮುನ್ಸೂಚನೆ; ಮುಂದಿನ 2 ದಿನ ರಾತ್ರಿ-ಹಗಲು ಮಳೆ! ಬೆಂಗಳೂರು ಮಂದಿಗೂ ಅಲರ್ಟ್",
+   "link": "https://kannadanews.today/karnataka-news/karnataka-weather-heavy-rain-alert-for-5-districts/",
+   "source": "Kannada News Today",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA_1BMVEVHcEwAAAAAAAAAAQAAAAABAAAAAAABAAEAAAAVBgsOAAgAAQAAAgD__4UQLT8AAADu_1E7Y3_8_8Rnak8AAAD___8AIT8ADxcAAAD___-zr7LZ2dnZhIpfX1cIK0QPEAmTk5OwSFYLBQNLFyV3eW721N_9t7-hFCn8_uGOkm3FxKFoIzaWlpitLURgZ5Nyq9UAHjtTUFLh4eFkBhekzOvI3v1vSWO3vt71o6vFwcjHWF8WDAyAWGFfmb2ZmZkxMDKvs4_1-M9nZ2SDsdfIcnO52vwlO2mWwN2FAADnjplAPWttjbfzqrK21veLNlU4OS38-_z0pq2UXGTOdoD_w86ZH1Y6AAAAGHRSTlMAMlZLje0hP7lrm6bLT1XhOETc9fcMyNGciZQ1AAAA2klEQVQYlTWP1VIDQRBFO8lqcL8zO-tG3BUJgQR3-P9vYWZTnKe-p-pWdxMpTM2ytNLJ4T5tog4smgmOzneKbEPSYw6Spa1yxb1uBgGXolaHKcVx0HcYc5xb3LjQicrwI3z24fuoyapJW-CsIHCXPlClbSSMAzPW-6gjurCk4Erw9HvwGLYalqy4qZi38nwunrL0UqMK0MjEV_b7OhWrMJZ7dQym4icM38fttrenDkecj2eTyWi07ngldWo5il_ehp3hw93V7uY54-z-2fO63dMD-sewq5ptFOMfqaQbdyVxI9IAAAAASUVORK5CYII.png",
+   "date": "1 day ago"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Weather whitefield",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&q=Weather+whitefield&sa=X&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ1QJ6BAg5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Weather+whitefield"
+  },
+  {
+   "block_position": 1,
+   "query": "Bangalore weather",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&q=Bangalore+weather&sa=X&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ1QJ6BAhEEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Bangalore+weather"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather please",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&q=Weather+please&sa=X&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ1QJ6BAhDEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Weather+please"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather 2morrow",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&q=Weather+2morrow&sa=X&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ1QJ6BAhCEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Weather+2morrow"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather in 20 days",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&q=Weather+in+20+days&sa=X&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ1QJ6BAhAEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Weather+in+20+days"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather tracking",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&q=Weather+tracking&sa=X&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ1QJ6BAg_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Weather+tracking"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather AccuWeather",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&q=Weather+AccuWeather&sa=X&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ1QJ6BAg7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Weather+AccuWeather"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather for 10 days",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&q=Weather+for+10+days&sa=X&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Weather+for+10+days"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=weather&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&ei=rFbKauWTNvzP1sQP5P_awQY&start=10&sa=N&sstk=AS6-VmL7sExRxjVuefCVvCqnJq7s5-juWKBDtSsZsv1sTVoLWhUmmWd9cuMfHTDYoGMAKwnuSmOMCsL1CFgrmTzl7IIOAvn1Hz8Y5g&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ8NMDegQINBAO",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=weather&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&ei=rFbKauWTNvzP1sQP5P_awQY&start=10&sa=N&sstk=AS6-VmL7sExRxjVuefCVvCqnJq7s5-juWKBDtSsZsv1sTVoLWhUmmWd9cuMfHTDYoGMAKwnuSmOMCsL1CFgrmTzl7IIOAvn1Hz8Y5g&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ8tMDegQINBAE",
+   "3": "https://www.google.co.in/search?q=weather&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&ei=rFbKauWTNvzP1sQP5P_awQY&start=20&sa=N&sstk=AS6-VmL7sExRxjVuefCVvCqnJq7s5-juWKBDtSsZsv1sTVoLWhUmmWd9cuMfHTDYoGMAKwnuSmOMCsL1CFgrmTzl7IIOAvn1Hz8Y5g&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ8tMDegQINBAG",
+   "4": "https://www.google.co.in/search?q=weather&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&ei=rFbKauWTNvzP1sQP5P_awQY&start=30&sa=N&sstk=AS6-VmL7sExRxjVuefCVvCqnJq7s5-juWKBDtSsZsv1sTVoLWhUmmWd9cuMfHTDYoGMAKwnuSmOMCsL1CFgrmTzl7IIOAvn1Hz8Y5g&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ8tMDegQINBAI",
+   "5": "https://www.google.co.in/search?q=weather&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&ei=rFbKauWTNvzP1sQP5P_awQY&start=40&sa=N&sstk=AS6-VmL7sExRxjVuefCVvCqnJq7s5-juWKBDtSsZsv1sTVoLWhUmmWd9cuMfHTDYoGMAKwnuSmOMCsL1CFgrmTzl7IIOAvn1Hz8Y5g&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ8tMDegQINBAK",
+   "6": "https://www.google.co.in/search?q=weather&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnuit-YesDLs886K-KhJEVfv8Lbilw:1791645356894&ei=rFbKauWTNvzP1sQP5P_awQY&start=50&sa=N&sstk=AS6-VmL7sExRxjVuefCVvCqnJq7s5-juWKBDtSsZsv1sTVoLWhUmmWd9cuMfHTDYoGMAKwnuSmOMCsL1CFgrmTzl7IIOAvn1Hz8Y5g&ved=2ahUKEwjlmb6I36-XAxX8p5UCHeS_NmgQ8tMDegQINBAM"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=weather&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=weather&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=weather&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=weather&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=weather&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=weather&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=weather&start=50"
+  }
+ }
+}

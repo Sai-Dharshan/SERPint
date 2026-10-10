@@ -1,0 +1,403 @@
+{
+ "search_metadata": {
+  "id": "6aca56c7b77a0a9a2729cec9",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/4JAU2bjTrZWbYseUXwMX3ZTOwtv2X19i7d4xKjdOL2A/6aca56c7b77a0a9a2729cec9.json",
+  "markdown_endpoint": "https://serpapi.com/searches/4JAU2bjTrZWbYseUXwMX3ZTOwtv2X19i7d4xKjdOL2A/6aca56c7b77a0a9a2729cec9.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/4JAU2bjTrZWbYseUXwMX3ZTOwtv2X19i7d4xKjdOL2A/6aca56c7b77a0a9a2729cec9.json_with_pixel_position",
+  "created_at": "2026-10-10 15:16:23 UTC",
+  "processed_at": "2026-10-10 15:16:23 UTC",
+  "google_url": "https://www.google.co.in/search?q=weather&oq=weather&uule=w+CAIQICISS29jaGksS2VyYWxhLEluZGlh&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/4JAU2bjTrZWbYseUXwMX3ZTOwtv2X19i7d4xKjdOL2A/6aca56c7b77a0a9a2729cec9.html",
+  "total_time_taken": 16.52
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "weather",
+  "location_requested": "Kochi,Kerala,India",
+  "location_used": "Kochi,Kerala,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "weather",
+  "total_results": 1940000000,
+  "time_taken_displayed": 0.19,
+  "organic_results_state": "Results for exact spelling",
+  "results_for": null
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "India Current Weather",
+   "link": "https://www.accuweather.com/en/in/india-weather",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVoToWQJawZSmOzklgs8GX5pRaIeDMLcMRL16cSe0L_ahqwH3lXyV91z7EyuWJodADYN4ICVj2XUGXmMv-ZEHPDoNmmRS3CNCzdl-bQTQ4BbEkSf8HufLkK21wjYhlByW0KtFTnzI&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQFnoECCUQAQ&uoh=1",
+   "displayed_link": "https://www.accuweather.com › india-weather",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOXo3D06d948mbgAbYDngNMA3kv_Io8DaYsFxmfoAQhE0rNjuqZKjvnl6RhN6gNxAAAD-9_Ct5j0oZ6be0P0W049cHz9vP1uvqEyOY5EEj9PNiEx1RXUsh4piUuMMFWvbanGP3Yg2LIzw9R8RPQaFv-vGmiDjufcvyV-eF5_pzYEqeaZ4niUeZj99QdU5h3NO_7jq3hNQ-2JBnyPuWh-_O6I3y79J5TAMwp_qM_eT2OlXSHCfv-WyJgc4N9cNdEuSDj39rz3Uy_7Q6E8V1Rf4aDu3fddHoGb2aONRADNHaZ62MMRRg80OAh45JbsEjnxTu7QDoQIPjdxyJWhvkmq0mFDUlTr-1m8l4s6mbbLEdiVADCHrpqyJ97t_XniK3azMLJh81KSUIBkfsQdVCKf4rIHWfZ5KwTFm0gqId0oid5dYjvzNJTTrvGQJNldbAjFx1OF6YAAA.webp",
+   "snippet": "Get the India weather forecast including weather radar and current conditions in India across major cities. 64° F RealFeel® 65° … 95° Bengaluru 86° Bhopal 96° ...",
+   "snippet_highlighted_words": [
+    "current conditions in India across major cities"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get the India weather forecast including weather radar and current conditions in India across major cities. 64° F RealFeel® 65° … 95° Bengaluru 86° Bhopal 96° ...",
+     "source_info_link": "https://www.accuweather.com/en/in/india-weather",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOXo3D06d948mbgAbYDngNMA3kv_Io8DaYsFxmfoAQhE0rNjuqZKjvnl6RhN6gNxAAAD-9_Ct5j0oZ6be0P0W049cHz9vP1uvqEyOY5EEj9PNiEx1RXUsh4piUuMMFWvbanGP3Yg2LIzw9R8RPQaFv-vGmiDjufcvyV-eF5_pzYEqeaZ4niUeZj99QdU5h3NO_7jq3hNQ-2JBnyPuWh-_O6I3y79J5TAMwp_qM_eT2OlXSHCfv-WyJgc4N9cNdEuSDj39rz3Uy_7Q6E8V1Rf4aDu3fddHoGb2aONRADNHaZ62MMRRg80OAh45JbsEjnxTu7QDoQIPjdxyJWhvkmq0mFDUlTr-1m8l4s6mbbLEdiVADCHrpqyJ97t_XniK3azMLJh81KSUIBkfsQdVCKf4rIHWfZ5KwTFm0gqId0oid5dYjvzNJTTrvGQJNldbAjFx1OF6YAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVm9Ub1dRSmF3WlNtT3prbGdzOEdYNXBSYUllRE1MY01STDE2Y1NlMExfYWhxd0gzbFh5VjkxejdFeXVXSm9kQURZTjRJQ1ZqMlhVR1htTXYtWkVIUERvTm1tUlMzQ05DemRsLWJRVFE0QmJFa1NmOEh1ZkxrSzIxd2pZaGxCeVcwS3RGVG56SRIEGgIIABrDAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJ0DCAAQABgAIAAqDgoHd2VhdGhlchVyMm1AMp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVm9Ub1dRSmF3WlNtT3prbGdzOEdYNXBSYUllRE1MY01STDE2Y1NlMExfYWhxd0gzbFh5VjkxejdFeXVXSm9kQURZTjRJQ1ZqMlhVR1htTXYtWkVIUERvTm1tUlMzQ05DemRsLWJRVFE0QmJFa1NmOEh1ZkxrSzIxd2pZaGxCeVcwS3RGVG56SToqSW5kaWEgQ3VycmVudCA8Yj5XZWF0aGVyPC9iPiB8IEFjY3VXZWF0aGVyQrYBR2V0IHRoZSBJbmRpYSB3ZWF0aGVyIGZvcmVjYXN0IGluY2x1ZGluZyB3ZWF0aGVyIHJhZGFyIGFuZCA8Yj5jdXJyZW50IGNvbmRpdGlvbnMgaW4gSW5kaWEgYWNyb3NzIG1ham9yIGNpdGllczwvYj4uIDY0wrAgRiBSZWFsRmVlbMKuIDY1wrAg4oCmIDk1wrAgQmVuZ2FsdXJ1IDg2wrAgQmhvcGFsIDk2wrAmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVm9Ub1dRSmF3WlNtT3prbGdzOEdYNXBSYUllRE1MY01STDE2Y1NlMExfYWhxd0gzbFh5VjkxejdFeXVXSm9kQURZTjRJQ1ZqMlhVR1htTXYtWkVIUERvTm1tUlMzQ05DemRsLWJRVFE0QmJFa1NmOEh1ZkxrSzIxd2pZaGxCeVcwS3RGVG56SRIEGgIIABrDAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJ0DCAAQABgAIAAqDgoHd2VhdGhlchVyMm1AMp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVm9Ub1dRSmF3WlNtT3prbGdzOEdYNXBSYUllRE1MY01STDE2Y1NlMExfYWhxd0gzbFh5VjkxejdFeXVXSm9kQURZTjRJQ1ZqMlhVR1htTXYtWkVIUERvTm1tUlMzQ05DemRsLWJRVFE0QmJFa1NmOEh1ZkxrSzIxd2pZaGxCeVcwS3RGVG56SToqSW5kaWEgQ3VycmVudCA8Yj5XZWF0aGVyPC9iPiB8IEFjY3VXZWF0aGVyQrYBR2V0IHRoZSBJbmRpYSB3ZWF0aGVyIGZvcmVjYXN0IGluY2x1ZGluZyB3ZWF0aGVyIHJhZGFyIGFuZCA8Yj5jdXJyZW50IGNvbmRpdGlvbnMgaW4gSW5kaWEgYWNyb3NzIG1ham9yIGNpdGllczwvYj4uIDY0wrAgRiBSZWFsRmVlbMKuIDY1wrAg4oCmIDk1wrAgQmVuZ2FsdXJ1IDg2wrAgQmhvcGFsIDk2wrAmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "AccuWeather"
+  },
+  {
+   "position": 2,
+   "title": "होम | भारत मौसम विज्ञान विभाग",
+   "link": "https://mausam.imd.gov.in/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVltf4ql_xFOhLgRSNiMB6LFte92erbvaZ2_muQhbodsnWyYCEDNXPlW7pCAZYwX0SZ3fm2P-T-QToAdC7Gwdpf6wB-mmtwiLCyTa0BAkO81Y&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://mausam.imd.gov.in",
+   "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAMsti_ayJiRnOpJinOP4ryGNT2UbX1FhPoAAAP7-wst2BQVXHZ6uQlf0wUGZrXUW5hvZleBaJxkjX_yHPLyxys32GqXeoROjSp1qmmuO1SEN4saPIZUPyY3j2maHAjfJLvvOa6I9s_Jj_qhnYcHvl0xxD9SdccGu0YSF8wi-DZPdUqN7Mnh01I_pSTyhAwb9lyReCV1mZQBvUE9zVjXuGk_I7-KPWuSyJcNhRr3Shr1Qj3UJJwt9eXlTdkCKomp2i5rqW-Nn5VMSkJAm-uL1teUUBjS5V8gTrXLHl30qUqAA.webp",
+   "snippet": "Weather Today: check here live weather forecast, temperature, air quality(AQI) updates along with upcoming week rain status and weather forecast Today. Haze 30 ...",
+   "snippet_highlighted_words": [
+    "live weather forecast, temperature, air quality(AQI) updates"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Weather Today: check here live weather forecast, temperature, air quality(AQI) updates along with upcoming week rain status and weather forecast Today. Haze 30 ...",
+     "source_info_link": "https://mausam.imd.gov.in/",
+     "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABwBQCdASocABwAPtEutFooIagoGAEAGglsAMsti_ayJiRnOpJinOP4ryGNT2UbX1FhPoAAAP7-wst2BQVXHZ6uQlf0wUGZrXUW5hvZleBaJxkjX_yHPLyxys32GqXeoROjSp1qmmuO1SEN4saPIZUPyY3j2maHAjfJLvvOa6I9s_Jj_qhnYcHvl0xxD9SdccGu0YSF8wi-DZPdUqN7Mnh01I_pSTyhAwb9lyReCV1mZQBvUE9zVjXuGk_I7-KPWuSyJcNhRr3Shr1Qj3UJJwt9eXlTdkCKomp2i5rqW-Nn5VMSkJAm-uL1teUUBjS5V8gTrXLHl30qUqAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVmx0ZjRxbF94Rk9oTGdSU05pTUI2TEZ0ZTkyZXJidmFaMl9tdVFoYm9kc25XeVlDRUROWFBsVzdwQ0FaWXdYMFNaM2ZtMlAtVC1RVG9BZEM3R3dkcGY2d0ItbW10d2lMQ3lUYTBCQWtPODFZEgQaAggAGsEDEgIIARoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAmwMIABAAGAAgACoOCgd3ZWF0aGVyFa8Opj4ygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWbHRmNHFsX3hGT2hMZ1JTTmlNQjZMRnRlOTJlcmJ2YVoyX211UWhib2Rzbld5WUNFRE5YUGxXN3BDQVpZd1gwU1ozZm0yUC1ULVFUb0FkQzdHd2RwZjZ3Qi1tbXR3aUxDeVRhMEJBa084MVk6S-CkueCli-CkriB8IOCkreCkvuCksOCkpCDgpK7gpYzgpLjgpK4g4KS14KS_4KSc4KWN4KSe4KS-4KSoIOCkteCkv-CkreCkvuCkl0KvAVdlYXRoZXIgVG9kYXk6IGNoZWNrIGhlcmUgPGI-bGl2ZSB3ZWF0aGVyIGZvcmVjYXN0LCB0ZW1wZXJhdHVyZSwgYWlyIHF1YWxpdHkoQVFJKSB1cGRhdGVzPC9iPiBhbG9uZyB3aXRoIHVwY29taW5nIHdlZWsgcmFpbiBzdGF0dXMgYW5kIHdlYXRoZXIgZm9yZWNhc3QgVG9kYXkuIEhhemUgMzAmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVmx0ZjRxbF94Rk9oTGdSU05pTUI2TEZ0ZTkyZXJidmFaMl9tdVFoYm9kc25XeVlDRUROWFBsVzdwQ0FaWXdYMFNaM2ZtMlAtVC1RVG9BZEM3R3dkcGY2d0ItbW10d2lMQ3lUYTBCQWtPODFZEgQaAggAGsEDEgIIARoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAmwMIABAAGAAgACoOCgd3ZWF0aGVyFa8Opj4ygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWbHRmNHFsX3hGT2hMZ1JTTmlNQjZMRnRlOTJlcmJ2YVoyX211UWhib2Rzbld5WUNFRE5YUGxXN3BDQVpZd1gwU1ozZm0yUC1ULVFUb0FkQzdHd2RwZjZ3Qi1tbXR3aUxDeVRhMEJBa084MVk6S-CkueCli-CkriB8IOCkreCkvuCksOCkpCDgpK7gpYzgpLjgpK4g4KS14KS_4KSc4KWN4KSe4KS-4KSoIOCkteCkv-CkreCkvuCkl0KvAVdlYXRoZXIgVG9kYXk6IGNoZWNrIGhlcmUgPGI-bGl2ZSB3ZWF0aGVyIGZvcmVjYXN0LCB0ZW1wZXJhdHVyZSwgYWlyIHF1YWxpdHkoQVFJKSB1cGRhdGVzPC9iPiBhbG9uZyB3aXRoIHVwY29taW5nIHdlZWsgcmFpbiBzdGF0dXMgYW5kIHdlYXRoZXIgZm9yZWNhc3QgVG9kYXkuIEhhemUgMzAmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "IMD"
+  },
+  {
+   "position": 3,
+   "title": "Weather",
+   "link": "https://en.wikipedia.org/wiki/Weather",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVDSwH2ZeAunTponPwn66GANj2_GztFnZLT7wDDgBMnwSGggYrBdFiVRIdZ_axL3lAno0M-8HNhgDCbvaL3PIEn_u77vLfWBdwHPHbcMVP0Sdsfn0pTWd-OvKaZw&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org › wiki › Weather",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Weather is the state of the Earth's atmosphere at a specific place and time, typically described in terms of temperature, humidity, cloud cover, and stability.",
+   "snippet_highlighted_words": [
+    "state of the Earth's atmosphere at a specific place and time"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Weather is the state of the Earth's atmosphere at a specific place and time, typically described in terms of temperature, humidity, cloud cover, and stability.",
+     "source_info_link": "https://en.wikipedia.org/wiki/Weather",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkRTd0gyWmVBdW5UcG9uUHduNjZHQU5qMl9HenRGblpMVDd3RERnQk1ud1NHZ2dZckJkRmlWUklkWl9heEwzbEFubzBNLThITmhnRENidmFMM1BJRW5fdTc3dkxmV0Jkd0hQSGJjTVZQMFNkc2ZuMHBUV2QtT3ZLYVp3EgQaAggAGpoDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA9AIIABAAGAAgACoOCgd3ZWF0aGVyFQsEs0AykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWRFN3SDJaZUF1blRwb25Qd242NkdBTmoyX0d6dEZuWkxUN3dERGdCTW53U0dnZ1lyQmRGaVZSSWRaX2F4TDNsQW5vME0tOEhOaGdEQ2J2YUwzUElFbl91Nzd2TGZXQmR3SFBIYmNNVlAwU2RzZm4wcFRXZC1PdkthWnc6GjxiPldlYXRoZXI8L2I-IC0gV2lraXBlZGlhQqoBV2VhdGhlciBpcyB0aGUgPGI-c3RhdGUgb2YgdGhlIEVhcnRoJiMzOTtzIGF0bW9zcGhlcmUgYXQgYSBzcGVjaWZpYyBwbGFjZSBhbmQgdGltZTwvYj4sIHR5cGljYWxseSBkZXNjcmliZWQgaW4gdGVybXMgb2YgdGVtcGVyYXR1cmUsIGh1bWlkaXR5LCBjbG91ZCBjb3ZlciwgYW5kIHN0YWJpbGl0eS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkRTd0gyWmVBdW5UcG9uUHduNjZHQU5qMl9HenRGblpMVDd3RERnQk1ud1NHZ2dZckJkRmlWUklkWl9heEwzbEFubzBNLThITmhnRENidmFMM1BJRW5fdTc3dkxmV0Jkd0hQSGJjTVZQMFNkc2ZuMHBUV2QtT3ZLYVp3EgQaAggAGpoDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA9AIIABAAGAAgACoOCgd3ZWF0aGVyFQsEs0AykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWRFN3SDJaZUF1blRwb25Qd242NkdBTmoyX0d6dEZuWkxUN3dERGdCTW53U0dnZ1lyQmRGaVZSSWRaX2F4TDNsQW5vME0tOEhOaGdEQ2J2YUwzUElFbl91Nzd2TGZXQmR3SFBIYmNNVlAwU2RzZm4wcFRXZC1PdkthWnc6GjxiPldlYXRoZXI8L2I-IC0gV2lraXBlZGlhQqoBV2VhdGhlciBpcyB0aGUgPGI-c3RhdGUgb2YgdGhlIEVhcnRoJiMzOTtzIGF0bW9zcGhlcmUgYXQgYSBzcGVjaWZpYyBwbGFjZSBhbmQgdGltZTwvYj4sIHR5cGljYWxseSBkZXNjcmliZWQgaW4gdGVybXMgb2YgdGVtcGVyYXR1cmUsIGh1bWlkaXR5LCBjbG91ZCBjb3ZlciwgYW5kIHN0YWJpbGl0eS4iAhABSABYAGgA",
+   "source": "Wikipedia"
+  },
+  {
+   "position": 4,
+   "title": "Weather Forecast Dashboard",
+   "link": "https://egramswaraj.gov.in/mausam.do",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVLhOCISrbazjunMW4OYnmZSbR2_P2P7kIOxnGXmaknfj2fyG8H-NaQ_8mZxzjLmqDMISfxqqkEGHo3lkNsq8tnByMh-Pv4t8_QlZdaGcuT7kpTXT-gUkODUFq&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://egramswaraj.gov.in › mausam",
+   "snippet": "Current Weather Wind Speed Cloud Cover Rainfall. South Easterly (132.58°) 1.85 Sunny Day. Easterly (142.54°) Easterly (123.82°) 2.17 Sunny Day Hourly",
+   "snippet_highlighted_words": [
+    "Current Weather Wind Speed Cloud Cover Rainfall"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Current Weather Wind Speed Cloud Cover Rainfall. South Easterly (132.58°) 1.85 Sunny Day. Easterly (142.54°) Easterly (123.82°) 2.17 Sunny Day Hourly",
+     "source_info_link": "https://egramswaraj.gov.in/mausam.do"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVkxoT0NJU3JiYXpqdW5NVzRPWW5tWlNiUjJfUDJQN2tJT3huR1htYWtuZmoyZnlHOEgtTmFRXzhtWnh6akxtcURNSVNmeHFxa0VHSG8zbGtOc3E4dG5CeU1oLVB2NHQ4X1FsWmRhR2N1VDdrcFRYVC1nVWtPRFVGcRIEGgIIABqiAxICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPwCCAAQABgAIAAqDgoHd2VhdGhlchUpNHhAMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVkxoT0NJU3JiYXpqdW5NVzRPWW5tWlNiUjJfUDJQN2tJT3huR1htYWtuZmoyZnlHOEgtTmFRXzhtWnh6akxtcURNSVNmeHFxa0VHSG8zbGtOc3E4dG5CeU1oLVB2NHQ4X1FsWmRhR2N1VDdrcFRYVC1nVWtPRFVGcTovPGI-V2VhdGhlcjwvYj4gRm9yZWNhc3QgRGFzaGJvYXJkIC0gZUdyYW1Td2FyYWpCnwE8Yj5DdXJyZW50IFdlYXRoZXIgV2luZCBTcGVlZCBDbG91ZCBDb3ZlciBSYWluZmFsbDwvYj4uIFNvdXRoIEVhc3Rlcmx5ICgxMzIuNTjCsCkgMS44NSBTdW5ueSBEYXkuIEVhc3Rlcmx5ICgxNDIuNTTCsCkgRWFzdGVybHkgKDEyMy44MsKwKSAyLjE3IFN1bm55IERheSBIb3VybHkiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVkxoT0NJU3JiYXpqdW5NVzRPWW5tWlNiUjJfUDJQN2tJT3huR1htYWtuZmoyZnlHOEgtTmFRXzhtWnh6akxtcURNSVNmeHFxa0VHSG8zbGtOc3E4dG5CeU1oLVB2NHQ4X1FsWmRhR2N1VDdrcFRYVC1nVWtPRFVGcRIEGgIIABqiAxICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPwCCAAQABgAIAAqDgoHd2VhdGhlchUpNHhAMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVkxoT0NJU3JiYXpqdW5NVzRPWW5tWlNiUjJfUDJQN2tJT3huR1htYWtuZmoyZnlHOEgtTmFRXzhtWnh6akxtcURNSVNmeHFxa0VHSG8zbGtOc3E4dG5CeU1oLVB2NHQ4X1FsWmRhR2N1VDdrcFRYVC1nVWtPRFVGcTovPGI-V2VhdGhlcjwvYj4gRm9yZWNhc3QgRGFzaGJvYXJkIC0gZUdyYW1Td2FyYWpCnwE8Yj5DdXJyZW50IFdlYXRoZXIgV2luZCBTcGVlZCBDbG91ZCBDb3ZlciBSYWluZmFsbDwvYj4uIFNvdXRoIEVhc3Rlcmx5ICgxMzIuNTjCsCkgMS44NSBTdW5ueSBEYXkuIEVhc3Rlcmx5ICgxNDIuNTTCsCkgRWFzdGVybHkgKDEyMy44MsKwKSAyLjE3IFN1bm55IERheSBIb3VybHkiAhABSABYAGgA",
+   "source": "eGramSwaraj"
+  },
+  {
+   "position": 5,
+   "title": "Weather forecast and conditions for New Delhi, Delhi",
+   "link": "https://weather.com/en-IN/in/delhi/city/new-delhi/today",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVVi77Zl9LyLlx2WrZVjByAWcCiNS4Vi2gk-1T6_GldGeR-fsphEx2V9D8vyiPmcpXnbZ1X_pJEdOFSQBQJRnkzXaiQhkVtBsGtkWDC8u_CL6iX8qKfma7VdtKUEnktbgtBQz3hfyg6n_3SzS9vA&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://weather.com › delhi › city › new-delhi › today",
+   "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp",
+   "snippet": "Low 76° Chance of Rain 15% 0 in. Tonight's low temperature will be the same as last night's. Poor air quality will impact outdoor activities tomorrow.",
+   "snippet_highlighted_words": [
+    "Low 76° Chance of Rain 15% 0 in"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Low 76° Chance of Rain 15% 0 in. Tonight's low temperature will be the same as last night's. Poor air quality will impact outdoor activities tomorrow.",
+     "source_info_link": "https://weather.com/en-IN/in/delhi/city/new-delhi/today",
+     "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVlZpNzdabDlMeUxseDJXclpWakJ5QVdjQ2lOUzRWaTJnay0xVDZfR2xkR2VSLWZzcGhFeDJWOUQ4dnlpUG1jcFhuYloxWF9wSkVkT0ZTUUJRSlJua3pYYWlRaGtWdEJzR3RrV0RDOHVfQ0w2aVg4cUtmbWE3VmR0S1VFbmt0Ymd0QlF6M2hmeWc2bl8zU3pTOXZBEgQaAggAGs8DEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAqQMIABAAGAAgACoOCgd3ZWF0aGVyFdxbqEAyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWVmk3N1psOUx5TGx4MldyWlZqQnlBV2NDaU5TNFZpMmdrLTFUNl9HbGRHZVItZnNwaEV4MlY5RDh2eWlQbWNwWG5iWjFYX3BKRWRPRlNRQlFKUm5relhhaVFoa1Z0QnNHdGtXREM4dV9DTDZpWDhxS2ZtYTdWZHRLVUVua3RiZ3RCUXozaGZ5ZzZuXzNTelM5dkE6OzxiPldlYXRoZXI8L2I-IGZvcmVjYXN0IGFuZCBjb25kaXRpb25zIGZvciBOZXcgRGVsaGksIERlbGhpQqYBPGI-TG93IDc2wrAgQ2hhbmNlIG9mIFJhaW4gMTUlIDAgaW48L2I-LiBUb25pZ2h0JiMzOTtzIGxvdyB0ZW1wZXJhdHVyZSB3aWxsIGJlIHRoZSBzYW1lIGFzIGxhc3QgbmlnaHQmIzM5O3MuIFBvb3IgYWlyIHF1YWxpdHkgd2lsbCBpbXBhY3Qgb3V0ZG9vciBhY3Rpdml0aWVzIHRvbW9ycm93LiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVlZpNzdabDlMeUxseDJXclpWakJ5QVdjQ2lOUzRWaTJnay0xVDZfR2xkR2VSLWZzcGhFeDJWOUQ4dnlpUG1jcFhuYloxWF9wSkVkT0ZTUUJRSlJua3pYYWlRaGtWdEJzR3RrV0RDOHVfQ0w2aVg4cUtmbWE3VmR0S1VFbmt0Ymd0QlF6M2hmeWc2bl8zU3pTOXZBEgQaAggAGs8DEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAqQMIABAAGAAgACoOCgd3ZWF0aGVyFdxbqEAyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWVmk3N1psOUx5TGx4MldyWlZqQnlBV2NDaU5TNFZpMmdrLTFUNl9HbGRHZVItZnNwaEV4MlY5RDh2eWlQbWNwWG5iWjFYX3BKRWRPRlNRQlFKUm5relhhaVFoa1Z0QnNHdGtXREM4dV9DTDZpWDhxS2ZtYTdWZHRLVUVua3RiZ3RCUXozaGZ5ZzZuXzNTelM5dkE6OzxiPldlYXRoZXI8L2I-IGZvcmVjYXN0IGFuZCBjb25kaXRpb25zIGZvciBOZXcgRGVsaGksIERlbGhpQqYBPGI-TG93IDc2wrAgQ2hhbmNlIG9mIFJhaW4gMTUlIDAgaW48L2I-LiBUb25pZ2h0JiMzOTtzIGxvdyB0ZW1wZXJhdHVyZSB3aWxsIGJlIHRoZSBzYW1lIGFzIGxhc3QgbmlnaHQmIzM5O3MuIFBvb3IgYWlyIHF1YWxpdHkgd2lsbCBpbXBhY3Qgb3V0ZG9vciBhY3Rpdml0aWVzIHRvbW9ycm93LiICEAFIAFgAaAA",
+   "source": "The Weather Channel"
+  },
+  {
+   "position": 6,
+   "title": "DES-AP",
+   "link": "http://desweather.ap.gov.in/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVwHrOzAVXGWT-ImPDQPr74JpOFYspEaYYNyk-rFEBPDgs9pkKkKc-0gvr0BprNj30igkR6xobKx2IwZl54Z-qiYhudoS4z6-uLQbeT0VUf94Gn2YqM_RXQ&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQFnoECCEQAQ&uoh=1",
+   "displayed_link": "http://desweather.ap.gov.in",
+   "favicon": "https://serpapi.com/images/i/UklGRoQBAABXRUJQVlA4IHgBAABQBwCdASobABwAPrkurlcnIacnG_DgFwlsAKkU8Dp2aWZi7aBCPcptm3UWVwxT3BHu_8mZrJkMOIzibjae2aFqDiUAAP738KCQt2mWa13-J031jh_IiVjlHg4Rw5c89_1Pjn1qTHG1MyHIputPLMUk2PYdxhrxWVDG5svN-_YeKj6vfzizr01VkJrx9GMV75oVj8vNtRREqxJdpdWcElR8FpmQ9PimO-i-lveE-W4u9xWLcJjoK1dOfQhl0iAnnGmxDkSLhz3nczGPZF8kLCUPtKQuRhl8GscauVPyVJMHOvjbffZa_tu6_IlCo2iiDYr_dRxeeff9nZhl4MyA9UIAip1M1v9zn5-5WbUfomPstZJhcI7YtehM7J__1ntCNdVH9Ymvzj3EKxKFAsDXqi_xJtgCAFMrEEqA04-6agXv9F7ac2JhZ7ZxHunSGD75EI7N_CoWnmn-nIcZFr8EysmtA_p70RJOnsUwZD_ilK2dgWgejQkxcAAA.webp",
+   "snippet": "With over all weather stations installed across Andhra Pradesh, we provide real-time, precise, and actionable data that empowers government agencies and ...",
+   "snippet_highlighted_words": [
+    "real-time, precise, and actionable data"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "With over all weather stations installed across Andhra Pradesh, we provide real-time, precise, and actionable data that empowers government agencies and ...",
+     "source_info_link": "http://desweather.ap.gov.in/",
+     "icon": "https://serpapi.com/images/i/UklGRoQBAABXRUJQVlA4IHgBAABQBwCdASobABwAPrkurlcnIacnG_DgFwlsAKkU8Dp2aWZi7aBCPcptm3UWVwxT3BHu_8mZrJkMOIzibjae2aFqDiUAAP738KCQt2mWa13-J031jh_IiVjlHg4Rw5c89_1Pjn1qTHG1MyHIputPLMUk2PYdxhrxWVDG5svN-_YeKj6vfzizr01VkJrx9GMV75oVj8vNtRREqxJdpdWcElR8FpmQ9PimO-i-lveE-W4u9xWLcJjoK1dOfQhl0iAnnGmxDkSLhz3nczGPZF8kLCUPtKQuRhl8GscauVPyVJMHOvjbffZa_tu6_IlCo2iiDYr_dRxeeff9nZhl4MyA9UIAip1M1v9zn5-5WbUfomPstZJhcI7YtehM7J__1ntCNdVH9Ymvzj3EKxKFAsDXqi_xJtgCAFMrEEqA04-6agXv9F7ac2JhZ7ZxHunSGD75EI7N_CoWnmn-nIcZFr8EysmtA_p70RJOnsUwZD_ilK2dgWgejQkxcAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CoQBL2dvdG8_dXJsPUNBRVNWd0hyT3pBVlhHV1QtSW1QRFFQcjc0SnBPRllzcEVhWVlOeWstckZFQlBEZ3M5cGtLa0tjLTBndnIwQnByTmozMGlna1I2eG9iS3gySXdabDU0Wi1xaVlodWRvUzR6Ni11TFFiZVQwVlVmOTRHbjJZcU1fUlhREgQaAggAGvgCEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA0gIIABAAGAAgACoOCgd3ZWF0aGVyFaUZTUAyhAEvZ290bz91cmw9Q0FFU1Z3SHJPekFWWEdXVC1JbVBEUVByNzRKcE9GWXNwRWFZWU55ay1yRkVCUERnczlwa0trS2MtMGd2cjBCcHJOajMwaWdrUjZ4b2JLeDJJd1psNTRaLXFpWWh1ZG9TNHo2LXVMUWJlVDBWVWY5NEduMllxTV9SWFE6BkRFUy1BUEKoAVdpdGggb3ZlciBhbGwgd2VhdGhlciBzdGF0aW9ucyBpbnN0YWxsZWQgYWNyb3NzIEFuZGhyYSBQcmFkZXNoLCB3ZSBwcm92aWRlIDxiPnJlYWwtdGltZSwgcHJlY2lzZSwgYW5kIGFjdGlvbmFibGUgZGF0YTwvYj4gdGhhdCBlbXBvd2VycyBnb3Zlcm5tZW50IGFnZW5jaWVzIGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CoQBL2dvdG8_dXJsPUNBRVNWd0hyT3pBVlhHV1QtSW1QRFFQcjc0SnBPRllzcEVhWVlOeWstckZFQlBEZ3M5cGtLa0tjLTBndnIwQnByTmozMGlna1I2eG9iS3gySXdabDU0Wi1xaVlodWRvUzR6Ni11TFFiZVQwVlVmOTRHbjJZcU1fUlhREgQaAggAGvgCEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA0gIIABAAGAAgACoOCgd3ZWF0aGVyFaUZTUAyhAEvZ290bz91cmw9Q0FFU1Z3SHJPekFWWEdXVC1JbVBEUVByNzRKcE9GWXNwRWFZWU55ay1yRkVCUERnczlwa0trS2MtMGd2cjBCcHJOajMwaWdrUjZ4b2JLeDJJd1psNTRaLXFpWWh1ZG9TNHo2LXVMUWJlVDBWVWY5NEduMllxTV9SWFE6BkRFUy1BUEKoAVdpdGggb3ZlciBhbGwgd2VhdGhlciBzdGF0aW9ucyBpbnN0YWxsZWQgYWNyb3NzIEFuZGhyYSBQcmFkZXNoLCB3ZSBwcm92aWRlIDxiPnJlYWwtdGltZSwgcHJlY2lzZSwgYW5kIGFjdGlvbmFibGUgZGF0YTwvYj4gdGhhdCBlbXBvd2VycyBnb3Zlcm5tZW50IGFnZW5jaWVzIGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "ap.gov.in",
+   "read_more_link": "http://desweather.ap.gov.in/#:~:text=With%20over%20all%20weather%20stations,alike%20to%20make%20informed%20decisions."
+  },
+  {
+   "position": 7,
+   "title": "Mumbai - BBC Weather",
+   "link": "https://www.bbc.com/weather/1275339",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVrwUvu4rQ8dps33wKtEw2tuz25WLt2Fm2FyPC3sueud9uOO-ifBLRZFJ3nDDeW7mvtTSm_4OrmPFaCNPbi07KYF8SUQ_AHRYAFpVsdyH1rdz7VU_8KwxMJfI&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQFnoECCAQAQ&uoh=1",
+   "displayed_link": "https://www.bbc.com › weather",
+   "favicon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp",
+   "snippet": "Day by day forecast · Tonight. ,. A clear sky and light winds · Saturday 10th OctoberSat 10th. ,. Sunny and a gentle breeze · Sunday 11th OctoberSun 11th. ,.",
+   "snippet_highlighted_words": [
+    "Day by day forecast"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Day by day forecast · Tonight. ,. A clear sky and light winds · Saturday 10th OctoberSat 10th. ,. Sunny and a gentle breeze · Sunday 11th OctoberSun 11th. ,.",
+     "source_info_link": "https://www.bbc.com/weather/1275339",
+     "icon": "https://serpapi.com/images/i/UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASocABwAPtEutFooIagoGAEAGglpAABc6z6dfVKnlfy1BKc0AAD-9gEnxHfMXOa22UjQ6NPZ7LarETwXCaZmyNe0tneGq2avgsoRDBr-Ne4WQxcv-uec1uhZO2AnjDeT0clAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnJ3VXZ1NHJROGRwczMzd0t0RXcydHV6MjVXTHQyRm0yRnlQQzNzdWV1ZDl1T08taWZCTFJaRkozbkREZVc3bXZ0VFNtXzRPcm1QRmFDTlBiaTA3S1lGOFNVUV9BSFJZQUZwVnNkeUgxcmR6N1ZVXzhLd3hNSmZJEgQaAggAGqcDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgQMIABAAGAAgACoOCgd3ZWF0aGVyFVCpjkAyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWcndVdnU0clE4ZHBzMzN3S3RFdzJ0dXoyNVdMdDJGbTJGeVBDM3N1ZXVkOXVPTy1pZkJMUlpGSjNuRERlVzdtdnRUU21fNE9ybVBGYUNOUGJpMDdLWUY4U1VRX0FIUllBRnBWc2R5SDFyZHo3VlVfOEt3eE1KZkk6G011bWJhaSAtIEJCQyA8Yj5XZWF0aGVyPC9iPkK5ATxiPkRheSBieSBkYXkgZm9yZWNhc3Q8L2I-ICZtaWRkb3Q7IFRvbmlnaHQuICwuIEEgY2xlYXIgc2t5IGFuZCBsaWdodCB3aW5kcyAmbWlkZG90OyBTYXR1cmRheSAxMHRoIE9jdG9iZXJTYXQgMTB0aC4gLC4gU3VubnkgYW5kIGEgZ2VudGxlIGJyZWV6ZSAmbWlkZG90OyBTdW5kYXkgMTF0aCBPY3RvYmVyU3VuIDExdGguICwuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnJ3VXZ1NHJROGRwczMzd0t0RXcydHV6MjVXTHQyRm0yRnlQQzNzdWV1ZDl1T08taWZCTFJaRkozbkREZVc3bXZ0VFNtXzRPcm1QRmFDTlBiaTA3S1lGOFNVUV9BSFJZQUZwVnNkeUgxcmR6N1ZVXzhLd3hNSmZJEgQaAggAGqcDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgQMIABAAGAAgACoOCgd3ZWF0aGVyFVCpjkAyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWcndVdnU0clE4ZHBzMzN3S3RFdzJ0dXoyNVdMdDJGbTJGeVBDM3N1ZXVkOXVPTy1pZkJMUlpGSjNuRERlVzdtdnRUU21fNE9ybVBGYUNOUGJpMDdLWUY4U1VRX0FIUllBRnBWc2R5SDFyZHo3VlVfOEt3eE1KZkk6G011bWJhaSAtIEJCQyA8Yj5XZWF0aGVyPC9iPkK5ATxiPkRheSBieSBkYXkgZm9yZWNhc3Q8L2I-ICZtaWRkb3Q7IFRvbmlnaHQuICwuIEEgY2xlYXIgc2t5IGFuZCBsaWdodCB3aW5kcyAmbWlkZG90OyBTYXR1cmRheSAxMHRoIE9jdG9iZXJTYXQgMTB0aC4gLC4gU3VubnkgYW5kIGEgZ2VudGxlIGJyZWV6ZSAmbWlkZG90OyBTdW5kYXkgMTF0aCBPY3RvYmVyU3VuIDExdGguICwuIgIQAUgAWABoAA",
+   "source": "BBC",
+   "read_more_link": "https://www.bbc.com/weather/1275339#:~:text=Tonight&text=Tonight&text=Sat%2010th&text=Sun%2011th"
+  },
+  {
+   "position": 8,
+   "title": "Weather & Radar",
+   "link": "https://www.weatherandradar.in/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVXgQCgs0qmLbDf8oUyzZ8bYxdeUeR9-4YlRKdYUk-c9u2dmRYs8AjVTCzX9rmsDj7O06MJOrFh1PCGn5mm92gSQAGuBGNwLlW8hd1xuBcKPqd-R6tSg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.weatherandradar.in",
+   "favicon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAABwCACdASocABwAPtEwtFooIigoGAEAGglmAJ0ygzfRwG2AsADpTV-CtBQLJmPi--l_YA3UBaM7b_OlmlS0R2OWqgnjBV3mlKp8RZAAAP7-lGIxBc1ezgBG3QdlX5rz8YQoP9TMmw3_JsIHi3EHDBw8zZiX3ubnU_Fv-u5uR6YrKs70g1iQnYvVxyPl7yCwxp6imD1igBA2H1tIxxY2TF5XeYR6hUboJ3eEQW2Su3Br47GjW1BCgi8Pg9Ii4J_rm21NTpCfP6itPuhfKO4Uh2NO3vVBXeJGS94oCnL_j_8mfTapwdToj3x3_TtMthLxV4Hzt4qkFT4UWw3VRPwJSdXncZKP2_KosGuqn9qhdHU1SbV34zPtuufQxUlTd97apSY0upRAerbkbVqsETuV8_9Z1bQx5f7p9fAZYhSSo9ciRGv-exEA6P6ntwvnQv-FRsg0SLQ7tm0-vwTtcigiZp5ilMqSASJAJzdhXjPq_QeJmZNFymBQAtUCm8L_2xr8OegAAA.webp",
+   "snippet": "Free 4-day radar: Rain, sun, and thunderstorms. All on one radar. Radar is also available on Google Play Store App",
+   "snippet_highlighted_words": [
+    "Free 4-day radar"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Free 4-day radar: Rain, sun, and thunderstorms. All on one radar. Radar is also available on Google Play Store App",
+     "source_info_link": "https://www.weatherandradar.in/",
+     "icon": "https://serpapi.com/images/i/UklGRo4BAABXRUJQVlA4IIIBAABwCACdASocABwAPtEwtFooIigoGAEAGglmAJ0ygzfRwG2AsADpTV-CtBQLJmPi--l_YA3UBaM7b_OlmlS0R2OWqgnjBV3mlKp8RZAAAP7-lGIxBc1ezgBG3QdlX5rz8YQoP9TMmw3_JsIHi3EHDBw8zZiX3ubnU_Fv-u5uR6YrKs70g1iQnYvVxyPl7yCwxp6imD1igBA2H1tIxxY2TF5XeYR6hUboJ3eEQW2Su3Br47GjW1BCgi8Pg9Ii4J_rm21NTpCfP6itPuhfKO4Uh2NO3vVBXeJGS94oCnL_j_8mfTapwdToj3x3_TtMthLxV4Hzt4qkFT4UWw3VRPwJSdXncZKP2_KosGuqn9qhdHU1SbV34zPtuufQxUlTd97apSY0upRAerbkbVqsETuV8_9Z1bQx5f7p9fAZYhSSo9ciRGv-exEA6P6ntwvnQv-FRsg0SLQ7tm0-vwTtcigiZp5ilMqSASJAJzdhXjPq_QeJmZNFymBQAtUCm8L_2xr8OegAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVlhnUUNnczBxbUxiRGY4b1V5elo4Yll4ZGVVZVI5LTRZbFJLZFlVay1jOXUyZG1SWXM4QWpWVEN6WDlybXNEajdPMDZNSk9yRmgxUENHbjVtbTkyZ1NRQUd1QkdOd0xsVzhoZDF4dUJjS1BxZC1SNnRTZxIEGgIIABrgAhICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLoCCAAQABgAIAAqDgoHd2VhdGhlchVLJ4NAMogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVlhnUUNnczBxbUxiRGY4b1V5elo4Yll4ZGVVZVI5LTRZbFJLZFlVay1jOXUyZG1SWXM4QWpWVEN6WDlybXNEajdPMDZNSk9yRmgxUENHbjVtbTkyZ1NRQUd1QkdOd0xsVzhoZDF4dUJjS1BxZC1SNnRTZzoaPGI-V2VhdGhlcjwvYj4gJmFtcDsgUmFkYXJCeTxiPkZyZWUgNC1kYXkgcmFkYXI8L2I-OiBSYWluLCBzdW4sIGFuZCB0aHVuZGVyc3Rvcm1zLiBBbGwgb24gb25lIHJhZGFyLiBSYWRhciBpcyBhbHNvIGF2YWlsYWJsZSBvbiBHb29nbGUgUGxheSBTdG9yZSBBcHAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVlhnUUNnczBxbUxiRGY4b1V5elo4Yll4ZGVVZVI5LTRZbFJLZFlVay1jOXUyZG1SWXM4QWpWVEN6WDlybXNEajdPMDZNSk9yRmgxUENHbjVtbTkyZ1NRQUd1QkdOd0xsVzhoZDF4dUJjS1BxZC1SNnRTZxIEGgIIABrgAhICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLoCCAAQABgAIAAqDgoHd2VhdGhlchVLJ4NAMogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVlhnUUNnczBxbUxiRGY4b1V5elo4Yll4ZGVVZVI5LTRZbFJLZFlVay1jOXUyZG1SWXM4QWpWVEN6WDlybXNEajdPMDZNSk9yRmgxUENHbjVtbTkyZ1NRQUd1QkdOd0xsVzhoZDF4dUJjS1BxZC1SNnRTZzoaPGI-V2VhdGhlcjwvYj4gJmFtcDsgUmFkYXJCeTxiPkZyZWUgNC1kYXkgcmFkYXI8L2I-OiBSYWluLCBzdW4sIGFuZCB0aHVuZGVyc3Rvcm1zLiBBbGwgb24gb25lIHJhZGFyLiBSYWRhciBpcyBhbHNvIGF2YWlsYWJsZSBvbiBHb29nbGUgUGxheSBTdG9yZSBBcHAiAhABSABYAGgA",
+   "source": "Weather & Radar"
+  },
+  {
+   "position": 9,
+   "title": "Local Weather Daily Forecasts, Radar Maps, Hurricane ...",
+   "link": "https://www.msn.com/en-in/weather",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVPjv04liMPkhEjbQ_RZna9e-DmwZzC0NH6OudMWMjT6i1jR1OWmALFcCupUTU5NTggsvygpKBoNr7r3O_anTtHrL168LrooyvIUncLf0HOzYk4U7yofgF&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.msn.com › en-in › weather",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp",
+   "snippet": "Get accurate hourly forecasts for today, tonight, and tomorrow, along with 10-day daily forecasts and weather radar with MSN Weather.",
+   "snippet_highlighted_words": [
+    "Get accurate hourly forecasts for today, tonight, and tomorrow"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get accurate hourly forecasts for today, tonight, and tomorrow, along with 10-day daily forecasts and weather radar with MSN Weather.",
+     "source_info_link": "https://www.msn.com/en-in/weather",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlBqdjA0bGlNUGtoRWpiUV9SWm5hOWUtRG13WnpDME5INk91ZE1XTWpUNmkxalIxT1dtQUxGY0N1cFVUVTVOVGdnc3Z5Z3BLQm9OcjdyM09fYW5UdEhyTDE2OExyb295dklVbmNMZjBIT3pZazRVN3lvZmdGEgQaAggAGu4CEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAyAIIABAAGAAgACoOCgd3ZWF0aGVyFX8qmkAyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWUGp2MDRsaU1Qa2hFamJRX1JabmE5ZS1EbXdaekMwTkg2T3VkTVdNalQ2aTFqUjFPV21BTEZjQ3VwVVRVNU5UZ2dzdnlncEtCb05yN3IzT19hblR0SHJMMTY4THJvb3l2SVVuY0xmMEhPellrNFU3eW9mZ0Y6Ek1TTiA8Yj5XZWF0aGVyPC9iPkKMATxiPkdldCBhY2N1cmF0ZSBob3VybHkgZm9yZWNhc3RzIGZvciB0b2RheSwgdG9uaWdodCwgYW5kIHRvbW9ycm93PC9iPiwgYWxvbmcgd2l0aCAxMC1kYXkgZGFpbHkgZm9yZWNhc3RzIGFuZCB3ZWF0aGVyIHJhZGFyIHdpdGggTVNOIFdlYXRoZXIuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlBqdjA0bGlNUGtoRWpiUV9SWm5hOWUtRG13WnpDME5INk91ZE1XTWpUNmkxalIxT1dtQUxGY0N1cFVUVTVOVGdnc3Z5Z3BLQm9OcjdyM09fYW5UdEhyTDE2OExyb295dklVbmNMZjBIT3pZazRVN3lvZmdGEgQaAggAGu4CEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAyAIIABAAGAAgACoOCgd3ZWF0aGVyFX8qmkAyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWUGp2MDRsaU1Qa2hFamJRX1JabmE5ZS1EbXdaekMwTkg2T3VkTVdNalQ2aTFqUjFPV21BTEZjQ3VwVVRVNU5UZ2dzdnlncEtCb05yN3IzT19hblR0SHJMMTY4THJvb3l2SVVuY0xmMEhPellrNFU3eW9mZ0Y6Ek1TTiA8Yj5XZWF0aGVyPC9iPkKMATxiPkdldCBhY2N1cmF0ZSBob3VybHkgZm9yZWNhc3RzIGZvciB0b2RheSwgdG9uaWdodCwgYW5kIHRvbW9ycm93PC9iPiwgYWxvbmcgd2l0aCAxMC1kYXkgZGFpbHkgZm9yZWNhc3RzIGFuZCB3ZWF0aGVyIHJhZGFyIHdpdGggTVNOIFdlYXRoZXIuIgIQAUgAWABoAA",
+   "source": "MSN"
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "New York weather update: Enjoy sunny 21°C today before Tropical Rainstorm Isaias",
+   "link": "https://timesofindia.indiatimes.com/weather/us/new-york-weather-update-enjoy-sunny-21c-today-before-tropical-rainstorm-isaias/articleshow/134854114.cms",
+   "source": "The Times of India",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXMAQDMAADNBgbKAADJAADLAADIAAD43t722trmmJf____llJTODw7VR0f21tbsr6_on5_uuLjdbWzUPj7xwcHQKSn-8_PQHx7dZ2bccXH65eXSJCTQFhbooqLji4vee3v76-vYVVUTPZcvAAAAhklEQVQYlY2O2w6DMAxDkzpJGd0obMC4lF3-_ydX4Im9bJYiR0dKbKKD2NFvwLw67b4BQKAMPouyGNOlir6O1lxvbYe2v9NgobChrgxjb8ELKU6F2FRD5zIFj_wjA5kWaFfyCigDwyPP87WdsIvFrLKM7yZp9ClHQ3IFqIL39Y_qBzlyX_oAugAFO4H--JIAAAAASUVORK5CYII.png",
+   "date": "3 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca56c7b77a0a9a2729cec9/images/Vyv67EJ-9RPDuzbecqK4CuvsxpTIGrc5gdqSORjJb-A.jpeg"
+  },
+  {
+   "title": "First Alert weather on The Breakfast Show 10/10",
+   "link": "https://www.fox8live.com/video/2026/10/10/first-alert-weather-breakfast-show-1010/",
+   "source": "fox8live.com",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAk1BMVEX____pmKatKzjWhZPCcX-vXmybSljhFzrdGDjVGTXSGjTLHDLYGTa-OUjbk5_qwcjy2t735-n24-bw0dbkr7jKg5D79_fpy9DNm6SxOk_Flp727_C-iJK0N02yJz-6ipKHNkSwe4W8JD7bWnCOTFi9l57rY3r0uMLkL07gNVD1sb362t_neInoaH3ga3rKMULMYGw0z_gsAAAAqElEQVQYlV2O1xaCMBBEBwlsGkIQQcWCYm_x_7_OLPrEPNwze0_KIhoFcRxP88I5V86q0GMIMa8BOEYjhECSLEKt_0wSLNNVqG26DkSabkDbHYtuz6I7EIh6Pnw8BRaKCFLS2WHI5UokYe2tDMP9ERBJaaHsk3-VL75orYLWg7AsoLSG-Qn1ZqFZmEFoFrUxBt73vHXOL-fee2RZ9qmKtm5dMw09w2SULzARCuBslmCBAAAAAElFTkSuQmCC.png",
+   "date": "2 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca56c7b77a0a9a2729cec9/images/-EXjvddatbq5mE5Kl-XFX8j916r8zgkhQNfHTpkQnNw.jpeg"
+  },
+  {
+   "title": "Skin swaps for colder weather",
+   "link": "https://www.kare11.com/video/news/local/kare11-saturday/skin-swaps-for-colder-weather/89-152eca44-28fa-4674-b0e8-627a7f720265",
+   "source": "kare11.com",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEX___8ASp00frlnnsqXvNsAPZUEYakAQJfV5PAAQpgASJyJtNYEX6gAXKYARZorcbKjxN-wzOMBWKRGg7y50ud-rdKow9_0-fsATp8ANpIAU6Jbj8LF1-kea69ynsrI3OyApc5NfrkAK4tll8ZNhr6Wt9gxd7UweA-IAAAAcUlEQVQYlcXI2QGDIAAD0IDKpaggCmrtXfYfsZSyg_lJ8tAx3cthNFZbHiY3Q0tFF8CHddsvwIjj6pByi3fx6xqDQYZH_gn4kYd47gUI_UNTnQG-gCkgXmsGR6GmxO9NNi38JyqCQOvYS8tI1TKuNPsCtlQGP5LeQU8AAAAASUVORK5CYII.png",
+   "date": "23 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6aca56c7b77a0a9a2729cec9/images/kn1knnlYke5uPBbn3a8xgZUDY16pXxtLJsvPENs20DA.jpeg",
+   "label": "Video"
+  },
+  {
+   "title": "ABC Columbia Weather Team Update",
+   "link": "https://www.abccolumbia.com/2026/10/10/abc-columbia-weather-team-update/",
+   "source": "ABC Columbia",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAjVBMVEX___8AAAD8_PyhoaG9vb2srKyLi4ubm5v5-fkeHh7Nzc2Xl5eOjo5xcXErKysmKy_d3d1-fn5qampPT09YWFg6OjrX19diYmJDQ0MUFBQICAiGhoYaGhoPDw_y8vJISEjo6OjExMIUGBtma24LEBUcISQqLzMuNzo2P0I_REhHT1JSW14ABw7JztGZnaGmxh1kAAAAxklEQVQYlS2PiRKCMAxENy2lhVpOFRVFrqJ4_f_nmTpmJpm8zO4kAQSAIpKxTgEjAmGvpC6rOqEIxrAgVUrGbrvLiGzQ76XSrWsO2ZFOrIGI7aaVSJLzhTiA1ClZ2-7qmJqKJbYXKCpeUDB0fQxlsgwSRJ3lYkvIjo06DELZlGgLAzQDTP-3DOTqZkeVo5EmF_bOr8tpzMfZ-9z7mQ-PKOF-yfPbffVDeEUT83JbH89V8en8XzS-_HJ_PKd3oF8Odpo-79CLL4C8DVtLw0PrAAAAAElFTkSuQmCC.png",
+   "date": "21 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6aca56c7b77a0a9a2729cec9/images/VeX3Y6ghruehokZoW_O_5OM0uW72cGn8TgLEuQJBdlg.jpeg"
+  }
+ ],
+ "top_stories_link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&q=weather&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQt8YBKAJ6BAgbEAU",
+ "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&tbm=nws",
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Weather 10days",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&q=Weather+10days&sa=X&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ1QJ6BAg9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=Weather+10days"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather today",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&q=Weather+today&sa=X&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ1QJ6BAhEEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=Weather+today"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather ☀",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&q=Weather+%E2%98%80%EF%B8%8F&sa=X&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ1QJ6BAhDEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=Weather+%E2%98%80%EF%B8%8F"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather journal",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&q=Weather+journal&sa=X&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ1QJ6BAhCEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=Weather+journal"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather up",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&q=Weather+up&sa=X&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ1QJ6BAhBEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=Weather+up"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather Gaya",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&q=Weather+Gaya&sa=X&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ1QJ6BAhAEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=Weather+Gaya"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather Dharamshala",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&q=Weather+Dharamshala&sa=X&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ1QJ6BAg_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=Weather+Dharamshala"
+  },
+  {
+   "block_position": 1,
+   "query": "Weather ☀️ l",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&q=Weather+%E2%98%80%EF%B8%8F+live&sa=X&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ1QJ6BAg-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=Weather+%E2%98%80%EF%B8%8F+live"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=10&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8NMDegQIOBAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=10&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8tMDegQIOBAE",
+   "3": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=20&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8tMDegQIOBAG",
+   "4": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=30&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8tMDegQIOBAI",
+   "5": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=40&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8tMDegQIOBAK",
+   "6": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=50&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8tMDegQIOBAM",
+   "7": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=60&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8tMDegQIOBAO",
+   "8": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=70&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8tMDegQIOBAQ",
+   "9": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=80&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8tMDegQIOBAS",
+   "10": "https://www.google.co.in/search?q=weather&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQntJbNiYbZxZLeeoKG2iQlPhlu-G8w:1791645399171&ei=11bKaoeFCqvn1sQPmuaJsAQ&start=90&sa=N&sstk=AS6-VmKmOKOIm5D_a3C_yRsQmZ2XaF1vB6lL9-rI80F_RgCj12jUrQdgWgchCgc0lQMjVp7XeZKnpJrY8jmKRfKAOlbUE7tUWNhovg&ved=2ahUKEwjHzNKc36-XAxWrs5UCHRpzAkYQ8tMDegQIOBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=weather&start=90"
+  }
+ }
+}

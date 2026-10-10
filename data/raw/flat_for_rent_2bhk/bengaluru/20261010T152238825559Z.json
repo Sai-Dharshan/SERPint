@@ -1,0 +1,483 @@
+{
+ "search_metadata": {
+  "id": "6aca583e4707f13a24fc96a3",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/x8X0TTic8lUflAC2Z9l7WtKRfMVvy4qvCuOsMi1jEJg/6aca583e4707f13a24fc96a3.json",
+  "markdown_endpoint": "https://serpapi.com/searches/x8X0TTic8lUflAC2Z9l7WtKRfMVvy4qvCuOsMi1jEJg/6aca583e4707f13a24fc96a3.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/x8X0TTic8lUflAC2Z9l7WtKRfMVvy4qvCuOsMi1jEJg/6aca583e4707f13a24fc96a3.json_with_pixel_position",
+  "created_at": "2026-10-10 15:22:38 UTC",
+  "processed_at": "2026-10-10 15:22:38 UTC",
+  "google_url": "https://www.google.co.in/search?q=2bhk+flat+for+rent&oq=2bhk+flat+for+rent&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/x8X0TTic8lUflAC2Z9l7WtKRfMVvy4qvCuOsMi1jEJg/6aca583e4707f13a24fc96a3.html",
+  "total_time_taken": 3.7
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "2bhk flat for rent",
+  "location_requested": "Bengaluru,Karnataka,India",
+  "location_used": "Bengaluru,Karnataka,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "2bhk flat for rent",
+  "total_results": 126,
+  "time_taken_displayed": 0.3,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "YesTenant 1BHK 2BHK 3BHK House For Rent in Bangalore, Flats and Apartments for Rent",
+  "type": "Real estate rental agency in Bengaluru, Karnataka",
+  "entity_type": "local_nav",
+  "kgmid": "/g/11p6_ngfx1",
+  "knowledge_graph_search_link": "https://www.google.co.in/search?kgmid=/g/11p6_ngfx1&hl=en-IN&q=YesTenant+1BHK+2BHK+3BHK+House+For+Rent+in+Bangalore%2C+Flats+and+Apartments+for+Rent",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en-IN&kgmid=%2Fg%2F11p6_ngfx1&location=Bengaluru%2CKarnataka%2CIndia&q=YesTenant+1BHK+2BHK+3BHK+House+For+Rent+in+Bangalore%2C+Flats+and+Apartments+for+Rent",
+  "place_id": "ChIJEws5SCYVrjsRgEm5wjvE45M",
+  "description": "Online real estate rental agency facilitating residential apartment and flat leases.",
+  "local_map": {
+   "image": "https://serpapi.com/searches/6aca583e4707f13a24fc96a3/images/fTMwy3sWj_5ftJEwy7td_DZ_ihP3_pYGaXOBKL9zBHM.webp",
+   "link": "https://www.google.co.in/maps/place/YesTenant+1BHK+2BHK+3BHK+House+For+Rent+in+Bangalore,+Flats+and+Apartments+for+Rent/data=!4m2!3m1!1s0x0:0x93e3c43bc2b94980?sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ_BJ6BAhAEAA&hl=en&gl=in"
+  },
+  "rating": 4.2,
+  "review_count": 101,
+  "address": "152, Outer Ring Rd, Sector 5, 1st Block Koramangala, HSR Layout, Bengaluru, Karnataka 560102",
+  "address_links": [
+   {
+    "text": "Address",
+    "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=yestenant+1bhk+2bhk+3bhk+house+for+rent+in+bangalore,+flats+and+apartments+for+rent+bengaluru+address&ludocid=10656576904237762944&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ6BN6BAhEEAI"
+   }
+  ],
+  "phone": "097426 49649",
+  "phone_links": [
+   {
+    "text": "Phone",
+    "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=yestenant+1bhk+2bhk+3bhk+house+for+rent+in+bangalore,+flats+and+apartments+for+rent+bengaluru+phone&ludocid=10656576904237762944&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ6BN6BAhCEAI"
+   }
+  ],
+  "raw_hours": "Closed · Opens 10 am Sun",
+  "hours": {
+   "saturday": {
+    "opens": "10 am",
+    "closes": "8 pm"
+   },
+   "sunday": {
+    "opens": "10 am",
+    "closes": "8 pm"
+   },
+   "monday": {
+    "opens": "10 am",
+    "closes": "8 pm"
+   },
+   "tuesday": {
+    "opens": "10 am",
+    "closes": "8 pm"
+   },
+   "wednesday": {
+    "opens": "10 am",
+    "closes": "8 pm"
+   },
+   "thursday": {
+    "opens": "10 am",
+    "closes": "8 pm"
+   },
+   "friday": {
+    "opens": "10 am",
+    "closes": "8 pm"
+   }
+  },
+  "merchant_description": "\"Yes Tenant is an Online Rental House Portal. Its easy way to find the Rental Houses & Where Tenants connect with verified Owners and Agents.\"",
+  "user_reviews": [
+   {
+    "summary": "Very good taxi service with well experience driver",
+    "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s106659612211663463675!2s0x3bae152648390b13:0x93e3c43bc2b94980?ved=1t:31295&ictx=111",
+    "rating": 5.0,
+    "user": {
+     "name": "BHASKAR S N",
+     "link": "https://www.google.com/maps/contrib/106659612211663463675?hl=en-IN&ved=1t:31296&ictx=111",
+     "thumbnail": "https://serpapi.com/searches/6aca583e4707f13a24fc96a3/images/fTMwy3sWj_5ftJEwy7td_BJL8Ik6Lwar5xp2wrn2Ar9nuBBl9qbOoVG9r6YS0_2S.png"
+    }
+   },
+   {
+    "summary": "Yestenant.com is best place to find verified owners and agents houses.",
+    "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s116316098865317546397!2s0x3bae152648390b13:0x93e3c43bc2b94980?ved=1t:31295&ictx=111",
+    "rating": 5.0,
+    "user": {
+     "name": "Ambresh mc Chandrappa",
+     "link": "https://www.google.com/maps/contrib/116316098865317546397?hl=en-IN&ved=1t:31296&ictx=111",
+     "thumbnail": "https://serpapi.com/searches/6aca583e4707f13a24fc96a3/images/fTMwy3sWj_5ftJEwy7td_OrXJDMYizjdjWKsOy-eWKDZRBFDAXFze6u0Y06VTW_S.png"
+    }
+   },
+   {
+    "summary": "They said to finish by 12pm but the work actually started at 9pm at night.",
+    "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s105127317887255033506!2s0x3bae152648390b13:0x93e3c43bc2b94980?ved=1t:31295&ictx=111",
+    "rating": 1.0,
+    "user": {
+     "name": "AB",
+     "link": "https://www.google.com/maps/contrib/105127317887255033506?hl=en-IN&ved=1t:31296&ictx=111",
+     "thumbnail": "https://serpapi.com/searches/6aca583e4707f13a24fc96a3/images/fTMwy3sWj_5ftJEwy7td_F5rt4Zu7Qo-enltN51npOvZ4fCwCfnxGt8RMiAYyHW5.png"
+    }
+   }
+  ],
+  "unclaimed_listing": true
+ },
+ "ai_overview": {
+  "page_token": "q62db3iczVXZcuI4FP2A-Y7xS8JmIAOpcnVJbgECHJAhC3lxecM2eAEbMM7b_Mt81TzOl4y8BTsBOt0PUyMKy9K9vrrb0fnzL9ty13__9o-5222C-1otDMOq4XmGrVdVr2q5NTmIXLW29OzAV81v-72tc-ENDzDBPH4lztP-le0F2suwMUY7U3Xaptbv-YvZcag44mZBGMPmLJcxbU53mcDb-6puaZxq-p6jM9GBazJqwNUZ3eJIbzWSd9Om4E3U9RRPfTzrOAQxiQOcpMiBvqIeHldBTarRx_r35ne6qAZV3ZX6sIqIIL35en8IcZWts83qpCY7VAf8h8NAgNAnfVsDdEUNwC-ZwxgAngD8vkH4TPC-QzdILKA_hNO1cdlY6h31MnNAWg2cfgjAQ65zxRlUsBuC7CwgJOEAIn4poNNIjXn58no-zkaUffJ4Uipm_GIkWCitAG8IYEoDyM7gP2inWS2dGCZqg3AiwAkSyVXPQY_wrmDwxLquRofH4w7MrfVDWhJS0wzawPWa4tOpUbNUU01e_CDua37erXuDptxA65W1nc3fNsfpsTncOtOd8KJ330BNVaie7cmarkmmVP-WrBtso13vNv_o3CaYUoN3UAVFUD31fcS-3A1eBKM6rsJGDieaoFOey4WBwDtXKT7-AH9KbT5w2sEfB-QLbZ8diWPNKN4vlJpf1VNXUG5vIAAYopJRnHsIPsMJlVSyA0nWnIaRCIwskoJFerGczoAl2eRzNJ_7UUAwNczzfGon60wDfMyICcRi0KUOTvNn9eLZo36E8DHp01bhA_AAqav4440E4zvBzMLKEZhX0CrkGPbielAZRGu6nJmE8GL2TeIYei8QD0u-8xeqDul1Ahc_wM7FMfqSFs5x8wEGJfjI7cFw87BQt7o5W0_nzePSO2ycmOvIebh4jvJzJKT-vzCVUxTJKOoipuCXMIUxPEdRKJOmvp4oKsYUbxjGBUyNU0zlFBXLcoqaFk9No_mEKRScMBWRhKKESxT105iCVzGVF-kcph7PYwpfwlRCUUVMmQIpUVSp6u8UVcDUL1DU6FcpKoGYnk5lvtqvjIu8hcTgrisBHHQX7F37efsyX04npDv3sU1-yFtLZ3fvyJp9K1naPWSHu0i7leiGd69rzJZjFXN9s7Tl3c3S82983d0xju17XF2-axyfXyPRh1GFaFIXRpaAPMd-XY8qPW-omL2oC7rj3duK1w_9Tke0xfli5LKLvdtGTy1zEEZGvWGy6hLMoq0k2avHPSvMpo7iVCZYUDuD9ZFgZ-BXeq5RQYclIJU76aALCpRYecNGothZq0KItJHU3-iJVwEH28eK_iyhp9cW4_gqR6vbMsADAc8AyKAXgqEB6ZVH_3Qe03ns0Ut2sADkewxjJlBlSQ8OXKet6K2uqrTazWZH0eqMY-yiDddqMIHrc41_AUxAYVI",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=q62db3iczVXZcuI4FP2A-Y7xS8JmIAOpcnVJbgECHJAhC3lxecM2eAEbMM7b_Mt81TzOl4y8BTsBOt0PUyMKy9K9vrrb0fnzL9ty13__9o-5222C-1otDMOq4XmGrVdVr2q5NTmIXLW29OzAV81v-72tc-ENDzDBPH4lztP-le0F2suwMUY7U3Xaptbv-YvZcag44mZBGMPmLJcxbU53mcDb-6puaZxq-p6jM9GBazJqwNUZ3eJIbzWSd9Om4E3U9RRPfTzrOAQxiQOcpMiBvqIeHldBTarRx_r35ne6qAZV3ZX6sIqIIL35en8IcZWts83qpCY7VAf8h8NAgNAnfVsDdEUNwC-ZwxgAngD8vkH4TPC-QzdILKA_hNO1cdlY6h31MnNAWg2cfgjAQ65zxRlUsBuC7CwgJOEAIn4poNNIjXn58no-zkaUffJ4Uipm_GIkWCitAG8IYEoDyM7gP2inWS2dGCZqg3AiwAkSyVXPQY_wrmDwxLquRofH4w7MrfVDWhJS0wzawPWa4tOpUbNUU01e_CDua37erXuDptxA65W1nc3fNsfpsTncOtOd8KJ330BNVaie7cmarkmmVP-WrBtso13vNv_o3CaYUoN3UAVFUD31fcS-3A1eBKM6rsJGDieaoFOey4WBwDtXKT7-AH9KbT5w2sEfB-QLbZ8diWPNKN4vlJpf1VNXUG5vIAAYopJRnHsIPsMJlVSyA0nWnIaRCIwskoJFerGczoAl2eRzNJ_7UUAwNczzfGon60wDfMyICcRi0KUOTvNn9eLZo36E8DHp01bhA_AAqav4440E4zvBzMLKEZhX0CrkGPbielAZRGu6nJmE8GL2TeIYei8QD0u-8xeqDul1Ahc_wM7FMfqSFs5x8wEGJfjI7cFw87BQt7o5W0_nzePSO2ycmOvIebh4jvJzJKT-vzCVUxTJKOoipuCXMIUxPEdRKJOmvp4oKsYUbxjGBUyNU0zlFBXLcoqaFk9No_mEKRScMBWRhKKESxT105iCVzGVF-kcph7PYwpfwlRCUUVMmQIpUVSp6u8UVcDUL1DU6FcpKoGYnk5lvtqvjIu8hcTgrisBHHQX7F37efsyX04npDv3sU1-yFtLZ3fvyJp9K1naPWSHu0i7leiGd69rzJZjFXN9s7Tl3c3S82983d0xju17XF2-axyfXyPRh1GFaFIXRpaAPMd-XY8qPW-omL2oC7rj3duK1w_9Tke0xfli5LKLvdtGTy1zEEZGvWGy6hLMoq0k2avHPSvMpo7iVCZYUDuD9ZFgZ-BXeq5RQYclIJU76aALCpRYecNGothZq0KItJHU3-iJVwEH28eK_iyhp9cW4_gqR6vbMsADAc8AyKAXgqEB6ZVH_3Qe03ns0Ut2sADkewxjJlBlSQ8OXKet6K2uqrTazWZH0eqMY-yiDddqMIHrc41_AUxAYVI"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "348 Flats & Apartments for Rent in Bengaluru",
+   "link": "https://www.olx.in/bengaluru_g4058803/for-rent-houses-apartments_c1723/q-bangalore-2-bhk",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFZxonaFuiUZNqMMREIiGuOLwwbWkuc2z2SsEfoBcxER_6L4M25NXPDEgTX_i8EziL_rOAB7yiWUCv_0i-mYNToI_1Ee7S_1NahfvrZBwHnaP5MGz6-EsLw1Qm1cme87MvpGvaA7ubk7q8OmTTg4zBvPRtZetR-qERrh2Q94h4T3sPRxscQJsUkWWzjyv6R0&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQFnoECA8QAQ&uoh=1",
+   "displayed_link": "https://www.olx.in › q-bangalore-2-bhk",
+   "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAADQBgCdASocABwAPtFAtFooIqgoFAEAGglsAHeh9V4QfICWAN41IhzdgBxtaPlqK7-Tmz-xdZoxpw27aXiRqQAA_vYBwkNLZ2-bp0Pjjof_FVNGB6--d8qXDe1Fbj5y0xWa8_xRCVj7Iha_rDHVW4-H_pmb6WkiNKW2z_r08j2QusSkMWwUgljU2Tekf9V2tlMNENblx-8D2gZX9S1BfRuuJG1-Lk2BWYRd2uWDgXVBHARAb9n9LTJht7bi3wJr8-4-Q8_tw3jRerB1hDItcPfqwv-0hFv_k6vEEixm-57B1S7MVyrf4mmbT5C14YQi34Ozosrzq6r5gnDsmwF0LaJBIJIyHqOyMc_ecpIfOhEXSkSi_XGeb6SmwcrAAsw8jxRQ_YtmeVAAAA.webp",
+   "snippet": "Contemporary 2 BHK Semi-Furnished Apartment for Lease in Basaveshwaran. ₹ 25,00,000. 2 BHK Flat for Lease in Govindarajanagar, Vijayanagar. ₹ 25,00,000. 2 BHK ...",
+   "snippet_highlighted_words": [
+    "2 BHK Flat for Lease in Govindarajanagar, Vijayanagar"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Contemporary 2 BHK Semi-Furnished Apartment for Lease in Basaveshwaran. ₹ 25,00,000. 2 BHK Flat for Lease in Govindarajanagar, Vijayanagar. ₹ 25,00,000. 2 BHK ...",
+     "source_info_link": "https://www.olx.in/bengaluru_g4058803/for-rent-houses-apartments_c1723/q-bangalore-2-bhk",
+     "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAADQBgCdASocABwAPtFAtFooIqgoFAEAGglsAHeh9V4QfICWAN41IhzdgBxtaPlqK7-Tmz-xdZoxpw27aXiRqQAA_vYBwkNLZ2-bp0Pjjof_FVNGB6--d8qXDe1Fbj5y0xWa8_xRCVj7Iha_rDHVW4-H_pmb6WkiNKW2z_r08j2QusSkMWwUgljU2Tekf9V2tlMNENblx-8D2gZX9S1BfRuuJG1-Lk2BWYRd2uWDgXVBHARAb9n9LTJht7bi3wJr8-4-Q8_tw3jRerB1hDItcPfqwv-0hFv_k6vEEixm-57B1S7MVyrf4mmbT5C14YQi34Ozosrzq6r5gnDsmwF0LaJBIJIyHqOyMc_ecpIfOhEXSkSi_XGeb6SmwcrAAsw8jxRQ_YtmeVAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZaeG9uYUZ1aVVaTnFNTVJFSWlHdU9Md3diV2t1YzJ6MlNzRWZvQmN4RVJfNkw0TTI1TlhQREVnVFhfaThFemlMX3JPQUI3eWlXVUN2XzBpLW1ZTlRvSV8xRWU3U18xTmFoZnZyWkJ3SG5hUDVNR3o2LUVzTHcxUW0xY21lODdNdnBHdmFBN3ViazdxOE9tVFRnNHpCdlBSdFpldFItcUVScmgyUTk0aDRUM3NQUnhzY1FKc1VrV1d6anl2NlIwEgQaAggAGpwGEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJA5AUIABAAGAAgACpFCgQyYmhrFQAAAAAaBTIgYmhrGg8yIGJoayBhcGFydG1lbnQaCzIgYmhrIGZsYXRzGggyYmhrZmxhdBoJaXY7cDsyYmhrKmoKBGZsYXQVSHJNPxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoJYXBhcnRtZW50GgphcGFydG1lbnRzGgVmbGF0cxoFaG91c2UaBmhvdXNlcxoIcHJvcGVydHkaCDJiaGtmbGF0KgoKA2ZvchUAAAAAKj0KBHJlbnQVZ7-BQBoPYXBhcnRtZW50cyBuZWFyGgZyZW50YWwaB3JlbnRhbHMaB3JlbnRpbmcaBXJlbnRzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZaeG9uYUZ1aVVaTnFNTVJFSWlHdU9Md3diV2t1YzJ6MlNzRWZvQmN4RVJfNkw0TTI1TlhQREVnVFhfaThFemlMX3JPQUI3eWlXVUN2XzBpLW1ZTlRvSV8xRWU3U18xTmFoZnZyWkJ3SG5hUDVNR3o2LUVzTHcxUW0xY21lODdNdnBHdmFBN3ViazdxOE9tVFRnNHpCdlBSdFpldFItcUVScmgyUTk0aDRUM3NQUnhzY1FKc1VrV1d6anl2NlIwOkozNDggPGI-RmxhdHM8L2I-ICZhbXA7IDxiPkFwYXJ0bWVudHMgZm9yIFJlbnQ8L2I-IGluIEJlbmdhbHVydSAtIE9MWCBJbmRpYUKyAUNvbnRlbXBvcmFyeSAyIEJISyBTZW1pLUZ1cm5pc2hlZCBBcGFydG1lbnQgZm9yIExlYXNlIGluIEJhc2F2ZXNod2FyYW4uIOKCuSAyNSwwMCwwMDAuIDxiPjIgQkhLIEZsYXQgZm9yIExlYXNlIGluIEdvdmluZGFyYWphbmFnYXIsIFZpamF5YW5hZ2FyPC9iPi4g4oK5IDI1LDAwLDAwMC4gMiBCSEsmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZaeG9uYUZ1aVVaTnFNTVJFSWlHdU9Md3diV2t1YzJ6MlNzRWZvQmN4RVJfNkw0TTI1TlhQREVnVFhfaThFemlMX3JPQUI3eWlXVUN2XzBpLW1ZTlRvSV8xRWU3U18xTmFoZnZyWkJ3SG5hUDVNR3o2LUVzTHcxUW0xY21lODdNdnBHdmFBN3ViazdxOE9tVFRnNHpCdlBSdFpldFItcUVScmgyUTk0aDRUM3NQUnhzY1FKc1VrV1d6anl2NlIwEgQaAggAGpwGEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJA5AUIABAAGAAgACpFCgQyYmhrFQAAAAAaBTIgYmhrGg8yIGJoayBhcGFydG1lbnQaCzIgYmhrIGZsYXRzGggyYmhrZmxhdBoJaXY7cDsyYmhrKmoKBGZsYXQVSHJNPxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoJYXBhcnRtZW50GgphcGFydG1lbnRzGgVmbGF0cxoFaG91c2UaBmhvdXNlcxoIcHJvcGVydHkaCDJiaGtmbGF0KgoKA2ZvchUAAAAAKj0KBHJlbnQVZ7-BQBoPYXBhcnRtZW50cyBuZWFyGgZyZW50YWwaB3JlbnRhbHMaB3JlbnRpbmcaBXJlbnRzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZaeG9uYUZ1aVVaTnFNTVJFSWlHdU9Md3diV2t1YzJ6MlNzRWZvQmN4RVJfNkw0TTI1TlhQREVnVFhfaThFemlMX3JPQUI3eWlXVUN2XzBpLW1ZTlRvSV8xRWU3U18xTmFoZnZyWkJ3SG5hUDVNR3o2LUVzTHcxUW0xY21lODdNdnBHdmFBN3ViazdxOE9tVFRnNHpCdlBSdFpldFItcUVScmgyUTk0aDRUM3NQUnhzY1FKc1VrV1d6anl2NlIwOkozNDggPGI-RmxhdHM8L2I-ICZhbXA7IDxiPkFwYXJ0bWVudHMgZm9yIFJlbnQ8L2I-IGluIEJlbmdhbHVydSAtIE9MWCBJbmRpYUKyAUNvbnRlbXBvcmFyeSAyIEJISyBTZW1pLUZ1cm5pc2hlZCBBcGFydG1lbnQgZm9yIExlYXNlIGluIEJhc2F2ZXNod2FyYW4uIOKCuSAyNSwwMCwwMDAuIDxiPjIgQkhLIEZsYXQgZm9yIExlYXNlIGluIEdvdmluZGFyYWphbmFnYXIsIFZpamF5YW5hZ2FyPC9iPi4g4oK5IDI1LDAwLDAwMC4gMiBCSEsmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+   "source": "OLX",
+   "read_more_link": "https://www.olx.in/bengaluru_g4058803/for-rent-houses-apartments_c1723/q-bangalore-2-bhk#:~:text=%E2%82%B9%2025%2C00%2C000,%E2%82%B9%2025%2C00%2C000"
+  },
+  {
+   "position": 2,
+   "title": "2 BHK Flats for Rent in Karnataka",
+   "link": "https://www.99acres.com/2-bhk-flats-for-rent-in-karnataka-ffid",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVlkdON9mDncjPUaCnrEy2DjCll8YFYOaa0WiBRighe1C_8vCt9waVRl3hBakIaZbsQSeSVEz5OUNlvpiItmxiicgfIFcXW7qhyW8aGc5U54ZM9l1CxxM3oslF_Wn82ztohiPn8NvdVa8Hqk-A5_g_L_kYQTQ&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQFnoECBAQAQ&uoh=1",
+   "displayed_link": "https://www.99acres.com › 2-bhk-flats-for-rent-in-karn...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEULcMAFNVwMf9n-__8BedcAcdPm8fmOvOYeh9xtq-NFltrG3vOw0O7Z6vZUqDCbAAAAAnRSTlPkQtRT22wAAADcSURBVCiRtZNJEsQgCEVtQQSU-1-3P2boLDrZxUWK4jF80JRPqTenfErRO6jlNm_lvgpbnmVxWnyBXG3I6Aof-4yYzidknZRnaGWTZRqfsAN0BHTWIJldSFbuKjuIatNBUh0RrVnGbZDhjrby3UhQkYnmBUrjdkDIRhuo3Mpmu5pSDGWHI_gH2ZdEfLxtugXwnNNClkjHVCLhcfZcW3BFz4DFiil-avedoSc8DBMaLnOqWZ9CAY9362NP3NcXqSJZDksH2-GQY-8GPdPb9cr-39jLz-QGPj7qp9_hC4FJCwKQ26trAAAAAElFTkSuQmCC.png",
+   "snippet": "2 BHK Flat for rent in Varthur, Bangalore Property has 800 sq.Ft. Super built-Up area with 1 bathroom & 1 balcony attached. The flat is built on 854 sq.Ft. ...",
+   "snippet_highlighted_words": [
+    "2 BHK Flat for rent in Varthur, Bangalore"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "2 BHK Flat for rent in Varthur, Bangalore Property has 800 sq.Ft. Super built-Up area with 1 bathroom & 1 balcony attached. The flat is built on 854 sq.Ft. ...",
+     "source_info_link": "https://www.99acres.com/2-bhk-flats-for-rent-in-karnataka-ffid",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEULcMAFNVwMf9n-__8BedcAcdPm8fmOvOYeh9xtq-NFltrG3vOw0O7Z6vZUqDCbAAAAAnRSTlPkQtRT22wAAADcSURBVCiRtZNJEsQgCEVtQQSU-1-3P2boLDrZxUWK4jF80JRPqTenfErRO6jlNm_lvgpbnmVxWnyBXG3I6Aof-4yYzidknZRnaGWTZRqfsAN0BHTWIJldSFbuKjuIatNBUh0RrVnGbZDhjrby3UhQkYnmBUrjdkDIRhuo3Mpmu5pSDGWHI_gH2ZdEfLxtugXwnNNClkjHVCLhcfZcW3BFz4DFiil-avedoSc8DBMaLnOqWZ9CAY9362NP3NcXqSJZDksH2-GQY-8GPdPb9cr-39jLz-QGPj7qp9_hC4FJCwKQ26trAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmxrZE9OOW1EbmNqUFVhQ25yRXkyRGpDbGw4WUZZT2FhMFdpQlJpZ2hlMUNfOHZDdDl3YVZSbDNoQmFrSWFaYnNRU2VTVkV6NU9VTmx2cGlJdG14aWljZ2ZJRmNYVzdxaHlXOGFHYzVVNTRaTTlsMUN4eE0zb3NsRl9XbjgyenRvaGlQbjhOdmRWYThIcWstQTVfZ19MX2tZUVRREgQaAggAGuEFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAqQUIABAAGAAgACpFCgQyYmhrFRDzlz0aBTIgYmhrGg8yIGJoayBhcGFydG1lbnQaCzIgYmhrIGZsYXRzGggyYmhrZmxhdBoJaXY7cDsyYmhrKmoKBGZsYXQVEuAZQBoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoJYXBhcnRtZW50GgphcGFydG1lbnRzGgVmbGF0cxoFaG91c2UaBmhvdXNlcxoIcHJvcGVydHkaCDJiaGtmbGF0KgoKA2ZvchUAAAAAKj0KBHJlbnQVbhmoQBoPYXBhcnRtZW50cyBuZWFyGgZyZW50YWwaB3JlbnRhbHMaB3JlbnRpbmcaBXJlbnRzMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmxrZE9OOW1EbmNqUFVhQ25yRXkyRGpDbGw4WUZZT2FhMFdpQlJpZ2hlMUNfOHZDdDl3YVZSbDNoQmFrSWFaYnNRU2VTVkV6NU9VTmx2cGlJdG14aWljZ2ZJRmNYVzdxaHlXOGFHYzVVNTRaTTlsMUN4eE0zb3NsRl9XbjgyenRvaGlQbjhOdmRWYThIcWstQTVfZ19MX2tZUVRROjY8Yj4yIEJISyBGbGF0cyBmb3IgUmVudDwvYj4gaW4gS2FybmF0YWthIC0gOTlhY3Jlcy5jb21CrwE8Yj4yIEJISyBGbGF0IGZvciByZW50IGluIFZhcnRodXIsIEJhbmdhbG9yZTwvYj4gUHJvcGVydHkgaGFzIDgwMCBzcS5GdC4gU3VwZXIgYnVpbHQtVXAgYXJlYSB3aXRoIDEgYmF0aHJvb20gJmFtcDsgMSBiYWxjb255IGF0dGFjaGVkLiBUaGUgZmxhdCBpcyBidWlsdCBvbiA4NTQgc3EuRnQuJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmxrZE9OOW1EbmNqUFVhQ25yRXkyRGpDbGw4WUZZT2FhMFdpQlJpZ2hlMUNfOHZDdDl3YVZSbDNoQmFrSWFaYnNRU2VTVkV6NU9VTmx2cGlJdG14aWljZ2ZJRmNYVzdxaHlXOGFHYzVVNTRaTTlsMUN4eE0zb3NsRl9XbjgyenRvaGlQbjhOdmRWYThIcWstQTVfZ19MX2tZUVRREgQaAggAGuEFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAqQUIABAAGAAgACpFCgQyYmhrFRDzlz0aBTIgYmhrGg8yIGJoayBhcGFydG1lbnQaCzIgYmhrIGZsYXRzGggyYmhrZmxhdBoJaXY7cDsyYmhrKmoKBGZsYXQVEuAZQBoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoJYXBhcnRtZW50GgphcGFydG1lbnRzGgVmbGF0cxoFaG91c2UaBmhvdXNlcxoIcHJvcGVydHkaCDJiaGtmbGF0KgoKA2ZvchUAAAAAKj0KBHJlbnQVbhmoQBoPYXBhcnRtZW50cyBuZWFyGgZyZW50YWwaB3JlbnRhbHMaB3JlbnRpbmcaBXJlbnRzMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmxrZE9OOW1EbmNqUFVhQ25yRXkyRGpDbGw4WUZZT2FhMFdpQlJpZ2hlMUNfOHZDdDl3YVZSbDNoQmFrSWFaYnNRU2VTVkV6NU9VTmx2cGlJdG14aWljZ2ZJRmNYVzdxaHlXOGFHYzVVNTRaTTlsMUN4eE0zb3NsRl9XbjgyenRvaGlQbjhOdmRWYThIcWstQTVfZ19MX2tZUVRROjY8Yj4yIEJISyBGbGF0cyBmb3IgUmVudDwvYj4gaW4gS2FybmF0YWthIC0gOTlhY3Jlcy5jb21CrwE8Yj4yIEJISyBGbGF0IGZvciByZW50IGluIFZhcnRodXIsIEJhbmdhbG9yZTwvYj4gUHJvcGVydHkgaGFzIDgwMCBzcS5GdC4gU3VwZXIgYnVpbHQtVXAgYXJlYSB3aXRoIDEgYmF0aHJvb20gJmFtcDsgMSBiYWxjb255IGF0dGFjaGVkLiBUaGUgZmxhdCBpcyBidWlsdCBvbiA4NTQgc3EuRnQuJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+   "source": "99acres.com"
+  },
+  {
+   "position": 3,
+   "title": "2 BHK Flats for Rent in Chennai",
+   "link": "https://housing.com/rent/2bhk-flats-for-rent-in-chennai-india-C4P4bimjmco2m9afw0m",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFRdQVpq9-MTVwZwap6XtxYCaWs3zwnmY63lMMDFnxUzb_pw6bTE3HJCWkNV7Q3Cn7f8mgXlDrvQ5Ee-QncboE_vLZXuBG8Gs3MSWuEe_IU5SY5-YFVyJAPJLInefuPTHuxeEODUkecyRAb85iAj8T7aPaW0f3guPoEnoWumUYnX86uRgmQq3rA&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQFnoECA4QAQ&uoh=1",
+   "displayed_link": "https://housing.com › Chennai",
+   "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhH0fptzecAq5nqOd5TrLjdBhvplPj6oYPVKNW18b7FZSUWAM_rPB8g_MeCOqFSOv1YXogAD-9hHIDpcCrZsCWCOee_wtXBp_LxpO3e9YCszaJ3xezSStOJ-lwjkwzjN48NoDB0NlAbpK8dznLpX5p-CNL6vQ__iYFRjESAhYSdYtJ2tX0HO2Nve9x8sG7oYqrwJOmnjkKXWn9BxNC4kyIcbYIxqcq5CcatGb25IMNRKYJb_9xLUTJUW59qiwf5801l_zC7WRG875xuZCQa4pMYenyxvE8pV4D_S2kWHSdSH1Lvizb4RlKPKh1mLof82JdgzoL_BDuHWZ5wKitTbcANgUOtvXy3KgY0ZwfGS6DHI02uEOHtbPrks9SvF7ig9mMAt5Qc5gdo3khzsnd8OGUSEJpIkO132APkmoFNrrNefPF7HBEIb9csx-z7JEVdJ_P2JA1bknDMi1eT1_AAA.webp",
+   "snippet": "Housing.com offers 1072+ 2 BHK Flats for rent, The average price to rent a 2 BHK Flats in Chennai is Rs. 23,663. There are 429 fully furnished 2 BHK Flats ...",
+   "snippet_highlighted_words": [
+    "2 BHK Flats for rent"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Housing.com offers 1072+ 2 BHK Flats for rent, The average price to rent a 2 BHK Flats in Chennai is Rs. 23,663. There are 429 fully furnished 2 BHK Flats ...",
+     "source_info_link": "https://housing.com/rent/2bhk-flats-for-rent-in-chennai-india-C4P4bimjmco2m9afw0m",
+     "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhH0fptzecAq5nqOd5TrLjdBhvplPj6oYPVKNW18b7FZSUWAM_rPB8g_MeCOqFSOv1YXogAD-9hHIDpcCrZsCWCOee_wtXBp_LxpO3e9YCszaJ3xezSStOJ-lwjkwzjN48NoDB0NlAbpK8dznLpX5p-CNL6vQ__iYFRjESAhYSdYtJ2tX0HO2Nve9x8sG7oYqrwJOmnjkKXWn9BxNC4kyIcbYIxqcq5CcatGb25IMNRKYJb_9xLUTJUW59qiwf5801l_zC7WRG875xuZCQa4pMYenyxvE8pV4D_S2kWHSdSH1Lvizb4RlKPKh1mLof82JdgzoL_BDuHWZ5wKitTbcANgUOtvXy3KgY0ZwfGS6DHI02uEOHtbPrks9SvF7ig9mMAt5Qc5gdo3khzsnd8OGUSEJpIkO132APkmoFNrrNefPF7HBEIb9csx-z7JEVdJ_P2JA1bknDMi1eT1_AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZSZFFWcHE5LU1UVndad2FwNlh0eFlDYVdzM3p3bm1ZNjNsTU1ERm54VXpiX3B3NmJURTNISkNXa05WN1EzQ243ZjhtZ1hsRHJ2UTVFZS1RbmNib0VfdkxaWHVCRzhHczNNU1d1RWVfSVU1U1k1LVlGVnlKQVBKTEluZWZ1UFRIdXhlRU9EVWtlY3lSQWI4NWlBajhUN2FQYVcwZjNndVBvRW5vV3VtVVluWDg2dVJnbVFxM3JBEgQaAggAGt0FEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLkFCAAQABgAIAAqRQoEMmJoaxUAAAA_GgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0FY_t7D8aDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FYO5t0AaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGUmRRVnBxOS1NVFZ3WndhcDZYdHhZQ2FXczN6d25tWTYzbE1NREZueFV6Yl9wdzZiVEUzSEpDV2tOVjdRM0NuN2Y4bWdYbERydlE1RWUtUW5jYm9FX3ZMWlh1Qkc4R3MzTVNXdUVlX0lVNVNZNS1ZRlZ5SkFQSkxJbmVmdVBUSHV4ZUVPRFVrZWN5UkFiODVpQWo4VDdhUGFXMGYzZ3VQb0Vub1d1bVVZblg4NnVSZ21RcTNyQTowPGI-MiBCSEsgRmxhdHMgZm9yIFJlbnQ8L2I-IGluIENoZW5uYWkgLSBIb3VzaW5nQqoBSG91c2luZy5jb20gb2ZmZXJzIDEwNzIrIDxiPjIgQkhLIEZsYXRzIGZvciByZW50PC9iPiwgVGhlIGF2ZXJhZ2UgcHJpY2UgdG8gcmVudCBhIDIgQkhLIEZsYXRzIGluIENoZW5uYWkgaXMgUnMuIDIzLDY2My4gVGhlcmUgYXJlIDQyOSBmdWxseSBmdXJuaXNoZWQgMiBCSEsgRmxhdHMmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZSZFFWcHE5LU1UVndad2FwNlh0eFlDYVdzM3p3bm1ZNjNsTU1ERm54VXpiX3B3NmJURTNISkNXa05WN1EzQ243ZjhtZ1hsRHJ2UTVFZS1RbmNib0VfdkxaWHVCRzhHczNNU1d1RWVfSVU1U1k1LVlGVnlKQVBKTEluZWZ1UFRIdXhlRU9EVWtlY3lSQWI4NWlBajhUN2FQYVcwZjNndVBvRW5vV3VtVVluWDg2dVJnbVFxM3JBEgQaAggAGt0FEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLkFCAAQABgAIAAqRQoEMmJoaxUAAAA_GgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0FY_t7D8aDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FYO5t0AaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGUmRRVnBxOS1NVFZ3WndhcDZYdHhZQ2FXczN6d25tWTYzbE1NREZueFV6Yl9wdzZiVEUzSEpDV2tOVjdRM0NuN2Y4bWdYbERydlE1RWUtUW5jYm9FX3ZMWlh1Qkc4R3MzTVNXdUVlX0lVNVNZNS1ZRlZ5SkFQSkxJbmVmdVBUSHV4ZUVPRFVrZWN5UkFiODVpQWo4VDdhUGFXMGYzZ3VQb0Vub1d1bVVZblg4NnVSZ21RcTNyQTowPGI-MiBCSEsgRmxhdHMgZm9yIFJlbnQ8L2I-IGluIENoZW5uYWkgLSBIb3VzaW5nQqoBSG91c2luZy5jb20gb2ZmZXJzIDEwNzIrIDxiPjIgQkhLIEZsYXRzIGZvciByZW50PC9iPiwgVGhlIGF2ZXJhZ2UgcHJpY2UgdG8gcmVudCBhIDIgQkhLIEZsYXRzIGluIENoZW5uYWkgaXMgUnMuIDIzLDY2My4gVGhlcmUgYXJlIDQyOSBmdWxseSBmdXJuaXNoZWQgMiBCSEsgRmxhdHMmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+   "source": "Housing"
+  },
+  {
+   "position": 4,
+   "title": "2 BHK Flats for Rent in Ernakulam",
+   "link": "https://www.99acres.com/2-bhk-flats-for-rent-in-ernakulam-ffid",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAV8oyCFMz2O7jL6X5e8Q0exgzZdBfTdzLbvzlyLKLdU2534LWcQyybP4tMtWeFQwLbsh5YSLgWUufvtk0ROsSYHZbfXboKdqkaiXDXCXzGNgtZs9ro1fjvk9b7m89F9PfxiS63QEWUv0b-1-sQnFdlAbm8mtU&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQFnoECBEQAQ&uoh=1",
+   "displayed_link": "https://www.99acres.com › 2-bhk-flats-for-rent-in-erna...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEULcMAFNVwMf9n-__8BedcAcdPm8fmOvOYeh9xtq-NFltrG3vOw0O7Z6vZUqDCbAAAAAnRSTlPkQtRT22wAAADcSURBVCiRtZNJEsQgCEVtQQSU-1-3P2boLDrZxUWK4jF80JRPqTenfErRO6jlNm_lvgpbnmVxWnyBXG3I6Aof-4yYzidknZRnaGWTZRqfsAN0BHTWIJldSFbuKjuIatNBUh0RrVnGbZDhjrby3UhQkYnmBUrjdkDIRhuo3Mpmu5pSDGWHI_gH2ZdEfLxtugXwnNNClkjHVCLhcfZcW3BFz4DFiil-avedoSc8DBMaLnOqWZ9CAY9362NP3NcXqSJZDksH2-GQY-8GPdPb9cr-39jLz-QGPj7qp9_hC4FJCwKQ26trAAAAAElFTkSuQmCC.png",
+   "snippet": "Choose from over 20+ 2 BHK apartments / flats on rent in Ernakulam. Available at rent of rs 20000 per month. hk, 2 bathroom, 1 balcony.",
+   "snippet_highlighted_words": [
+    "2 BHK apartments / flats on rent in Ernakulam"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Choose from over 20+ 2 BHK apartments / flats on rent in Ernakulam. Available at rent of rs 20000 per month. hk, 2 bathroom, 1 balcony.",
+     "source_info_link": "https://www.99acres.com/2-bhk-flats-for-rent-in-ernakulam-ffid",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEULcMAFNVwMf9n-__8BedcAcdPm8fmOvOYeh9xtq-NFltrG3vOw0O7Z6vZUqDCbAAAAAnRSTlPkQtRT22wAAADcSURBVCiRtZNJEsQgCEVtQQSU-1-3P2boLDrZxUWK4jF80JRPqTenfErRO6jlNm_lvgpbnmVxWnyBXG3I6Aof-4yYzidknZRnaGWTZRqfsAN0BHTWIJldSFbuKjuIatNBUh0RrVnGbZDhjrby3UhQkYnmBUrjdkDIRhuo3Mpmu5pSDGWHI_gH2ZdEfLxtugXwnNNClkjHVCLhcfZcW3BFz4DFiil-avedoSc8DBMaLnOqWZ9CAY9362NP3NcXqSJZDksH2-GQY-8GPdPb9cr-39jLz-QGPj7qp9_hC4FJCwKQ26trAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjhveUNGTXoyTzdqTDZYNWU4UTBleGd6WmRCZlRkekxidnpseUxLTGRVMjUzNExXY1F5eWJQNHRNdFdlRlF3TGJzaDVZU0xnV1V1ZnZ0azBST3NTWUhaYmZYYm9LZHFrYWlYRFhDWHpHTmd0WnM5cm8xZmp2azliN204OUY5UGZ4aVM2M1FFV1V2MGItMS1zUW5GZGxBYm04bXRVEgQaAggAGqwFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqRQoEMmJoaxWx_Wc_GgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0FW0nLUAaDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FSYGtEAaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czKxAS9nb3RvP3VybD1DQUVTZVFIck96QVY4b3lDRk16Mk83akw2WDVlOFEwZXhnelpkQmZUZHpMYnZ6bHlMS0xkVTI1MzRMV2NReXliUDR0TXRXZUZRd0xic2g1WVNMZ1dVdWZ2dGswUk9zU1lIWmJmWGJvS2Rxa2FpWERYQ1h6R05ndFpzOXJvMWZqdms5YjdtODlGOVBmeGlTNjNRRVdVdjBiLTEtc1FuRmRsQWJtOG10VTo2PGI-MiBCSEsgRmxhdHMgZm9yIFJlbnQ8L2I-IGluIEVybmFrdWxhbSAtIDk5YWNyZXMuY29tQo4BQ2hvb3NlIGZyb20gb3ZlciAyMCsgPGI-MiBCSEsgYXBhcnRtZW50cyAvIGZsYXRzIG9uIHJlbnQgaW4gRXJuYWt1bGFtPC9iPi4gQXZhaWxhYmxlIGF0IHJlbnQgb2YgcnMgMjAwMDAgcGVyIG1vbnRoLiBoaywgMiBiYXRocm9vbSwgMSBiYWxjb255LkoDZm9yIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjhveUNGTXoyTzdqTDZYNWU4UTBleGd6WmRCZlRkekxidnpseUxLTGRVMjUzNExXY1F5eWJQNHRNdFdlRlF3TGJzaDVZU0xnV1V1ZnZ0azBST3NTWUhaYmZYYm9LZHFrYWlYRFhDWHpHTmd0WnM5cm8xZmp2azliN204OUY5UGZ4aVM2M1FFV1V2MGItMS1zUW5GZGxBYm04bXRVEgQaAggAGqwFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqRQoEMmJoaxWx_Wc_GgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0FW0nLUAaDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FSYGtEAaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czKxAS9nb3RvP3VybD1DQUVTZVFIck96QVY4b3lDRk16Mk83akw2WDVlOFEwZXhnelpkQmZUZHpMYnZ6bHlMS0xkVTI1MzRMV2NReXliUDR0TXRXZUZRd0xic2g1WVNMZ1dVdWZ2dGswUk9zU1lIWmJmWGJvS2Rxa2FpWERYQ1h6R05ndFpzOXJvMWZqdms5YjdtODlGOVBmeGlTNjNRRVdVdjBiLTEtc1FuRmRsQWJtOG10VTo2PGI-MiBCSEsgRmxhdHMgZm9yIFJlbnQ8L2I-IGluIEVybmFrdWxhbSAtIDk5YWNyZXMuY29tQo4BQ2hvb3NlIGZyb20gb3ZlciAyMCsgPGI-MiBCSEsgYXBhcnRtZW50cyAvIGZsYXRzIG9uIHJlbnQgaW4gRXJuYWt1bGFtPC9iPi4gQXZhaWxhYmxlIGF0IHJlbnQgb2YgcnMgMjAwMDAgcGVyIG1vbnRoLiBoaywgMiBiYXRocm9vbSwgMSBiYWxjb255LkoDZm9yIgIQAUgAWABoAA",
+   "source": "99acres.com"
+  },
+  {
+   "position": 5,
+   "title": "2 BHK Flats for Rent in Thiruvananthapuram District, Kerala",
+   "link": "https://housing.com/rent/2bhk-flats-for-rent-in-thiruvananthapuram-district-kerala-C4P579mokc8ub0t4b4c",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFfE7TJQERwFV9IqHq4MuHHrZ2vh33Zb2UIqjf_7cUNXtiOtfE6ryIHFBSsFw2WUoHEsROrBfACe7Zx-F33Y89ToAIecRdJ9StfB6_Z14497p3iin7ZOAJ7c5B1t7PqmTbw4JM0HCIorNov5GADfsrOdXmgG2kP8Qe_vEurIFHNzZ9fkTWCcheZVLQXgKT3eU-7EPnHf8lATsVJEA6A&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQFnoECBIQAQ&uoh=1",
+   "displayed_link": "https://housing.com › Thiruvananthapuram District",
+   "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhH0fptzecAq5nqOd5TrLjdBhvplPj6oYPVKNW18b7FZSUWAM_rPB8g_MeCOqFSOv1YXogAD-9hHIDpcCrZsCWCOee_wtXBp_LxpO3e9YCszaJ3xezSStOJ-lwjkwzjN48NoDB0NlAbpK8dznLpX5p-CNL6vQ__iYFRjESAhYSdYtJ2tX0HO2Nve9x8sG7oYqrwJOmnjkKXWn9BxNC4kyIcbYIxqcq5CcatGb25IMNRKYJb_9xLUTJUW59qiwf5801l_zC7WRG875xuZCQa4pMYenyxvE8pV4D_S2kWHSdSH1Lvizb4RlKPKh1mLof82JdgzoL_BDuHWZ5wKitTbcANgUOtvXy3KgY0ZwfGS6DHI02uEOHtbPrks9SvF7ig9mMAt5Qc5gdo3khzsnd8OGUSEJpIkO132APkmoFNrrNefPF7HBEIb9csx-z7JEVdJ_P2JA1bknDMi1eT1_AAA.webp",
+   "snippet": "Explore 147+ 2 BHK Properties for Rent in Thiruvananthapuram District, Kerala on Housing.com. Find ✓35+ 2 BHK Flats for Rent, ✓77+ 2 BHK Houses for rent.",
+   "snippet_highlighted_words": [
+    "Explore 147+ 2 BHK Properties for Rent in Thiruvananthapuram District, Kerala"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Explore 147+ 2 BHK Properties for Rent in Thiruvananthapuram District, Kerala on Housing.com. Find ✓35+ 2 BHK Flats for Rent, ✓77+ 2 BHK Houses for rent.",
+     "source_info_link": "https://housing.com/rent/2bhk-flats-for-rent-in-thiruvananthapuram-district-kerala-C4P579mokc8ub0t4b4c",
+     "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhH0fptzecAq5nqOd5TrLjdBhvplPj6oYPVKNW18b7FZSUWAM_rPB8g_MeCOqFSOv1YXogAD-9hHIDpcCrZsCWCOee_wtXBp_LxpO3e9YCszaJ3xezSStOJ-lwjkwzjN48NoDB0NlAbpK8dznLpX5p-CNL6vQ__iYFRjESAhYSdYtJ2tX0HO2Nve9x8sG7oYqrwJOmnjkKXWn9BxNC4kyIcbYIxqcq5CcatGb25IMNRKYJb_9xLUTJUW59qiwf5801l_zC7WRG875xuZCQa4pMYenyxvE8pV4D_S2kWHSdSH1Lvizb4RlKPKh1mLof82JdgzoL_BDuHWZ5wKitTbcANgUOtvXy3KgY0ZwfGS6DHI02uEOHtbPrks9SvF7ig9mMAt5Qc5gdo3khzsnd8OGUSEJpIkO132APkmoFNrrNefPF7HBEIb9csx-z7JEVdJ_P2JA1bknDMi1eT1_AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZmRTdUSlFFUndGVjlJcUhxNE11SEhyWjJ2aDMzWmIyVUlxamZfN2NVTlh0aU90ZkU2cnlJSEZCU3NGdzJXVW9IRXNST3JCZkFDZTdaeC1GMzNZODlUb0FJZWNSZEo5U3RmQjZfWjE0NDk3cDNpaW43Wk9BSjdjNUIxdDdQcW1UYnc0Sk0wSENJb3JOb3Y1R0FEZnNyT2RYbWdHMmtQOFFlX3ZFdXJJRkhOelo5ZmtUV0NjaGVaVkxRWGdLVDNlVS03RVBuSGY4bEFUc1ZKRUE2QRIEGgIIABqFBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDhBQgAEAAYACAAKkUKBDJiaGsVAAAAPxoFMiBiaGsaDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCDJiaGtmbGF0GglpdjtwOzJiaGsqagoEZmxhdBXBBDhAGg8yIGJoayBhcGFydG1lbnQaCzIgYmhrIGZsYXRzGglhcGFydG1lbnQaCmFwYXJ0bWVudHMaBWZsYXRzGgVob3VzZRoGaG91c2VzGghwcm9wZXJ0eRoIMmJoa2ZsYXQqCgoDZm9yFQAAAAAqPQoEcmVudBXear9AGg9hcGFydG1lbnRzIG5lYXIaBnJlbnRhbBoHcmVudGFscxoHcmVudGluZxoFcmVudHMy6AEvZ290bz91cmw9Q0FFU29RRUI2enN3RmZFN1RKUUVSd0ZWOUlxSHE0TXVISHJaMnZoMzNaYjJVSXFqZl83Y1VOWHRpT3RmRTZyeUlIRkJTc0Z3MldVb0hFc1JPckJmQUNlN1p4LUYzM1k4OVRvQUllY1JkSjlTdGZCNl9aMTQ0OTdwM2lpbjdaT0FKN2M1QjF0N1BxbVRidzRKTTBIQ0lvck5vdjVHQURmc3JPZFhtZ0cya1A4UWVfdkV1cklGSE56Wjlma1RXQ2NoZVpWTFFYZ0tUM2VVLTdFUG5IZjhsQVRzVkpFQTZBOkI8Yj4yIEJISyBGbGF0cyBmb3IgUmVudDwvYj4gaW4gVGhpcnV2YW5hbnRoYXB1cmFtIERpc3RyaWN0LCBLZXJhbGFCpAE8Yj5FeHBsb3JlIDE0NysgMiBCSEsgUHJvcGVydGllcyBmb3IgUmVudCBpbiBUaGlydXZhbmFudGhhcHVyYW0gRGlzdHJpY3QsIEtlcmFsYTwvYj4gb24gSG91c2luZy5jb20uIEZpbmQg4pyTMzUrIDIgQkhLIEZsYXRzIGZvciBSZW50LCDinJM3NysgMiBCSEsgSG91c2VzIGZvciByZW50LkoDZm9yIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZmRTdUSlFFUndGVjlJcUhxNE11SEhyWjJ2aDMzWmIyVUlxamZfN2NVTlh0aU90ZkU2cnlJSEZCU3NGdzJXVW9IRXNST3JCZkFDZTdaeC1GMzNZODlUb0FJZWNSZEo5U3RmQjZfWjE0NDk3cDNpaW43Wk9BSjdjNUIxdDdQcW1UYnc0Sk0wSENJb3JOb3Y1R0FEZnNyT2RYbWdHMmtQOFFlX3ZFdXJJRkhOelo5ZmtUV0NjaGVaVkxRWGdLVDNlVS03RVBuSGY4bEFUc1ZKRUE2QRIEGgIIABqFBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDhBQgAEAAYACAAKkUKBDJiaGsVAAAAPxoFMiBiaGsaDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCDJiaGtmbGF0GglpdjtwOzJiaGsqagoEZmxhdBXBBDhAGg8yIGJoayBhcGFydG1lbnQaCzIgYmhrIGZsYXRzGglhcGFydG1lbnQaCmFwYXJ0bWVudHMaBWZsYXRzGgVob3VzZRoGaG91c2VzGghwcm9wZXJ0eRoIMmJoa2ZsYXQqCgoDZm9yFQAAAAAqPQoEcmVudBXear9AGg9hcGFydG1lbnRzIG5lYXIaBnJlbnRhbBoHcmVudGFscxoHcmVudGluZxoFcmVudHMy6AEvZ290bz91cmw9Q0FFU29RRUI2enN3RmZFN1RKUUVSd0ZWOUlxSHE0TXVISHJaMnZoMzNaYjJVSXFqZl83Y1VOWHRpT3RmRTZyeUlIRkJTc0Z3MldVb0hFc1JPckJmQUNlN1p4LUYzM1k4OVRvQUllY1JkSjlTdGZCNl9aMTQ0OTdwM2lpbjdaT0FKN2M1QjF0N1BxbVRidzRKTTBIQ0lvck5vdjVHQURmc3JPZFhtZ0cya1A4UWVfdkV1cklGSE56Wjlma1RXQ2NoZVpWTFFYZ0tUM2VVLTdFUG5IZjhsQVRzVkpFQTZBOkI8Yj4yIEJISyBGbGF0cyBmb3IgUmVudDwvYj4gaW4gVGhpcnV2YW5hbnRoYXB1cmFtIERpc3RyaWN0LCBLZXJhbGFCpAE8Yj5FeHBsb3JlIDE0NysgMiBCSEsgUHJvcGVydGllcyBmb3IgUmVudCBpbiBUaGlydXZhbmFudGhhcHVyYW0gRGlzdHJpY3QsIEtlcmFsYTwvYj4gb24gSG91c2luZy5jb20uIEZpbmQg4pyTMzUrIDIgQkhLIEZsYXRzIGZvciBSZW50LCDinJM3NysgMiBCSEsgSG91c2VzIGZvciByZW50LkoDZm9yIgIQAUgAWABoAA",
+   "source": "Housing"
+  },
+  {
+   "position": 6,
+   "title": "Flats for Rent in Vizag, Andhra Pradesh",
+   "link": "https://housing.com/rent/2bhk-flat-in-vizag-andhra-pradesh-C4M1P6yqv9gjjq47fhjcz",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFa6CDcqi6Kl-ct0xpuUAs7M094x_pWGPK9zGqMoRgfQJho681puchdagEqwbt1U0u8VPt7vXrB3ns48TW3zrMFsW_UKayUxcvXEQ4MRL_9k-EYHtQ6n91IuutdnYBT-5EcshOKC-mtmjraWD0_-uYKnEW9wObmbUT_fKBFgzXZrJoRAbafGX&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQFnoECBMQAQ&uoh=1",
+   "displayed_link": "https://housing.com › rent › 2bhk-flat-in-vizag-andhra-...",
+   "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhH0fptzecAq5nqOd5TrLjdBhvplPj6oYPVKNW18b7FZSUWAM_rPB8g_MeCOqFSOv1YXogAD-9hHIDpcCrZsCWCOee_wtXBp_LxpO3e9YCszaJ3xezSStOJ-lwjkwzjN48NoDB0NlAbpK8dznLpX5p-CNL6vQ__iYFRjESAhYSdYtJ2tX0HO2Nve9x8sG7oYqrwJOmnjkKXWn9BxNC4kyIcbYIxqcq5CcatGb25IMNRKYJb_9xLUTJUW59qiwf5801l_zC7WRG875xuZCQa4pMYenyxvE8pV4D_S2kWHSdSH1Lvizb4RlKPKh1mLof82JdgzoL_BDuHWZ5wKitTbcANgUOtvXy3KgY0ZwfGS6DHI02uEOHtbPrks9SvF7ig9mMAt5Qc5gdo3khzsnd8OGUSEJpIkO132APkmoFNrrNefPF7HBEIb9csx-z7JEVdJ_P2JA1bknDMi1eT1_AAA.webp",
+   "snippet": "Find 428+ Properties for Rent in Vizag, Andhra Pradesh, 2 BHK Apartment / Flat for rent in Allipuram Hall. Flat for rent in Daba Gardens, Allipuram 35,000 ...",
+   "snippet_highlighted_words": [
+    "2 BHK Apartment / Flat for rent in Allipuram Hall"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Find 428+ Properties for Rent in Vizag, Andhra Pradesh, 2 BHK Apartment / Flat for rent in Allipuram Hall. Flat for rent in Daba Gardens, Allipuram 35,000 ...",
+     "source_info_link": "https://housing.com/rent/2bhk-flat-in-vizag-andhra-pradesh-C4M1P6yqv9gjjq47fhjcz",
+     "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhH0fptzecAq5nqOd5TrLjdBhvplPj6oYPVKNW18b7FZSUWAM_rPB8g_MeCOqFSOv1YXogAD-9hHIDpcCrZsCWCOee_wtXBp_LxpO3e9YCszaJ3xezSStOJ-lwjkwzjN48NoDB0NlAbpK8dznLpX5p-CNL6vQ__iYFRjESAhYSdYtJ2tX0HO2Nve9x8sG7oYqrwJOmnjkKXWn9BxNC4kyIcbYIxqcq5CcatGb25IMNRKYJb_9xLUTJUW59qiwf5801l_zC7WRG875xuZCQa4pMYenyxvE8pV4D_S2kWHSdSH1Lvizb4RlKPKh1mLof82JdgzoL_BDuHWZ5wKitTbcANgUOtvXy3KgY0ZwfGS6DHI02uEOHtbPrks9SvF7ig9mMAt5Qc5gdo3khzsnd8OGUSEJpIkO132APkmoFNrrNefPF7HBEIb9csx-z7JEVdJ_P2JA1bknDMi1eT1_AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhNkNEY3FpNktsLWN0MHhwdVVBczdNMDk0eF9wV0dQSzl6R3FNb1JnZlFKaG82ODFwdWNoZGFnRXF3YnQxVTB1OFZQdDd2WHJCM25zNDhUVzN6ck1Gc1dfVUtheVV4Y3ZYRVE0TVJMXzlrLUVZSHRRNm45MUl1dXRkbllCVC01RWNzaE9LQy1tdG1qcmFXRDBfLXVZS25FVzl3T2JtYlVUX2ZLQkZnelhackpvUkFiYWZHWBIEGgIIABrjBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC_BQgAEAAYACAAKkUKBDJiaGsVAAAAPxoFMiBiaGsaDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCDJiaGtmbGF0GglpdjtwOzJiaGsqagoEZmxhdBV9XXpAGg8yIGJoayBhcGFydG1lbnQaCzIgYmhrIGZsYXRzGglhcGFydG1lbnQaCmFwYXJ0bWVudHMaBWZsYXRzGgVob3VzZRoGaG91c2VzGghwcm9wZXJ0eRoIMmJoa2ZsYXQqCgoDZm9yFQAAAAAqPQoEcmVudBWwvLNAGg9hcGFydG1lbnRzIG5lYXIaBnJlbnRhbBoHcmVudGFscxoHcmVudGluZxoFcmVudHMyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RmE2Q0RjcWk2S2wtY3QweHB1VUFzN00wOTR4X3BXR1BLOXpHcU1vUmdmUUpobzY4MXB1Y2hkYWdFcXdidDFVMHU4VlB0N3ZYckIzbnM0OFRXM3pyTUZzV19VS2F5VXhjdlhFUTRNUkxfOWstRVlIdFE2bjkxSXV1dGRuWUJULTVFY3NoT0tDLW10bWpyYVdEMF8tdVlLbkVXOXdPYm1iVVRfZktCRmd6WFpySm9SQWJhZkdYOjg8Yj5GbGF0cyBmb3IgUmVudDwvYj4gaW4gVml6YWcsIEFuZGhyYSBQcmFkZXNoIC0gSG91c2luZ0KqAUZpbmQgNDI4KyBQcm9wZXJ0aWVzIGZvciBSZW50IGluIFZpemFnLCBBbmRocmEgUHJhZGVzaCwgPGI-MiBCSEsgQXBhcnRtZW50IC8gRmxhdCBmb3IgcmVudCBpbiBBbGxpcHVyYW0gSGFsbDwvYj4uIEZsYXQgZm9yIHJlbnQgaW4gRGFiYSBHYXJkZW5zLCBBbGxpcHVyYW0gMzUsMDAwJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhNkNEY3FpNktsLWN0MHhwdVVBczdNMDk0eF9wV0dQSzl6R3FNb1JnZlFKaG82ODFwdWNoZGFnRXF3YnQxVTB1OFZQdDd2WHJCM25zNDhUVzN6ck1Gc1dfVUtheVV4Y3ZYRVE0TVJMXzlrLUVZSHRRNm45MUl1dXRkbllCVC01RWNzaE9LQy1tdG1qcmFXRDBfLXVZS25FVzl3T2JtYlVUX2ZLQkZnelhackpvUkFiYWZHWBIEGgIIABrjBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC_BQgAEAAYACAAKkUKBDJiaGsVAAAAPxoFMiBiaGsaDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCDJiaGtmbGF0GglpdjtwOzJiaGsqagoEZmxhdBV9XXpAGg8yIGJoayBhcGFydG1lbnQaCzIgYmhrIGZsYXRzGglhcGFydG1lbnQaCmFwYXJ0bWVudHMaBWZsYXRzGgVob3VzZRoGaG91c2VzGghwcm9wZXJ0eRoIMmJoa2ZsYXQqCgoDZm9yFQAAAAAqPQoEcmVudBWwvLNAGg9hcGFydG1lbnRzIG5lYXIaBnJlbnRhbBoHcmVudGFscxoHcmVudGluZxoFcmVudHMyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RmE2Q0RjcWk2S2wtY3QweHB1VUFzN00wOTR4X3BXR1BLOXpHcU1vUmdmUUpobzY4MXB1Y2hkYWdFcXdidDFVMHU4VlB0N3ZYckIzbnM0OFRXM3pyTUZzV19VS2F5VXhjdlhFUTRNUkxfOWstRVlIdFE2bjkxSXV1dGRuWUJULTVFY3NoT0tDLW10bWpyYVdEMF8tdVlLbkVXOXdPYm1iVVRfZktCRmd6WFpySm9SQWJhZkdYOjg8Yj5GbGF0cyBmb3IgUmVudDwvYj4gaW4gVml6YWcsIEFuZGhyYSBQcmFkZXNoIC0gSG91c2luZ0KqAUZpbmQgNDI4KyBQcm9wZXJ0aWVzIGZvciBSZW50IGluIFZpemFnLCBBbmRocmEgUHJhZGVzaCwgPGI-MiBCSEsgQXBhcnRtZW50IC8gRmxhdCBmb3IgcmVudCBpbiBBbGxpcHVyYW0gSGFsbDwvYj4uIEZsYXQgZm9yIHJlbnQgaW4gRGFiYSBHYXJkZW5zLCBBbGxpcHVyYW0gMzUsMDAwJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+   "source": "Housing"
+  },
+  {
+   "position": 7,
+   "title": "405 Flats & Apartments for Rent in Karnataka",
+   "link": "https://www.olx.in/karnataka_g2001159/for-rent-houses-apartments_c1723/q-rent-for-2bhk",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFfFXioeF3OGHa0rDmVxaUgEehXPydwxoguFI3j2DG0wW4HtaGyc3EA__VjXzzatPfUuQUwbSe3oM6Lg8DDHFrmA1m2jK5soOSt_-ccqqNnJ5upSpEVuEmHKgHAyp-z-0btIEE0aFsiY7YSIHm9GJ8-u2Obta9UiBfifEDVR7zzyRvIiIlMH6zqwLWKIa&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQFnoECGAQAQ&uoh=1",
+   "displayed_link": "https://www.olx.in › ... › categoryInLocation",
+   "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAADQBgCdASocABwAPtFAtFooIqgoFAEAGglsAHeh9V4QfICWAN41IhzdgBxtaPlqK7-Tmz-xdZoxpw27aXiRqQAA_vYBwkNLZ2-bp0Pjjof_FVNGB6--d8qXDe1Fbj5y0xWa8_xRCVj7Iha_rDHVW4-H_pmb6WkiNKW2z_r08j2QusSkMWwUgljU2Tekf9V2tlMNENblx-8D2gZX9S1BfRuuJG1-Lk2BWYRd2uWDgXVBHARAb9n9LTJht7bi3wJr8-4-Q8_tw3jRerB1hDItcPfqwv-0hFv_k6vEEixm-57B1S7MVyrf4mmbT5C14YQi34Ozosrzq6r5gnDsmwF0LaJBIJIyHqOyMc_ecpIfOhEXSkSi_XGeb6SmwcrAAsw8jxRQ_YtmeVAAAA.webp",
+   "snippet": "2BHK for rent on 2nd floor. ₹ 10,500 ; 2bhk for rent. ₹ 18,000 ; 2BHK Flat for Rent Near New Baldwin School GNR layout Margondanahalli. ₹ 15,500 ; 2BHK for rent ...",
+   "snippet_highlighted_words": [
+    "2BHK for rent on 2nd floor. ₹ 10,500"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "2BHK for rent on 2nd floor. ₹ 10,500 ; 2bhk for rent. ₹ 18,000 ; 2BHK Flat for Rent Near New Baldwin School GNR layout Margondanahalli. ₹ 15,500 ; 2BHK for rent ...",
+     "source_info_link": "https://www.olx.in/karnataka_g2001159/for-rent-houses-apartments_c1723/q-rent-for-2bhk",
+     "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAADQBgCdASocABwAPtFAtFooIqgoFAEAGglsAHeh9V4QfICWAN41IhzdgBxtaPlqK7-Tmz-xdZoxpw27aXiRqQAA_vYBwkNLZ2-bp0Pjjof_FVNGB6--d8qXDe1Fbj5y0xWa8_xRCVj7Iha_rDHVW4-H_pmb6WkiNKW2z_r08j2QusSkMWwUgljU2Tekf9V2tlMNENblx-8D2gZX9S1BfRuuJG1-Lk2BWYRd2uWDgXVBHARAb9n9LTJht7bi3wJr8-4-Q8_tw3jRerB1hDItcPfqwv-0hFv_k6vEEixm-57B1S7MVyrf4mmbT5C14YQi34Ozosrzq6r5gnDsmwF0LaJBIJIyHqOyMc_ecpIfOhEXSkSi_XGeb6SmwcrAAsw8jxRQ_YtmeVAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZmRlhpb2VGM09HSGEwckRtVnhhVWdFZWhYUHlkd3hvZ3VGSTNqMkRHMHdXNEh0YUd5YzNFQV9fVmpYenphdFBmVXVRVXdiU2Uzb002TGc4RERIRnJtQTFtMmpLNXNvT1N0Xy1jY3FxTm5KNXVwU3BFVnVFbUhLZ0hBeXAtei0wYnRJRUUwYUZzaVk3WVNJSG05R0o4LXUyT2J0YTlVaUJmaWZFRFZSN3p6eVJ2SWlJbE1INnpxd0xXS0lhEgQaAggAGokGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQOUFCAAQABgAIAAqRQoEMmJoaxUEmIpAGgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0Fd1sK0AaDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FVE-yEAaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGZkZYaW9lRjNPR0hhMHJEbVZ4YVVnRWVoWFB5ZHd4b2d1RkkzajJERzB3VzRIdGFHeWMzRUFfX1ZqWHp6YXRQZlV1UVV3YlNlM29NNkxnOERESEZybUExbTJqSzVzb09TdF8tY2NxcU5uSjV1cFNwRVZ1RW1IS2dIQXlwLXotMGJ0SUVFMGFGc2lZN1lTSUhtOUdKOC11Mk9idGE5VWlCZmlmRURWUjd6enlSdklpSWxNSDZ6cXdMV0tJYTpKNDA1IDxiPkZsYXRzPC9iPiAmYW1wOyA8Yj5BcGFydG1lbnRzIGZvciBSZW50PC9iPiBpbiBLYXJuYXRha2EgLSBPTFggSW5kaWFCtgE8Yj4yQkhLIGZvciByZW50IG9uIDJuZCBmbG9vci4g4oK5IDEwLDUwMDwvYj4gOyAyYmhrIGZvciByZW50LiDigrkgMTgsMDAwIDsgMkJISyBGbGF0IGZvciBSZW50IE5lYXIgTmV3IEJhbGR3aW4gU2Nob29sIEdOUiBsYXlvdXQgTWFyZ29uZGFuYWhhbGxpLiDigrkgMTUsNTAwIDsgMkJISyBmb3IgcmVudCZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZmRlhpb2VGM09HSGEwckRtVnhhVWdFZWhYUHlkd3hvZ3VGSTNqMkRHMHdXNEh0YUd5YzNFQV9fVmpYenphdFBmVXVRVXdiU2Uzb002TGc4RERIRnJtQTFtMmpLNXNvT1N0Xy1jY3FxTm5KNXVwU3BFVnVFbUhLZ0hBeXAtei0wYnRJRUUwYUZzaVk3WVNJSG05R0o4LXUyT2J0YTlVaUJmaWZFRFZSN3p6eVJ2SWlJbE1INnpxd0xXS0lhEgQaAggAGokGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQOUFCAAQABgAIAAqRQoEMmJoaxUEmIpAGgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0Fd1sK0AaDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FVE-yEAaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGZkZYaW9lRjNPR0hhMHJEbVZ4YVVnRWVoWFB5ZHd4b2d1RkkzajJERzB3VzRIdGFHeWMzRUFfX1ZqWHp6YXRQZlV1UVV3YlNlM29NNkxnOERESEZybUExbTJqSzVzb09TdF8tY2NxcU5uSjV1cFNwRVZ1RW1IS2dIQXlwLXotMGJ0SUVFMGFGc2lZN1lTSUhtOUdKOC11Mk9idGE5VWlCZmlmRURWUjd6enlSdklpSWxNSDZ6cXdMV0tJYTpKNDA1IDxiPkZsYXRzPC9iPiAmYW1wOyA8Yj5BcGFydG1lbnRzIGZvciBSZW50PC9iPiBpbiBLYXJuYXRha2EgLSBPTFggSW5kaWFCtgE8Yj4yQkhLIGZvciByZW50IG9uIDJuZCBmbG9vci4g4oK5IDEwLDUwMDwvYj4gOyAyYmhrIGZvciByZW50LiDigrkgMTgsMDAwIDsgMkJISyBGbGF0IGZvciBSZW50IE5lYXIgTmV3IEJhbGR3aW4gU2Nob29sIEdOUiBsYXlvdXQgTWFyZ29uZGFuYWhhbGxpLiDigrkgMTUsNTAwIDsgMkJISyBmb3IgcmVudCZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+   "source": "OLX",
+   "read_more_link": "https://www.olx.in/karnataka_g2001159/for-rent-houses-apartments_c1723/q-rent-for-2bhk#:~:text=%E2%82%B9%2010%2C500&text=%E2%82%B9%2018%2C000&text=%E2%82%B9%2015%2C500&text=%E2%82%B9%2015%2C000"
+  },
+  {
+   "position": 8,
+   "title": "2 BHK Flats for Rent in Kondapur Hyderabad",
+   "link": "https://www.nobroker.in/2bhk-flats-for-rent-in-kondapur_hyderabad",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVUMNXFZqRzcDbBFp3XWnhux8MuMCPPvA7mlAGTAOEHe7LVtk8ECJqXKJrlXZMsMhMhUvkNzfGu1O2gm_A0TAPrO6ghViGEH5Mghn8DHYW-YDEmv-e7Emp4vioVjWAfYkVuA0nK1ENRvOoVJienoaEdz3LnTfcVtg&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQFnoECF4QAQ&uoh=1",
+   "displayed_link": "https://www.nobroker.in › 2bhk-flats-for-rent-in-konda...",
+   "favicon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAABQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ05jbs_sAvTzie3GuwDeP1-CAAlZTbAub3RTweA8JXrVhd58AtzrHkVV5OTpr1zrEAA_vfxWGx91deXFwhdT8TPtyCTvcyct5et2ZnobUFpfrrX4mZjy15fnhdfLxRjpmJqnibqd4_j5fOtd8tYtnpk-iFPF2L9_VuQQT41lkTrhRU2KgFmwbSy4ObtPzWAuhU_f2pTgZ2CCHUFfuw0BmpTzLspgQCOKgsShC4I1pkp5EfuJQw6FeWmYAFigQ920jlfSUoIxJNeH6WtVCwDbOfCPRBwdm_2Out8wk98hiLsAGyslD_6TStLpVVYKEDshwuBBggNLYsda_nGYnlFimygR5bE46mXev00bjE1v0nofvfq6nrg0SyDntF3SPykjpmYe76W7BhwVor9YtFLNngUMMRJDD8mbCN_abcq8YZQ2vafeUqrmPJT-VkAAAA.webp",
+   "snippet": "has 144+ 2 BHK rental properties available across the locality. Monthly 2 BHK rent typically ranges between ₹18000 to ₹50000. Starting rent ₹18300 - Maximum ...",
+   "snippet_highlighted_words": [
+    "has 144+ 2 BHK rental properties available across the locality"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "has 144+ 2 BHK rental properties available across the locality. Monthly 2 BHK rent typically ranges between ₹18000 to ₹50000. Starting rent ₹18300 - Maximum  ...",
+     "source_info_link": "https://www.nobroker.in/2bhk-flats-for-rent-in-kondapur_hyderabad",
+     "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAABQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ05jbs_sAvTzie3GuwDeP1-CAAlZTbAub3RTweA8JXrVhd58AtzrHkVV5OTpr1zrEAA_vfxWGx91deXFwhdT8TPtyCTvcyct5et2ZnobUFpfrrX4mZjy15fnhdfLxRjpmJqnibqd4_j5fOtd8tYtnpk-iFPF2L9_VuQQT41lkTrhRU2KgFmwbSy4ObtPzWAuhU_f2pTgZ2CCHUFfuw0BmpTzLspgQCOKgsShC4I1pkp5EfuJQw6FeWmYAFigQ920jlfSUoIxJNeH6WtVCwDbOfCPRBwdm_2Out8wk98hiLsAGyslD_6TStLpVVYKEDshwuBBggNLYsda_nGYnlFimygR5bE46mXev00bjE1v0nofvfq6nrg0SyDntF3SPykjpmYe76W7BhwVor9YtFLNngUMMRJDD8mbCN_abcq8YZQ2vafeUqrmPJT-VkAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlVNTlhGWnFSemNEYkJGcDNYV25odXg4TXVNQ1BQdkE3bWxBR1RBT0VIZTdMVnRrOEVDSnFYS0pybFhaTXNNaE1oVXZrTnpmR3UxTzJnbV9BMFRBUHJPNmdoVmlHRUg1TWdobjhESFlXLVlERW12LWU3RW1wNHZpb1ZqV0FmWWtWdUEwbksxRU5Sdk9vVkppZW5vYUVkejNMblRmY1Z0ZxIEGgIIABrdBRICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLcFCAAQABgAIAAqRQoEMmJoaxUAAAA_GgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0FaDV4T8aDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FfVvvEAaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZVTU5YRlpxUnpjRGJCRnAzWFduaHV4OE11TUNQUHZBN21sQUdUQU9FSGU3TFZ0azhFQ0pxWEtKcmxYWk1zTWhNaFV2a056Zkd1MU8yZ21fQTBUQVByTzZnaFZpR0VINU1naG44REhZVy1ZREVtdi1lN0VtcDR2aW9WaldBZllrVnVBMG5LMUVOUnZPb1ZKaWVub2FFZHozTG5UZmNWdGc6PDxiPjIgQkhLIEZsYXRzIGZvciBSZW50PC9iPiBpbiBLb25kYXB1ciBIeWRlcmFiYWQgLSBOb0Jyb2tlckKzATxiPmhhcyAxNDQrIDIgQkhLIHJlbnRhbCBwcm9wZXJ0aWVzIGF2YWlsYWJsZSBhY3Jvc3MgdGhlIGxvY2FsaXR5PC9iPi4gTW9udGhseSAyIEJISyByZW50IHR5cGljYWxseSByYW5nZXMgYmV0d2VlbiDigrkxODAwMCB0byDigrk1MDAwMC4gU3RhcnRpbmcgcmVudCDigrkxODMwMCAtIE1heGltdW0gJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlVNTlhGWnFSemNEYkJGcDNYV25odXg4TXVNQ1BQdkE3bWxBR1RBT0VIZTdMVnRrOEVDSnFYS0pybFhaTXNNaE1oVXZrTnpmR3UxTzJnbV9BMFRBUHJPNmdoVmlHRUg1TWdobjhESFlXLVlERW12LWU3RW1wNHZpb1ZqV0FmWWtWdUEwbksxRU5Sdk9vVkppZW5vYUVkejNMblRmY1Z0ZxIEGgIIABrdBRICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLcFCAAQABgAIAAqRQoEMmJoaxUAAAA_GgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0FaDV4T8aDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FfVvvEAaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZVTU5YRlpxUnpjRGJCRnAzWFduaHV4OE11TUNQUHZBN21sQUdUQU9FSGU3TFZ0azhFQ0pxWEtKcmxYWk1zTWhNaFV2a056Zkd1MU8yZ21fQTBUQVByTzZnaFZpR0VINU1naG44REhZVy1ZREVtdi1lN0VtcDR2aW9WaldBZllrVnVBMG5LMUVOUnZPb1ZKaWVub2FFZHozTG5UZmNWdGc6PDxiPjIgQkhLIEZsYXRzIGZvciBSZW50PC9iPiBpbiBLb25kYXB1ciBIeWRlcmFiYWQgLSBOb0Jyb2tlckKzATxiPmhhcyAxNDQrIDIgQkhLIHJlbnRhbCBwcm9wZXJ0aWVzIGF2YWlsYWJsZSBhY3Jvc3MgdGhlIGxvY2FsaXR5PC9iPi4gTW9udGhseSAyIEJISyByZW50IHR5cGljYWxseSByYW5nZXMgYmV0d2VlbiDigrkxODAwMCB0byDigrk1MDAwMC4gU3RhcnRpbmcgcmVudCDigrkxODMwMCAtIE1heGltdW0gJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+   "source": "NoBroker"
+  },
+  {
+   "position": 9,
+   "title": "2 BHK Flats for Rent in Kurnool District, Andhra Pradesh",
+   "link": "https://housing.com/rent/2bhk-flats-for-rent-in-kurnool-district-andhra-pradesh-C4P1uuqf4kv0cty0mdu",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFRh8XzQoyl6HQlk5D1Wly_wdKGLK6Fa4_6GDMtIVWp9ym-99tXnyrSz0hw_Z0t0gvv5yGI_0tIQ1eA0NW8LE2rzyosOF2dWf-Onwq9iQElXuihkl441dZ6MVjFt210SU9KsJxQFT-jj1NbyylcqNAdc1PN3DbWqGO5NuEMumq_7KKIduFKnnZmtpsal9Feak4ADSg6xZprBVFg&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQFnoECGQQAQ&uoh=1",
+   "displayed_link": "https://housing.com › Kurnool District",
+   "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhH0fptzecAq5nqOd5TrLjdBhvplPj6oYPVKNW18b7FZSUWAM_rPB8g_MeCOqFSOv1YXogAD-9hHIDpcCrZsCWCOee_wtXBp_LxpO3e9YCszaJ3xezSStOJ-lwjkwzjN48NoDB0NlAbpK8dznLpX5p-CNL6vQ__iYFRjESAhYSdYtJ2tX0HO2Nve9x8sG7oYqrwJOmnjkKXWn9BxNC4kyIcbYIxqcq5CcatGb25IMNRKYJb_9xLUTJUW59qiwf5801l_zC7WRG875xuZCQa4pMYenyxvE8pV4D_S2kWHSdSH1Lvizb4RlKPKh1mLof82JdgzoL_BDuHWZ5wKitTbcANgUOtvXy3KgY0ZwfGS6DHI02uEOHtbPrks9SvF7ig9mMAt5Qc5gdo3khzsnd8OGUSEJpIkO132APkmoFNrrNefPF7HBEIb9csx-z7JEVdJ_P2JA1bknDMi1eT1_AAA.webp",
+   "date": "30 Sept 2026",
+   "snippet": "The average price per sqft to rent a 2 BHK Flats in Kurnool District, Kurnool is Rs. 12,567. Know more. How many fully furnished Flats 2 ...",
+   "snippet_highlighted_words": [
+    "rent",
+    "2 BHK Flats"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The average price per sqft to rent a 2 BHK Flats in Kurnool District, Kurnool is Rs. 12,567. Know more. How many fully furnished Flats 2 ...",
+     "source_info_link": "https://housing.com/rent/2bhk-flats-for-rent-in-kurnool-district-andhra-pradesh-C4P1uuqf4kv0cty0mdu",
+     "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhH0fptzecAq5nqOd5TrLjdBhvplPj6oYPVKNW18b7FZSUWAM_rPB8g_MeCOqFSOv1YXogAD-9hHIDpcCrZsCWCOee_wtXBp_LxpO3e9YCszaJ3xezSStOJ-lwjkwzjN48NoDB0NlAbpK8dznLpX5p-CNL6vQ__iYFRjESAhYSdYtJ2tX0HO2Nve9x8sG7oYqrwJOmnjkKXWn9BxNC4kyIcbYIxqcq5CcatGb25IMNRKYJb_9xLUTJUW59qiwf5801l_zC7WRG875xuZCQa4pMYenyxvE8pV4D_S2kWHSdSH1Lvizb4RlKPKh1mLof82JdgzoL_BDuHWZ5wKitTbcANgUOtvXy3KgY0ZwfGS6DHI02uEOHtbPrks9SvF7ig9mMAt5Qc5gdo3khzsnd8OGUSEJpIkO132APkmoFNrrNefPF7HBEIb9csx-z7JEVdJ_P2JA1bknDMi1eT1_AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZSaDhYelFveWw2SFFsazVEMVdseV93ZEtHTEs2RmE0XzZHRE10SVZXcDl5bS05OXRYbnlyU3owaHdfWjB0MGd2djV5R0lfMHRJUTFlQTBOVzhMRTJyenlvc09GMmRXZi1PbndxOWlRRWxYdWloa2w0NDFkWjZNVmpGdDIxMFNVOUtzSnhRRlQtamoxTmJ5eWxjcU5BZGMxUE4zRGJXcUdPNU51RU11bXFfN0tLSWR1RktublptdHBzYWw5RmVhazRBRFNnNnhacHJCVkZnEgQaAggAGvkFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNUFCAAQABgAIAAqRQoEMmJoaxUAAAA_GgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0FSiQtD8aDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FfT9vEAaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGUmg4WHpRb3lsNkhRbGs1RDFXbHlfd2RLR0xLNkZhNF82R0RNdElWV3A5eW0tOTl0WG55clN6MGh3X1owdDBndnY1eUdJXzB0SVExZUEwTlc4TEUycnp5b3NPRjJkV2YtT253cTlpUUVsWHVpaGtsNDQxZFo2TVZqRnQyMTBTVTlLc0p4UUZULWpqMU5ieXlsY3FOQWRjMVBOM0RiV3FHTzVOdUVNdW1xXzdLS0lkdUZLbm5abXRwc2FsOUZlYWs0QURTZzZ4WnByQlZGZzo_PGI-MiBCSEsgRmxhdHMgZm9yIFJlbnQ8L2I-IGluIEt1cm5vb2wgRGlzdHJpY3QsIEFuZGhyYSBQcmFkZXNoQp8BVGhlIGF2ZXJhZ2UgcHJpY2UgcGVyIHNxZnQgdG8gPGI-cmVudDwvYj4gYSA8Yj4yIEJISyBGbGF0czwvYj4gaW4gS3Vybm9vbCBEaXN0cmljdCwgS3Vybm9vbCBpcyBScy4gMTIsNTY3LiBLbm93IG1vcmUuIEhvdyBtYW55IGZ1bGx5IGZ1cm5pc2hlZCBGbGF0cyAyJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZSaDhYelFveWw2SFFsazVEMVdseV93ZEtHTEs2RmE0XzZHRE10SVZXcDl5bS05OXRYbnlyU3owaHdfWjB0MGd2djV5R0lfMHRJUTFlQTBOVzhMRTJyenlvc09GMmRXZi1PbndxOWlRRWxYdWloa2w0NDFkWjZNVmpGdDIxMFNVOUtzSnhRRlQtamoxTmJ5eWxjcU5BZGMxUE4zRGJXcUdPNU51RU11bXFfN0tLSWR1RktublptdHBzYWw5RmVhazRBRFNnNnhacHJCVkZnEgQaAggAGvkFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNUFCAAQABgAIAAqRQoEMmJoaxUAAAA_GgUyIGJoaxoPMiBiaGsgYXBhcnRtZW50GgsyIGJoayBmbGF0cxoIMmJoa2ZsYXQaCWl2O3A7MmJoaypqCgRmbGF0FSiQtD8aDzIgYmhrIGFwYXJ0bWVudBoLMiBiaGsgZmxhdHMaCWFwYXJ0bWVudBoKYXBhcnRtZW50cxoFZmxhdHMaBWhvdXNlGgZob3VzZXMaCHByb3BlcnR5GggyYmhrZmxhdCoKCgNmb3IVAAAAACo9CgRyZW50FfT9vEAaD2FwYXJ0bWVudHMgbmVhchoGcmVudGFsGgdyZW50YWxzGgdyZW50aW5nGgVyZW50czLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGUmg4WHpRb3lsNkhRbGs1RDFXbHlfd2RLR0xLNkZhNF82R0RNdElWV3A5eW0tOTl0WG55clN6MGh3X1owdDBndnY1eUdJXzB0SVExZUEwTlc4TEUycnp5b3NPRjJkV2YtT253cTlpUUVsWHVpaGtsNDQxZFo2TVZqRnQyMTBTVTlLc0p4UUZULWpqMU5ieXlsY3FOQWRjMVBOM0RiV3FHTzVOdUVNdW1xXzdLS0lkdUZLbm5abXRwc2FsOUZlYWs0QURTZzZ4WnByQlZGZzo_PGI-MiBCSEsgRmxhdHMgZm9yIFJlbnQ8L2I-IGluIEt1cm5vb2wgRGlzdHJpY3QsIEFuZGhyYSBQcmFkZXNoQp8BVGhlIGF2ZXJhZ2UgcHJpY2UgcGVyIHNxZnQgdG8gPGI-cmVudDwvYj4gYSA8Yj4yIEJISyBGbGF0czwvYj4gaW4gS3Vybm9vbCBEaXN0cmljdCwgS3Vybm9vbCBpcyBScy4gMTIsNTY3LiBLbm93IG1vcmUuIEhvdyBtYW55IGZ1bGx5IGZ1cm5pc2hlZCBGbGF0cyAyJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+   "source": "Housing",
+   "read_more_link": "https://housing.com/rent/2bhk-flats-for-rent-in-kurnool-district-andhra-pradesh-C4P1uuqf4kv0cty0mdu#:~:text=The%20average%20price%20per%20sqft,available%20in%20Kurnool%20District%2C%20Kurnool%3F"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "2bhk flat for rent near bengaluru, karnataka",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=2bhk+flat+for+rent+near+bengaluru,+karnataka&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ1QJ6BAhWEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent+near+bengaluru%2C+karnataka"
+  },
+  {
+   "block_position": 1,
+   "query": "2bhk flat for rent near whitefield, bengaluru",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=2bhk+flat+for+rent+near+whitefield,+bengaluru&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ1QJ6BAhdEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent+near+whitefield%2C+bengaluru"
+  },
+  {
+   "block_position": 1,
+   "query": "Bangalore 2 BHK rent",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=Bangalore+2+BHK+rent&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Bangalore+2+BHK+rent"
+  },
+  {
+   "block_position": 1,
+   "query": "Bangalore 2 BHK rent price",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=Bangalore+2+BHK+rent+price&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ1QJ6BAhbEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Bangalore+2+BHK+rent+price"
+  },
+  {
+   "block_position": 1,
+   "query": "2 BHK for rent in Bangalore below 15000",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=2+BHK+for+rent+in+Bangalore+below+15000&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ1QJ6BAhaEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2+BHK+for+rent+in+Bangalore+below+15000"
+  },
+  {
+   "block_position": 1,
+   "query": "2 BHK House for rent in Bangalore below 7000",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=2+BHK+House+for+rent+in+Bangalore+below+7000&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ1QJ6BAhZEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2+BHK+House+for+rent+in+Bangalore+below+7000"
+  },
+  {
+   "block_position": 1,
+   "query": "2 BHK for rent near Me below 15000",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=2+BHK+for+rent+near+Me+below+15000&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ1QJ6BAhYEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2+BHK+for+rent+near+Me+below+15000"
+  },
+  {
+   "block_position": 1,
+   "query": "Olx 2bhk flat for rent",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&q=Olx+2bhk+flat+for+rent&sa=X&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ1QJ6BAhXEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Olx+2bhk+flat+for+rent"
+  }
+ ],
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "In response to a legal request submitted to Google, we have removed 2 result(s) from this page. If you wish, you may read more about the request at LumenDatabase.org.",
+    "highlighted_words": [
+     {
+      "link": "https://lumendatabase.org/notices/86361263",
+      "text": "read more about the request"
+     }
+    ]
+   }
+  ]
+ },
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=10&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8NMDegQIUBAY",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=10&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8tMDegQIUBAG",
+   "3": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=20&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8tMDegQIUBAI",
+   "4": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=30&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8tMDegQIUBAK",
+   "5": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=40&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8tMDegQIUBAM",
+   "6": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=50&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8tMDegQIUBAO",
+   "7": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=60&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8tMDegQIUBAQ",
+   "8": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=70&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8tMDegQIUBAS",
+   "9": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=80&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8tMDegQIUBAU",
+   "10": "https://www.google.co.in/search?q=2bhk+flat+for+rent&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQnsIK5RP59ubyhgxNUQl5QdXhlKJ_w:1791645760842&ei=QFjKatP3MoOckPIPrIS8mQE&start=90&sa=N&sstk=AS6-VmK5mHvH_X1qS-BjFR6KfpJc_mQjO9RZ8hERdjhjXI7dd4rdWaSGUd9CzYxntYCTLcmcUV7FL61Nxb-V59-8OcoiRPjcZcYk2g&ved=2ahUKEwjTl43J4K-XAxUDDkQIHSwCLxMQ8tMDegQIUBAW"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=2bhk+flat+for+rent&start=90"
+  }
+ }
+}

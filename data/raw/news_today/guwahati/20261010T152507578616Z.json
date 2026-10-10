@@ -1,0 +1,538 @@
+{
+ "search_metadata": {
+  "id": "6aca58d373ae60d2d8216ee7",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_G5Np3ir0tMfo_NE_5yihQhCswedLUDFwqyYYYwfRTc/6aca58d373ae60d2d8216ee7.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_G5Np3ir0tMfo_NE_5yihQhCswedLUDFwqyYYYwfRTc/6aca58d373ae60d2d8216ee7.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/_G5Np3ir0tMfo_NE_5yihQhCswedLUDFwqyYYYwfRTc/6aca58d373ae60d2d8216ee7.json_with_pixel_position",
+  "created_at": "2026-10-10 15:25:07 UTC",
+  "processed_at": "2026-10-10 15:25:07 UTC",
+  "google_url": "https://www.google.co.in/search?q=news+today&oq=news+today&uule=w+CAIQICIUR3V3YWhhdGksQXNzYW0sSW5kaWE&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/_G5Np3ir0tMfo_NE_5yihQhCswedLUDFwqyYYYwfRTc/6aca58d373ae60d2d8216ee7.html",
+  "total_time_taken": 0.81
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "news today",
+  "location_requested": "Guwahati,Assam,India",
+  "location_used": "Guwahati,Assam,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "news today",
+  "total_results": 146000,
+  "time_taken_displayed": 0.29,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_images": [
+  {
+   "source": "https://www.indiatoday.in/world/all",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/vQHa5xzOXOF4no6b8566o8iNjFmwTaGtUNhDekVKZ-Y.jpeg",
+   "original": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202610/trumpinksdieseldealwithputintocutusfuelprices-s0-original-nine-to-sixteen.jpg?VersionId=l7BkS1UuxCGPMdd3B1D0KBWOJ4QywO9r",
+   "title": "World News - Latest International News, Breaking World News ...",
+   "source_name": "India Today"
+  },
+  {
+   "source": "https://www.ndtv.com/world",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/2GdgsP4914oMa9kUeN_Omf7-1HFGRyrIC-tINSK4at8.jpeg",
+   "original": "https://c.ndtvimg.com/2026-10/dj3lj4lk_icc-trump_625x300_09_October_26.jpg?downsize=500:281",
+   "title": "World News, Latest & Breaking World News, International News ...",
+   "source_name": "NDTV"
+  },
+  {
+   "source": "https://india.gov.in/news/news-on-air?a591236905",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/rviKU9ciEofmFa-oqlE8cezK0hrEtgpxxRLK9yrjGcw.jpeg",
+   "original": "https://newsonair.gov.in/wp-content/uploads/2026/10/CAPF.jpg",
+   "title": "News on AIR | News / Press Release | National Portal of India",
+   "source_name": "News on AIR | News / Press Release | National Portal of India"
+  },
+  {
+   "source": "https://m.economictimes.com/news/india",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPDW369zyDjacGbCxyusUXpQ272mL3UW4vLF-L-gy47Z2gPO3x8reMiLg&s",
+   "original": "https://img.etimg.com/thumb/width-420,height-315,imgsize-304802,resizemode-75,rect-0_0_0_0,msid-134842258/news/india/discerning-desis-ensured-that-many-local-products-are-now-on-par-with-the-worlds-best.jpg",
+   "title": "India News Today – Breaking Headlines, Latest Updates & Top ...",
+   "source_name": "The Economic Times"
+  },
+  {
+   "source": "https://timesofindia.indiatimes.com/city/delhincr",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOJE05X-dhEjCMoD1tgkxPOeYMxG96N5slTzFkZ6hJEuapCZa7jRWSIs&s",
+   "original": "https://static.toiimg.com/photo/msid-115399069/115399069.jpg?imgsize=711222",
+   "title": "Delhi NCR Region News, Latest Delhi NCR Region News ...",
+   "source_name": "The Times of India"
+  },
+  {
+   "source": "https://zeenews.india.com/latest-news",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2PG2BiK32GG5wVuGYC0lKzRKLXAfiW0a1e9M9NHwXIeqcKFIXc4TH6o&s",
+   "original": "https://english.cdn.zeenews.com/sites/default/files/2026/10/10/1988596-epfo-pension.png?&im=FitAndFill=(484,272)",
+   "title": "Latest News, Breaking News, latest News Today, Current News ...",
+   "source_name": "Zee News"
+  },
+  {
+   "source": "https://www.livemint.com/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDmISQ182sx3A56gYNRBETC1p3Mdtu3Gs3VFyPG-cN7aRBYotXJin5W4A&s",
+   "original": "https://www.livemint.com/lm-img/img/2026/10/10/600x338/USD_vs_INR_BPCL_HPCL_IOCL_Indian_Rupee_RBI_news_1791622144860_2f66_1791622144982_yPOa_42da4bc2-1f79-4a30-a06d-dbc7c1cb5236_m0QS.png",
+   "title": "Business News Today: Read Latest Business News, Live India ...",
+   "source_name": "www.livemint.com"
+  },
+  {
+   "source": "https://www.indiatvnews.com/news",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPAcFgnrlQIYhRuvM44UTgef2CvjSVHnY31CG3KmGCgufSz6JCC86cf8&s",
+   "original": "https://resize.indiatvnews.com/en/resize/newbucket/288_-/2026/10/delhi-police-1791569975.webp",
+   "title": "Latest News Today, Breaking News Headlines, India & World ...",
+   "source_name": "India TV News"
+  },
+  {
+   "source": "https://www.ndtv.com/world",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyf4KwY_tmFkeIRegZUkewo1q9yQlGbav1Ca9Y92ndcB4rnRTOayzP4ck&s",
+   "original": "https://c.ndtvimg.com/2026-10/qqkiqtio_left-right-and-centre_160x120_09_October_26.jpg?downsize=375:211",
+   "title": "World News, Latest & Breaking World News, International News ...",
+   "source_name": "NDTV"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "What is the biggest news in India now?",
+   "type": "ai_overview",
+   "page_token": "5ITv_3icHdDBboIwAADQ7Gc8KkVwamKWMQFhglJoC1yW0qIIBTpFEW_7l33VvmbLTu_-vr7Fqal-nu5F18nLcjLp-358bNujyMesHZ-aCb0MDZswKkRGWbWcPc_Ay4GtzKtjvH06RoCkxGuohCLoQ1RIToTIo2TgDca0sd4zdNewMgc-WAyZ5emZDS5oI8IcCSXBUKWm7CDmRkL0WWa7LrdTiJROUEVReezooekpScwvVKRDUMMyr3XwZ7CNXvsdmU_DuAC4ure8TtdBzTSKoZsSf4_thY6Je6PEaiPiFrsN9HGcXjlYaLCshmwqtRzBMGpSxyfC9y2xp5H3wARLBLhhFqz3iNwmseskyqKghJ-RKYK8TK-pCozk3p4CBB-sFDUSxTWPucVrH5DYWHtIhtxMhkzVprHaNVkJDRSMDuy2mo7-P1cfh7pbynN7_AX2SIPr",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5ITv_3icHdDBboIwAADQ7Gc8KkVwamKWMQFhglJoC1yW0qIIBTpFEW_7l33VvmbLTu_-vr7Fqal-nu5F18nLcjLp-358bNujyMesHZ-aCb0MDZswKkRGWbWcPc_Ay4GtzKtjvH06RoCkxGuohCLoQ1RIToTIo2TgDca0sd4zdNewMgc-WAyZ5emZDS5oI8IcCSXBUKWm7CDmRkL0WWa7LrdTiJROUEVReezooekpScwvVKRDUMMyr3XwZ7CNXvsdmU_DuAC4ure8TtdBzTSKoZsSf4_thY6Je6PEaiPiFrsN9HGcXjlYaLCshmwqtRzBMGpSxyfC9y2xp5H3wARLBLhhFqz3iNwmseskyqKghJ-RKYK8TK-pCozk3p4CBB-sFDUSxTWPucVrH5DYWHtIhtxMhkzVprHaNVkJDRSMDuy2mo7-P1cfh7pbynN7_AX2SIPr",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRXVnljRWw0YjFwV1duRlFiSEYyVFVsNVVXb3RVbk52VldaRVgwbEdUbmRoYlVKWFVUbHJYekZ0ZFhSMmVEZEViMDFKYm1kRk9XbGhNMlZuV0dKT1pFSjNjblkyYTJRNGVqZG9UekkwUVZCNmJXMHllWGMzWlhobmR4SVhNREZxUzJGeVNHTlBZV2xuYTFCSlVIbzJibWR0UVdNYUlrRkVjM0k1WmxKRWFFaE9Wa2xyU3pjeFVsbElTRWRUU2t0SlpXMUpTRjk0Vm1jIiwiZmN2IjoiMyIsImVpIjoiMDFqS2FySGNPYWlna1BJUHo2bmdtQWMiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5aDhrQ1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiaWdnZXN0IG5ld3MgaW4gSW5kaWEgbm93PyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQmlhV2RuWlhOMElHNWxkM01nYVc0Z2FXNWthV0VnYm05MyIsImJzIjoiYzQyUFBRdkNNQkNHY2IxSkVKY0tlb3V0YzNEUDRDQmRCRkhzSFBWTUF2VlNtbWotdnEwMWc0czRQd192Qi13aHI0d0thRDBHUTNpMldwTVB5QlE5V3NhU3IxWWh1eWhGa1MzakQ5TW1FOVl3S3oxdW5kTTE0YTdIdDVZSWc4T0hKeW1tMmFTTDBBUG1oR0VEaThvNGRKSDlwX1Y0R3ZERktHYXFwY0JzSHBNeTFJWG5sd0lIS05JYmhYZlZ6VEtrcnJWbDZpZXF0OXlvaGxvcFZsa2VfMUxIb3hjIiwiaWQiOiJmY18wMWpLYXJIY09haWdrUElQejZuZ21BY181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRXVnljRWw0YjFwV1duRlFiSEYyVFVsNVVXb3RVbk52VldaRVgwbEdUbmRoYlVKWFVUbHJYekZ0ZFhSMmVEZEViMDFKYm1kRk9XbGhNMlZuV0dKT1pFSjNjblkyYTJRNGVqZG9UekkwUVZCNmJXMHllWGMzWlhobmR4SVhNREZxUzJGeVNHTlBZV2xuYTFCSlVIbzJibWR0UVdNYUlrRkVjM0k1WmxKRWFFaE9Wa2xyU3pjeFVsbElTRWRUU2t0SlpXMUpTRjk0Vm1jIiwiZmN2IjoiMyIsImVpIjoiMDFqS2FySGNPYWlna1BJUHo2bmdtQWMiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5aDhrQ1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiaWdnZXN0IG5ld3MgaW4gSW5kaWEgbm93PyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQmlhV2RuWlhOMElHNWxkM01nYVc0Z2FXNWthV0VnYm05MyIsImJzIjoiYzQyUFBRdkNNQkNHY2IxSkVKY0tlb3V0YzNEUDRDQmRCRkhzSFBWTUF2VlNtbWotdnEwMWc0czRQd192Qi13aHI0d0thRDBHUTNpMldwTVB5QlE5V3NhU3IxWWh1eWhGa1MzakQ5TW1FOVl3S3oxdW5kTTE0YTdIdDVZSWc4T0hKeW1tMmFTTDBBUG1oR0VEaThvNGRKSDlwX1Y0R3ZERktHYXFwY0JzSHBNeTFJWG5sd0lIS05JYmhYZlZ6VEtrcnJWbDZpZXF0OXlvaGxvcFZsa2VfMUxIb3hjIiwiaWQiOiJmY18wMWpLYXJIY09haWdrUElQejZuZ21BY181In0%3D"
+  },
+  {
+   "question": "Is Google News free to use?",
+   "type": "ai_overview",
+   "page_token": "Py-rm3icHdDbboIwAIDh7GW8FC0bCyZmkUNVNkoKtEhvFixyLKUZRMS7vcueak8zs8v_8vu_f0Qt298nVo2jGjaaNk3Tsuz7UlyWvF_WUsuGWXKNZ0KcM95ujFdj_VbwrTtMlt1PFiZKUSdcRdQCTJgN0y3jBBCNOx_Qzp9R49k4wfNlDy2qqyAWJUjXyk5gPgRJOkWnfCStWgXQGwMX4ryhEne3wm-RjIg5ZBDrKWUfqMHPmcCrKDk-OsxQYoYBCWNOocOoCBLh1RHJ9bOzm7M1rSPAnNw1HdZRwE7w6FNa5XFop3dY-27lpwBH8L67Ze1Y8bZqYgAVAyN-OAzUvcgzgc2-9qzwgOYgYSSllBCg3lHMolCyKwHrQ0xGcSE3mss8Rm5lLQp-3eqL_2Pbz6IbN-qrL_8AstZ49g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Py-rm3icHdDbboIwAIDh7GW8FC0bCyZmkUNVNkoKtEhvFixyLKUZRMS7vcueak8zs8v_8vu_f0Qt298nVo2jGjaaNk3Tsuz7UlyWvF_WUsuGWXKNZ0KcM95ujFdj_VbwrTtMlt1PFiZKUSdcRdQCTJgN0y3jBBCNOx_Qzp9R49k4wfNlDy2qqyAWJUjXyk5gPgRJOkWnfCStWgXQGwMX4ryhEne3wm-RjIg5ZBDrKWUfqMHPmcCrKDk-OsxQYoYBCWNOocOoCBLh1RHJ9bOzm7M1rSPAnNw1HdZRwE7w6FNa5XFop3dY-27lpwBH8L67Ze1Y8bZqYgAVAyN-OAzUvcgzgc2-9qzwgOYgYSSllBCg3lHMolCyKwHrQ0xGcSE3mss8Rm5lLQp-3eqL_2Pbz6IbN-qrL_8AstZ49g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRXVnljRWw0YjFwV1duRlFiSEYyVFVsNVVXb3RVbk52VldaRVgwbEdUbmRoYlVKWFVUbHJYekZ0ZFhSMmVEZEViMDFKYm1kRk9XbGhNMlZuV0dKT1pFSjNjblkyYTJRNGVqZG9UekkwUVZCNmJXMHllWGMzWlhobmR4SVhNREZxUzJGeVNHTlBZV2xuYTFCSlVIbzJibWR0UVdNYUlrRkVjM0k1WmxKRWFFaE9Wa2xyU3pjeFVsbElTRWRUU2t0SlpXMUpTRjk0Vm1jIiwiZmN2IjoiMyIsImVpIjoiMDFqS2FySGNPYWlna1BJUHo2bmdtQWMiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5aDhrQ1B3IiwicXVlc3Rpb24iOiJJcyBHb29nbGUgTmV3cyBmcmVlIHRvIHVzZT8iLCJsayI6IkdoTnBjeUJuYjI5bmJHVWdibVYzY3lCbWNtVmwiLCJicyI6ImM0MlBQUXZDTUJDR2NiMUpFSmNLZW91dGMzRFA0Q0JkQkZIc0hQVk1BdlZTbW1qLXZxMDFnNHM0UHdfdkItd2hyNHdLYUQwR1EzaTJXcE1QeUJROVdzYVNyMVlodXloRmtTM2pEOU1tRTlZd0t6MXVuZE0xNGE3SHQ1WUlnOE9ISnltbTJhU0wwQVBtaEdFRGk4bzRkSkg5cF9WNEd2REZLR2FxcGNCc0hwTXkxSVhubHdJSEtOSWJoWGZWelRLa3JyVmw2aWVxdDl5b2hsb3BWbGtlXzFMSG94YyIsImlkIjoiZmNfMDFqS2FySGNPYWlna1BJUHo2bmdtQWNfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRXVnljRWw0YjFwV1duRlFiSEYyVFVsNVVXb3RVbk52VldaRVgwbEdUbmRoYlVKWFVUbHJYekZ0ZFhSMmVEZEViMDFKYm1kRk9XbGhNMlZuV0dKT1pFSjNjblkyYTJRNGVqZG9UekkwUVZCNmJXMHllWGMzWlhobmR4SVhNREZxUzJGeVNHTlBZV2xuYTFCSlVIbzJibWR0UVdNYUlrRkVjM0k1WmxKRWFFaE9Wa2xyU3pjeFVsbElTRWRUU2t0SlpXMUpTRjk0Vm1jIiwiZmN2IjoiMyIsImVpIjoiMDFqS2FySGNPYWlna1BJUHo2bmdtQWMiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5aDhrQ1B3IiwicXVlc3Rpb24iOiJJcyBHb29nbGUgTmV3cyBmcmVlIHRvIHVzZT8iLCJsayI6IkdoTnBjeUJuYjI5bmJHVWdibVYzY3lCbWNtVmwiLCJicyI6ImM0MlBQUXZDTUJDR2NiMUpFSmNLZW91dGMzRFA0Q0JkQkZIc0hQVk1BdlZTbW1qLXZxMDFnNHM0UHdfdkItd2hyNHdLYUQwR1EzaTJXcE1QeUJROVdzYVNyMVlodXloRmtTM2pEOU1tRTlZd0t6MXVuZE0xNGE3SHQ1WUlnOE9ISnltbTJhU0wwQVBtaEdFRGk4bzRkSkg5cF9WNEd2REZLR2FxcGNCc0hwTXkxSVhubHdJSEtOSWJoWGZWelRLa3JyVmw2aWVxdDl5b2hsb3BWbGtlXzFMSG94YyIsImlkIjoiZmNfMDFqS2FySGNPYWlna1BJUHo2bmdtQWNfNSJ9"
+  },
+  {
+   "question": "Who owns India TV news channel?",
+   "type": "ai_overview",
+   "page_token": "Ruix_nicHdBfboIwAIDx7DJ7VP6IiyZmGQIi2mYF2lpellJAlAKd4hDedpedaqeZ2QG-5Jfv-0eemur36V52nboup9O-7yfHtj3KfCLayamZ8uvQiKngUqZcVMv5y1x_LcTKvW3t9efWRlgp4oRaFHuAjPad1d4-JcQXJmwiDRt5LYvQKbfEf-sQtgKxueqkVjFs1JVXEgAn2LEm0YGTRLSyekSFeTD0gZ_0XeqjLnWzToyZB89ekfvkJkY7zuvSTA24DjeLANPFjtcQpZV1Ab400jg5YBPy0FOHUCMxrvAsNOGeykWUyXKWVIQCIxj2VJ0jUzkMPzpDQuje3yM_KBEFA_dg6JaiB1Tt2SHYMm1RcppdsCtRfk5uiaHb7N6eEA5HcZY1xkIDI3l4jharJUNj0GFsRREN-tzPRtZ4CqPnQnytzOf_n6uPou6W6tIe_wANrIRA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ruix_nicHdBfboIwAIDx7DJ7VP6IiyZmGQIi2mYF2lpellJAlAKd4hDedpedaqeZ2QG-5Jfv-0eemur36V52nboup9O-7yfHtj3KfCLayamZ8uvQiKngUqZcVMv5y1x_LcTKvW3t9efWRlgp4oRaFHuAjPad1d4-JcQXJmwiDRt5LYvQKbfEf-sQtgKxueqkVjFs1JVXEgAn2LEm0YGTRLSyekSFeTD0gZ_0XeqjLnWzToyZB89ekfvkJkY7zuvSTA24DjeLANPFjtcQpZV1Ab400jg5YBPy0FOHUCMxrvAsNOGeykWUyXKWVIQCIxj2VJ0jUzkMPzpDQuje3yM_KBEFA_dg6JaiB1Tt2SHYMm1RcppdsCtRfk5uiaHb7N6eEA5HcZY1xkIDI3l4jharJUNj0GFsRREN-tzPRtZ4CqPnQnytzOf_n6uPou6W6tIe_wANrIRA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRXVnljRWw0YjFwV1duRlFiSEYyVFVsNVVXb3RVbk52VldaRVgwbEdUbmRoYlVKWFVUbHJYekZ0ZFhSMmVEZEViMDFKYm1kRk9XbGhNMlZuV0dKT1pFSjNjblkyYTJRNGVqZG9UekkwUVZCNmJXMHllWGMzWlhobmR4SVhNREZxUzJGeVNHTlBZV2xuYTFCSlVIbzJibWR0UVdNYUlrRkVjM0k1WmxKRWFFaE9Wa2xyU3pjeFVsbElTRWRUU2t0SlpXMUpTRjk0Vm1jIiwiZmN2IjoiMyIsImVpIjoiMDFqS2FySGNPYWlna1BJUHo2bmdtQWMiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5aDhrQ1B3IiwicXVlc3Rpb24iOiJXaG8gb3ducyBJbmRpYSBUViBuZXdzIGNoYW5uZWw/IiwibGsiOiJHaDUzYUc4Z2IzZHVjeUJwYm1ScFlTQjBkaUJ1WlhkeklHTm9ZVzV1Wld3IiwiYnMiOiJjNDJQUFF2Q01CQ0djYjFKRUpjS2VvdXRjM0RQNENCZEJGSHNIUFZNQXZWU21tai12cTAxZzRzNFB3X3ZCLXdocjR3S2FEMEdRM2kyV3BNUHlCUTlXc2FTcjFZaHV5aEZrUzNqRDlNbUU5WXdLejF1bmRNMTRhN0h0NVlJZzhPSEp5bW0yYVNMMEFQbWhHRURpOG80ZEpIOXBfVjRHdkRGS0dhcXBjQnNIcE15MUlYbmx3SUhLTkliaFhmVnpUS2tyclZsNmllcXQ5eW9obG9wVmxrZV8xTEhveGMiLCJpZCI6ImZjXzAxakthckhjT2FpZ2tQSVB6Nm5nbUFjXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRXVnljRWw0YjFwV1duRlFiSEYyVFVsNVVXb3RVbk52VldaRVgwbEdUbmRoYlVKWFVUbHJYekZ0ZFhSMmVEZEViMDFKYm1kRk9XbGhNMlZuV0dKT1pFSjNjblkyYTJRNGVqZG9UekkwUVZCNmJXMHllWGMzWlhobmR4SVhNREZxUzJGeVNHTlBZV2xuYTFCSlVIbzJibWR0UVdNYUlrRkVjM0k1WmxKRWFFaE9Wa2xyU3pjeFVsbElTRWRUU2t0SlpXMUpTRjk0Vm1jIiwiZmN2IjoiMyIsImVpIjoiMDFqS2FySGNPYWlna1BJUHo2bmdtQWMiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5aDhrQ1B3IiwicXVlc3Rpb24iOiJXaG8gb3ducyBJbmRpYSBUViBuZXdzIGNoYW5uZWw%2FIiwibGsiOiJHaDUzYUc4Z2IzZHVjeUJwYm1ScFlTQjBkaUJ1WlhkeklHTm9ZVzV1Wld3IiwiYnMiOiJjNDJQUFF2Q01CQ0djYjFKRUpjS2VvdXRjM0RQNENCZEJGSHNIUFZNQXZWU21tai12cTAxZzRzNFB3X3ZCLXdocjR3S2FEMEdRM2kyV3BNUHlCUTlXc2FTcjFZaHV5aEZrUzNqRDlNbUU5WXdLejF1bmRNMTRhN0h0NVlJZzhPSEp5bW0yYVNMMEFQbWhHRURpOG80ZEpIOXBfVjRHdkRGS0dhcXBjQnNIcE15MUlYbmx3SUhLTkliaFhmVnpUS2tyclZsNmllcXQ5eW9obG9wVmxrZV8xTEhveGMiLCJpZCI6ImZjXzAxakthckhjT2FpZ2tQSVB6Nm5nbUFjXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is a main headline in a newspaper?",
+   "type": "ai_overview",
+   "page_token": "gseSmHicHdBdboIwAADg7DI-KgVx08QsQymDWRa6_gAvC7ZolQJVURxvu8tOtdMs2XeE7_tHH5rq9-Guus5cFpNJ3_fjfdvudTkW7fjQTIrLVyMmotB6W4hqMXucgeedWPrX0FudQi-hxrA1tsgrNJjEgA3ehaXRiWrqCms-FLodaBCrD6jvcapDSvQmsU2FA9eXNjzlNHKSykypb2I0KCgcdi2hd2Z2p8oGvn0Qz9pS_YaCaMi40TxlgAV7N09bJ-NgQ5toXQRyFXPkFvb8nnOIivWLQzhIMAcga_KWVVH67ls9ImrIfTwVVHZMyxuxnlwKDH-H8TUF7ICCOMMBxryWnq9Ej7jZZGkUZtZcFVyeqa-T8phfcxt42b09JBQP4qhrCp6mpGaqZJDGKxCiOlKk1t2WywrZcpUfk072o524LZ3R_-fyc1d3C3Nu9391Q4Mz",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gseSmHicHdBdboIwAADg7DI-KgVx08QsQymDWRa6_gAvC7ZolQJVURxvu8tOtdMs2XeE7_tHH5rq9-Guus5cFpNJ3_fjfdvudTkW7fjQTIrLVyMmotB6W4hqMXucgeedWPrX0FudQi-hxrA1tsgrNJjEgA3ehaXRiWrqCms-FLodaBCrD6jvcapDSvQmsU2FA9eXNjzlNHKSykypb2I0KCgcdi2hd2Z2p8oGvn0Qz9pS_YaCaMi40TxlgAV7N09bJ-NgQ5toXQRyFXPkFvb8nnOIivWLQzhIMAcga_KWVVH67ls9ImrIfTwVVHZMyxuxnlwKDH-H8TUF7ICCOMMBxryWnq9Ej7jZZGkUZtZcFVyeqa-T8phfcxt42b09JBQP4qhrCp6mpGaqZJDGKxCiOlKk1t2WywrZcpUfk072o524LZ3R_-fyc1d3C3Nu9391Q4Mz",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRXVnljRWw0YjFwV1duRlFiSEYyVFVsNVVXb3RVbk52VldaRVgwbEdUbmRoYlVKWFVUbHJYekZ0ZFhSMmVEZEViMDFKYm1kRk9XbGhNMlZuV0dKT1pFSjNjblkyYTJRNGVqZG9UekkwUVZCNmJXMHllWGMzWlhobmR4SVhNREZxUzJGeVNHTlBZV2xuYTFCSlVIbzJibWR0UVdNYUlrRkVjM0k1WmxKRWFFaE9Wa2xyU3pjeFVsbElTRWRUU2t0SlpXMUpTRjk0Vm1jIiwiZmN2IjoiMyIsImVpIjoiMDFqS2FySGNPYWlna1BJUHo2bmdtQWMiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5aDhrQ1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgbWFpbiBoZWFkbGluZSBpbiBhIG5ld3NwYXBlcj8iLCJsayI6IkdpWjNhR0YwSUdseklHRWdiV0ZwYmlCb1pXRmtiR2x1WlNCcGJpQmhJRzVsZDNOd1lYQmxjZyIsImJzIjoiYzQyUFBRdkNNQkNHY2IxSkVKY0tlb3V0YzNEUDRDQmRCRkhzSFBWTUF2VlNtbWotdnEwMWc0czRQd192Qi13aHI0d0thRDBHUTNpMldwTVB5QlE5V3NhU3IxWWh1eWhGa1MzakQ5TW1FOVl3S3oxdW5kTTE0YTdIdDVZSWc4T0hKeW1tMmFTTDBBUG1oR0VEaThvNGRKSDlwX1Y0R3ZERktHYXFwY0JzSHBNeTFJWG5sd0lIS05JYmhYZlZ6VEtrcnJWbDZpZXF0OXlvaGxvcFZsa2VfMUxIb3hjIiwiaWQiOiJmY18wMWpLYXJIY09haWdrUElQejZuZ21BY181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRXVnljRWw0YjFwV1duRlFiSEYyVFVsNVVXb3RVbk52VldaRVgwbEdUbmRoYlVKWFVUbHJYekZ0ZFhSMmVEZEViMDFKYm1kRk9XbGhNMlZuV0dKT1pFSjNjblkyYTJRNGVqZG9UekkwUVZCNmJXMHllWGMzWlhobmR4SVhNREZxUzJGeVNHTlBZV2xuYTFCSlVIbzJibWR0UVdNYUlrRkVjM0k1WmxKRWFFaE9Wa2xyU3pjeFVsbElTRWRUU2t0SlpXMUpTRjk0Vm1jIiwiZmN2IjoiMyIsImVpIjoiMDFqS2FySGNPYWlna1BJUHo2bmdtQWMiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5aDhrQ1B3IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgbWFpbiBoZWFkbGluZSBpbiBhIG5ld3NwYXBlcj8iLCJsayI6IkdpWjNhR0YwSUdseklHRWdiV0ZwYmlCb1pXRmtiR2x1WlNCcGJpQmhJRzVsZDNOd1lYQmxjZyIsImJzIjoiYzQyUFBRdkNNQkNHY2IxSkVKY0tlb3V0YzNEUDRDQmRCRkhzSFBWTUF2VlNtbWotdnEwMWc0czRQd192Qi13aHI0d0thRDBHUTNpMldwTVB5QlE5V3NhU3IxWWh1eWhGa1MzakQ5TW1FOVl3S3oxdW5kTTE0YTdIdDVZSWc4T0hKeW1tMmFTTDBBUG1oR0VEaThvNGRKSDlwX1Y0R3ZERktHYXFwY0JzSHBNeTFJWG5sd0lIS05JYmhYZlZ6VEtrcnJWbDZpZXF0OXlvaGxvcFZsa2VfMUxIb3hjIiwiaWQiOiJmY18wMWpLYXJIY09haWdrUElQejZuZ21BY181In0%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Google News - Daily Headlines – Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&hl=en_IN",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.google.android.apps.magazines%26hl%3Den_IN&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQFnoECB4QAQ",
+   "displayed_link": "https://play.google.com › store › apps › details",
+   "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp",
+   "snippet": "Google News is a personalised news aggregator that organises and highlights what's happening in the world so that you can discover more about the stories ...",
+   "snippet_highlighted_words": [
+    "Google News"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.0,
+      "reviews": 1964894
+     },
+     "extensions": [
+      "4.0(19,64,894)",
+      "Free",
+      "Android",
+      "Reference"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Google News is a personalised news aggregator that organises and highlights what's happening in the world so that you can discover more about the stories ...",
+     "source_info_link": "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&hl=en_IN",
+     "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=ClhodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMubWFnYXppbmVzJmhsPWVuX0lOEgQaAggAGqcDEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgQMIABAAGAAgACoWCgRuZXdzFa_uXkAaCW5ld3N0b2RheSoXCgV0b2RheRUFsX89GgluZXdzdG9kYXkyWGh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5tYWdhemluZXMmaGw9ZW5fSU46PEdvb2dsZSA8Yj5OZXdzPC9iPiAtIERhaWx5IEhlYWRsaW5lcyDigJMgQXBwcyBvbiBHb29nbGUgUGxheUKtATxiPkdvb2dsZSBOZXdzPC9iPiBpcyBhIHBlcnNvbmFsaXNlZCBuZXdzIGFnZ3JlZ2F0b3IgdGhhdCBvcmdhbmlzZXMgYW5kIGhpZ2hsaWdodHMgd2hhdCYjMzk7cyBoYXBwZW5pbmcgaW4gdGhlIHdvcmxkIHNvIHRoYXQgeW91IGNhbiBkaXNjb3ZlciBtb3JlIGFib3V0IHRoZSBzdG9yaWVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=ClhodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMubWFnYXppbmVzJmhsPWVuX0lOEgQaAggAGqcDEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgQMIABAAGAAgACoWCgRuZXdzFa_uXkAaCW5ld3N0b2RheSoXCgV0b2RheRUFsX89GgluZXdzdG9kYXkyWGh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5tYWdhemluZXMmaGw9ZW5fSU46PEdvb2dsZSA8Yj5OZXdzPC9iPiAtIERhaWx5IEhlYWRsaW5lcyDigJMgQXBwcyBvbiBHb29nbGUgUGxheUKtATxiPkdvb2dsZSBOZXdzPC9iPiBpcyBhIHBlcnNvbmFsaXNlZCBuZXdzIGFnZ3JlZ2F0b3IgdGhhdCBvcmdhbmlzZXMgYW5kIGhpZ2hsaWdodHMgd2hhdCYjMzk7cyBoYXBwZW5pbmcgaW4gdGhlIHdvcmxkIHNvIHRoYXQgeW91IGNhbiBkaXNjb3ZlciBtb3JlIGFib3V0IHRoZSBzdG9yaWVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Google Play",
+   "read_more_link": "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&hl=en_IN#:~:text=Google%20News%20is%20a%20personalised,stories%20that%20matter%20to%20you."
+  },
+  {
+   "position": 2,
+   "title": "CNBC & Fox Today On NVIDIA Stock, Micron Stock, OpenAI ...",
+   "link": "https://www.youtube.com/watch?v=7iaAVzgc70Q",
+   "displayed_link": "10.1K+ views · 11 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/Kq27NjPFT8ha6s9-0RkG3t8Xntfw48P_ALml5Grgt9k.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "CNBC & Fox Today On NVIDIA Stock, Micron Stock, OpenAI News - NVDA Update Hosts of CNBC and Fox Business discuss NVIDIA, NVIDIA stock (NVDA ...",
+   "duration": "35:23",
+   "about_this_result": {
+    "source": {
+     "description": "CNBC & Fox Today On NVIDIA Stock, Micron Stock, OpenAI News - NVDA Update Hosts of CNBC and Fox Business discuss NVIDIA, NVIDIA stock (NVDA ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlFMOUZ5a1l5dWdQdGgtRVk5Y2Q4b1lpRUl0YWZvWEhwOE1WZWZLVDBJd2JHNDRwaW05dzhsU2s5WE5LSXRGRGRPcHUwMnF2blJrenhyS1ZuY2dWX25ZLWJKcXdIN2JiWS1vSjNKWGJmVmc1WHh6QVE5eDNDTWNRaGNySXdMMjZvdkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlFMOUZ5a1l5dWdQdGgtRVk5Y2Q4b1lpRUl0YWZvWEhwOE1WZWZLVDBJd2JHNDRwaW05dzhsU2s5WE5LSXRGRGRPcHUwMnF2blJrenhyS1ZuY2dWX25ZLWJKcXdIN2JiWS1vSjNKWGJmVmc1WHh6QVE5eDNDTWNRaGNySXdMMjZvdkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "source": "YouTube · FinVid"
+  },
+  {
+   "position": 3,
+   "title": "India News: Breaking Stories, Live Updates & Top Headlines",
+   "link": "https://www.indiatvnews.com/india",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVRKGU_axbvBu1-keq5IcL91VVsQ8_vUhOgpWpbypR6zbpV0VEYCPLlN1oMi9I6UptK237IKt7j3iwInDP3P_vqXZO7BHh_CXtuGxdxQC14V_byM207SEP&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://www.indiatvnews.com › india",
+   "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADwBwCdASocABwAPtEutFooIagoGAEAGglsALEbNHqvCD5ASxLvJxkgH9r02bluagH6ndUZWP_1DHLtgrqxu8hhxE1sRVs3kogA_vkLD5N_UbsG5bVpw2Pkd45ocGv4M6SsRJKc9008o3_S56Jzi-f_Ij0sCTQSySbE4FVX0gSqegLimnSS1rzTUY3TvmB7f4bZ0eN__zNHfDQkymvNiF6vEMn_8WhL019umfTumSDYgP_4wmifXGxvblwsfxIPEH5ehsU8J0NFmjL3oTKvLG0TEzjVLEznf5NkRenyzeScaKc_rvrTbSzVprrg3OnvJLBqTj0jnw09u3Rc3cmC5cygou1fbF43l20U5PQGi2GapnFyXL1FysEvzrsM6ylAFQO4oOYs3z7VAcvAkgZ_m4aRXpaD04CrsRkgfibxWsKsOA4GO5vSAAAA.webp",
+   "snippet": "Latest India News · BJP wins 10 Rajya Sabha seats unopposed across three states; SP gets 2, Congress draws a blank. UP CM Yogi Adityanath with BJP Rajya Sabha ...",
+   "snippet_highlighted_words": [
+    "BJP wins 10 Rajya Sabha seats unopposed across three states"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Latest India News · BJP wins 10 Rajya Sabha seats unopposed across three states; SP gets 2, Congress draws a blank. UP CM Yogi Adityanath with BJP Rajya Sabha ...",
+     "source_info_link": "https://www.indiatvnews.com/india",
+     "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADwBwCdASocABwAPtEutFooIagoGAEAGglsALEbNHqvCD5ASxLvJxkgH9r02bluagH6ndUZWP_1DHLtgrqxu8hhxE1sRVs3kogA_vkLD5N_UbsG5bVpw2Pkd45ocGv4M6SsRJKc9008o3_S56Jzi-f_Ij0sCTQSySbE4FVX0gSqegLimnSS1rzTUY3TvmB7f4bZ0eN__zNHfDQkymvNiF6vEMn_8WhL019umfTumSDYgP_4wmifXGxvblwsfxIPEH5ehsU8J0NFmjL3oTKvLG0TEzjVLEznf5NkRenyzeScaKc_rvrTbSzVprrg3OnvJLBqTj0jnw09u3Rc3cmC5cygou1fbF43l20U5PQGi2GapnFyXL1FysEvzrsM6ylAFQO4oOYs3z7VAcvAkgZ_m4aRXpaD04CrsRkgfibxWsKsOA4GO5vSAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlJLR1VfYXhidkJ1MS1rZXE1SWNMOTFWVnNROF92VWhPZ3BXcGJ5cFI2emJwVjBWRVlDUExsTjFvTWk5STZVcHRLMjM3SUt0N2ozaXdJbkRQM1BfdnFYWk83QkhoX0NYdHVHeGR4UUMxNFZfYnlNMjA3U0VQEgQaAggAGusDEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAxQMIABAAGAAgACoWCgRuZXdzFeyDj0AaCW5ld3N0b2RheSoXCgV0b2RheRUAAAAAGgluZXdzdG9kYXkyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWUktHVV9heGJ2QnUxLWtlcTVJY0w5MVZWc1E4X3ZVaE9ncFdwYnlwUjZ6YnBWMFZFWUNQTGxOMW9NaTlJNlVwdEsyMzdJS3Q3ajNpd0luRFAzUF92cVhaTzdCSGhfQ1h0dUd4ZHhRQzE0Vl9ieU0yMDdTRVA6RUluZGlhIDxiPk5ld3M8L2I-OiBCcmVha2luZyBTdG9yaWVzLCBMaXZlIFVwZGF0ZXMgJmFtcDsgVG9wIEhlYWRsaW5lc0K1AUxhdGVzdCBJbmRpYSBOZXdzICZtaWRkb3Q7IDxiPkJKUCB3aW5zIDEwIFJhanlhIFNhYmhhIHNlYXRzIHVub3Bwb3NlZCBhY3Jvc3MgdGhyZWUgc3RhdGVzPC9iPjsgU1AgZ2V0cyAyLCBDb25ncmVzcyBkcmF3cyBhIGJsYW5rLiBVUCBDTSBZb2dpIEFkaXR5YW5hdGggd2l0aCBCSlAgUmFqeWEgU2FiaGEmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVlJLR1VfYXhidkJ1MS1rZXE1SWNMOTFWVnNROF92VWhPZ3BXcGJ5cFI2emJwVjBWRVlDUExsTjFvTWk5STZVcHRLMjM3SUt0N2ozaXdJbkRQM1BfdnFYWk83QkhoX0NYdHVHeGR4UUMxNFZfYnlNMjA3U0VQEgQaAggAGusDEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAxQMIABAAGAAgACoWCgRuZXdzFeyDj0AaCW5ld3N0b2RheSoXCgV0b2RheRUAAAAAGgluZXdzdG9kYXkyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWUktHVV9heGJ2QnUxLWtlcTVJY0w5MVZWc1E4X3ZVaE9ncFdwYnlwUjZ6YnBWMFZFWUNQTGxOMW9NaTlJNlVwdEsyMzdJS3Q3ajNpd0luRFAzUF92cVhaTzdCSGhfQ1h0dUd4ZHhRQzE0Vl9ieU0yMDdTRVA6RUluZGlhIDxiPk5ld3M8L2I-OiBCcmVha2luZyBTdG9yaWVzLCBMaXZlIFVwZGF0ZXMgJmFtcDsgVG9wIEhlYWRsaW5lc0K1AUxhdGVzdCBJbmRpYSBOZXdzICZtaWRkb3Q7IDxiPkJKUCB3aW5zIDEwIFJhanlhIFNhYmhhIHNlYXRzIHVub3Bwb3NlZCBhY3Jvc3MgdGhyZWUgc3RhdGVzPC9iPjsgU1AgZ2V0cyAyLCBDb25ncmVzcyBkcmF3cyBhIGJsYW5rLiBVUCBDTSBZb2dpIEFkaXR5YW5hdGggd2l0aCBCSlAgUmFqeWEgU2FiaGEmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "India TV News",
+   "read_more_link": "https://www.indiatvnews.com/india#:~:text=Latest%20India%20News&text=BJP%20wins%2010%20Rajya%20Sabha,2%2C%20Congress%20draws%20a%20blank"
+  },
+  {
+   "position": 4,
+   "title": "INDIA TODAY LIVE: Congress' Working Prez ...",
+   "link": "https://www.youtube.com/watch?v=c8pvDo5kn6E",
+   "displayed_link": "29.1K+ views · 2 years ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/Kq27NjPFT8ha6s9-0RkG3usG_CeEZacJFVXPz1vT4_M.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Share your videos with friends, family, and the world.",
+   "duration": "6:26:56",
+   "about_this_result": {
+    "source": {
+     "description": "Share your videos with friends, family, and the world.",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlp6VEMzNGE5YVlhVGNYbUVzX2hQbk5EdWo5bVQ4QmRXTUxEejJseUpyazh2MU9EeW56M1ZFT2ltM2xQYldJUHhBYTY3Q2E1NUpKbG5JeVMxUW8xdXJDVkZ5THlsY0p5QWxsOFAyU2pQTm1GcTJKMThjalhfVHhrWHowaGVKNGF0T1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlp6VEMzNGE5YVlhVGNYbUVzX2hQbk5EdWo5bVQ4QmRXTUxEejJseUpyazh2MU9EeW56M1ZFT2ltM2xQYldJUHhBYTY3Q2E1NUpKbG5JeVMxUW8xdXJDVkZ5THlsY0p5QWxsOFAyU2pQTm1GcTJKMThjalhfVHhrWHowaGVKNGF0T1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "source": "YouTube · India Today"
+  },
+  {
+   "position": 5,
+   "title": "Oct. 9: Monster hurricane makes landfall, tropical storm floods CA",
+   "link": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-oct-9-271376965573",
+   "displayed_link": "https://www.nbcnews.com · 12 hours ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNG6mksTHM3N3N5KROn-1sExm2Y7OYz-RMfJfReiPIrkj8KKU0IpSsGg&s",
+   "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBwCdASocABwAPtEwtFooIigoGAEAGglsALcBQQoMIC7AeLl-s2WMbx-jQQgHKK53Lfald0A_qCtN6UQ2w-h5ToWzfNENYQAA_vYCW8uQXH1YFqvHJDn7cnlTuv20i6ngkuTlC0R7dRJ__I5xm92V-QlZlcReEt6rLVNvBs3SoCAZBjf5CL534tDZ331j0DGE_eWVEVp56yY8rwayovtOJ_Q4SFR8BtHxqrHaoKCYHelubT2Pwhm1k9rSueaBoJNWowEktZI-_-yBzeKtiy_EDZpMiKEkpASyXNnVIJjmHc6_fZemRaJnFk2qieNv97kMMkQsaCHMeYY4hrYkO4uCJbepQXSa17f03yR7hN9TvrzQnekR5nQ28a7sz93NXvnBTASuIKm9wVOY0tg5iSL84MmcFzq1agS3Ri8ft7FKU4fLBcyQAA.webp",
+   "snippet": "Monster Hurricane Isaias makes landfall; Flooding in California as Tropical Storm Rachel heads for coast; Major earthquake shakes Panama; ...",
+   "duration": "16:18",
+   "about_this_result": {
+    "source": {
+     "description": "Monster Hurricane Isaias makes landfall; Flooding in California as Tropical Storm Rachel heads for coast; Major earthquake shakes Panama; ...",
+     "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAADwBwCdASocABwAPtEwtFooIigoGAEAGglsALcBQQoMIC7AeLl-s2WMbx-jQQgHKK53Lfald0A_qCtN6UQ2w-h5ToWzfNENYQAA_vYCW8uQXH1YFqvHJDn7cnlTuv20i6ngkuTlC0R7dRJ__I5xm92V-QlZlcReEt6rLVNvBs3SoCAZBjf5CL534tDZ331j0DGE_eWVEVp56yY8rwayovtOJ_Q4SFR8BtHxqrHaoKCYHelubT2Pwhm1k9rSueaBoJNWowEktZI-_-yBzeKtiy_EDZpMiKEkpASyXNnVIJjmHc6_fZemRaJnFk2qieNv97kMMkQsaCHMeYY4hrYkO4uCJbepQXSa17f03yR7hN9TvrzQnekR5nQ28a7sz93NXvnBTASuIKm9wVOY0tg5iSL84MmcFzq1agS3Ri8ft7FKU4fLBcyQAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZRN3pDc1poZ0ppVGZGYnpMRmhaSTVOMmdybk9pRlBudi1ack1QdVlNRzduSDRzQnlZME5iOFBsaWEybXRxcWxZRUhkREI2eF84NTZiQ1QyenYyTndWY0hLOV9BQ0NpbS1NR0d5UGl0U2VvUkYyMG52dlowZWFtR2M1M0VuU3NNdm02MzVDRUtCRDlSWGxFRUtmWi1ySnA2NEtPY01zZnR0QWtIMDM3cGN6RXh1UXExY3RwTFpOZkNzTGdaelhUXzFwX2RHc2loOVlPUnpnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZRN3pDc1poZ0ppVGZGYnpMRmhaSTVOMmdybk9pRlBudi1ack1QdVlNRzduSDRzQnlZME5iOFBsaWEybXRxcWxZRUhkREI2eF84NTZiQ1QyenYyTndWY0hLOV9BQ0NpbS1NR0d5UGl0U2VvUkYyMG52dlowZWFtR2M1M0VuU3NNdm02MzVDRUtCRDlSWGxFRUtmWi1ySnA2NEtPY01zZnR0QWtIMDM3cGN6RXh1UXExY3RwTFpOZkNzTGdaelhUXzFwX2RHc2loOVlPUnpnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRAKI6Ev80CyuwePTx97YyUCvg7DhN3ginQqA",
+   "source": "NBC News · NBC News"
+  },
+  {
+   "position": 6,
+   "title": "Top stories",
+   "link": "https://news.google.com/?taa=1&hl=en-IN&gl=IN&ceid=IN:en",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.google.com/%3Ftaa%3D1%26hl%3Den-IN%26gl%3DIN%26ceid%3DIN:en&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQFnoECEQQAQ",
+   "displayed_link": "https://news.google.com › ...",
+   "favicon": "https://serpapi.com/images/i/UklGRpYBAABXRUJQVlA4IIoBAABQBwCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhHT2grwG2Y8XLJAOfC9mAiM1T0DPNlSO_nAHIhKrdTGJ4HljvpAAAP7-w56F88nXhTxMVkm6Wij6QbmDK1gJ0cbrXV6GKiKT8TTuba7bMlWnbcEkl0tE7s_jlTfooHtBe2c1L_78k9XOGv2_WaZf_G9DDwRmxZv_Sk_LtZPsMdNxKGD6Mg_41Hfx8__kyGwa-mFI6uWQ3oFi9FkbIaqoLRS2ptAXBUYqN6pJuTf9y98veiKYWC5WS5aIftdGr5GlRf47FtUiTRVmrCnf2ZgJN5l57zYdVal7DKsi5UmyDmGSBDD76Y82PVuGt13fUC_gaTfjfec3ch3H73vs5q8AfZWH8U9IRhrTk0ilD0PmSUKOwJjV3RuBXNRtCYeLpl9h7pdErvkqFhFvwIuXsLgQx9kG5oMVtNq7B6NybNm0KEqJh3eEXRg2fSgwMd22kmgQX_liOaZeB_jMvjJ6PYW1Y5BbJ0qp8IL4aqv6BwAA.webp",
+   "snippet": "India's supreme court demands answers over changes to voter roll · ECI fact-checks claims on Form 6 following SC observation · Election Commission \"Fact-Checks\" ...",
+   "snippet_highlighted_words": [
+    "India's supreme court demands answers over changes to voter roll"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "India's supreme court demands answers over changes to voter roll · ECI fact-checks claims on Form 6 following SC observation · Election Commission \"Fact-Checks\" ...",
+     "source_info_link": "https://news.google.com/?taa=1&hl=en-IN&gl=IN&ceid=IN:en",
+     "icon": "https://serpapi.com/images/i/UklGRpYBAABXRUJQVlA4IIoBAABQBwCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhHT2grwG2Y8XLJAOfC9mAiM1T0DPNlSO_nAHIhKrdTGJ4HljvpAAAP7-w56F88nXhTxMVkm6Wij6QbmDK1gJ0cbrXV6GKiKT8TTuba7bMlWnbcEkl0tE7s_jlTfooHtBe2c1L_78k9XOGv2_WaZf_G9DDwRmxZv_Sk_LtZPsMdNxKGD6Mg_41Hfx8__kyGwa-mFI6uWQ3oFi9FkbIaqoLRS2ptAXBUYqN6pJuTf9y98veiKYWC5WS5aIftdGr5GlRf47FtUiTRVmrCnf2ZgJN5l57zYdVal7DKsi5UmyDmGSBDD76Y82PVuGt13fUC_gaTfjfec3ch3H73vs5q8AfZWH8U9IRhrTk0ilD0PmSUKOwJjV3RuBXNRtCYeLpl9h7pdErvkqFhFvwIuXsLgQx9kG5oMVtNq7B6NybNm0KEqJh3eEXRg2fSgwMd22kmgQX_liOaZeB_jMvjJ6PYW1Y5BbJ0qp8IL4aqv6BwAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CjhodHRwczovL25ld3MuZ29vZ2xlLmNvbS8_dGFhPTEmaGw9ZW4tSU4mZ2w9SU4mY2VpZD1JTjplbhIEGgIIABqFAxICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQN8CCAAQABgAIAAqFgoEbmV3cxVsD2NAGgluZXdzdG9kYXkqFwoFdG9kYXkVjjSGPhoJbmV3c3RvZGF5MjhodHRwczovL25ld3MuZ29vZ2xlLmNvbS8_dGFhPTEmaGw9ZW4tSU4mZ2w9SU4mY2VpZD1JTjplbjobUGlja3MgZm9yIHlvdSAtIEdvb2dsZSBOZXdzQswBPGI-SW5kaWEmIzM5O3Mgc3VwcmVtZSBjb3VydCBkZW1hbmRzIGFuc3dlcnMgb3ZlciBjaGFuZ2VzIHRvIHZvdGVyIHJvbGw8L2I-ICZtaWRkb3Q7IEVDSSBmYWN0LWNoZWNrcyBjbGFpbXMgb24gRm9ybSA2IGZvbGxvd2luZyBTQyBvYnNlcnZhdGlvbiAmbWlkZG90OyBFbGVjdGlvbiBDb21taXNzaW9uICZxdW90O0ZhY3QtQ2hlY2tzJnF1b3Q7Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CjhodHRwczovL25ld3MuZ29vZ2xlLmNvbS8_dGFhPTEmaGw9ZW4tSU4mZ2w9SU4mY2VpZD1JTjplbhIEGgIIABqFAxICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQN8CCAAQABgAIAAqFgoEbmV3cxVsD2NAGgluZXdzdG9kYXkqFwoFdG9kYXkVjjSGPhoJbmV3c3RvZGF5MjhodHRwczovL25ld3MuZ29vZ2xlLmNvbS8_dGFhPTEmaGw9ZW4tSU4mZ2w9SU4mY2VpZD1JTjplbjobUGlja3MgZm9yIHlvdSAtIEdvb2dsZSBOZXdzQswBPGI-SW5kaWEmIzM5O3Mgc3VwcmVtZSBjb3VydCBkZW1hbmRzIGFuc3dlcnMgb3ZlciBjaGFuZ2VzIHRvIHZvdGVyIHJvbGw8L2I-ICZtaWRkb3Q7IEVDSSBmYWN0LWNoZWNrcyBjbGFpbXMgb24gRm9ybSA2IGZvbGxvd2luZyBTQyBvYnNlcnZhdGlvbiAmbWlkZG90OyBFbGVjdGlvbiBDb21taXNzaW9uICZxdW90O0ZhY3QtQ2hlY2tzJnF1b3Q7Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Google News",
+   "read_more_link": "https://news.google.com/?taa=1&hl=en-IN&gl=IN&ceid=IN:en#:~:text=India's%20supreme%20court%20demands%20answers,over%20changes%20to%20voter%20roll&text=ECI%20fact%2Dchecks%20claims%20on%20Form,6%20following%20SC%20observation&text=Election%20Commission%20%22Fact%2DChecks%22%20Rahul%20Gandhi's,Form%206%20Allegations"
+  },
+  {
+   "position": 7,
+   "title": "Latest National News (नेशनल न्यूज़) of India in Hindi",
+   "link": "https://www.aajtak.in/india/news",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVL9h4p70tCEcUvJmsJMdRWdUt7SQDR7WWAvrGc27m1Bx1i9tGm5rIhdvPAb0-tJbTGaBycKrQ3UzjwpDQtZfTXs7lWMNBVFVcb-1NS5IdEVE0Kim-sOo&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://www.aajtak.in › भारत",
+   "favicon": "https://serpapi.com/images/i/UklGRqABAABXRUJQVlA4IJQBAABQCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhIAvptuGcAliXeTv23caPwBb2qvX6WyRJqZUYiBKT4ZS0oouvdJB1sB2PkHWgAAA_vKkKpQUgHaSY3XUfhPryDRe7_XRyF4KmHeXu4rspuNFZHo84UDOo_Wc_uYk8MNe3toB_9uA08OF9KD_72C_FdD39f9P-Pv11tSfH-7Bf4yWacmltYAA5i3-gCmAWJdT5mCuR5GOJViSw7hm5oLMWFutpSjCe6LJwtWpzma8S3Piiw3p5bW7_ZdblrBxd9Enatd71Zzew3BOAvMrXE8ebVW1OKZWHQrKT1NrdPRHg3G9t5mVip5VCqyUrVjlsZYrP9xDX_9cv0aWu-evjxs7xWgWNG1SBrVTd3BpUvyq15Fqs56aSxbSLHP5p_un5xMBNxqfvf-fp7eT__jrwA9268p3__BIlf6OiY20IOu-tf8XH2A7Yi4Y5O6SaRdMt3yjEg-KPSUPUBV9gLJWGllLgRX5j_ogVLr_3vNdCmP_J5EKY68AMVLAAA.webp",
+   "snippet": "10 अक्टूबर 2026 ... Protests erupt in Delhi demanding CEC Gyanesh Kumar resignation, over 600 detained. 7:51. दिल्ली में ज्ञानेश ...",
+   "snippet_highlighted_words": [
+    "Protests erupt in Delhi demanding CEC Gyanesh Kumar resignation"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "10 अक्टूबर 2026 ... Protests erupt in Delhi demanding CEC Gyanesh Kumar resignation, over 600 detained. 7:51. दिल्ली में ज्ञानेश ...",
+     "source_info_link": "https://www.aajtak.in/india/news",
+     "icon": "https://serpapi.com/images/i/UklGRqABAABXRUJQVlA4IJQBAABQCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhIAvptuGcAliXeTv23caPwBb2qvX6WyRJqZUYiBKT4ZS0oouvdJB1sB2PkHWgAAA_vKkKpQUgHaSY3XUfhPryDRe7_XRyF4KmHeXu4rspuNFZHo84UDOo_Wc_uYk8MNe3toB_9uA08OF9KD_72C_FdD39f9P-Pv11tSfH-7Bf4yWacmltYAA5i3-gCmAWJdT5mCuR5GOJViSw7hm5oLMWFutpSjCe6LJwtWpzma8S3Piiw3p5bW7_ZdblrBxd9Enatd71Zzew3BOAvMrXE8ebVW1OKZWHQrKT1NrdPRHg3G9t5mVip5VCqyUrVjlsZYrP9xDX_9cv0aWu-evjxs7xWgWNG1SBrVTd3BpUvyq15Fqs56aSxbSLHP5p_un5xMBNxqfvf-fp7eT__jrwA9268p3__BIlf6OiY20IOu-tf8XH2A7Yi4Y5O6SaRdMt3yjEg-KPSUPUBV9gLJWGllLgRX5j_ogVLr_3vNdCmP_J5EKY68AMVLAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkw5aDRwNzB0Q0VjVXZKbXNKTWRSV2RVdDdTUURSN1dXQXZyR2MyN20xQngxaTl0R201ckloZHZQQWIwLXRKYlRHYUJ5Y0tyUTNVemp3cERRdFpmVFhzN2xXTU5CVkZWY2ItMU5TNUlkRVZFMEtpbS1zT28SBBoCCAAaiQQSAggAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkDjAwgAEAAYACAAKhYKBG5ld3MVPNdrQBoJbmV3c3RvZGF5KhcKBXRvZGF5FWNpjz8aCW5ld3N0b2RheTKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZMOWg0cDcwdENFY1V2Sm1zSk1kUldkVXQ3U1FEUjdXV0F2ckdjMjdtMUJ4MWk5dEdtNXJJaGR2UEFiMC10SmJUR2FCeWNLclEzVXpqd3BEUXRaZlRYczdsV01OQlZGVmNiLTFOUzVJZEVWRTBLaW0tc09vOltMYXRlc3QgTmF0aW9uYWwgPGI-TmV3czwvYj4gKOCkqOClh-CktuCkqOCksiDgpKjgpY3gpK_gpYLgpJzgpLwpIG9mIEluZGlhIGluIEhpbmRpIC0gQWFqVGFrQr4BMTAg4KSF4KSV4KWN4KSf4KWC4KSs4KSwIDIwMjYgLi4uIDxiPlByb3Rlc3RzIGVydXB0IGluIERlbGhpIGRlbWFuZGluZyBDRUMgR3lhbmVzaCBLdW1hciByZXNpZ25hdGlvbjwvYj4sIG92ZXIgNjAwIGRldGFpbmVkLiA3OjUxLiDgpKbgpL_gpLLgpY3gpLLgpYAg4KSu4KWH4KSCIOCknOCljeCknuCkvuCkqOClh-CktiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkw5aDRwNzB0Q0VjVXZKbXNKTWRSV2RVdDdTUURSN1dXQXZyR2MyN20xQngxaTl0R201ckloZHZQQWIwLXRKYlRHYUJ5Y0tyUTNVemp3cERRdFpmVFhzN2xXTU5CVkZWY2ItMU5TNUlkRVZFMEtpbS1zT28SBBoCCAAaiQQSAggAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkDjAwgAEAAYACAAKhYKBG5ld3MVPNdrQBoJbmV3c3RvZGF5KhcKBXRvZGF5FWNpjz8aCW5ld3N0b2RheTKJAS9nb3RvP3VybD1DQUVTV3dIck96QVZMOWg0cDcwdENFY1V2Sm1zSk1kUldkVXQ3U1FEUjdXV0F2ckdjMjdtMUJ4MWk5dEdtNXJJaGR2UEFiMC10SmJUR2FCeWNLclEzVXpqd3BEUXRaZlRYczdsV01OQlZGVmNiLTFOUzVJZEVWRTBLaW0tc09vOltMYXRlc3QgTmF0aW9uYWwgPGI-TmV3czwvYj4gKOCkqOClh-CktuCkqOCksiDgpKjgpY3gpK_gpYLgpJzgpLwpIG9mIEluZGlhIGluIEhpbmRpIC0gQWFqVGFrQr4BMTAg4KSF4KSV4KWN4KSf4KWC4KSs4KSwIDIwMjYgLi4uIDxiPlByb3Rlc3RzIGVydXB0IGluIERlbGhpIGRlbWFuZGluZyBDRUMgR3lhbmVzaCBLdW1hciByZXNpZ25hdGlvbjwvYj4sIG92ZXIgNjAwIGRldGFpbmVkLiA3OjUxLiDgpKbgpL_gpLLgpY3gpLLgpYAg4KSu4KWH4KSCIOCknOCljeCknuCkvuCkqOClh-CktiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Aaj Tak",
+   "read_more_link": "https://www.aajtak.in/india/news#:~:text=7%3A51&text=7%3A51,%E0%A4%B8%E0%A5%87%20%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A4%BE%20%E0%A4%B2%E0%A5%8B%E0%A4%97%20%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%A4%20%E0%A4%AE%E0%A5%87%E0%A4%82"
+  }
+ ],
+ "local_news": [
+  {
+   "source": "NDTV",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/oFVop9sOI5TtSmeFNBW-aPLX31XVopBNtBh-4X8us3s.jpeg",
+   "title": "BJP, Congress Supporters Come Face-To-Face During Guwahati Protest",
+   "date": "3 hours ago"
+  },
+  {
+   "source": "The Times of India",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/UcPy_2REVHg2ol2gvhmjgPrP1CKaQ6gCYIWu_noljDw.jpeg",
+   "title": "‘Drunk men all around me’: Assam student’s last video from train before she went missing; found dead late",
+   "date": "1 day ago"
+  },
+  {
+   "source": "News18 Assam",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/gSw7v2JjWMmhqURTXOOQc5mcOhqUEmPfJ7-u4Rr8NII.jpeg",
+   "title": "Gold Price Today: মহালয়াৰ দিনটোত গুৱাহাটীৰ স্বৰ্ণ বজাৰত কিমান হৈছে প্ৰতিগ্ৰাম সোণৰ দাম? গ্ৰাহকে পাব নেকি সকাহ? জানি লওক শেহতীয়া তথ্য",
+   "date": "8 hours ago"
+  },
+  {
+   "source": "The Times of India",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/UIEN36dSelFqgmU5JXRnzThkNN8eVHwBkQUPIBKfNZI.jpeg",
+   "title": "Zubeen Garg death case: Gauhati High Court gives relief to co-singer Amritprava Mahanta, who was arrested",
+   "date": "24 hours ago"
+  },
+  {
+   "source": "NDTV",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPWLHC8WhwK3mbvj2nDoSHHOOm2CLACb05EYP7CfY96YJLV76C9-_OxrY&usqp=CAI&s",
+   "title": "Assam Police Arrest 17 Bangladeshi Nationals In Guwahati",
+   "date": "2 days ago"
+  },
+  {
+   "source": "The Assam Tribune",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSIJpv0sUyO02rm66nYpQfAxcJ8sxcl08XicS07HpAv2I8PlhBT9gpMw&usqp=CAI&s",
+   "title": "CM Sarma seeks Naidu, Vaishnaw's intervention into Himashree Boro's death",
+   "date": "1 day ago"
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+   "link": "https://www.bbc.com/news/articles/c65yn7xvde7vo",
+   "source": "BBC",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAHlBMVEX___8AAABeXl78_PyPj4-qqqqenp5LS0t3d3djY2OCkL5gAAAALklEQVQYlWNgoA9gZmFiYmVjYmJjZWJiYQYJsDMycnAyMnJyMDKyYxdA10IPAABz0ADZxHfLfwAAAABJRU5ErkJggg.png",
+   "date": "3 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/un3Wsdg4OBTCUj_LFpDwSttqsbjusJOhzMSaniGZeQg.jpeg"
+  },
+  {
+   "title": "Contempt Plea Filed In Supreme Court Alleging Arbitrary Metro Station Closures & Train Cancellations...",
+   "link": "https://www.livelaw.in/top-stories/contempt-petition-filed-in-supreme-court-alleging-arbitrary-metro-station-closures-train-cancellations-violating-court-order-553990",
+   "source": "Live Law",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAMAAACKYC6uAAAAflBMVEVHcEziIDMDBwgPDxC9v8ENDQ4HCAnuITWXmpwICQoHCgriIDPiIDMYFRYRDxDjIDPiIDPiIDMECgriIDOHiozjIDMVExQFBQbiIDMFBgfiIDPwJT3lIDPiIDPiIDMABgAJCgsAAQQHCAmLFiG0GykACgr_NlgJCgvjIDMICQqYqi-GAAAAKHRSTlMAmqJ_Bm2wTRGP8PE6ClnPgyXjeB8zYRW8JIgUY6nZMvuFvr6H1wrW7aLCIQAAAIBJREFUCJlFzNcOgzAUA1BnLyAUyqZ73fz_DzaRKtVP1pFlhBaHUOEfWguEiq0snocCeUEVm8kQm08FYruT2SiCetZneDz3wbxhNsCY8pEUwF8f4dHxS_cDJ7xOzift6gxiGtPitUvNNdVKgOt7w_lNLbpWbhobWCkBe5TSWshcvtIOCGuu1gEWAAAAAElFTkSuQmCC.png",
+   "date": "12 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/KzO8pHWx6abhUKlZ4NqDtitxDLS6Ql7sySwHbHcyEDI.jpeg"
+  },
+  {
+   "title": "BREAKING | Delhi Court Rejects CJP Leader Ratna Singh's Plea For FIR Against Cops Over 'Illegal...",
+   "link": "https://www.livelaw.in/top-stories/delhi-court-cjp-leader-ratna-singh-fir-against-cops-over-illegal-detention-554074",
+   "source": "Live Law",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAMAAACKYC6uAAAAflBMVEVHcEziIDMDBwgPDxC9v8ENDQ4HCAnuITWXmpwICQoHCgriIDPiIDMYFRYRDxDjIDPiIDPiIDMECgriIDOHiozjIDMVExQFBQbiIDMFBgfiIDPwJT3lIDPiIDPiIDMABgAJCgsAAQQHCAmLFiG0GykACgr_NlgJCgvjIDMICQqYqi-GAAAAKHRSTlMAmqJ_Bm2wTRGP8PE6ClnPgyXjeB8zYRW8JIgUY6nZMvuFvr6H1wrW7aLCIQAAAIBJREFUCJlFzNcOgzAUA1BnLyAUyqZ73fz_DzaRKtVP1pFlhBaHUOEfWguEiq0snocCeUEVm8kQm08FYruT2SiCetZneDz3wbxhNsCY8pEUwF8f4dHxS_cDJ7xOzift6gxiGtPitUvNNdVKgOt7w_lNLbpWbhobWCkBe5TSWshcvtIOCGuu1gEWAAAAAElFTkSuQmCC.png",
+   "date": "3 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/toJ-6laS_H9f7pVcPIf6Yf6XZNVhDRdmht3VS4AB3rw.jpeg"
+  },
+  {
+   "title": "Loud blast at Riyadh airport as travellers evacuated and airlines cancel flights",
+   "link": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/",
+   "source": "Reuters",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAMAAAD-iNU2AAAANlBMVEVHcEzWQADWQADWQADVQADWQADVQADVQADVQADTQADWQADWQADWQADWQADWQADVQADWQADWQADYUPXYAAAAEXRSTlMAk-tzG2YlES0ISDu2gc5XpQRdj_kAAACLSURBVAiZTU9bEgMhCIsKCr52vf9lG5x2pvyQkBAUYNUmp3bFr-ZC8p1dLlv1NmnzWIDRgAS6yyaSRdbJnbb9wF7gfWhzg-QCD_kGmAbJynOXM14ztEJvLBhiBaIQv_IwMDIdQedDfGUuD7TRuT5xGsUIsjOpBozTnM1nlZgPyPc_edupJeGvyrd_AOjAA6sGw87FAAAAAElFTkSuQmCC.png",
+   "date": "55 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/5hc46FFbSOvThhstHCGQ-BGTf5DTxav3mNOPc-wSKcA.jpeg"
+  },
+  {
+   "title": "U.S. lifts sanctions on sale of Russian diesel in global markets",
+   "link": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
+   "source": "The Hindu",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAASFBMVEX___-wsbJbWlyCgIGamZpubW5PTk_Ix8epqaq7vL2-v8CUk5Pf4OGmpqfu7-_k5eby8vNJR0nP0NFdXF00MTJDQUNxcHFRUFKJczSfAAAAUUlEQVQYlbXOyRJAMBBF0ZvE0ITuSAz__6dYKKVsectTd_Hgl7XSSR-H0amJ6AGS3ETER6jDWSiuwfDVBZwAPuRcHvAqbtAwZ2xZk21FPzm-AxqcAj_99rS_AAAAAElFTkSuQmCC.png",
+   "date": "19 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/ht9jP4R1JVkZnjPp7atEVpJy5Pu7JzPH6-sruMLEEDo.jpeg"
+  },
+  {
+   "title": "Wave of protests shows that Indian democracy’s greatest strength is its ‘million mutinies’",
+   "link": "https://scroll.in/article/1096259/wave-of-protests-show-that-indian-democracys-greatest-strength-is-its-million-mutinies",
+   "source": "Scroll.in",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXxYiv____xYSrxYSnxXSHxXiTwUgDwWRjwVgnwVg_xZi3xXR3wVQP718v_-fb95dz1m375xrX5vaj3q5Pyazb4spzxYSH1lXT0gVb3p4r1jmr4vKzvSAD2oYX6y73zeEn0h2H-8OrTrG53AAAAf0lEQVQYlX2Pyw6DMAwEs06C7ZAQoBT6pO3__2QrBYmIQ-dgafawto35hz24htbVHlOX-yrRAc142gM74cxc3Pvf4AFzKbWyXFpDEUmKz7ji5l2PrZDv-fEM1GQIlWBN4si_MHJp928EVek-kbZ9vOQ1YdX9bqdhEiZTQcevar4ntwR58cFbUQAAAABJRU5ErkJggg.png",
+   "date": "12 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/Ow042cjh6WBJ2ZcUd7P-JErXv1kyWw-30mcMWe2mF_o.jpeg"
+  },
+  {
+   "title": "BJP, Congress Supporters Come Face-To-Face During Guwahati Protest",
+   "link": "https://www.ndtv.com/india-news/bjp-congress-supporters-come-face-to-face-during-guwahati-protest-12166459",
+   "source": "NDTV",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABoklEQVQ4jZ2RP0tjQRTFfzM-jUZZFUUhla1bW9gvWkhAbCwsLQQbCxEsZWFB_Qba2sRCEQsrO_UTCIKIokSJKEazwdU3817etXhvsvEPQnLgwsyde849h1EhjAmsauigDkTgK_ij_sGJgp_1kB0ESl4AaWmEHaPLM8kpNTKCzmRiZd_HHh4SFQrvplsnJ1FtbUi5jL-zEzfzcJkHed3fl1pEz8_yOD0teYhLKQkLBRERCc7Oqn0dABaIPnhT7e10ra2hh4exyYyLKsndAtoApvbRWm5nZxFrUc3NdC4tYZTCRSWKKO_t4XjaKTkHIsJDLsdTLgdAx-go3tBQ1UFpd5fr-fnPDmojGOBmZQUJAtCa3sXFqsugVMKI_HfwlYAF_p6e8rC9DUD3-Dg_JiZAa3qmpuiZmfkcQT4IGOBieZnIWpTnMbi1RUtfHzqVIrOw8H0EJ1A8PuZkbo7IWlAqrmSZ43lu-9XGBvdHR0gY4htDJRE7X1_n7uCA_myWpnQagKBYxLrv3oRLgQEahGcgaJQMvDRl4bUCv0JoqQB1lNHw-w3-A-ewt5FfzwAAAABJRU5ErkJggg.png",
+   "date": "3 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/ry74G_6l738pzAqnVVlXmWhpqXWoX5F4Q9_JRAq-xJE.jpeg"
+  },
+  {
+   "title": "‘Drunk men all around me’: Assam student’s last video from train before she went missing; found dead late",
+   "link": "https://timesofindia.indiatimes.com/city/guwahati/drunk-men-all-around-me-assam-dancers-last-video-from-train-before-she-went-missing-found-dead-later/articleshow/134804318.cms",
+   "source": "The Times of India",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXMAQDMAADNBgbKAADJAADLAADIAAD43t722trmmJf____llJTODw7VR0f21tbsr6_on5_uuLjdbWzUPj7xwcHQKSn-8_PQHx7dZ2bccXH65eXSJCTQFhbooqLji4vee3v76-vYVVUTPZcvAAAAhklEQVQYlY2O2w6DMAxDkzpJGd0obMC4lF3-_ydX4Im9bJYiR0dKbKKD2NFvwLw67b4BQKAMPouyGNOlir6O1lxvbYe2v9NgobChrgxjb8ELKU6F2FRD5zIFj_wjA5kWaFfyCigDwyPP87WdsIvFrLKM7yZp9ClHQ3IFqIL39Y_qBzlyX_oAugAFO4H--JIAAAAASUVORK5CYII.png",
+   "date": "1 day ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/cW8h2q38cfGex3pQpz8J3De05nD3kLCl2kF-rneTWj4.jpeg"
+  },
+  {
+   "title": "Gold Price Today: মহালয়াৰ দিনটোত গুৱাহাটীৰ স্বৰ্ণ বজাৰত কিমান হৈছে প্ৰতিগ্ৰাম সোণৰ দাম? গ্ৰাহকে পাব নেকি সকাহ? জানি লওক শেহতীয়া তথ্য",
+   "link": "https://assam.news18.com/photogallery/business/gold-price-today-on-10th-october-how-much-price-in-per-gram-of-gold-in-guwahati-on-saturday-dd-566763.html",
+   "source": "News18 Assam",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEXsICf____rAAjrAADsHyb6y8zsEx3_-vv-8_P609T5yMn96On71tf73d71oKL60NH84-TwZ2r3tLbwX2PrChb0lZfuSE3ygILzhonuTVHxbnH97e30j5LrABDuPkPsGSHu-BSdAAAAdklEQVQYlZ2O2w7CIBBEd7qwWEqhSi8qYv__L10bEn3uedhkTiaTJTqB6f4wmqW31np_nF6MimDTgMmn5BBUkFxvvAND5vHCmmmOyBFLwFccozPKuvEdjyZInihLdFpqgmoegekFlCZIuFbu3nD8-07nd2Y6xQdnUgSPE3hGegAAAABJRU5ErkJggg.png",
+   "date": "8 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/m87tBdWhBU3ZSfVppKfARTInkquhWh-0TKG32aUhI2M.jpeg"
+  },
+  {
+   "title": "Zubeen Garg death case: Gauhati High Court gives relief to co-singer Amritprava Mahanta, who was arrested",
+   "link": "https://timesofindia.indiatimes.com/entertainment/hindi/music/news/zubeen-garg-death-case-gauhati-high-court-gives-relief-to-co-singer-amritprava-mahanta-who-was-arrested-by-assam-sit-in-2025/articleshow/134837633.cms",
+   "source": "The Times of India",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXMAQDMAADNBgbKAADJAADLAADIAAD43t722trmmJf____llJTODw7VR0f21tbsr6_on5_uuLjdbWzUPj7xwcHQKSn-8_PQHx7dZ2bccXH65eXSJCTQFhbooqLji4vee3v76-vYVVUTPZcvAAAAhklEQVQYlY2O2w6DMAxDkzpJGd0obMC4lF3-_ydX4Im9bJYiR0dKbKKD2NFvwLw67b4BQKAMPouyGNOlir6O1lxvbYe2v9NgobChrgxjb8ELKU6F2FRD5zIFj_wjA5kWaFfyCigDwyPP87WdsIvFrLKM7yZp9ClHQ3IFqIL39Y_qBzlyX_oAugAFO4H--JIAAAAASUVORK5CYII.png",
+   "date": "24 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca58d373ae60d2d8216ee7/images/k_YHnqZdYCm5VhAsCoE8K1jlgQVrEYJ7x1ElR0tjxWw.jpeg"
+  },
+  {
+   "title": "Assam Police Arrest 17 Bangladeshi Nationals In Guwahati",
+   "link": "https://www.ndtv.com/india-news/assam-police-arrest-17-bangladeshi-nationals-in-guwahati-12153901",
+   "source": "NDTV",
+   "source_logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+   "date": "2 days ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPWLHC8WhwK3mbvj2nDoSHHOOm2CLACb05EYP7CfY96YJLV76C9-_OxrY&usqp=CAI&s"
+  },
+  {
+   "title": "CM Sarma seeks Naidu, Vaishnaw's intervention into Himashree Boro's death",
+   "link": "https://assamtribune.com/guwahati/cm-sarma-seeks-naidu-vaishnaws-intervention-into-himashree-boros-death-1619819",
+   "source": "The Assam Tribune",
+   "source_logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://assamtribune.com&client=STREAM&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+   "date": "1 day ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZSIJpv0sUyO02rm66nYpQfAxcJ8sxcl08XicS07HpAv2I8PlhBT9gpMw&usqp=CAI&s"
+  }
+ ],
+ "top_stories_link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&q=news+today&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQt8YBKAJ6BAgbEAU",
+ "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&tbm=nws",
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "National news today",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&q=National+news+today&sa=X&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ1QJ6BAg_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=National+news+today"
+  },
+  {
+   "block_position": 1,
+   "query": "International News Today in Hindi",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&q=International+News+Today+in+Hindi&sa=X&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=International+News+Today+in+Hindi"
+  },
+  {
+   "block_position": 1,
+   "query": "State News today in Hindi",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&q=State+News+today+in+Hindi&sa=X&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ1QJ6BAhIEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=State+News+today+in+Hindi"
+  },
+  {
+   "block_position": 1,
+   "query": "Google News today",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&q=Google+News+today&sa=X&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Google+News+today"
+  },
+  {
+   "block_position": 1,
+   "query": "Live news today",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&q=Live+news+today&sa=X&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ1QJ6BAhFEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Live+news+today"
+  },
+  {
+   "block_position": 1,
+   "query": "Sports News Today in Hindi",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&q=Sports+News+Today+in+Hindi&sa=X&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ1QJ6BAhDEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Sports+News+Today+in+Hindi"
+  },
+  {
+   "block_position": 1,
+   "query": "Google News today India",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&q=Google+News+today+India&sa=X&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ1QJ6BAhCEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=Google+News+today+India"
+  },
+  {
+   "block_position": 1,
+   "query": "India TV News today",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&q=India+TV+News+today&sa=X&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ1QJ6BAhBEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=India+TV+News+today"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=10&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8NMDegQIPBAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=10&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8tMDegQIPBAE",
+   "3": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=20&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8tMDegQIPBAG",
+   "4": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=30&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8tMDegQIPBAI",
+   "5": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=40&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8tMDegQIPBAK",
+   "6": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=50&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8tMDegQIPBAM",
+   "7": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=60&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8tMDegQIPBAO",
+   "8": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=70&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8tMDegQIPBAQ",
+   "9": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=80&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8tMDegQIPBAS",
+   "10": "https://www.google.co.in/search?q=news+today&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnvXqKQuJ9nGXSaaBPcLLT9ATZ4KAw:1791645907953&ei=01jKarHcOaigkPIPz6ngmAc&start=90&sa=N&sstk=AS6-VmI8xpO0ZHIQVNgg_dF7F0rOrXpShwDdYXJTlMUUcfAvkoCihcgH4tgPg_hgwyv53AAul1fprdPsWiwHwDcAmJDoYeYZdY8JgQ&ved=2ahUKEwjxkaCP4a-XAxUoEEQIHc8UGHMQ8tMDegQIPBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Guwahati%2CAssam%2CIndia&q=news+today&start=90"
+  }
+ }
+}

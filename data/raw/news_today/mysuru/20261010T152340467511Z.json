@@ -1,0 +1,432 @@
+{
+ "search_metadata": {
+  "id": "6aca587c1290d9c49a1fe55b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/y7pQHrQ_qY8ZMVb8qDJs1YE2oOosdEA8pi26xDCg8O8/6aca587c1290d9c49a1fe55b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/y7pQHrQ_qY8ZMVb8qDJs1YE2oOosdEA8pi26xDCg8O8/6aca587c1290d9c49a1fe55b.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/y7pQHrQ_qY8ZMVb8qDJs1YE2oOosdEA8pi26xDCg8O8/6aca587c1290d9c49a1fe55b.json_with_pixel_position",
+  "created_at": "2026-10-10 15:23:40 UTC",
+  "processed_at": "2026-10-10 15:23:40 UTC",
+  "google_url": "https://www.google.co.in/search?q=news+today&oq=news+today&uule=w+CAIQICIWTXlzdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/y7pQHrQ_qY8ZMVb8qDJs1YE2oOosdEA8pi26xDCg8O8/6aca587c1290d9c49a1fe55b.html",
+  "total_time_taken": 9.32
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "news today",
+  "location_requested": "Mysuru,Karnataka,India",
+  "location_used": "Mysuru,Karnataka,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "news today",
+  "total_results": 8950000,
+  "time_taken_displayed": 0.3,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What are the latest news headlines on CNN?",
+   "type": "ai_overview",
+   "page_token": "n9IEEnicHdDdboIwGIDh7GZ2qEX2h4lZwgYWJ53UtmBPFmgFhI8fNxTkbPeyq9rVzOwG3jx5v3_gUJe_N0Pede3XfDrt-36SNU0G-4lqJod6Gn9dajVVMUASq3L-8PhgPKdq4Zw8--Xo2QFvW_FK0TaSl4SJu3i54juTdqr0hwTTHY8yM6zd2ZoPXVy2gQZ54qOHiGOdWa1JhKzNDmCtKgjimXUiS-oIyHNfkEEhA0suBcP0U42up4SVUncltwZNY7ZCAreNEHlPCtdnQF5Dl5gMrRBF94RC-5aMOeZu1iVOMOzhafbO4CRBVCEDLzGbPizkwAp-8SNvdu2vr57AfzE2qrZtJ9cNrdr1LhLpFhkjG2GU3AgINyIeakrs5hBwOqoCKoH5oCurEFgeCdbYLzVVji7DpX6XvAu3IeE8uE3VeWHe_v9cfKRVN28_m-wP7sGFXw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n9IEEnicHdDdboIwGIDh7GZ2qEX2h4lZwgYWJ53UtmBPFmgFhI8fNxTkbPeyq9rVzOwG3jx5v3_gUJe_N0Pede3XfDrt-36SNU0G-4lqJod6Gn9dajVVMUASq3L-8PhgPKdq4Zw8--Xo2QFvW_FK0TaSl4SJu3i54juTdqr0hwTTHY8yM6zd2ZoPXVy2gQZ54qOHiGOdWa1JhKzNDmCtKgjimXUiS-oIyHNfkEEhA0suBcP0U42up4SVUncltwZNY7ZCAreNEHlPCtdnQF5Dl5gMrRBF94RC-5aMOeZu1iVOMOzhafbO4CRBVCEDLzGbPizkwAp-8SNvdu2vr57AfzE2qrZtJ9cNrdr1LhLpFhkjG2GU3AgINyIeakrs5hBwOqoCKoH5oCurEFgeCdbYLzVVji7DpX6XvAu3IeE8uE3VeWHe_v9cfKRVN28_m-wP7sGFXw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9YUkhZWFkzV2xkclNVd3libHBwVUVoaFRqZGFPRkJYU1ZSVVZWTTViVUU0VldGaGVVOXBaVUZPZDNJMVdWbDRjMUkxU3pKMVlXNXNaV0ZuT0hGeVVtNW1YMEkwY2xBdGQwMWxlRzVMTFRRNFRHRlFabWRoVlhsRVp4SVhhRVpxUzJGMVgwdE5jMDg1YzJWTlVEVk5WMUZuVVRRYUlrRkVjM0k1WmxSVVNVdDNTVEk1VjB3MmVFMTZPVzU1U0hKMldYQndObE41VWxFIiwiZmN2IjoiMyIsImVpIjoiaEZqS2F1X0tNc085c2VNUDVNV1FnUTQiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5em1felBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgbGF0ZXN0IG5ld3MgaGVhZGxpbmVzIG9uIENOTj8iLCJsayI6IkdnOWpibTRnYkdGMFpYTjBJRzVsZDNNIiwiYnMiOiJjNDJPTVF2Q01CQ0ZjYjFGaTF1bVcyekZ3YUdMWXdZbmw0STZPSl9OdFEyMGw5SUVndjllRFZTY3hQRzQ3MzN2Z1liZHJhT0FOREdHanJHbndENmdjUFRZTVpuZUNudDBnc2VxMG1XbWxyWElOd1JueUpQQS1wU18yN2I5Q0t6Z1NZd2xGQmQxV2FoTl9FSGFtWVFLRHY5dHVyQ3hUYk92M1lEQkdYcm9jcTJ5aEtVVHBfU0hLeFR6Uk1LQlhsMno1ZDFMU1R6U3lKTXV0eXFQZjZHcnhSTSIsImlkIjoiZmNfaEZqS2F1X0tNc085c2VNUDVNV1FnUTRfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9YUkhZWFkzV2xkclNVd3libHBwVUVoaFRqZGFPRkJYU1ZSVVZWTTViVUU0VldGaGVVOXBaVUZPZDNJMVdWbDRjMUkxU3pKMVlXNXNaV0ZuT0hGeVVtNW1YMEkwY2xBdGQwMWxlRzVMTFRRNFRHRlFabWRoVlhsRVp4SVhhRVpxUzJGMVgwdE5jMDg1YzJWTlVEVk5WMUZuVVRRYUlrRkVjM0k1WmxSVVNVdDNTVEk1VjB3MmVFMTZPVzU1U0hKMldYQndObE41VWxFIiwiZmN2IjoiMyIsImVpIjoiaEZqS2F1X0tNc085c2VNUDVNV1FnUTQiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5em1felBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgbGF0ZXN0IG5ld3MgaGVhZGxpbmVzIG9uIENOTj8iLCJsayI6IkdnOWpibTRnYkdGMFpYTjBJRzVsZDNNIiwiYnMiOiJjNDJPTVF2Q01CQ0ZjYjFGaTF1bVcyekZ3YUdMWXdZbmw0STZPSl9OdFEyMGw5SUVndjllRFZTY3hQRzQ3MzN2Z1liZHJhT0FOREdHanJHbndENmdjUFRZTVpuZUNudDBnc2VxMG1XbWxyWElOd1JueUpQQS1wU18yN2I5Q0t6Z1NZd2xGQmQxV2FoTl9FSGFtWVFLRHY5dHVyQ3hUYk92M1lEQkdYcm9jcTJ5aEtVVHBfU0hLeFR6Uk1LQlhsMno1ZDFMU1R6U3lKTXV0eXFQZjZHcnhSTSIsImlkIjoiZmNfaEZqS2F1X0tNc085c2VNUDVNV1FnUTRfMSJ9"
+  },
+  {
+   "question": "What is the biggest news in India now?",
+   "type": "ai_overview",
+   "page_token": "NK0QsXicHdBRkpowGADg6WX2UROt2-qM0xkEVOqmQyB_NC-dmACRBMi6WJC33qWn6mk60-8I3-8_7tbav59G0_f-YzOfD8Mwq7qucsVMdbNbO5cfz1bNlXTuKpXdvH55xd9KtY0ex2D3fgxS5j2EFGXcf5YRFnBgTwWulHYF-YI8SZSOBJkddcmj2I9BWtM6t3DXEZyK2tALW1G1p-_aJVOO1w4cPWRhwnmbdMRWmDWrmrT-krn4dF3SQfNuSpHZUyBGLvx3zr4iEYqFDKuR1gxdl-amuT_oljw4XycF7yXhXujaMLCJOMFxypr1PY8B8oMYpWXLfBG_6aa3Re3Ob_uq_wEkiIzuaONPlzOUGcJTPrlJMJwShs-Ma0qC7pYyOqnaNQytSu08orkbLwygsDpWIcUihp20BqWY9WJ4KdWv7fLl_-f2Z9n0G3_vqn-A74YH",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NK0QsXicHdBRkpowGADg6WX2UROt2-qM0xkEVOqmQyB_NC-dmACRBMi6WJC33qWn6mk60-8I3-8_7tbav59G0_f-YzOfD8Mwq7qucsVMdbNbO5cfz1bNlXTuKpXdvH55xd9KtY0ex2D3fgxS5j2EFGXcf5YRFnBgTwWulHYF-YI8SZSOBJkddcmj2I9BWtM6t3DXEZyK2tALW1G1p-_aJVOO1w4cPWRhwnmbdMRWmDWrmrT-krn4dF3SQfNuSpHZUyBGLvx3zr4iEYqFDKuR1gxdl-amuT_oljw4XycF7yXhXujaMLCJOMFxypr1PY8B8oMYpWXLfBG_6aa3Re3Ob_uq_wEkiIzuaONPlzOUGcJTPrlJMJwShs-Ma0qC7pYyOqnaNQytSu08orkbLwygsDpWIcUihp20BqWY9WJ4KdWv7fLl_-f2Z9n0G3_vqn-A74YH",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9YUkhZWFkzV2xkclNVd3libHBwVUVoaFRqZGFPRkJYU1ZSVVZWTTViVUU0VldGaGVVOXBaVUZPZDNJMVdWbDRjMUkxU3pKMVlXNXNaV0ZuT0hGeVVtNW1YMEkwY2xBdGQwMWxlRzVMTFRRNFRHRlFabWRoVlhsRVp4SVhhRVpxUzJGMVgwdE5jMDg1YzJWTlVEVk5WMUZuVVRRYUlrRkVjM0k1WmxSVVNVdDNTVEk1VjB3MmVFMTZPVzU1U0hKMldYQndObE41VWxFIiwiZmN2IjoiMyIsImVpIjoiaEZqS2F1X0tNc085c2VNUDVNV1FnUTQiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5em1felBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiaWdnZXN0IG5ld3MgaW4gSW5kaWEgbm93PyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQmlhV2RuWlhOMElHNWxkM01nYVc0Z2FXNWthV0VnYm05MyIsImJzIjoiYzQyT01RdkNNQkNGY2IxRmkxdW1XMnpGd2FHTFl3WW5sNEk2T0pfTnRRMjBsOUlFZ3Y5ZURWU2N4UEc0NzMzdmdZYmRyYU9BTkRHR2pyR253RDZnY1BUWU1abmVDbnQwZ3NlcTBtV21sclhJTndSbnlKUEEtcFNfMjdiOUNLemdTWXdsRkJkMVdhaE5fRUhhbVlRS0R2OXR1ckN4VGJPdjNZREJHWHJvY3EyeWhLVVRwX1NIS3hUelJNS0JYbDJ6NWQxTFNUelN5Sk11dHlxUGY2R3J4Uk0iLCJpZCI6ImZjX2hGakthdV9LTXNPOXNlTVA1TVdRZ1E0XzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9YUkhZWFkzV2xkclNVd3libHBwVUVoaFRqZGFPRkJYU1ZSVVZWTTViVUU0VldGaGVVOXBaVUZPZDNJMVdWbDRjMUkxU3pKMVlXNXNaV0ZuT0hGeVVtNW1YMEkwY2xBdGQwMWxlRzVMTFRRNFRHRlFabWRoVlhsRVp4SVhhRVpxUzJGMVgwdE5jMDg1YzJWTlVEVk5WMUZuVVRRYUlrRkVjM0k1WmxSVVNVdDNTVEk1VjB3MmVFMTZPVzU1U0hKMldYQndObE41VWxFIiwiZmN2IjoiMyIsImVpIjoiaEZqS2F1X0tNc085c2VNUDVNV1FnUTQiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5em1felBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiaWdnZXN0IG5ld3MgaW4gSW5kaWEgbm93PyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQmlhV2RuWlhOMElHNWxkM01nYVc0Z2FXNWthV0VnYm05MyIsImJzIjoiYzQyT01RdkNNQkNGY2IxRmkxdW1XMnpGd2FHTFl3WW5sNEk2T0pfTnRRMjBsOUlFZ3Y5ZURWU2N4UEc0NzMzdmdZYmRyYU9BTkRHR2pyR253RDZnY1BUWU1abmVDbnQwZ3NlcTBtV21sclhJTndSbnlKUEEtcFNfMjdiOUNLemdTWXdsRkJkMVdhaE5fRUhhbVlRS0R2OXR1ckN4VGJPdjNZREJHWHJvY3EyeWhLVVRwX1NIS3hUelJNS0JYbDJ6NWQxTFNUelN5Sk11dHlxUGY2R3J4Uk0iLCJpZCI6ImZjX2hGakthdV9LTXNPOXNlTVA1TVdRZ1E0XzEifQ%3D%3D"
+  },
+  {
+   "question": "What are the latest news headlines on Rediff.com today?",
+   "type": "ai_overview",
+   "page_token": "Xju2KXicHdBLbqMwAABQ9TJdJhjUjhopqpSCndJAauMP8WaE7SQOmIAIKsS7ucMcYU41p6nUd4T355-7XJv_D3_tOPa31XI5TdPi3HVnd1zobnG5Lqvb_aqXunJOVbpZPf96Bq8nvU6-9OZt0BvM-p7HJKAQ2qNIU9qAoqIQ4FBGsnEDRV144HI2oZupeBqrmG9zALmK7WdRp3eKcERbDlSJZ8bmzpQuMuAwZwLwDEKwRy-8iJ2Vb4DuhN0rLzFBJKLCAd2Ce4HyvarTAdcypNRi075PjDsngWkqMdssJB-47G3OUmZEEmifTUc2-aN4ERIxb8L-Zlx_L2pJlOhbSWFsrtlT0QRecVdzAYGKZVIhmVPGk8LBIbGmI22_O5T8VATAU--8ZADnDJRMGJJvugtmxOvatczLVPH34FDLJCv5lNUSSUowZm67o3ZUaNxi_HjSX-vo8ed6_fvUjqt-6M7fu2GPAA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Xju2KXicHdBLbqMwAABQ9TJdJhjUjhopqpSCndJAauMP8WaE7SQOmIAIKsS7ucMcYU41p6nUd4T355-7XJv_D3_tOPa31XI5TdPi3HVnd1zobnG5Lqvb_aqXunJOVbpZPf96Bq8nvU6-9OZt0BvM-p7HJKAQ2qNIU9qAoqIQ4FBGsnEDRV144HI2oZupeBqrmG9zALmK7WdRp3eKcERbDlSJZ8bmzpQuMuAwZwLwDEKwRy-8iJ2Vb4DuhN0rLzFBJKLCAd2Ce4HyvarTAdcypNRi075PjDsngWkqMdssJB-47G3OUmZEEmifTUc2-aN4ERIxb8L-Zlx_L2pJlOhbSWFsrtlT0QRecVdzAYGKZVIhmVPGk8LBIbGmI22_O5T8VATAU--8ZADnDJRMGJJvugtmxOvatczLVPH34FDLJCv5lNUSSUowZm67o3ZUaNxi_HjSX-vo8ed6_fvUjqt-6M7fu2GPAA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9YUkhZWFkzV2xkclNVd3libHBwVUVoaFRqZGFPRkJYU1ZSVVZWTTViVUU0VldGaGVVOXBaVUZPZDNJMVdWbDRjMUkxU3pKMVlXNXNaV0ZuT0hGeVVtNW1YMEkwY2xBdGQwMWxlRzVMTFRRNFRHRlFabWRoVlhsRVp4SVhhRVpxUzJGMVgwdE5jMDg1YzJWTlVEVk5WMUZuVVRRYUlrRkVjM0k1WmxSVVNVdDNTVEk1VjB3MmVFMTZPVzU1U0hKMldYQndObE41VWxFIiwiZmN2IjoiMyIsImVpIjoiaEZqS2F1X0tNc085c2VNUDVNV1FnUTQiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5em1felBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgbGF0ZXN0IG5ld3MgaGVhZGxpbmVzIG9uIFJlZGlmZi5jb20gdG9kYXk/IiwibGsiOiJHaEZ1WlhkeklIUnZaR0Y1SUhKbFpHbG1aZyIsImJzIjoiYzQyT01RdkNNQkNGY2IxRmkxdW1XMnpGd2FHTFl3WW5sNEk2T0pfTnRRMjBsOUlFZ3Y5ZURWU2N4UEc0NzMzdmdZYmRyYU9BTkRHR2pyR253RDZnY1BUWU1abmVDbnQwZ3NlcTBtV21sclhJTndSbnlKUEEtcFNfMjdiOUNLemdTWXdsRkJkMVdhaE5fRUhhbVlRS0R2OXR1ckN4VGJPdjNZREJHWHJvY3EyeWhLVVRwX1NIS3hUelJNS0JYbDJ6NWQxTFNUelN5Sk11dHlxUGY2R3J4Uk0iLCJpZCI6ImZjX2hGakthdV9LTXNPOXNlTVA1TVdRZ1E0XzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9YUkhZWFkzV2xkclNVd3libHBwVUVoaFRqZGFPRkJYU1ZSVVZWTTViVUU0VldGaGVVOXBaVUZPZDNJMVdWbDRjMUkxU3pKMVlXNXNaV0ZuT0hGeVVtNW1YMEkwY2xBdGQwMWxlRzVMTFRRNFRHRlFabWRoVlhsRVp4SVhhRVpxUzJGMVgwdE5jMDg1YzJWTlVEVk5WMUZuVVRRYUlrRkVjM0k1WmxSVVNVdDNTVEk1VjB3MmVFMTZPVzU1U0hKMldYQndObE41VWxFIiwiZmN2IjoiMyIsImVpIjoiaEZqS2F1X0tNc085c2VNUDVNV1FnUTQiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5em1felBnIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgbGF0ZXN0IG5ld3MgaGVhZGxpbmVzIG9uIFJlZGlmZi5jb20gdG9kYXk%2FIiwibGsiOiJHaEZ1WlhkeklIUnZaR0Y1SUhKbFpHbG1aZyIsImJzIjoiYzQyT01RdkNNQkNGY2IxRmkxdW1XMnpGd2FHTFl3WW5sNEk2T0pfTnRRMjBsOUlFZ3Y5ZURWU2N4UEc0NzMzdmdZYmRyYU9BTkRHR2pyR253RDZnY1BUWU1abmVDbnQwZ3NlcTBtV21sclhJTndSbnlKUEEtcFNfMjdiOUNLemdTWXdsRkJkMVdhaE5fRUhhbVlRS0R2OXR1ckN4VGJPdjNZREJHWHJvY3EyeWhLVVRwX1NIS3hUelJNS0JYbDJ6NWQxTFNUelN5Sk11dHlxUGY2R3J4Uk0iLCJpZCI6ImZjX2hGakthdV9LTXNPOXNlTVA1TVdRZ1E0XzEifQ%3D%3D"
+  },
+  {
+   "question": "What is a main headline in a newspaper?",
+   "type": "ai_overview",
+   "page_token": "ket5anicHdDPboIwHADg7GU8KsXJoolZogKTSB2lvwK9LNCCyP9NJtDb3mVPtafZsvN3-76-q2tT_jyMed93t81iMQzD_NK2lyqdi3Z-bRbxbWrEQsRVlcSi3BhPBnrOxNb8PO7278edB13HDkTza-tEEImo7YCA3PPpjnFrvcShE_ulbGK9J0npBK5VmcSUE60dyoOV6ytvwIVkWFs5McMvPLCC9JD7qdWNXiNRUHdaWo6ltDkFYCOx8Y0oHkQaH5MCM4xyQ2jrUJjwmNh88pC03bp_dVU0BdC1UOTKL_hIdRSyUEb0wM20dsozc-5_tqcsrxhyR4DRAkTKs41WUeEQM5ctqbtTFLLM15CiqlIckIcBhRBIgnft1QOiRFHVsOTMRdYZ9B5FRc4Iwi61V5Qry4gLHBK938thlon7djn7_9y-ZXW_6T7ayy-LOoRR",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ket5anicHdDPboIwHADg7GU8KsXJoolZogKTSB2lvwK9LNCCyP9NJtDb3mVPtafZsvN3-76-q2tT_jyMed93t81iMQzD_NK2lyqdi3Z-bRbxbWrEQsRVlcSi3BhPBnrOxNb8PO7278edB13HDkTza-tEEImo7YCA3PPpjnFrvcShE_ulbGK9J0npBK5VmcSUE60dyoOV6ytvwIVkWFs5McMvPLCC9JD7qdWNXiNRUHdaWo6ltDkFYCOx8Y0oHkQaH5MCM4xyQ2jrUJjwmNh88pC03bp_dVU0BdC1UOTKL_hIdRSyUEb0wM20dsozc-5_tqcsrxhyR4DRAkTKs41WUeEQM5ctqbtTFLLM15CiqlIckIcBhRBIgnft1QOiRFHVsOTMRdYZ9B5FRc4Iwi61V5Qry4gLHBK938thlon7djn7_9y-ZXW_6T7ayy-LOoRR",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9YUkhZWFkzV2xkclNVd3libHBwVUVoaFRqZGFPRkJYU1ZSVVZWTTViVUU0VldGaGVVOXBaVUZPZDNJMVdWbDRjMUkxU3pKMVlXNXNaV0ZuT0hGeVVtNW1YMEkwY2xBdGQwMWxlRzVMTFRRNFRHRlFabWRoVlhsRVp4SVhhRVpxUzJGMVgwdE5jMDg1YzJWTlVEVk5WMUZuVVRRYUlrRkVjM0k1WmxSVVNVdDNTVEk1VjB3MmVFMTZPVzU1U0hKMldYQndObE41VWxFIiwiZmN2IjoiMyIsImVpIjoiaEZqS2F1X0tNc085c2VNUDVNV1FnUTQiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5em1felBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgbWFpbiBoZWFkbGluZSBpbiBhIG5ld3NwYXBlcj8iLCJsayI6IkdpWjNhR0YwSUdseklHRWdiV0ZwYmlCb1pXRmtiR2x1WlNCcGJpQmhJRzVsZDNOd1lYQmxjZyIsImJzIjoiYzQyT01RdkNNQkNGY2IxRmkxdW1XMnpGd2FHTFl3WW5sNEk2T0pfTnRRMjBsOUlFZ3Y5ZURWU2N4UEc0NzMzdmdZYmRyYU9BTkRHR2pyR253RDZnY1BUWU1abmVDbnQwZ3NlcTBtV21sclhJTndSbnlKUEEtcFNfMjdiOUNLemdTWXdsRkJkMVdhaE5fRUhhbVlRS0R2OXR1ckN4VGJPdjNZREJHWHJvY3EyeWhLVVRwX1NIS3hUelJNS0JYbDJ6NWQxTFNUelN5Sk11dHlxUGY2R3J4Uk0iLCJpZCI6ImZjX2hGakthdV9LTXNPOXNlTVA1TVdRZ1E0XzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTU9YUkhZWFkzV2xkclNVd3libHBwVUVoaFRqZGFPRkJYU1ZSVVZWTTViVUU0VldGaGVVOXBaVUZPZDNJMVdWbDRjMUkxU3pKMVlXNXNaV0ZuT0hGeVVtNW1YMEkwY2xBdGQwMWxlRzVMTFRRNFRHRlFabWRoVlhsRVp4SVhhRVpxUzJGMVgwdE5jMDg1YzJWTlVEVk5WMUZuVVRRYUlrRkVjM0k1WmxSVVNVdDNTVEk1VjB3MmVFMTZPVzU1U0hKMldYQndObE41VWxFIiwiZmN2IjoiMyIsImVpIjoiaEZqS2F1X0tNc085c2VNUDVNV1FnUTQiLCJxYyI6IkNncHVaWGR6SUhSdlpHRjVFQUI5em1felBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgbWFpbiBoZWFkbGluZSBpbiBhIG5ld3NwYXBlcj8iLCJsayI6IkdpWjNhR0YwSUdseklHRWdiV0ZwYmlCb1pXRmtiR2x1WlNCcGJpQmhJRzVsZDNOd1lYQmxjZyIsImJzIjoiYzQyT01RdkNNQkNGY2IxRmkxdW1XMnpGd2FHTFl3WW5sNEk2T0pfTnRRMjBsOUlFZ3Y5ZURWU2N4UEc0NzMzdmdZYmRyYU9BTkRHR2pyR253RDZnY1BUWU1abmVDbnQwZ3NlcTBtV21sclhJTndSbnlKUEEtcFNfMjdiOUNLemdTWXdsRkJkMVdhaE5fRUhhbVlRS0R2OXR1ckN4VGJPdjNZREJHWHJvY3EyeWhLVVRwX1NIS3hUelJNS0JYbDJ6NWQxTFNUelN5Sk11dHlxUGY2R3J4Uk0iLCJpZCI6ImZjX2hGakthdV9LTXNPOXNlTVA1TVdRZ1E0XzEifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://abcnews.com/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAVslz7kD6wu68y1dT5RIr-L2pCkYkP2o-7r4VWn2aIShb6muveZ8C9_Fb7Yhx7EYHIbPniaWUC1fa3o6Y69yFtND7qHtrkjCf4MH0&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://abcnews.com",
+   "favicon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAAAQCACdASogACAAPrkurlcnIacnG_DgFwlpAAzOmZiggOUAzfKg_6s9VH0M_2AKf_Yl7QQJdttwTb_TcTZOa-LqaxgeVZlve0yAAP738Thx7SNpDDLjC3EINsNnJ-UaBL2rHon9YspQYbGRMNCdJ9VkF0fy8T4X-6zO4O-JsOW_e75sp4YuTUykOv6dMlPFZOpvWZbx-x_4S9952eUJIzHiIdMzJ0PrAUYOsDmg-pS8I7rvQkHK71FdiVlK9xhVW206t9DOrl0yT6WER9u74bAnJe6rIfAAV8_m8XCrSnDV__3k4jJ2SF96W1ypLZf50HFU8rI8XJUSjZY8nbH_hsK7XrsfxsJG7tFSzLl-ns3KGO0yRLTsr30fevOcu-M4JE2Yk3_l_wfJ6xXz63k2TD9U6nmaBemriOQw03MeQdZ2y8-WT3Y_4Jsilx7X2HOoEvYMWRxw_9X6qeNs8vHF-fDWyIsc5wLq-xa-U95ErxIKEg3b_mQT-Ske0Uzl981kty7M3lMzdwZ_mPsLyaTye_Pmao5MFAAA.webp",
+   "snippet": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com. 24/7 live news stream. Today's 10 deals starting ...",
+   "snippet_highlighted_words": [
+    "breaking news, analysis, exclusive interviews, headlines, and videos"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com. 24/7 live news stream. Today's 10 deals starting ...",
+     "source_info_link": "https://abcnews.com/",
+     "icon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAAAQCACdASogACAAPrkurlcnIacnG_DgFwlpAAzOmZiggOUAzfKg_6s9VH0M_2AKf_Yl7QQJdttwTb_TcTZOa-LqaxgeVZlve0yAAP738Thx7SNpDDLjC3EINsNnJ-UaBL2rHon9YspQYbGRMNCdJ9VkF0fy8T4X-6zO4O-JsOW_e75sp4YuTUykOv6dMlPFZOpvWZbx-x_4S9952eUJIzHiIdMzJ0PrAUYOsDmg-pS8I7rvQkHK71FdiVlK9xhVW206t9DOrl0yT6WER9u74bAnJe6rIfAAV8_m8XCrSnDV__3k4jJ2SF96W1ypLZf50HFU8rI8XJUSjZY8nbH_hsK7XrsfxsJG7tFSzLl-ns3KGO0yRLTsr30fevOcu-M4JE2Yk3_l_wfJ6xXz63k2TD9U6nmaBemriOQw03MeQdZ2y8-WT3Y_4Jsilx7X2HOoEvYMWRxw_9X6qeNs8vHF-fDWyIsc5wLq-xa-U95ErxIKEg3b_mQT-Ske0Uzl981kty7M3lMzdwZ_mPsLyaTye_Pmao5MFAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CnkvZ290bz91cmw9Q0FFU1R3SHJPekFWc2x6N2tENnd1Njh5MWRUNVJJci1MMnBDa1lrUDJvLTdyNFZXbjJhSVNoYjZtdXZlWjhDOV9GYjdZaHg3RVlISWJQbmlhV1VDMWZhM282WTY5eUZ0TkQ3cUh0cmtqQ2Y0TUgwEgQaAggAGtUDEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJArwMIABAAGAAgACoWCgRuZXdzFRrhrkAaCW5ld3N0b2RheSoXCgV0b2RheRXTUgE-GgluZXdzdG9kYXkyeS9nb3RvP3VybD1DQUVTVHdIck96QVZzbHo3a0Q2d3U2OHkxZFQ1UklyLUwycENrWWtQMm8tN3I0VlduMmFJU2hiNm11dmVaOEM5X0ZiN1loeDdFWUhJYlBuaWFXVUMxZmEzbzZZNjl5RnRORDdxSHRya2pDZjRNSDA6RUFCQyA8Yj5OZXdzPC9iPiAtIEJyZWFraW5nIDxiPk5ld3M8L2I-LCBMYXRlc3QgPGI-TmV3czwvYj4gYW5kIFZpZGVvc0KxAVlvdXIgdHJ1c3RlZCBzb3VyY2UgZm9yIDxiPmJyZWFraW5nIG5ld3MsIGFuYWx5c2lzLCBleGNsdXNpdmUgaW50ZXJ2aWV3cywgaGVhZGxpbmVzLCBhbmQgdmlkZW9zPC9iPiBhdCBBQkNOZXdzLmNvbS4gMjQvNyBsaXZlIG5ld3Mgc3RyZWFtLiBUb2RheSYjMzk7cyAxMCBkZWFscyBzdGFydGluZyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CnkvZ290bz91cmw9Q0FFU1R3SHJPekFWc2x6N2tENnd1Njh5MWRUNVJJci1MMnBDa1lrUDJvLTdyNFZXbjJhSVNoYjZtdXZlWjhDOV9GYjdZaHg3RVlISWJQbmlhV1VDMWZhM282WTY5eUZ0TkQ3cUh0cmtqQ2Y0TUgwEgQaAggAGtUDEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJArwMIABAAGAAgACoWCgRuZXdzFRrhrkAaCW5ld3N0b2RheSoXCgV0b2RheRXTUgE-GgluZXdzdG9kYXkyeS9nb3RvP3VybD1DQUVTVHdIck96QVZzbHo3a0Q2d3U2OHkxZFQ1UklyLUwycENrWWtQMm8tN3I0VlduMmFJU2hiNm11dmVaOEM5X0ZiN1loeDdFWUhJYlBuaWFXVUMxZmEzbzZZNjl5RnRORDdxSHRya2pDZjRNSDA6RUFCQyA8Yj5OZXdzPC9iPiAtIEJyZWFraW5nIDxiPk5ld3M8L2I-LCBMYXRlc3QgPGI-TmV3czwvYj4gYW5kIFZpZGVvc0KxAVlvdXIgdHJ1c3RlZCBzb3VyY2UgZm9yIDxiPmJyZWFraW5nIG5ld3MsIGFuYWx5c2lzLCBleGNsdXNpdmUgaW50ZXJ2aWV3cywgaGVhZGxpbmVzLCBhbmQgdmlkZW9zPC9iPiBhdCBBQkNOZXdzLmNvbS4gMjQvNyBsaXZlIG5ld3Mgc3RyZWFtLiBUb2RheSYjMzk7cyAxMCBkZWFscyBzdGFydGluZyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "ABC News - Breaking News, Latest News and Videos"
+  },
+  {
+   "position": 2,
+   "title": "Associated Press News: Breaking News, Latest Headlines ...",
+   "link": "https://apnews.com/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVllCOs_QaVidNMel2VNCGWCRdC67jv9GOm5R1rSnn2dQ_W6Zpp2d9ws81tfGhrgdV6wEhmAOwAz17SeOiMfyT12sbPRaOd2thSQ&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://apnews.com",
+   "favicon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAAAQBgCdASocABwAPrkurlcnIacnG_DgFwlAAIgr4uPpLUAP1AK9rqoXwPu65wV5NwXygNn_YxM_uoAA_vfkT68yBVf8A4G4s-LX_NuJWLs1rl5vOzzbcTFWJOIe95ONN-ogX36e2CibD57FO0f-ig0oJhV_zgLh9qmkq_yDm_fVVIEDP5K__8HOEv_QzKzTzTM0NsCrDXemJBTGlmn_9aCgp8ELgc_9H__Qub128XPiWrH_hDwLKd_xxleLGyfHQ9tkOv_xrzGUCYSXCDkHI6Ho9-KMTDxOn_rcXrDQ0DCPSbSjIQ7vgt4JJ-b9pIW2f1NbAYvpM6Qp9f_WDocghv_E9bFd__8lvJEOw_xwjOIQOjWxWvRKQA6QAAA.webp",
+   "snippet": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations · Simon strengthens into a Category 4 hurricane as it approaches ...",
+   "snippet_highlighted_words": [
+    "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations · Simon strengthens into a Category 4 hurricane as it approaches ...",
+     "source_info_link": "https://apnews.com/",
+     "icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAAAQBgCdASocABwAPrkurlcnIacnG_DgFwlAAIgr4uPpLUAP1AK9rqoXwPu65wV5NwXygNn_YxM_uoAA_vfkT68yBVf8A4G4s-LX_NuJWLs1rl5vOzzbcTFWJOIe95ONN-ogX36e2CibD57FO0f-ig0oJhV_zgLh9qmkq_yDm_fVVIEDP5K__8HOEv_QzKzTzTM0NsCrDXemJBTGlmn_9aCgp8ELgc_9H__Qub128XPiWrH_hDwLKd_xxleLGyfHQ9tkOv_xrzGUCYSXCDkHI6Ho9-KMTDxOn_rcXrDQ0DCPSbSjIQ7vgt4JJ-b9pIW2f1NbAYvpM6Qp9f_WDocghv_E9bFd__8lvJEOw_xwjOIQOjWxWvRKQA6QAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWbGxDT3NfUWFWaWROTWVsMlZOQ0dXQ1JkQzY3anY5R09tNVIxclNubjJkUV9XNlpwcDJkOXdzODF0ZkdocmdkVjZ3RWhtQU93QXoxN1NlT2lNZnlUMTJzYlBSYU9kMnRoU1ESBBoCCAAa1QMSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCvAwgAEAAYACAAKhYKBG5ld3MViGSLQBoJbmV3c3RvZGF5KhcKBXRvZGF5Fc_pjj4aCW5ld3N0b2RheTJ4L2dvdG8_dXJsPUNBRVNUZ0hyT3pBVmxsQ09zX1FhVmlkTk1lbDJWTkNHV0NSZEM2N2p2OUdPbTVSMXJTbm4yZFFfVzZacHAyZDl3czgxdGZHaHJnZFY2d0VobUFPd0F6MTdTZU9pTWZ5VDEyc2JQUmFPZDJ0aFNROkhBc3NvY2lhdGVkIFByZXNzIDxiPk5ld3M8L2I-OiBCcmVha2luZyA8Yj5OZXdzPC9iPiwgTGF0ZXN0IEhlYWRsaW5lcyAuLi5CrwE8Yj5QYW5hbWEgcm9ja2VkIGJ5IDIgcG93ZXJmdWwgZWFydGhxdWFrZXMgYW5kIG11bHRpcGxlIGFmdGVyc2hvY2tzLCBwcm9tcHRpbmcgZXZhY3VhdGlvbnM8L2I-ICZtaWRkb3Q7IFNpbW9uIHN0cmVuZ3RoZW5zIGludG8gYSBDYXRlZ29yeSA0IGh1cnJpY2FuZSBhcyBpdCBhcHByb2FjaGVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWbGxDT3NfUWFWaWROTWVsMlZOQ0dXQ1JkQzY3anY5R09tNVIxclNubjJkUV9XNlpwcDJkOXdzODF0ZkdocmdkVjZ3RWhtQU93QXoxN1NlT2lNZnlUMTJzYlBSYU9kMnRoU1ESBBoCCAAa1QMSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCvAwgAEAAYACAAKhYKBG5ld3MViGSLQBoJbmV3c3RvZGF5KhcKBXRvZGF5Fc_pjj4aCW5ld3N0b2RheTJ4L2dvdG8_dXJsPUNBRVNUZ0hyT3pBVmxsQ09zX1FhVmlkTk1lbDJWTkNHV0NSZEM2N2p2OUdPbTVSMXJTbm4yZFFfVzZacHAyZDl3czgxdGZHaHJnZFY2d0VobUFPd0F6MTdTZU9pTWZ5VDEyc2JQUmFPZDJ0aFNROkhBc3NvY2lhdGVkIFByZXNzIDxiPk5ld3M8L2I-OiBCcmVha2luZyA8Yj5OZXdzPC9iPiwgTGF0ZXN0IEhlYWRsaW5lcyAuLi5CrwE8Yj5QYW5hbWEgcm9ja2VkIGJ5IDIgcG93ZXJmdWwgZWFydGhxdWFrZXMgYW5kIG11bHRpcGxlIGFmdGVyc2hvY2tzLCBwcm9tcHRpbmcgZXZhY3VhdGlvbnM8L2I-ICZtaWRkb3Q7IFNpbW9uIHN0cmVuZ3RoZW5zIGludG8gYSBDYXRlZ29yeSA0IGh1cnJpY2FuZSBhcyBpdCBhcHByb2FjaGVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "AP News"
+  },
+  {
+   "position": 3,
+   "title": "Today Headlines | 10 OCT 2026 | தலைப்புச் செய்திகள் ...",
+   "link": "https://www.facebook.com/newstamiltv24x7/videos/today-headlines-10-oct-2026-%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%9A%E0%AF%8D-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8Dtoday-trending-news-tamil-news-mo/28458839887076986/",
+   "displayed_link": "10+ reactions · 14 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca587c1290d9c49a1fe55b/images/vaWzk1VerCLvP4qNNRAiXjplUSt2ASx2YpQakWHFqZQ.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Today Headlines | 10 OCT 2026 | தலைப்புச் செய்திகள் Today Trending News | Tamil News | Morning Headlines | Newstamil Headlines",
+   "duration": "11:12",
+   "about_this_result": {
+    "source": {
+     "description": "Today Headlines | 10 OCT 2026 | தலைப்புச் செய்திகள் Today Trending News | Tamil News | Morning Headlines | Newstamil Headlines",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuUDL2dvdG8_dXJsPUNBRVMzd0lCNnpzd0ZXaERfQ1NuS0RMWHpJYWxReGdnWlJSS2EzMWN0c0xKOE1RNUs4Yi1ZRzZKUXpFNkVLWUFMU1U1Z3IzN3RJa1ZxXzd6YWhMaHNrZmpOMlRncFh4aFhtcFFfaGpnZUNTSXVaX05pR2JVSFNhMDRtUWw0eXBQTUNBY1ROUUYzSWtnQkJ0YklXMFhOTURFZVJvTTdRQVZxTFh4ZWRWQTFsVVM3NnhkN0loRUZJY1NySkNPZlpYV1lkV3EtNXhUNUxBblhzNjJaNkU0SktsZnZURkJGZ2lFNjlLTi1RRTRuS080RFRFbVQzaFptQjk3b0NCR0VzWm9ZbXdVdzFJYzlxWUt4dW9UMUp4UDNXTXBydFEtQm1HN1JzVWRIQzV5V3BvY3Ntckw4bnZVenZXM0tMaWlWTjhiZW9oU0QtZmNScFNfeHZjTDkxTDEyVWNSSjRMQ1VtZkktNm1jcGRBMzQ5MktsRkIyV3NpcDVUSmlEa1FVbm5YZXhDX05DSnhYNVVEa3R0UWZNUUFUcnJlYlZFWUJtY2x4ZTJ3bDZVVWNEV0ZCV1FkLW5NbTVEVUk0QnhMRU0yc0JSc1h2WDhSTW1JNmxCN2VzUmUya3AxaXJyVWMSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuUDL2dvdG8_dXJsPUNBRVMzd0lCNnpzd0ZXaERfQ1NuS0RMWHpJYWxReGdnWlJSS2EzMWN0c0xKOE1RNUs4Yi1ZRzZKUXpFNkVLWUFMU1U1Z3IzN3RJa1ZxXzd6YWhMaHNrZmpOMlRncFh4aFhtcFFfaGpnZUNTSXVaX05pR2JVSFNhMDRtUWw0eXBQTUNBY1ROUUYzSWtnQkJ0YklXMFhOTURFZVJvTTdRQVZxTFh4ZWRWQTFsVVM3NnhkN0loRUZJY1NySkNPZlpYV1lkV3EtNXhUNUxBblhzNjJaNkU0SktsZnZURkJGZ2lFNjlLTi1RRTRuS080RFRFbVQzaFptQjk3b0NCR0VzWm9ZbXdVdzFJYzlxWUt4dW9UMUp4UDNXTXBydFEtQm1HN1JzVWRIQzV5V3BvY3Ntckw4bnZVenZXM0tMaWlWTjhiZW9oU0QtZmNScFNfeHZjTDkxTDEyVWNSSjRMQ1VtZkktNm1jcGRBMzQ5MktsRkIyV3NpcDVUSmlEa1FVbm5YZXhDX05DSnhYNVVEa3R0UWZNUUFUcnJlYlZFWUJtY2x4ZTJ3bDZVVWNEV0ZCV1FkLW5NbTVEVUk0QnhMRU0yc0JSc1h2WDhSTW1JNmxCN2VzUmUya3AxaXJyVWMSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSmVwjbo6bRqMFErmPW-gMaFlAFAtg23qZzmw",
+   "source": "Facebook · NewsTamil 24x7"
+  },
+  {
+   "position": 4,
+   "title": "Latest India News, Headlines, Stories and Videos",
+   "link": "https://www.rediff.com/news",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVtD5bFcjIOuiv6CswN0WpTQIqHQFkWR3Aahsm2y6xZwXRWnqxWq2SJEDMfNumSwnU_fcg6Sw1UXatITUoCXMmlBc9cJtKZMcaoj_ZhCMnjGW3&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.rediff.com › news",
+   "favicon": "https://serpapi.com/images/i/UklGRsABAABXRUJQVlA4ILQBAAAwCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y4343qtuHbAjAbajQjv4B1sHoAeVv7J9ZNxQY43dBhgmYt3kTv-xVKhujCZZtH4zwY0P3JD6oUJPlepLoAAAA_vfxBwQxJLkdzjAelM3ZPDiSASaHQ489Vgop0cPZCw9CXPkN30Vh10k0Qt0A_2pwgZDlhyarJ2rLvWlGA_7XsXk1pnMgAEByH_nWXm6wJ7yLFY4-HLL9sw9jzOT2JJBgQP6sLfpKINH0WDHD0SCQgubtaCOXPNb6CJLe2HQb0ef8SGgIy_lO6cEXI4CxJYWdGSMDVj8i_mBRnC4IjGsskM1a17sDc5QuggqbgVqP7LEuelA22xCboioJafn6RXrEq1vn_KYOgJfApLS3rh_Q6QIKoiAdZJkHIPESNfKTJVAaDnB97Y1Duqc18l_rqlNzbyXQfvvrpa0ftYF83tp115sv5ip9kG8S7c8fVRcI_vRAB0emz17YNtBS-sIgFBl323le5_kSHTp_J0_9Du7TxUoCJb6VYp5jzoICpJe3-TJl0srVF3xTdd_1HDXXgPkKsbFROn5WYAAA.webp",
+   "date": "45 minutes ago",
+   "snippet": "Delivers most trusted news from India and around the world. Election Commission gets a new deputy LIVE!",
+   "snippet_highlighted_words": [
+    "Election Commission gets a new deputy LIVE"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Delivers most trusted news from India and around the world. Election Commission gets a new deputy LIVE!",
+     "source_info_link": "https://www.rediff.com/news",
+     "icon": "https://serpapi.com/images/i/UklGRsABAABXRUJQVlA4ILQBAAAwCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y4343qtuHbAjAbajQjv4B1sHoAeVv7J9ZNxQY43dBhgmYt3kTv-xVKhujCZZtH4zwY0P3JD6oUJPlepLoAAAA_vfxBwQxJLkdzjAelM3ZPDiSASaHQ489Vgop0cPZCw9CXPkN30Vh10k0Qt0A_2pwgZDlhyarJ2rLvWlGA_7XsXk1pnMgAEByH_nWXm6wJ7yLFY4-HLL9sw9jzOT2JJBgQP6sLfpKINH0WDHD0SCQgubtaCOXPNb6CJLe2HQb0ef8SGgIy_lO6cEXI4CxJYWdGSMDVj8i_mBRnC4IjGsskM1a17sDc5QuggqbgVqP7LEuelA22xCboioJafn6RXrEq1vn_KYOgJfApLS3rh_Q6QIKoiAdZJkHIPESNfKTJVAaDnB97Y1Duqc18l_rqlNzbyXQfvvrpa0ftYF83tp115sv5ip9kG8S7c8fVRcI_vRAB0emz17YNtBS-sIgFBl323le5_kSHTp_J0_9Du7TxUoCJb6VYp5jzoICpJe3-TJl0srVF3xTdd_1HDXXgPkKsbFROn5WYAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVnRENWJGY2pJT3VpdjZDc3dOMFdwVFFJcUhRRmtXUjNBYWhzbTJ5Nnhad1hSV25xeFdxMlNKRURNZk51bVN3blVfZmNnNlN3MVVYYXRJVFVvQ1hNbWxCYzljSnRLWk1jYW9qX1poQ01uakdXMxIEGgIIABqcAxICCAEaACICCAEqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA9AIIABAAGAAgACoWCgRuZXdzFS_TKkAaCW5ld3N0b2RheSoXCgV0b2RheRUAAAAAGgluZXdzdG9kYXkyggEvZ290bz91cmw9Q0FFU1ZnSHJPekFWdEQ1YkZjaklPdWl2NkNzd04wV3BUUUlxSFFGa1dSM0FhaHNtMnk2eFp3WFJXbnF4V3EyU0pFRE1mTnVtU3duVV9mY2c2U3cxVVhhdElUVW9DWE1tbEJjOWNKdEtaTWNhb2pfWmhDTW5qR1czOkRMYXRlc3QgSW5kaWEgPGI-TmV3czwvYj4sIEhlYWRsaW5lcywgU3RvcmllcyBhbmQgVmlkZW9zIHwgUmVkaWZmLmNvbUJuRGVsaXZlcnMgbW9zdCB0cnVzdGVkIG5ld3MgZnJvbSBJbmRpYSBhbmQgYXJvdW5kIHRoZSB3b3JsZC4gPGI-RWxlY3Rpb24gQ29tbWlzc2lvbiBnZXRzIGEgbmV3IGRlcHV0eSBMSVZFPC9iPiEiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVnRENWJGY2pJT3VpdjZDc3dOMFdwVFFJcUhRRmtXUjNBYWhzbTJ5Nnhad1hSV25xeFdxMlNKRURNZk51bVN3blVfZmNnNlN3MVVYYXRJVFVvQ1hNbWxCYzljSnRLWk1jYW9qX1poQ01uakdXMxIEGgIIABqcAxICCAEaACICCAEqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA9AIIABAAGAAgACoWCgRuZXdzFS_TKkAaCW5ld3N0b2RheSoXCgV0b2RheRUAAAAAGgluZXdzdG9kYXkyggEvZ290bz91cmw9Q0FFU1ZnSHJPekFWdEQ1YkZjaklPdWl2NkNzd04wV3BUUUlxSFFGa1dSM0FhaHNtMnk2eFp3WFJXbnF4V3EyU0pFRE1mTnVtU3duVV9mY2c2U3cxVVhhdElUVW9DWE1tbEJjOWNKdEtaTWNhb2pfWmhDTW5qR1czOkRMYXRlc3QgSW5kaWEgPGI-TmV3czwvYj4sIEhlYWRsaW5lcywgU3RvcmllcyBhbmQgVmlkZW9zIHwgUmVkaWZmLmNvbUJuRGVsaXZlcnMgbW9zdCB0cnVzdGVkIG5ld3MgZnJvbSBJbmRpYSBhbmQgYXJvdW5kIHRoZSB3b3JsZC4gPGI-RWxlY3Rpb24gQ29tbWlzc2lvbiBnZXRzIGEgbmV3IGRlcHV0eSBMSVZFPC9iPiEiAhABSABYAGgA",
+   "source": "Rediff"
+  },
+  {
+   "position": 5,
+   "title": "10 Oct 2026 | காலை தலைப்புச் செய்திகள்",
+   "link": "https://www.youtube.com/watch?v=rOiIuSfzFmg",
+   "displayed_link": "2.1L+ views · 14 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca587c1290d9c49a1fe55b/images/vaWzk1VerCLvP4qNNRAiXsndF_z_eXqR0JgTJgXKy24.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Today Headlines - 10 Oct 2026 | காலை தலைப்புச் செய்திகள் | Morning Headlines | CM VIJAY | TVK #Morning #Headlines ...",
+   "duration": "20:31",
+   "about_this_result": {
+    "source": {
+     "description": "Today Headlines - 10 Oct 2026 | காலை தலைப்புச் செய்திகள் | Morning Headlines | CM VIJAY | TVK #Morning #Headlines ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm9JX1A5Zy04dF9xN0VqVEVnRW52d0FnX3RzbEhlWXZiWUJ2cHQ1bTgweURCMVdtU1dzMUNyb2cwWDVzRmtlNnRVV3E1MXhkRWwwZmpiOEF1UW1SYXlJb1A1U1pTSEZqN2Y3eHpNV1NlQmhUdTNvWlVRdW1wcXY4aWZCbDduUGQ3N0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm9JX1A5Zy04dF9xN0VqVEVnRW52d0FnX3RzbEhlWXZiWUJ2cHQ1bTgweURCMVdtU1dzMUNyb2cwWDVzRmtlNnRVV3E1MXhkRWwwZmpiOEF1UW1SYXlJb1A1U1pTSEZqN2Y3eHpNV1NlQmhUdTNvWlVRdW1wcXY4aWZCbDduUGQ3N0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "source": "YouTube · Polimer News"
+  },
+  {
+   "position": 6,
+   "title": "Top & Breaking World News Today",
+   "link": "https://apnews.com/world-news",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVHVW1fZ-CQ3h6i8THObd4XPqW1DBNAJEXqF1_YJk8yNMiVEQ4_sNws0gjF_Kxxvnx-LUe9Au8psoAno00RJOq3EtRDoo0EItfoJg_coSIp9xhkCE&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://apnews.com › world-news",
+   "favicon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAAAQBgCdASocABwAPrkurlcnIacnG_DgFwlAAIgr4uPpLUAP1AK9rqoXwPu65wV5NwXygNn_YxM_uoAA_vfkT68yBVf8A4G4s-LX_NuJWLs1rl5vOzzbcTFWJOIe95ONN-ogX36e2CibD57FO0f-ig0oJhV_zgLh9qmkq_yDm_fVVIEDP5K__8HOEv_QzKzTzTM0NsCrDXemJBTGlmn_9aCgp8ELgc_9H__Qub128XPiWrH_hDwLKd_xxleLGyfHQ9tkOv_xrzGUCYSXCDkHI6Ho9-KMTDxOn_rcXrDQ0DCPSbSjIQ7vgt4JJ-b9pIW2f1NbAYvpM6Qp9f_WDocghv_E9bFd__8lvJEOw_xwjOIQOjWxWvRKQA6QAAA.webp",
+   "snippet": "Stay informed with top world news today. The Associated Press aims to keep you up-to-date with breaking world news stories around the globe.",
+   "snippet_highlighted_words": [
+    "Stay informed with top world news today"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Stay informed with top world news today. The Associated Press aims to keep you up-to-date with breaking world news stories around the globe.",
+     "source_info_link": "https://apnews.com/world-news",
+     "icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAAAQBgCdASocABwAPrkurlcnIacnG_DgFwlAAIgr4uPpLUAP1AK9rqoXwPu65wV5NwXygNn_YxM_uoAA_vfkT68yBVf8A4G4s-LX_NuJWLs1rl5vOzzbcTFWJOIe95ONN-ogX36e2CibD57FO0f-ig0oJhV_zgLh9qmkq_yDm_fVVIEDP5K__8HOEv_QzKzTzTM0NsCrDXemJBTGlmn_9aCgp8ELgc_9H__Qub128XPiWrH_hDwLKd_xxleLGyfHQ9tkOv_xrzGUCYSXCDkHI6Ho9-KMTDxOn_rcXrDQ0DCPSbSjIQ7vgt4JJ-b9pIW2f1NbAYvpM6Qp9f_WDocghv_E9bFd__8lvJEOw_xwjOIQOjWxWvRKQA6QAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVkhWVzFmWi1DUTNoNmk4VEhPYmQ0WFBxVzFEQk5BSkVYcUYxX1lKazh5Tk1pVkVRNF9zTndzMGdqRl9LeHh2bngtTFVlOUF1OHBzb0FubzAwUkpPcTNFdFJEb28wRUl0Zm9KZ19jb1NJcDl4aGtDRRIEGgIIABqzAxICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQI0DCAAQABgAIAAqFgoEbmV3cxWfLpJAGgluZXdzdG9kYXkqFwoFdG9kYXkVYAwwQBoJbmV3c3RvZGF5MoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVkhWVzFmWi1DUTNoNmk4VEhPYmQ0WFBxVzFEQk5BSkVYcUYxX1lKazh5Tk1pVkVRNF9zTndzMGdqRl9LeHh2bngtTFVlOUF1OHBzb0FubzAwUkpPcTNFdFJEb28wRUl0Zm9KZ19jb1NJcDl4aGtDRTo0VG9wICZhbXA7IEJyZWFraW5nIFdvcmxkIDxiPk5ld3MgVG9kYXk8L2I-IC0gQVAgTmV3c0KTATxiPlN0YXkgaW5mb3JtZWQgd2l0aCB0b3Agd29ybGQgbmV3cyB0b2RheTwvYj4uIFRoZSBBc3NvY2lhdGVkIFByZXNzIGFpbXMgdG8ga2VlcCB5b3UgdXAtdG8tZGF0ZSB3aXRoIGJyZWFraW5nIHdvcmxkIG5ld3Mgc3RvcmllcyBhcm91bmQgdGhlIGdsb2JlLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVkhWVzFmWi1DUTNoNmk4VEhPYmQ0WFBxVzFEQk5BSkVYcUYxX1lKazh5Tk1pVkVRNF9zTndzMGdqRl9LeHh2bngtTFVlOUF1OHBzb0FubzAwUkpPcTNFdFJEb28wRUl0Zm9KZ19jb1NJcDl4aGtDRRIEGgIIABqzAxICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQI0DCAAQABgAIAAqFgoEbmV3cxWfLpJAGgluZXdzdG9kYXkqFwoFdG9kYXkVYAwwQBoJbmV3c3RvZGF5MoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVkhWVzFmWi1DUTNoNmk4VEhPYmQ0WFBxVzFEQk5BSkVYcUYxX1lKazh5Tk1pVkVRNF9zTndzMGdqRl9LeHh2bngtTFVlOUF1OHBzb0FubzAwUkpPcTNFdFJEb28wRUl0Zm9KZ19jb1NJcDl4aGtDRTo0VG9wICZhbXA7IEJyZWFraW5nIFdvcmxkIDxiPk5ld3MgVG9kYXk8L2I-IC0gQVAgTmV3c0KTATxiPlN0YXkgaW5mb3JtZWQgd2l0aCB0b3Agd29ybGQgbmV3cyB0b2RheTwvYj4uIFRoZSBBc3NvY2lhdGVkIFByZXNzIGFpbXMgdG8ga2VlcCB5b3UgdXAtdG8tZGF0ZSB3aXRoIGJyZWFraW5nIHdvcmxkIG5ld3Mgc3RvcmllcyBhcm91bmQgdGhlIGdsb2JlLiICEAFIAFgAaAA",
+   "source": "AP News"
+  },
+  {
+   "position": 7,
+   "title": "Today News Headlines | 09.10.2026- தலைப்புச் செய்திகள்",
+   "link": "https://www.facebook.com/kalaignarnewsofficial/videos/today-news-headlines-09102026-%E0%AE%A4%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%9A%E0%AF%8D-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D-mk-stalin-dmk-tamil-nadu-kalai/973932291735173/",
+   "displayed_link": "80+ reactions · 1 day ago",
+   "thumbnail": "https://serpapi.com/searches/6aca587c1290d9c49a1fe55b/images/vaWzk1VerCLvP4qNNRAiXop40u1aELwhZQSPOdlV8YY.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Today News Headlines | 09.10.2026- தலைப்புச் செய்திகள் | MK Stalin | DMK | Tamil Nadu | Kalaignar News",
+   "duration": "4:45",
+   "about_this_result": {
+    "source": {
+     "description": "Today News Headlines | 09.10.2026- தலைப்புச் செய்திகள் | MK Stalin | DMK | Tamil Nadu | Kalaignar News",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuoDL2dvdG8_dXJsPUNBRVM0d0lCNnpzd0ZaRWs0T19LUXFwd3h5aHhGc25SMGU4U01rMG1ZTkxxY19RRTJCaElCVXpTSXY4MUgwejlxNWpCYlZjaXBpSmJ5MnhyY3VBX2pLSm1kSGVxZmhXZzhSVnVSUGN1TFBQSWdvNTgzUzh1X0h5LTNMTTZ1SVB4UHBJMFVGUnc3RlFabnJ5UDZEbno0cHV3Yl9TOFFyMXBUNldOLTU1YUdLbElLbUFtMklDT3VjZ2RzYmJ0SXhFbC1xUEZMaDdIRnZ2VzdIS1hwZXBhVUd1MlllV053RmVmQ3JsSDUzREJFemhxekZmaUtMS1ZCVFpnZ2tpTldja3VuUFUwZXRZZkNub2JTQWc0d0V3YkctMm0zaTJnWnVzZmhQQ0MtTE1VUlJIeEl5cU53ZFRVMnJrM2RESlNjVVNLQ3kxdkVPenNUQVpIdEplaktPbnBHVUtSYUI1eHFLZVpFZ1dSNVJPbExoUDZlSEllQjdzRWRZZWJjSDRzSEUzZlZwMDMzRXVxajYxUlM1WS01UGZYYldFSVV2UjhRYzNwYnBLbzc3WThZMFBOR1ZJdWlKcTV3S1dPaTNsampQcW0za25RQUpsNWxWOU45b0hVVG9aeFUzWThuZ2xRMU5xeBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuoDL2dvdG8_dXJsPUNBRVM0d0lCNnpzd0ZaRWs0T19LUXFwd3h5aHhGc25SMGU4U01rMG1ZTkxxY19RRTJCaElCVXpTSXY4MUgwejlxNWpCYlZjaXBpSmJ5MnhyY3VBX2pLSm1kSGVxZmhXZzhSVnVSUGN1TFBQSWdvNTgzUzh1X0h5LTNMTTZ1SVB4UHBJMFVGUnc3RlFabnJ5UDZEbno0cHV3Yl9TOFFyMXBUNldOLTU1YUdLbElLbUFtMklDT3VjZ2RzYmJ0SXhFbC1xUEZMaDdIRnZ2VzdIS1hwZXBhVUd1MlllV053RmVmQ3JsSDUzREJFemhxekZmaUtMS1ZCVFpnZ2tpTldja3VuUFUwZXRZZkNub2JTQWc0d0V3YkctMm0zaTJnWnVzZmhQQ0MtTE1VUlJIeEl5cU53ZFRVMnJrM2RESlNjVVNLQ3kxdkVPenNUQVpIdEplaktPbnBHVUtSYUI1eHFLZVpFZ1dSNVJPbExoUDZlSEllQjdzRWRZZWJjSDRzSEUzZlZwMDMzRXVxajYxUlM1WS01UGZYYldFSVV2UjhRYzNwYnBLbzc3WThZMFBOR1ZJdWlKcTV3S1dPaTNsampQcW0za25RQUpsNWxWOU45b0hVVG9aeFUzWThuZ2xRMU5xeBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Facebook · Kalaignar Seithigal"
+  },
+  {
+   "position": 8,
+   "title": "Google News - Daily Headlines – Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&hl=en_IN",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.google.android.apps.magazines%26hl%3Den_IN&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQFnoECD4QAQ",
+   "displayed_link": "https://play.google.com › store › apps › details",
+   "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp",
+   "snippet": "Google News is a personalised news aggregator that organises and highlights what's happening in the world so that you can discover more about the stories ...",
+   "snippet_highlighted_words": [
+    "Google News"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.0,
+      "reviews": 1964894
+     },
+     "extensions": [
+      "4.0(19,64,894)",
+      "Free",
+      "Android",
+      "Reference"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Google News is a personalised news aggregator that organises and highlights what's happening in the world so that you can discover more about the stories ...",
+     "source_info_link": "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&hl=en_IN",
+     "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=ClhodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMubWFnYXppbmVzJmhsPWVuX0lOEgQaAggAGqcDEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgQMIABAAGAAgACoWCgRuZXdzFWg_X0AaCW5ld3N0b2RheSoXCgV0b2RheRXHtIA9GgluZXdzdG9kYXkyWGh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5tYWdhemluZXMmaGw9ZW5fSU46PEdvb2dsZSA8Yj5OZXdzPC9iPiAtIERhaWx5IEhlYWRsaW5lcyDigJMgQXBwcyBvbiBHb29nbGUgUGxheUKtATxiPkdvb2dsZSBOZXdzPC9iPiBpcyBhIHBlcnNvbmFsaXNlZCBuZXdzIGFnZ3JlZ2F0b3IgdGhhdCBvcmdhbmlzZXMgYW5kIGhpZ2hsaWdodHMgd2hhdCYjMzk7cyBoYXBwZW5pbmcgaW4gdGhlIHdvcmxkIHNvIHRoYXQgeW91IGNhbiBkaXNjb3ZlciBtb3JlIGFib3V0IHRoZSBzdG9yaWVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=ClhodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmdvb2dsZS5hbmRyb2lkLmFwcHMubWFnYXppbmVzJmhsPWVuX0lOEgQaAggAGqcDEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgQMIABAAGAAgACoWCgRuZXdzFWg_X0AaCW5ld3N0b2RheSoXCgV0b2RheRXHtIA9GgluZXdzdG9kYXkyWGh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5tYWdhemluZXMmaGw9ZW5fSU46PEdvb2dsZSA8Yj5OZXdzPC9iPiAtIERhaWx5IEhlYWRsaW5lcyDigJMgQXBwcyBvbiBHb29nbGUgUGxheUKtATxiPkdvb2dsZSBOZXdzPC9iPiBpcyBhIHBlcnNvbmFsaXNlZCBuZXdzIGFnZ3JlZ2F0b3IgdGhhdCBvcmdhbmlzZXMgYW5kIGhpZ2hsaWdodHMgd2hhdCYjMzk7cyBoYXBwZW5pbmcgaW4gdGhlIHdvcmxkIHNvIHRoYXQgeW91IGNhbiBkaXNjb3ZlciBtb3JlIGFib3V0IHRoZSBzdG9yaWVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Google Play",
+   "read_more_link": "https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&hl=en_IN#:~:text=Google%20News%20is%20a%20personalised,stories%20that%20matter%20to%20you."
+  },
+  {
+   "position": 9,
+   "title": "[ＳＰＯＲＴＳ ＴＯＤＡＹ]⊕ All Blacks vs Wallabies Rugby News 10 ...",
+   "link": "https://edu.umontpellier.fr/annexes/visite-virtuelle-economie/FaculteRichterMontpellier.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2RpZ2l0YWxtZWRpYWluYy5naXRodWIuaW8vZ29sZGVuL2Z1LnhtbCIvPjwva3JwYW5vPg==&id=all-blacks-vs-wallabies-rugby-news-cbs-sports-q17yn",
+   "displayed_link": "https://edu.umontpellier.fr · 9 hours ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqe7QXLvUZ1v3gqsUqjSrIFrzt1S36AlojMHrsrFxp1AGUlGGPzgO9uA&s",
+   "favicon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAABQBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y0HSGgrwG2du03ePSvlNwidzLR1xOP54ydfNTzYBoVFMFfz7LsigAAP738Vhq4YmdWZPmhWZi7heZ4TJFFDQS2ioPCxx7ngVjMoSPIcLbFbj8JXtSeLZGid0Iw1fDcTY0OqdJo6HTVDfhI_Z6ZPocxF7td5wbcnvkw5VGYG-khBpoUAjXNms-PF3Fe8Cg1RcMmJBUCcSeyBkajvAcAOrCtgoeaU20hoQUpBCvZSGB7oP0NZX7__cdvoZM_9v99EtnszTlSBmRfSWdwJDn86nbReVlX8bBZfg_MMIo_YVW-tsk6wsMVJKj7pSrbnGo2NuJhkX7FGR6XD_-P-v2MW34lm8pQbjCpaDMioNxVtnCBBjVFHcohXzmgQ5R_hvBpKRBxagwI5FHaHuC2FNjTT59ryWkzf60arH7mEFVcUVVZI88d3_P_HTl_eyX9v1yX1XZPeUqrltn_JuAAA.webp",
+   "snippet": "Get New Zealand All Blacks vs Australia Wallabies Live score updates, highlights, and match stats. Follow live commentary and key moments ...",
+   "about_this_result": {
+    "source": {
+     "description": "Get New Zealand All Blacks vs Australia Wallabies Live score updates, highlights, and match stats. Follow live commentary and key moments ...",
+     "icon": "https://serpapi.com/images/i/UklGRoIBAABXRUJQVlA4IHYBAABQBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y0HSGgrwG2du03ePSvlNwidzLR1xOP54ydfNTzYBoVFMFfz7LsigAAP738Vhq4YmdWZPmhWZi7heZ4TJFFDQS2ioPCxx7ngVjMoSPIcLbFbj8JXtSeLZGid0Iw1fDcTY0OqdJo6HTVDfhI_Z6ZPocxF7td5wbcnvkw5VGYG-khBpoUAjXNms-PF3Fe8Cg1RcMmJBUCcSeyBkajvAcAOrCtgoeaU20hoQUpBCvZSGB7oP0NZX7__cdvoZM_9v99EtnszTlSBmRfSWdwJDn86nbReVlX8bBZfg_MMIo_YVW-tsk6wsMVJKj7pSrbnGo2NuJhkX7FGR6XD_-P-v2MW34lm8pQbjCpaDMioNxVtnCBBjVFHcohXzmgQ5R_hvBpKRBxagwI5FHaHuC2FNjTT59ryWkzf60arH7mEFVcUVVZI88d3_P_HTl_eyX9v1yX1XZPeUqrltn_JuAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CtUDL2dvdG8_dXJsPUNBRVMwd0lCNnpzd0ZXM1ZqbkZEMFVsaUJzN0o4VjBQeFAtS1g5THNnTG5Pd1A3QnlEVzZCSzZSaGZwWUZFWEpjTG9TZXhadkJSX3JfVGJmUWNiT0J5ZERxVFJiOVYweEhRdXVsZGZ3MC1zYWg4ZVBoOFpTcVF6dUhDOFVtbGR4OHliWmxjY3JyZWI4WVhFTVNiZ0RINENtdUJFWmpIOHpGclFjcW1oYmlpalFPWGFYMXI4N01DbDJBM0F4T3B3N0xkaFZEOEZlWEx0N1lGSkVCTnNhVThobFZ4S1dDT3FYaHdRQkpsdVN5Vml6b21vZThRbFNrZDJBMEZSNW9uWlZWTDNaSktwYnEyNGhUeGpZQnRGNDNsUkRucjdUYXhybFpkQzk0amllTk91V3R6M3JTYmgzN3ByN2ZSdlRIbVo4dkFZdlIwQmJxNjg0OVRDODRCMGFoU2Z0Y1B3MTRKcnZRNGxaVzhNNTZfSHdiMWZ4RDUzQ3o2OXRHUG5Yc1JfdjcyOEcxTUpXd0tDSFJyNVE4WXBtdGNUX0J5dnNVdWtMUmtyODhzaE9MMmJaaVdqVU9OQklab2NOLTg1Q0trX3QzcnhJU1ZIXzc3RRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CtUDL2dvdG8_dXJsPUNBRVMwd0lCNnpzd0ZXM1ZqbkZEMFVsaUJzN0o4VjBQeFAtS1g5THNnTG5Pd1A3QnlEVzZCSzZSaGZwWUZFWEpjTG9TZXhadkJSX3JfVGJmUWNiT0J5ZERxVFJiOVYweEhRdXVsZGZ3MC1zYWg4ZVBoOFpTcVF6dUhDOFVtbGR4OHliWmxjY3JyZWI4WVhFTVNiZ0RINENtdUJFWmpIOHpGclFjcW1oYmlpalFPWGFYMXI4N01DbDJBM0F4T3B3N0xkaFZEOEZlWEx0N1lGSkVCTnNhVThobFZ4S1dDT3FYaHdRQkpsdVN5Vml6b21vZThRbFNrZDJBMEZSNW9uWlZWTDNaSktwYnEyNGhUeGpZQnRGNDNsUkRucjdUYXhybFpkQzk0amllTk91V3R6M3JTYmgzN3ByN2ZSdlRIbVo4dkFZdlIwQmJxNjg0OVRDODRCMGFoU2Z0Y1B3MTRKcnZRNGxaVzhNNTZfSHdiMWZ4RDUzQ3o2OXRHUG5Yc1JfdjcyOEcxTUpXd0tDSFJyNVE4WXBtdGNUX0J5dnNVdWtMUmtyODhzaE9MMmJaaVdqVU9OQklab2NOLTg1Q0trX3QzcnhJU1ZIXzc3RRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Université de Montpellier"
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+   "link": "https://www.bbc.com/news/articles/c65yn7xvde7vo",
+   "source": "BBC",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAHlBMVEX___8AAABeXl78_PyPj4-qqqqenp5LS0t3d3djY2OCkL5gAAAALklEQVQYlWNgoA9gZmFiYmVjYmJjZWJiYQYJsDMycnAyMnJyMDKyYxdA10IPAABz0ADZxHfLfwAAAABJRU5ErkJggg.png",
+   "date": "3 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca587c1290d9c49a1fe55b/images/wWJRbcXw0t9wTcb4lh6B4kDkSDkI5Fk5He28iL8MUE0.jpeg"
+  },
+  {
+   "title": "Contempt Plea Filed In Supreme Court Alleging Arbitrary Metro Station Closures & Train Cancellations...",
+   "link": "https://www.livelaw.in/top-stories/contempt-petition-filed-in-supreme-court-alleging-arbitrary-metro-station-closures-train-cancellations-violating-court-order-553990",
+   "source": "Live Law",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAMAAACKYC6uAAAAflBMVEVHcEziIDMDBwgPDxC9v8ENDQ4HCAnuITWXmpwICQoHCgriIDPiIDMYFRYRDxDjIDPiIDPiIDMECgriIDOHiozjIDMVExQFBQbiIDMFBgfiIDPwJT3lIDPiIDPiIDMABgAJCgsAAQQHCAmLFiG0GykACgr_NlgJCgvjIDMICQqYqi-GAAAAKHRSTlMAmqJ_Bm2wTRGP8PE6ClnPgyXjeB8zYRW8JIgUY6nZMvuFvr6H1wrW7aLCIQAAAIBJREFUCJlFzNcOgzAUA1BnLyAUyqZ73fz_DzaRKtVP1pFlhBaHUOEfWguEiq0snocCeUEVm8kQm08FYruT2SiCetZneDz3wbxhNsCY8pEUwF8f4dHxS_cDJ7xOzift6gxiGtPitUvNNdVKgOt7w_lNLbpWbhobWCkBe5TSWshcvtIOCGuu1gEWAAAAAElFTkSuQmCC.png",
+   "date": "12 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca587c1290d9c49a1fe55b/images/_HsUQNL5QYOwQiPkirrhIp6bDYxNuma36p6-2yYEKc0.jpeg"
+  },
+  {
+   "title": "U.S. lifts sanctions on sale of Russian diesel in global markets",
+   "link": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
+   "source": "The Hindu",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAASFBMVEX___-wsbJbWlyCgIGamZpubW5PTk_Ix8epqaq7vL2-v8CUk5Pf4OGmpqfu7-_k5eby8vNJR0nP0NFdXF00MTJDQUNxcHFRUFKJczSfAAAAUUlEQVQYlbXOyRJAMBBF0ZvE0ITuSAz__6dYKKVsectTd_Hgl7XSSR-H0amJ6AGS3ETER6jDWSiuwfDVBZwAPuRcHvAqbtAwZ2xZk21FPzm-AxqcAj_99rS_AAAAAElFTkSuQmCC.png",
+   "date": "19 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca587c1290d9c49a1fe55b/images/6SxgTXZde0upp07gg8HRYS0HyNHSkpasUoTWS5XVCTc.jpeg"
+  },
+  {
+   "title": "BREAKING | Delhi Court Rejects CJP Leader Ratna Singh's Plea For FIR Against Cops Over 'Illegal...",
+   "link": "https://www.livelaw.in/top-stories/delhi-court-cjp-leader-ratna-singh-fir-against-cops-over-illegal-detention-554074",
+   "source": "Live Law",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAMAAACKYC6uAAAAflBMVEVHcEziIDMDBwgPDxC9v8ENDQ4HCAnuITWXmpwICQoHCgriIDPiIDMYFRYRDxDjIDPiIDPiIDMECgriIDOHiozjIDMVExQFBQbiIDMFBgfiIDPwJT3lIDPiIDPiIDMABgAJCgsAAQQHCAmLFiG0GykACgr_NlgJCgvjIDMICQqYqi-GAAAAKHRSTlMAmqJ_Bm2wTRGP8PE6ClnPgyXjeB8zYRW8JIgUY6nZMvuFvr6H1wrW7aLCIQAAAIBJREFUCJlFzNcOgzAUA1BnLyAUyqZ73fz_DzaRKtVP1pFlhBaHUOEfWguEiq0snocCeUEVm8kQm08FYruT2SiCetZneDz3wbxhNsCY8pEUwF8f4dHxS_cDJ7xOzift6gxiGtPitUvNNdVKgOt7w_lNLbpWbhobWCkBe5TSWshcvtIOCGuu1gEWAAAAAElFTkSuQmCC.png",
+   "date": "3 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca587c1290d9c49a1fe55b/images/0McPBIIwqy-3b2Cn95CQJ8MSw8M3GJly-BwVBnGNt70.jpeg"
+  },
+  {
+   "title": "Loud blast at Riyadh airport as travellers evacuated and airlines cancel flights",
+   "link": "https://www.reuters.com/world/middle-east/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights-2026-10-10/",
+   "source": "Reuters",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAMAAAD-iNU2AAAANlBMVEVHcEzWQADWQADWQADVQADWQADVQADVQADVQADTQADWQADWQADWQADWQADWQADVQADWQADWQADYUPXYAAAAEXRSTlMAk-tzG2YlES0ISDu2gc5XpQRdj_kAAACLSURBVAiZTU9bEgMhCIsKCr52vf9lG5x2pvyQkBAUYNUmp3bFr-ZC8p1dLlv1NmnzWIDRgAS6yyaSRdbJnbb9wF7gfWhzg-QCD_kGmAbJynOXM14ztEJvLBhiBaIQv_IwMDIdQedDfGUuD7TRuT5xGsUIsjOpBozTnM1nlZgPyPc_edupJeGvyrd_AOjAA6sGw87FAAAAAElFTkSuQmCC.png",
+   "date": "54 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6aca587c1290d9c49a1fe55b/images/nbghIdvDLqLYzt8tFVRUZPOjJ_8My_MmxM_QjBNKU3k.jpeg"
+  },
+  {
+   "title": "Trump slams Norway for not awarding him Nobel Peace Prize",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize",
+   "source": "Al Jazeera",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAV1BMVEX6kAD6jwD6jgD6jQD7nR77r0f8tVT8wXH7oir8x3_8t1r6lxD6lQ_7sUz7nyX6iwD8u2P916L8xXn9y4f7qDj93bD7rEH8w3X9z5L8vmn9263-5ML91JzzF8a_AAAAcklEQVQYlY2PyxaEIAxDCxQKaIUpOj7G___OWYGws7vk3OYkAC9P4aQGw3ibBmDmsOjOSPkjMj9PGs_iyJmmF1qLzwErop2PjJt8K6LzbgMLu0ok3qLEI-6pZVg6r_JbWyrkm4rDrojBm6AvBmqCccsj_99dBAUzB3HJAAAAAElFTkSuQmCC.png",
+   "date": "8 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca587c1290d9c49a1fe55b/images/AJaj1MZYkmTZdH2SHJmAOcaR8clhuw6GycnnvfWm-pU.jpeg",
+   "label": "Video"
+  }
+ ],
+ "top_stories_link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&q=news+today&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQt8YBKAJ6BAgfEAU",
+ "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&tbm=nws",
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "News today in the world",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&q=News+today+in+the+world&sa=X&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ1QJ6BAg3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=News+today+in+the+world"
+  },
+  {
+   "block_position": 1,
+   "query": "Breaking news headlines today",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&q=Breaking+news+headlines+today&sa=X&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ1QJ6BAhBEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=Breaking+news+headlines+today"
+  },
+  {
+   "block_position": 1,
+   "query": "Free world news today",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&q=Free+world+news+today&sa=X&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ1QJ6BAhAEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=Free+world+news+today"
+  },
+  {
+   "block_position": 1,
+   "query": "Local news today",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&q=Local+news+today&sa=X&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ1QJ6BAg_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=Local+news+today"
+  },
+  {
+   "block_position": 1,
+   "query": "News today AP",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&q=News+today+AP&sa=X&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ1QJ6BAg7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=News+today+AP"
+  },
+  {
+   "block_position": 1,
+   "query": "News today Trump",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&q=News+today+Trump&sa=X&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ1QJ6BAg8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=News+today+Trump"
+  },
+  {
+   "block_position": 1,
+   "query": "News today Fox",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&q=News+today+Fox&sa=X&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ1QJ6BAg5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=News+today+Fox"
+  },
+  {
+   "block_position": 1,
+   "query": "Bad news today in the world",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&q=Bad+news+today+in+the+world&sa=X&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=Bad+news+today+in+the+world"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=10&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8NMDegQINBAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=10&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8tMDegQINBAE",
+   "3": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=20&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8tMDegQINBAG",
+   "4": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=30&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8tMDegQINBAI",
+   "5": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=40&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8tMDegQINBAK",
+   "6": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=50&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8tMDegQINBAM",
+   "7": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=60&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8tMDegQINBAO",
+   "8": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=70&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8tMDegQINBAQ",
+   "9": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=80&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8tMDegQINBAS",
+   "10": "https://www.google.co.in/search?q=news+today&sca_esv=85be49cb45338bd0&gl=in&hl=en&sxsrf=APpeQntSkC57VIV1_5QBP6cIvdEdxQQ1Fg:1791645828834&ei=hFjKau_KMsO9seMP5MWQgQ4&start=90&sa=N&sstk=AS6-VmLi0pTANWUCYEIDM2UZ75IUalaolPD_lhgNxfEC7bmffFuq3NwgzYZRfqltfjU_6bSfeYCP_t1VuzGBoTIIFvyIWMgyO6wxTg&ved=2ahUKEwjvnMPp4K-XAxXDXmwGHeQiJOAQ8tMDegQINBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=news+today&start=90"
+  }
+ }
+}

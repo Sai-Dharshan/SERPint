@@ -1,0 +1,428 @@
+{
+ "search_metadata": {
+  "id": "6aca579cbca7e5b35b0a6a8f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_WHla4aTcWnJlaroe4veyxXFi3NqGzcfGzK_PtO7y40/6aca579cbca7e5b35b0a6a8f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_WHla4aTcWnJlaroe4veyxXFi3NqGzcfGzK_PtO7y40/6aca579cbca7e5b35b0a6a8f.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/_WHla4aTcWnJlaroe4veyxXFi3NqGzcfGzK_PtO7y40/6aca579cbca7e5b35b0a6a8f.json_with_pixel_position",
+  "created_at": "2026-10-10 15:19:56 UTC",
+  "processed_at": "2026-10-10 15:19:56 UTC",
+  "google_url": "https://www.google.co.in/search?q=petrol+price+today&oq=petrol+price+today&uule=w+CAIQICISS29jaGksS2VyYWxhLEluZGlh&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/_WHla4aTcWnJlaroe4veyxXFi3NqGzcfGzK_PtO7y40/6aca579cbca7e5b35b0a6a8f.html",
+  "total_time_taken": 2.23
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "petrol price today",
+  "location_requested": "Kochi,Kerala,India",
+  "location_used": "Kochi,Kerala,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "petrol price today",
+  "total_results": 9450000000,
+  "time_taken_displayed": 0.29,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What is the price of petrol in Madhya Pradesh today?",
+   "type": "ai_overview",
+   "page_token": "ANTIQXicHdBdcqIwAADg2cv0UQOorc44O8OC0EwTh4T8NC87IaigibBCi_DWO_QIPdWepjP9jvB9fNn6evn_67Pq-7bbzOfDMMxOTXOyh5lpZvV1rrvxauZGW1toc9msHlfe76PZxu8m_HMzYcbalkcE0KCV2sNQJ55T9mmho91eWftW-JAaQRKdmwVysFGAQ8LiXuxCbCKVaP8ONSh9nqyREiQSu2yp2GnE1PsnA1ubnMQo7sY84h7x4-lFQkSkSskZnmlMAOJoLB0ARlbDXpBW8zIqrE30Gd6p65baVamRpZWAL4S4J0wsOfPC9pCyIAMIKAbHTBIgnNdQnw2E48bwMDN-WyGLIRZdLyJ709NlKiyvD1GI46p84069vEq82sdrjLxnL3frrEx3rJhISElTZ4xM5mwdE69DfnkGPF7mJCVayHDEeRVRUAIUlLQMlFTDw9G8b4OHn-vt36PrN-2tOX0D30GL8A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ANTIQXicHdBdcqIwAADg2cv0UQOorc44O8OC0EwTh4T8NC87IaigibBCi_DWO_QIPdWepjP9jvB9fNn6evn_67Pq-7bbzOfDMMxOTXOyh5lpZvV1rrvxauZGW1toc9msHlfe76PZxu8m_HMzYcbalkcE0KCV2sNQJ55T9mmho91eWftW-JAaQRKdmwVysFGAQ8LiXuxCbCKVaP8ONSh9nqyREiQSu2yp2GnE1PsnA1ubnMQo7sY84h7x4-lFQkSkSskZnmlMAOJoLB0ARlbDXpBW8zIqrE30Gd6p65baVamRpZWAL4S4J0wsOfPC9pCyIAMIKAbHTBIgnNdQnw2E48bwMDN-WyGLIRZdLyJ709NlKiyvD1GI46p84069vEq82sdrjLxnL3frrEx3rJhISElTZ4xM5mwdE69DfnkGPF7mJCVayHDEeRVRUAIUlLQMlFTDw9G8b4OHn-vt36PrN-2tOX0D30GL8A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXMVlNMUZpV1hoblgzZGlXRTlZVFVoVmVIcHpOVlkzZWt3eWVXWmFObFEwTjJrNFYwVjVRbmxpYWtWQ1drUTRhRkJqTUc1TFVGcENUeTB3VjFONllqWnBjMmxEU1d4TGFsaG9lRGRxUzFrNFN6bDFORmxxZVdoNlFSSVhibFptUzJGemVqaFBUVE5TTlU1dlVIUnhWRzgwUVVrYUlrRkVjM0k1WmxGalltTTBkMFl3V0ZkVFoxTnpWMk41T0ZCNVYyUTFlbDk0Y21jIiwiZmN2IjoiMyIsImVpIjoiblZmS2FzejhPTTNSNU5vUHRxVG80QUkiLCJxYyI6IkNoSndaWFJ5YjJ3Z2NISnBZMlVnZEc5a1lYa1FBSDIweURZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcHJpY2Ugb2YgcGV0cm9sIGluIE1hZGh5YSBQcmFkZXNoIHRvZGF5PyIsImxrIjoiR2hKd1pYUnliMndnY0hKcFkyVWdhVzRnYlhBIiwiYnMiOiJjNFhPdlF2Q01CQ0hZVnh2RWhHVlRBZFN1N2cwdWdkSFFVR1I0bnlZU0lMOUNFbWs5TF9YVWl2aUI4Nl81MTRPTnJBOGFncG9QQWF0MERwelVsaWUwYXJneWd4TmdWdVN1aWJjT1pMS2F3eWxwRnJ3SVJzOFNIdHloN21GUGN5ZXRjYkZIdF9WdXBDR0JJOVpWUDJScHBHUXd2ejF3UVF6RTV6NndNMldIbGFDUjJ6YWhYX1pxeWRZd0xqTEV1YmtMaXEwUVBBSkcxVmZwMzd2QmciLCJpZCI6ImZjX25WZkthc3o4T00zUjVOb1B0cVRvNEFJXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXMVlNMUZpV1hoblgzZGlXRTlZVFVoVmVIcHpOVlkzZWt3eWVXWmFObFEwTjJrNFYwVjVRbmxpYWtWQ1drUTRhRkJqTUc1TFVGcENUeTB3VjFONllqWnBjMmxEU1d4TGFsaG9lRGRxUzFrNFN6bDFORmxxZVdoNlFSSVhibFptUzJGemVqaFBUVE5TTlU1dlVIUnhWRzgwUVVrYUlrRkVjM0k1WmxGalltTTBkMFl3V0ZkVFoxTnpWMk41T0ZCNVYyUTFlbDk0Y21jIiwiZmN2IjoiMyIsImVpIjoiblZmS2FzejhPTTNSNU5vUHRxVG80QUkiLCJxYyI6IkNoSndaWFJ5YjJ3Z2NISnBZMlVnZEc5a1lYa1FBSDIweURZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcHJpY2Ugb2YgcGV0cm9sIGluIE1hZGh5YSBQcmFkZXNoIHRvZGF5PyIsImxrIjoiR2hKd1pYUnliMndnY0hKcFkyVWdhVzRnYlhBIiwiYnMiOiJjNFhPdlF2Q01CQ0hZVnh2RWhHVlRBZFN1N2cwdWdkSFFVR1I0bnlZU0lMOUNFbWs5TF9YVWl2aUI4Nl81MTRPTnJBOGFncG9QQWF0MERwelVsaWUwYXJneWd4TmdWdVN1aWJjT1pMS2F3eWxwRnJ3SVJzOFNIdHloN21GUGN5ZXRjYkZIdF9WdXBDR0JJOVpWUDJScHBHUXd2ejF3UVF6RTV6NndNMldIbGFDUjJ6YWhYX1pxeWRZd0xqTEV1YmtMaXEwUVBBSkcxVmZwMzd2QmciLCJpZCI6ImZjX25WZkthc3o4T00zUjVOb1B0cVRvNEFJXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is today's petrol price in India?",
+   "type": "ai_overview",
+   "page_token": "itCdqnicHdBRboIwAADQ7DL71IKbiyZmGdKijdZQaNH-LLUUkbbAJg70b3fZqXaaJXtHeN8_9lyb34eh7Lr2Mh-P-74fnZrmZPVINaNzPZaXW63GSlp7lMrMpy9T77VQC3hdB8uPdRCztuUhBYmHewnYk4YiogbjZI_AwR8QvaNdYlCxhcbLorKimeppxVvBTh1nQ3Hw0Ke28SRl_IuHOREOC5HhIQnxPQYUkhXaKL-8EG750Re33GHAAVnqitTxXhjqD6mo3yayopMsNb52-LoF1AnEMxGiQDK84as20Q5B7couz2xE0hzwihu9Wj-nwBqCYMf2CCpELywSeBfaAJb5lTuxOezJdAdnZOutvdTN4nyF2PFOg4Q255jRu6qsY3WwzF0e6ggR6YDPo9I7esjErOsktzJhs1T0j4X6Wkwe_z8X74Xr5u1nc_oDsEyDMg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=itCdqnicHdBRboIwAADQ7DL71IKbiyZmGdKijdZQaNH-LLUUkbbAJg70b3fZqXaaJXtHeN8_9lyb34eh7Lr2Mh-P-74fnZrmZPVINaNzPZaXW63GSlp7lMrMpy9T77VQC3hdB8uPdRCztuUhBYmHewnYk4YiogbjZI_AwR8QvaNdYlCxhcbLorKimeppxVvBTh1nQ3Hw0Ke28SRl_IuHOREOC5HhIQnxPQYUkhXaKL-8EG750Re33GHAAVnqitTxXhjqD6mo3yayopMsNb52-LoF1AnEMxGiQDK84as20Q5B7couz2xE0hzwihu9Wj-nwBqCYMf2CCpELywSeBfaAJb5lTuxOezJdAdnZOutvdTN4nyF2PFOg4Q255jRu6qsY3WwzF0e6ggR6YDPo9I7esjErOsktzJhs1T0j4X6Wkwe_z8X74Xr5u1nc_oDsEyDMg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXMVlNMUZpV1hoblgzZGlXRTlZVFVoVmVIcHpOVlkzZWt3eWVXWmFObFEwTjJrNFYwVjVRbmxpYWtWQ1drUTRhRkJqTUc1TFVGcENUeTB3VjFONllqWnBjMmxEU1d4TGFsaG9lRGRxUzFrNFN6bDFORmxxZVdoNlFSSVhibFptUzJGemVqaFBUVE5TTlU1dlVIUnhWRzgwUVVrYUlrRkVjM0k1WmxGalltTTBkMFl3V0ZkVFoxTnpWMk41T0ZCNVYyUTFlbDk0Y21jIiwiZmN2IjoiMyIsImVpIjoiblZmS2FzejhPTTNSNU5vUHRxVG80QUkiLCJxYyI6IkNoSndaWFJ5YjJ3Z2NISnBZMlVnZEc5a1lYa1FBSDIweURZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0b2RheSdzIHBldHJvbCBwcmljZSBpbiBJbmRpYT8iLCJsayI6IkdpVjNhR0YwSUdseklIUnZaR0Y1SjNNZ2NHVjBjbTlzSUhCeWFXTmxJR2x1SUdsdVpHbGgiLCJicyI6ImM0WE92UXZDTUJDSFlWeHZFaEdWVEFkU3U3ZzB1Z2RIUVVHUjRueVlTSUw5Q0VtazlMX1hVaXZpQjg2XzUxNE9OckE4YWdwb1BBYXQwRHB6VWxpZTBhcmd5Z3hOZ1Z1U3VpYmNPWkxLYXd5bHBGcndJUnM4U0h0eWg3bUZQY3lldGNiRkh0X1Z1cENHQkk5WlZQMlJwcEdRd3Z6MXdRUXpFNXo2d00yV0hsYUNSMnphaFhfWnF5ZFl3TGpMRXVia0xpcTBRUEFKRzFWZnAzN3ZCZyIsImlkIjoiZmNfblZmS2FzejhPTTNSNU5vUHRxVG80QUlfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXMVlNMUZpV1hoblgzZGlXRTlZVFVoVmVIcHpOVlkzZWt3eWVXWmFObFEwTjJrNFYwVjVRbmxpYWtWQ1drUTRhRkJqTUc1TFVGcENUeTB3VjFONllqWnBjMmxEU1d4TGFsaG9lRGRxUzFrNFN6bDFORmxxZVdoNlFSSVhibFptUzJGemVqaFBUVE5TTlU1dlVIUnhWRzgwUVVrYUlrRkVjM0k1WmxGalltTTBkMFl3V0ZkVFoxTnpWMk41T0ZCNVYyUTFlbDk0Y21jIiwiZmN2IjoiMyIsImVpIjoiblZmS2FzejhPTTNSNU5vUHRxVG80QUkiLCJxYyI6IkNoSndaWFJ5YjJ3Z2NISnBZMlVnZEc5a1lYa1FBSDIweURZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0b2RheSdzIHBldHJvbCBwcmljZSBpbiBJbmRpYT8iLCJsayI6IkdpVjNhR0YwSUdseklIUnZaR0Y1SjNNZ2NHVjBjbTlzSUhCeWFXTmxJR2x1SUdsdVpHbGgiLCJicyI6ImM0WE92UXZDTUJDSFlWeHZFaEdWVEFkU3U3ZzB1Z2RIUVVHUjRueVlTSUw5Q0VtazlMX1hVaXZpQjg2XzUxNE9OckE4YWdwb1BBYXQwRHB6VWxpZTBhcmd5Z3hOZ1Z1U3VpYmNPWkxLYXd5bHBGcndJUnM4U0h0eWg3bUZQY3lldGNiRkh0X1Z1cENHQkk5WlZQMlJwcEdRd3Z6MXdRUXpFNXo2d00yV0hsYUNSMnphaFhfWnF5ZFl3TGpMRXVia0xpcTBRUEFKRzFWZnAzN3ZCZyIsImlkIjoiZmNfblZmS2FzejhPTTNSNU5vUHRxVG80QUlfNSJ9"
+  },
+  {
+   "question": "What is the 1 litre petrol price in the USA?",
+   "type": "ai_overview",
+   "page_token": "074tYHicHdDdboIwAEDh7GW8VEBx08QsQ6g_ExylLbY3C7QiSkvR1Ync7V32VHuaLbs_yZecr295rKufh7Y0pvmYDga3261_0Pog932u-8d6kH3caz7gmZR5xqvp-HFsPxd8FlxX3vy88mLcNMSHVlIznavJhVlGUiQBcp6G2528h0tvgRbsjVRlQW3SwcD4ab3WZOc1ITYmc4RGi3VEq_YegeiTYnwPcXtOfREyFY149ddIcUmGDG5TCXIkjhC7OnHceXQK3L30slzdRnn90qYBWPITSFhgb4QP6ZZM_mw64ijsiBQFqwyjKrSQJcweiBQpPCJ1VBGLOVBJN7Hc10StW2SVMCjFlSi2obtovA0mUWivbKQmsVgCnHfQS6A-xhh2_CQVJg1EPnWxo12OYRN3oBbdusqGwA5VQyAuszjuFfxzNuz9_5y9F8pMm4s-_AIdUISc",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=074tYHicHdDdboIwAEDh7GW8VEBx08QsQ6g_ExylLbY3C7QiSkvR1Ync7V32VHuaLbs_yZecr295rKufh7Y0pvmYDga3261_0Pog932u-8d6kH3caz7gmZR5xqvp-HFsPxd8FlxX3vy88mLcNMSHVlIznavJhVlGUiQBcp6G2528h0tvgRbsjVRlQW3SwcD4ab3WZOc1ITYmc4RGi3VEq_YegeiTYnwPcXtOfREyFY149ddIcUmGDG5TCXIkjhC7OnHceXQK3L30slzdRnn90qYBWPITSFhgb4QP6ZZM_mw64ijsiBQFqwyjKrSQJcweiBQpPCJ1VBGLOVBJN7Hc10StW2SVMCjFlSi2obtovA0mUWivbKQmsVgCnHfQS6A-xhh2_CQVJg1EPnWxo12OYRN3oBbdusqGwA5VQyAuszjuFfxzNuz9_5y9F8pMm4s-_AIdUISc",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXMVlNMUZpV1hoblgzZGlXRTlZVFVoVmVIcHpOVlkzZWt3eWVXWmFObFEwTjJrNFYwVjVRbmxpYWtWQ1drUTRhRkJqTUc1TFVGcENUeTB3VjFONllqWnBjMmxEU1d4TGFsaG9lRGRxUzFrNFN6bDFORmxxZVdoNlFSSVhibFptUzJGemVqaFBUVE5TTlU1dlVIUnhWRzgwUVVrYUlrRkVjM0k1WmxGalltTTBkMFl3V0ZkVFoxTnpWMk41T0ZCNVYyUTFlbDk0Y21jIiwiZmN2IjoiMyIsImVpIjoiblZmS2FzejhPTTNSNU5vUHRxVG80QUkiLCJxYyI6IkNoSndaWFJ5YjJ3Z2NISnBZMlVnZEc5a1lYa1FBSDIweURZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMSBsaXRyZSBwZXRyb2wgcHJpY2UgaW4gdGhlIFVTQT8iLCJsayI6IkdpTjNhR0YwSUdseklERWdiR2wwY21VZ2NHVjBjbTlzSUhCeWFXTmxJR2x1SUhWellRIiwiYnMiOiJjNFhPdlF2Q01CQ0hZVnh2RWhHVlRBZFN1N2cwdWdkSFFVR1I0bnlZU0lMOUNFbWs5TF9YVWl2aUI4Nl81MTRPTnJBOGFncG9QQWF0MERwelVsaWUwYXJneWd4TmdWdVN1aWJjT1pMS2F3eWxwRnJ3SVJzOFNIdHloN21GUGN5ZXRjYkZIdF9WdXBDR0JJOVpWUDJScHBHUXd2ejF3UVF6RTV6NndNMldIbGFDUjJ6YWhYX1pxeWRZd0xqTEV1YmtMaXEwUVBBSkcxVmZwMzd2QmciLCJpZCI6ImZjX25WZkthc3o4T00zUjVOb1B0cVRvNEFJXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXMVlNMUZpV1hoblgzZGlXRTlZVFVoVmVIcHpOVlkzZWt3eWVXWmFObFEwTjJrNFYwVjVRbmxpYWtWQ1drUTRhRkJqTUc1TFVGcENUeTB3VjFONllqWnBjMmxEU1d4TGFsaG9lRGRxUzFrNFN6bDFORmxxZVdoNlFSSVhibFptUzJGemVqaFBUVE5TTlU1dlVIUnhWRzgwUVVrYUlrRkVjM0k1WmxGalltTTBkMFl3V0ZkVFoxTnpWMk41T0ZCNVYyUTFlbDk0Y21jIiwiZmN2IjoiMyIsImVpIjoiblZmS2FzejhPTTNSNU5vUHRxVG80QUkiLCJxYyI6IkNoSndaWFJ5YjJ3Z2NISnBZMlVnZEc5a1lYa1FBSDIweURZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMSBsaXRyZSBwZXRyb2wgcHJpY2UgaW4gdGhlIFVTQT8iLCJsayI6IkdpTjNhR0YwSUdseklERWdiR2wwY21VZ2NHVjBjbTlzSUhCeWFXTmxJR2x1SUhWellRIiwiYnMiOiJjNFhPdlF2Q01CQ0hZVnh2RWhHVlRBZFN1N2cwdWdkSFFVR1I0bnlZU0lMOUNFbWs5TF9YVWl2aUI4Nl81MTRPTnJBOGFncG9QQWF0MERwelVsaWUwYXJneWd4TmdWdVN1aWJjT1pMS2F3eWxwRnJ3SVJzOFNIdHloN21GUGN5ZXRjYkZIdF9WdXBDR0JJOVpWUDJScHBHUXd2ejF3UVF6RTV6NndNMldIbGFDUjJ6YWhYX1pxeWRZd0xqTEV1YmtMaXEwUVBBSkcxVmZwMzd2QmciLCJpZCI6ImZjX25WZkthc3o4T00zUjVOb1B0cVRvNEFJXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is a market price?",
+   "type": "ai_overview",
+   "page_token": "gE4W5nicHdBdboIwAADg7DI-ChVw0cQsQaDIQo21tNKXBcqfUChBJujb7rJT7TRbdoHv4fv6lteu-Xnh1Tj2t62mTdO0LJUqZb4UannttOT26IQmEinTRDTb9esavBVi594me68m-xT1PXWwfu7KMSTyE0EJw5qumFNOKXCftPVacsmcmBwAcrGZQrQXDFh0tekx6D3iZGNOkMfccc4p_4wjc6TupkN6abGOz1SKR9oczCyaL0cInlmDjbxFAzICGOnWe-oHBZGcxFJaoQzmyK_YaRX8eVZ9boFLdQVSoIBoqoZROzwBd0Y-H1hknr2VxXgzVsJQJtH1Z1TTYwpsXVB8R64XwGtgYx89jozjvKZDCDIbe5s7B0GCIUKMcZg52T7uaIUMr1sU4r4zFv9ju4-iHbf9oMpfuRJ3tg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gE4W5nicHdBdboIwAADg7DI-ChVw0cQsQaDIQo21tNKXBcqfUChBJujb7rJT7TRbdoHv4fv6lteu-Xnh1Tj2t62mTdO0LJUqZb4UannttOT26IQmEinTRDTb9esavBVi594me68m-xT1PXWwfu7KMSTyE0EJw5qumFNOKXCftPVacsmcmBwAcrGZQrQXDFh0tekx6D3iZGNOkMfccc4p_4wjc6TupkN6abGOz1SKR9oczCyaL0cInlmDjbxFAzICGOnWe-oHBZGcxFJaoQzmyK_YaRX8eVZ9boFLdQVSoIBoqoZROzwBd0Y-H1hknr2VxXgzVsJQJtH1Z1TTYwpsXVB8R64XwGtgYx89jozjvKZDCDIbe5s7B0GCIUKMcZg52T7uaIUMr1sU4r4zFv9ju4-iHbf9oMpfuRJ3tg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXMVlNMUZpV1hoblgzZGlXRTlZVFVoVmVIcHpOVlkzZWt3eWVXWmFObFEwTjJrNFYwVjVRbmxpYWtWQ1drUTRhRkJqTUc1TFVGcENUeTB3VjFONllqWnBjMmxEU1d4TGFsaG9lRGRxUzFrNFN6bDFORmxxZVdoNlFSSVhibFptUzJGemVqaFBUVE5TTlU1dlVIUnhWRzgwUVVrYUlrRkVjM0k1WmxGalltTTBkMFl3V0ZkVFoxTnpWMk41T0ZCNVYyUTFlbDk0Y21jIiwiZmN2IjoiMyIsImVpIjoiblZmS2FzejhPTTNSNU5vUHRxVG80QUkiLCJxYyI6IkNoSndaWFJ5YjJ3Z2NISnBZMlVnZEc5a1lYa1FBSDIweURZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIG1hcmtldCBwcmljZT8iLCJsayI6IkdoWjNhR0YwSUdseklHRWdiV0Z5YTJWMElIQnlhV05sIiwiYnMiOiJjNFhPdlF2Q01CQ0hZVnh2RWhHVlRBZFN1N2cwdWdkSFFVR1I0bnlZU0lMOUNFbWs5TF9YVWl2aUI4Nl81MTRPTnJBOGFncG9QQWF0MERwelVsaWUwYXJneWd4TmdWdVN1aWJjT1pMS2F3eWxwRnJ3SVJzOFNIdHloN21GUGN5ZXRjYkZIdF9WdXBDR0JJOVpWUDJScHBHUXd2ejF3UVF6RTV6NndNMldIbGFDUjJ6YWhYX1pxeWRZd0xqTEV1YmtMaXEwUVBBSkcxVmZwMzd2QmciLCJpZCI6ImZjX25WZkthc3o4T00zUjVOb1B0cVRvNEFJXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmRXMVlNMUZpV1hoblgzZGlXRTlZVFVoVmVIcHpOVlkzZWt3eWVXWmFObFEwTjJrNFYwVjVRbmxpYWtWQ1drUTRhRkJqTUc1TFVGcENUeTB3VjFONllqWnBjMmxEU1d4TGFsaG9lRGRxUzFrNFN6bDFORmxxZVdoNlFSSVhibFptUzJGemVqaFBUVE5TTlU1dlVIUnhWRzgwUVVrYUlrRkVjM0k1WmxGalltTTBkMFl3V0ZkVFoxTnpWMk41T0ZCNVYyUTFlbDk0Y21jIiwiZmN2IjoiMyIsImVpIjoiblZmS2FzejhPTTNSNU5vUHRxVG80QUkiLCJxYyI6IkNoSndaWFJ5YjJ3Z2NISnBZMlVnZEc5a1lYa1FBSDIweURZXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIG1hcmtldCBwcmljZT8iLCJsayI6IkdoWjNhR0YwSUdseklHRWdiV0Z5YTJWMElIQnlhV05sIiwiYnMiOiJjNFhPdlF2Q01CQ0hZVnh2RWhHVlRBZFN1N2cwdWdkSFFVR1I0bnlZU0lMOUNFbWs5TF9YVWl2aUI4Nl81MTRPTnJBOGFncG9QQWF0MERwelVsaWUwYXJneWd4TmdWdVN1aWJjT1pMS2F3eWxwRnJ3SVJzOFNIdHloN21GUGN5ZXRjYkZIdF9WdXBDR0JJOVpWUDJScHBHUXd2ejF3UVF6RTV6NndNMldIbGFDUjJ6YWhYX1pxeWRZd0xqTEV1YmtMaXEwUVBBSkcxVmZwMzd2QmciLCJpZCI6ImZjX25WZkthc3o4T00zUjVOb1B0cVRvNEFJXzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "28_-G3iczVXbcqJIGH6AfY7lJomAGKOpoqa6SYutokGNGXNDIZAGBTGgot7Nu-zT7CPs02xzMpCok5mLrW1Lmu7--c9ffz_-cp3l4p8__rbX61V4z7JRFFWI7xPXqhh-xVmyerhfGuyr74aBYX_bbFxLjK4kgFUs4dGo2pzr8iIcVSf76fPO7iF38yK7NmO7orVkiCs6S2a_FQXGCEWOsRxxOXnt6uGhMVCE4W3ff1y_jf0awExiRtRmemjNqR-7echqLH0s_hQe6KISVqylJsMKUhXtEFhyB-JKlasKlQGre1QG_IeDIKDSJ31bAHRBDMAvqcMYAEkF-LihStnBcYduqPEB_SGcrsl5Zal31MvMAW3e9uQIgH4uc8EZVNAbgcwWUJJwgDr8UkDvI1Xm58vL-TgZUfbJ07tQMeNnI8FKaQUkooBHGkBmQ_ognWa1ZDFKxNrRQIEDNFQveg5aKmgrRFKdy2J0-BJuwFybHNGSqKxJaANz7CygE886hm0kL0EY97U0bnJ-q4U8J2reeYrdfWshe6HceHJbAEJnELHGjMq5vm5apmZr3LdkzVf5W64p3DWuE0wZ4RFUYRFUEzlA1e_19neFVHoVyOdwogl6z3O5MBD4pyolxR_gT6nNB047uCifKJMKbZ-ZxLHkPt4vlFqac6krKNfXVgCMkFr0Becegs9wQiWRzKCaNSchyQEpeJaJ04sFHZsPls4Gn4KEn_tRQTBVLElSmoCsMwn4mBEbDItBlzo4zZ_Timef-hHBp6RPa4UPQB8iGvfHGwnGd4KdhZV7mGfNKeQYtuJ60DOIFnQ5sqeRNAQpIBLH0LFAEiz5Lp2pOoyVTX-CnbOj-yUpnOPmAwxK8Kk3BqDTUHat8BZpb71eONkMiY_lICKn4eJ7s18jIeP_hamcotSMos5iCn4JUxjDUxSFstPM9pGiYkxJhJAzmOqlmMopKj7LKeqxaDWN5hOmUPiOqb2aUJRyjqJ-GVPwIqbyxJzC1NNpTOFzmEooqogpW1FLFFWq-pGiCpj6DYrq_i5FJRCz0qnMV5s5OctbqGbddLbD7ovjrjbbw7y3m84nu6puvTZ-zluv3vre0033WnPMe1jtrPfmtUY3_HvLZN7ElbUOfPdqFTiGdbX2TX3PeG7gi5x-V-uiKXxe9NDzA1e9wV5EHF51iTeobZuDoFrfvhDP36Ng1eLBcGw2ViMSyILCHSC_1fYjGC018vhijHdNM_DbfTXgzcDb1dptMnoYDt4WnXkw6Yz5hm9FCzQDndmhrgiRKuOurgsdwusweDw811d1UO_O12riVyjuH-S1sB33w-YT4wWGSOtbI6CvgmcAdIo70CGQXnr0T-cenXs-vWbbU6A-xEBmQkPXrHArNm5nVq1pzGq3gtCYmRzjkfV-JTY5JlwGIv8vFf5YmQ",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=28_-G3iczVXbcqJIGH6AfY7lJomAGKOpoqa6SYutokGNGXNDIZAGBTGgot7Nu-zT7CPs02xzMpCok5mLrW1Lmu7--c9ffz_-cp3l4p8__rbX61V4z7JRFFWI7xPXqhh-xVmyerhfGuyr74aBYX_bbFxLjK4kgFUs4dGo2pzr8iIcVSf76fPO7iF38yK7NmO7orVkiCs6S2a_FQXGCEWOsRxxOXnt6uGhMVCE4W3ff1y_jf0awExiRtRmemjNqR-7echqLH0s_hQe6KISVqylJsMKUhXtEFhyB-JKlasKlQGre1QG_IeDIKDSJ31bAHRBDMAvqcMYAEkF-LihStnBcYduqPEB_SGcrsl5Zal31MvMAW3e9uQIgH4uc8EZVNAbgcwWUJJwgDr8UkDvI1Xm58vL-TgZUfbJ07tQMeNnI8FKaQUkooBHGkBmQ_ognWa1ZDFKxNrRQIEDNFQveg5aKmgrRFKdy2J0-BJuwFybHNGSqKxJaANz7CygE886hm0kL0EY97U0bnJ-q4U8J2reeYrdfWshe6HceHJbAEJnELHGjMq5vm5apmZr3LdkzVf5W64p3DWuE0wZ4RFUYRFUEzlA1e_19neFVHoVyOdwogl6z3O5MBD4pyolxR_gT6nNB047uCifKJMKbZ-ZxLHkPt4vlFqac6krKNfXVgCMkFr0Becegs9wQiWRzKCaNSchyQEpeJaJ04sFHZsPls4Gn4KEn_tRQTBVLElSmoCsMwn4mBEbDItBlzo4zZ_Timef-hHBp6RPa4UPQB8iGvfHGwnGd4KdhZV7mGfNKeQYtuJ60DOIFnQ5sqeRNAQpIBLH0LFAEiz5Lp2pOoyVTX-CnbOj-yUpnOPmAwxK8Kk3BqDTUHat8BZpb71eONkMiY_lICKn4eJ7s18jIeP_hamcotSMos5iCn4JUxjDUxSFstPM9pGiYkxJhJAzmOqlmMopKj7LKeqxaDWN5hOmUPiOqb2aUJRyjqJ-GVPwIqbyxJzC1NNpTOFzmEooqogpW1FLFFWq-pGiCpj6DYrq_i5FJRCz0qnMV5s5OctbqGbddLbD7ovjrjbbw7y3m84nu6puvTZ-zluv3vre0033WnPMe1jtrPfmtUY3_HvLZN7ElbUOfPdqFTiGdbX2TX3PeG7gi5x-V-uiKXxe9NDzA1e9wV5EHF51iTeobZuDoFrfvhDP36Ng1eLBcGw2ViMSyILCHSC_1fYjGC018vhijHdNM_DbfTXgzcDb1dptMnoYDt4WnXkw6Yz5hm9FCzQDndmhrgiRKuOurgsdwusweDw811d1UO_O12riVyjuH-S1sB33w-YT4wWGSOtbI6CvgmcAdIo70CGQXnr0T-cenXs-vWbbU6A-xEBmQkPXrHArNm5nVq1pzGq3gtCYmRzjkfV-JTY5JlwGIv8vFf5YmQ"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Price",
+   "link": "https://en.wikipedia.org/wiki/Price",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVxybalUFMSyaAp9ww0gpp3EAqbvU8QgDpPwGVGhulpMhEgQ_ZvUpe2voblz76lprrrTjIqVxXKGMSnYgUiLbDNi-_OsbjX8rSd7QFNeklWZwbbv2K6eN2iGA&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQFnoECDEQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org › wiki › Price",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "A price in economics is the amount of money that buyers are willing and able to pay for a particular good or service, and that sellers are willing to accept ...",
+   "snippet_highlighted_words": [
+    "price"
+   ],
+   "sitelinks": {
+    "inline": [
+     {
+      "title": "Price and value",
+      "link": "https://en.wikipedia.org/wiki/Price#Price_and_value"
+     },
+     {
+      "title": "Price as productive human...",
+      "link": "https://en.wikipedia.org/wiki/Price#Price_as_productive_human_labour_time"
+     },
+     {
+      "title": "Price point",
+      "link": "https://en.wikipedia.org/wiki/Price#Price_point"
+     },
+     {
+      "title": "Market price",
+      "link": "https://en.wikipedia.org/wiki/Price#Market_price"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "A price in economics is the amount of money that buyers are willing and able to pay for a particular good or service, and that sellers are willing to accept ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Price",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnh5YmFsVUZNU3lhQXA5d3cwZ3BwM0VBcWJ2VThRZ0RwUHdHVkdodWxwTWhFZ1FfWnZVcGUydm9ibHo3NmxwcnJyVGpJcVZ4WEtHTVNuWWdVaUxiRE5pLV9Pc2JqWDhyU2Q3UUZOZWtsV1p3YmJ2Mks2ZU4yaUdBEgQaAggAGs4DEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAqAMIABAAGAAgACpFCgZwZXRyb2wVD56yQBoEZnVlbBoLZnVlbCBwcmljZXMaCXBldHJvbGV1bRoLcGV0cm9scHJpY2UaC2l2O3A7cGV0cm9sMo0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnh5YmFsVUZNU3lhQXA5d3cwZ3BwM0VBcWJ2VThRZ0RwUHdHVkdodWxwTWhFZ1FfWnZVcGUydm9ibHo3NmxwcnJyVGpJcVZ4WEtHTVNuWWdVaUxiRE5pLV9Pc2JqWDhyU2Q3UUZOZWtsV1p3YmJ2Mks2ZU4yaUdBOhg8Yj5QcmljZTwvYj4gLSBXaWtpcGVkaWFCrAFBIDxiPnByaWNlPC9iPiBpbiBlY29ub21pY3MgaXMgdGhlIGFtb3VudCBvZiBtb25leSB0aGF0IGJ1eWVycyBhcmUgd2lsbGluZyBhbmQgYWJsZSB0byBwYXkgZm9yIGEgcGFydGljdWxhciBnb29kIG9yIHNlcnZpY2UsIGFuZCB0aGF0IHNlbGxlcnMgYXJlIHdpbGxpbmcgdG8gYWNjZXB0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnh5YmFsVUZNU3lhQXA5d3cwZ3BwM0VBcWJ2VThRZ0RwUHdHVkdodWxwTWhFZ1FfWnZVcGUydm9ibHo3NmxwcnJyVGpJcVZ4WEtHTVNuWWdVaUxiRE5pLV9Pc2JqWDhyU2Q3UUZOZWtsV1p3YmJ2Mks2ZU4yaUdBEgQaAggAGs4DEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAqAMIABAAGAAgACpFCgZwZXRyb2wVD56yQBoEZnVlbBoLZnVlbCBwcmljZXMaCXBldHJvbGV1bRoLcGV0cm9scHJpY2UaC2l2O3A7cGV0cm9sMo0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnh5YmFsVUZNU3lhQXA5d3cwZ3BwM0VBcWJ2VThRZ0RwUHdHVkdodWxwTWhFZ1FfWnZVcGUydm9ibHo3NmxwcnJyVGpJcVZ4WEtHTVNuWWdVaUxiRE5pLV9Pc2JqWDhyU2Q3UUZOZWtsV1p3YmJ2Mks2ZU4yaUdBOhg8Yj5QcmljZTwvYj4gLSBXaWtpcGVkaWFCrAFBIDxiPnByaWNlPC9iPiBpbiBlY29ub21pY3MgaXMgdGhlIGFtb3VudCBvZiBtb25leSB0aGF0IGJ1eWVycyBhcmUgd2lsbGluZyBhbmQgYWJsZSB0byBwYXkgZm9yIGEgcGFydGljdWxhciBnb29kIG9yIHNlcnZpY2UsIGFuZCB0aGF0IHNlbGxlcnMgYXJlIHdpbGxpbmcgdG8gYWNjZXB0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Price#:~:text=A%20price%20in%20economics%20is,sellers%20are%20willing%20to%20accept."
+  },
+  {
+   "position": 2,
+   "title": "price - Schema.org Property",
+   "link": "https://schema.org/price",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVta8MIYAyzGc3DXWarY4yUCY7S7NS6g2EoOXHSKr7K4idv4N3YAEK_a7AlZVR1KUhr9aqfElaMlqzcVKuosG5Gu2Nz7iz-kStnqBiTb3V&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://schema.org › Thing › Property › price",
+   "favicon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAABQBgCdASogACAAPtEutFooIagoGAEAGglqAKwB1yefEzhqgfkqjWxZAmieoTM4NVzFl-Bqp45YAyDQAAD-y7M9kjpDN1UPc0PPdQNtW_ecBn_Fj9zB-n1x2a7wG5EVd6Zz0PtWh2tjuw5-htlqRBfkRLsTs9IiaLkN_nGLDeVch4_66D-Mbd4T47L97PmtDdNEf8kokZeYjIcUVlBLzmELObasQAw5nmdbPof2UDG-a4SoOjd4KMzX048voT6Io7M5oO9vdPAfmRqO72TfznoCMvL2v3n5x_wOUVQvwXf_2DO8Ta-ZhRFf_qLXYxDrC5COXX_lAtKA44Zvw6pfM7vocZOflABETsIxrSgEbM8XtIW73wrOS2_-ozZd6a5sm5pn8Gdu7zvV9i8ZWpFQiGMyPej7zWsf8xdMxx_C2HVYBKovGEkxWhCXyA5DUKR_Mww1zpjVrDgAAA.webp",
+   "snippet": "Schema.org Property: price - The offer price of a product, or of a price component when attached to PriceSpecification and its subtypes.",
+   "snippet_highlighted_words": [
+    "price",
+    "price",
+    "price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Schema.org Property: price - The offer price of a product, or of a price component when attached to PriceSpecification and its subtypes.",
+     "source_info_link": "https://schema.org/price",
+     "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAABQBgCdASogACAAPtEutFooIagoGAEAGglqAKwB1yefEzhqgfkqjWxZAmieoTM4NVzFl-Bqp45YAyDQAAD-y7M9kjpDN1UPc0PPdQNtW_ecBn_Fj9zB-n1x2a7wG5EVd6Zz0PtWh2tjuw5-htlqRBfkRLsTs9IiaLkN_nGLDeVch4_66D-Mbd4T47L97PmtDdNEf8kokZeYjIcUVlBLzmELObasQAw5nmdbPof2UDG-a4SoOjd4KMzX048voT6Io7M5oO9vdPAfmRqO72TfznoCMvL2v3n5x_wOUVQvwXf_2DO8Ta-ZhRFf_qLXYxDrC5COXX_lAtKA44Zvw6pfM7vocZOflABETsIxrSgEbM8XtIW73wrOS2_-ozZd6a5sm5pn8Gdu7zvV9i8ZWpFQiGMyPej7zWsf8xdMxx_C2HVYBKovGEkxWhCXyA5DUKR_Mww1zpjVrDgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWdGE4TUlZQXl6R2MzRFhXYXJZNHlVQ1k3UzdOUzZnMkVvT1hIU0tyN0s0aWR2NE4zWUFFS19hN0FsWlZSMUtVaHI5YXFmRWxhTWxxemNWS3Vvc0c1R3UyTno3aXota1N0bnFCaVRiM1YSBBoCCAAauQMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCTAwgAEAAYACAAKkUKBnBldHJvbBUvJa9AGgRmdWVsGgtmdWVsIHByaWNlcxoJcGV0cm9sZXVtGgtwZXRyb2xwcmljZRoLaXY7cDtwZXRyb2wyfi9nb3RvP3VybD1DQUVTVXdIck96QVZ0YThNSVlBeXpHYzNEWFdhclk0eVVDWTdTN05TNmcyRW9PWEhTS3I3SzRpZHY0TjNZQUVLX2E3QWxaVlIxS1VocjlhcWZFbGFNbHF6Y1ZLdW9zRzVHdTJOejdpei1rU3RucUJpVGIzVjoiPGI-cHJpY2U8L2I-IC0gU2NoZW1hLm9yZyBQcm9wZXJ0eUKdAVNjaGVtYS5vcmcgUHJvcGVydHk6IDxiPnByaWNlPC9iPiAtIFRoZSBvZmZlciA8Yj5wcmljZTwvYj4gb2YgYSBwcm9kdWN0LCBvciBvZiBhIDxiPnByaWNlPC9iPiBjb21wb25lbnQgd2hlbiBhdHRhY2hlZCB0byBQcmljZVNwZWNpZmljYXRpb24gYW5kIGl0cyBzdWJ0eXBlcy4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWdGE4TUlZQXl6R2MzRFhXYXJZNHlVQ1k3UzdOUzZnMkVvT1hIU0tyN0s0aWR2NE4zWUFFS19hN0FsWlZSMUtVaHI5YXFmRWxhTWxxemNWS3Vvc0c1R3UyTno3aXota1N0bnFCaVRiM1YSBBoCCAAauQMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCTAwgAEAAYACAAKkUKBnBldHJvbBUvJa9AGgRmdWVsGgtmdWVsIHByaWNlcxoJcGV0cm9sZXVtGgtwZXRyb2xwcmljZRoLaXY7cDtwZXRyb2wyfi9nb3RvP3VybD1DQUVTVXdIck96QVZ0YThNSVlBeXpHYzNEWFdhclk0eVVDWTdTN05TNmcyRW9PWEhTS3I3SzRpZHY0TjNZQUVLX2E3QWxaVlIxS1VocjlhcWZFbGFNbHF6Y1ZLdW9zRzVHdTJOejdpei1rU3RucUJpVGIzVjoiPGI-cHJpY2U8L2I-IC0gU2NoZW1hLm9yZyBQcm9wZXJ0eUKdAVNjaGVtYS5vcmcgUHJvcGVydHk6IDxiPnByaWNlPC9iPiAtIFRoZSBvZmZlciA8Yj5wcmljZTwvYj4gb2YgYSBwcm9kdWN0LCBvciBvZiBhIDxiPnByaWNlPC9iPiBjb21wb25lbnQgd2hlbiBhdHRhY2hlZCB0byBQcmljZVNwZWNpZmljYXRpb24gYW5kIGl0cyBzdWJ0eXBlcy4iAhABSABYAGgA",
+   "source": "Schema.org"
+  },
+  {
+   "position": 3,
+   "title": "Prices | Stripe API Reference",
+   "link": "https://docs.stripe.com/api/prices",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVyHv6n6I4PQVggcfjFB-vVvnBUQPGKflBIGWaZFKVIUemrzCKuQ846EplhRHWUuMxOsW6_beBPNCEH7lVOiWQFJFYGL4a9_gXDKuptcL608zKs-JdLVcuCQ&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://docs.stripe.com › api › prices",
+   "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHV3s29hNhFM5pjAY83f2LAua3fsbMlv465J0hgAAP7JY1RnLvT7Hi3ShBt3uTIbAf1qOiCjn_mTC38xrLGLIsLOAJ_YMaH9eJmTyVSqdjbC4NszRkLd84o9OS7-38YvQhSjnXQ329hN68-3N26GT0-dxf0oR0sTDXPC4MHOpJhhbHd4wEHOHJMQRdND3jYRD_zqIUNjcJ6ds0ewnbOm0EHDb1WLSQEJLKjlV_ZoUul9Tj2D75ZGNGxo-0qjf8DZzFri8wAA.webp",
+   "snippet": "Prices define the unit cost, currency, and (optional) billing cycle for both recurring and one-time purchases of products. Products help you track inventory or ...",
+   "snippet_highlighted_words": [
+    "Prices",
+    "cost"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Prices define the unit cost, currency, and (optional) billing cycle for both recurring and one-time purchases of products. Products help you track inventory or ...",
+     "source_info_link": "https://docs.stripe.com/api/prices",
+     "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHV3s29hNhFM5pjAY83f2LAua3fsbMlv465J0hgAAP7JY1RnLvT7Hi3ShBt3uTIbAf1qOiCjn_mTC38xrLGLIsLOAJ_YMaH9eJmTyVSqdjbC4NszRkLd84o9OS7-38YvQhSjnXQ329hN68-3N26GT0-dxf0oR0sTDXPC4MHOpJhhbHd4wEHOHJMQRdND3jYRD_zqIUNjcJ6ds0ewnbOm0EHDb1WLSQEJLKjlV_ZoUul9Tj2D75ZGNGxo-0qjf8DZzFri8wAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVnlIdjZuNkk0UFFWZ2djZmpGQi12VnZuQlVRUEdLZmxCSUdXYVpGS1ZJVWVtcnpDS3VRODQ2RXBsaFJIV1V1TXhPc1c2X2JlQlBOQ0VIN2xWT2lXUUZKRllHTDRhOV9nWERLdXB0Y0w2MDh6S3MtSmRMVmN1Q1ESBBoCCAAa4wMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC9AwgAEAAYACAAKkUKBnBldHJvbBWEWVc_GgRmdWVsGgtmdWVsIHByaWNlcxoJcGV0cm9sZXVtGgtwZXRyb2xwcmljZRoLaXY7cDtwZXRyb2wyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWeUh2Nm42STRQUVZnZ2NmakZCLXZWdm5CVVFQR0tmbEJJR1dhWkZLVklVZW1yekNLdVE4NDZFcGxoUkhXVXVNeE9zVzZfYmVCUE5DRUg3bFZPaVdRRkpGWUdMNGE5X2dYREt1cHRjTDYwOHpLcy1KZExWY3VDUTokPGI-UHJpY2VzPC9iPiB8IFN0cmlwZSBBUEkgUmVmZXJlbmNlQrYBPGI-UHJpY2VzPC9iPiBkZWZpbmUgdGhlIHVuaXQgPGI-Y29zdDwvYj4sIGN1cnJlbmN5LCBhbmQgKG9wdGlvbmFsKSBiaWxsaW5nIGN5Y2xlIGZvciBib3RoIHJlY3VycmluZyBhbmQgb25lLXRpbWUgcHVyY2hhc2VzIG9mIHByb2R1Y3RzLiBQcm9kdWN0cyBoZWxwIHlvdSB0cmFjayBpbnZlbnRvcnkgb3ImbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVnlIdjZuNkk0UFFWZ2djZmpGQi12VnZuQlVRUEdLZmxCSUdXYVpGS1ZJVWVtcnpDS3VRODQ2RXBsaFJIV1V1TXhPc1c2X2JlQlBOQ0VIN2xWT2lXUUZKRllHTDRhOV9nWERLdXB0Y0w2MDh6S3MtSmRMVmN1Q1ESBBoCCAAa4wMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC9AwgAEAAYACAAKkUKBnBldHJvbBWEWVc_GgRmdWVsGgtmdWVsIHByaWNlcxoJcGV0cm9sZXVtGgtwZXRyb2xwcmljZRoLaXY7cDtwZXRyb2wyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWeUh2Nm42STRQUVZnZ2NmakZCLXZWdm5CVVFQR0tmbEJJR1dhWkZLVklVZW1yekNLdVE4NDZFcGxoUkhXVXVNeE9zVzZfYmVCUE5DRUg3bFZPaVdRRkpGWUdMNGE5X2dYREt1cHRjTDYwOHpLcy1KZExWY3VDUTokPGI-UHJpY2VzPC9iPiB8IFN0cmlwZSBBUEkgUmVmZXJlbmNlQrYBPGI-UHJpY2VzPC9iPiBkZWZpbmUgdGhlIHVuaXQgPGI-Y29zdDwvYj4sIGN1cnJlbmN5LCBhbmQgKG9wdGlvbmFsKSBiaWxsaW5nIGN5Y2xlIGZvciBib3RoIHJlY3VycmluZyBhbmQgb25lLXRpbWUgcHVyY2hhc2VzIG9mIHByb2R1Y3RzLiBQcm9kdWN0cyBoZWxwIHlvdSB0cmFjayBpbnZlbnRvcnkgb3ImbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Stripe Documentation",
+   "read_more_link": "https://docs.stripe.com/api/prices#:~:text=Prices%20define%20the%20unit%20cost%2C,help%20you%20track%20payment%20terms."
+  },
+  {
+   "position": 4,
+   "title": "FAO Food Price Index",
+   "link": "https://www.fao.org/worldfoodsituation/FoodPricesIndex/en/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV04jWSoDQvAp_rZsss3_Mw5vowcksM3bWtQ7HMsBrSfxuJsA_zcJlTrN4igEMrYZ-UwI3m-XrSmXBhz6fPfzfPJOiM51lTKUJCBUNNTSagXsQNoP9H2fErVOs1AiaqURAvDII1xW3s8q6JQ0ZaWMSVQ&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQFnoECD4QAQ&uoh=1",
+   "displayed_link": "https://www.fao.org › ... › FAO Food Price Index",
+   "favicon": "https://serpapi.com/images/i/UklGRqoAAABXRUJQVlA4IJ4AAABwAwCdASoQABAAAsBMJbACdG1_E2CGLePehVOStaBoIU4m8JAA_vZ79V0FxwNJTSxkvj_oTdyS4muhA_Ika6QoGyu_IN0Yms3AdeAg8mccTZuasvIprX_gx-5t1aUEkoEa-oVyKUTUlvBeFxcvHdO_HBH-BzZEGlv1QaNm1rsDCQHHYBlQAedwBYrvANW6lB56NKAHBzmo8Qzl3k4AAA.webp",
+   "snippet": "FAO Food Price Index. The FAO Food Price Index (FFPI) is a measure of the monthly change in international prices of a basket of food commodities.",
+   "snippet_highlighted_words": [
+    "Price",
+    "Price",
+    "prices"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "FAO Food Price Index. The FAO Food Price Index (FFPI) is a measure of the monthly change in international prices of a basket of food commodities.",
+     "source_info_link": "https://www.fao.org/worldfoodsituation/FoodPricesIndex/en/",
+     "icon": "https://serpapi.com/images/i/UklGRqoAAABXRUJQVlA4IJ4AAABwAwCdASoQABAAAsBMJbACdG1_E2CGLePehVOStaBoIU4m8JAA_vZ79V0FxwNJTSxkvj_oTdyS4muhA_Ika6QoGyu_IN0Yms3AdeAg8mccTZuasvIprX_gx-5t1aUEkoEa-oVyKUTUlvBeFxcvHdO_HBH-BzZEGlv1QaNm1rsDCQHHYBlQAedwBYrvANW6lB56NKAHBzmo8Qzl3k4AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjA0aldTb0RRdkFwX3Jac3NzM19NdzV2b3dja3NNM2JXdFE3SE1zQnJTZnh1SnNBX3pjSmxUck40aWdFTXJZWi1Vd0kzbS1YclNtWEJoejZmUGZ6ZlBKT2lNNTFsVEtVSkNCVU5OVFNhZ1hzUU5vUDlIMmZFclZPczFBaWFxVVJBdkRJSTF4VzNzOHE2SlEwWmFXTVNWURIEGgIIABrqAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQMQDCAAQABgAIAAqRQoGcGV0cm9sFS4bpEAaBGZ1ZWwaC2Z1ZWwgcHJpY2VzGglwZXRyb2xldW0aC3BldHJvbHByaWNlGgtpdjtwO3BldHJvbDKsAS9nb3RvP3VybD1DQUVTZFFIck96QVYwNGpXU29EUXZBcF9yWnNzczNfTXc1dm93Y2tzTTNiV3RRN0hNc0JyU2Z4dUpzQV96Y0psVHJONGlnRU1yWVotVXdJM20tWHJTbVhCaHo2ZlBmemZQSk9pTTUxbFRLVUpDQlVOTlRTYWdYc1FOb1A5SDJmRXJWT3MxQWlhcVVSQXZESUkxeFczczhxNkpRMFphV01TVlE6G0ZBTyBGb29kIDxiPlByaWNlPC9iPiBJbmRleEKmAUZBTyBGb29kIDxiPlByaWNlPC9iPiBJbmRleC4gVGhlIEZBTyBGb29kIDxiPlByaWNlPC9iPiBJbmRleCAoRkZQSSkgaXMgYSBtZWFzdXJlIG9mIHRoZSBtb250aGx5IGNoYW5nZSBpbiBpbnRlcm5hdGlvbmFsIDxiPnByaWNlczwvYj4gb2YgYSBiYXNrZXQgb2YgZm9vZCBjb21tb2RpdGllcy4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjA0aldTb0RRdkFwX3Jac3NzM19NdzV2b3dja3NNM2JXdFE3SE1zQnJTZnh1SnNBX3pjSmxUck40aWdFTXJZWi1Vd0kzbS1YclNtWEJoejZmUGZ6ZlBKT2lNNTFsVEtVSkNCVU5OVFNhZ1hzUU5vUDlIMmZFclZPczFBaWFxVVJBdkRJSTF4VzNzOHE2SlEwWmFXTVNWURIEGgIIABrqAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQMQDCAAQABgAIAAqRQoGcGV0cm9sFS4bpEAaBGZ1ZWwaC2Z1ZWwgcHJpY2VzGglwZXRyb2xldW0aC3BldHJvbHByaWNlGgtpdjtwO3BldHJvbDKsAS9nb3RvP3VybD1DQUVTZFFIck96QVYwNGpXU29EUXZBcF9yWnNzczNfTXc1dm93Y2tzTTNiV3RRN0hNc0JyU2Z4dUpzQV96Y0psVHJONGlnRU1yWVotVXdJM20tWHJTbVhCaHo2ZlBmemZQSk9pTTUxbFRLVUpDQlVOTlRTYWdYc1FOb1A5SDJmRXJWT3MxQWlhcVVSQXZESUkxeFczczhxNkpRMFphV01TVlE6G0ZBTyBGb29kIDxiPlByaWNlPC9iPiBJbmRleEKmAUZBTyBGb29kIDxiPlByaWNlPC9iPiBJbmRleC4gVGhlIEZBTyBGb29kIDxiPlByaWNlPC9iPiBJbmRleCAoRkZQSSkgaXMgYSBtZWFzdXJlIG9mIHRoZSBtb250aGx5IGNoYW5nZSBpbiBpbnRlcm5hdGlvbmFsIDxiPnByaWNlczwvYj4gb2YgYSBiYXNrZXQgb2YgZm9vZCBjb21tb2RpdGllcy4iAhABSABYAGgA",
+   "source": "Food and Agriculture Organization",
+   "read_more_link": "https://www.fao.org/worldfoodsituation/FoodPricesIndex/en/#:~:text=FAO%20Food%20Price%20Index,a%20basket%20of%20food%20commodities."
+  },
+  {
+   "position": 5,
+   "title": "Allowance Price Explorer",
+   "link": "https://icapcarbonaction.com/en/ets-prices",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVYA40AE8tRDASQAOjsv9iAQia_NmSqnqDewocfNqC6CQWJl00ZUBBCJ4UXro0dZnS6LmnJ1NuNDmiHSQjIiAJkkC4TQjF69kgtG6NEXc-kYFaaatsWihc0_7mHEEQJkEV&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://icapcarbonaction.com › ets-prices",
+   "favicon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmYq2wkAG2A3AG8AbzDMQFijwBiy-b5UE_U4M6s3ruFuHqP_ibFN0chh5yhRIFYAAD-yyJpwyyO9R6tdjxKErsf-5Mk-XRlAUHNmGr4tfn6ZrgpdjQIrnyv0GBwtKb5Ty7rT9BHZq-60gn-o8mlEahfcB2QQMQ_ahulnVB1qSMMrsP429SK4mH56cZvt7mpT82Epfo9cvG_iEImajh0P6gt-__Ee0mNyQJHy0XwryeKjl66ZuDNygk_-kOh1a1POhbj_Wv-OkcogtYqxJCpj8bTD-lCIn9FrNguHZVdFQz1OrG-2zyaDDMhDC8FpUVWkHazy2dmIHSWrtHQH6ijZvQb_daVUzPr_4xet6GtNwnS4e3GhDGNuadP8VE9D4NWrTURpYUUhehEfBq1uDrdjMX_eAA.webp",
+   "snippet": "Here you can track, visualize, and download allowance prices and revenues from emissions trading systems around the world. Please note important information ...",
+   "snippet_highlighted_words": [
+    "track, visualize, and download allowance prices"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Here you can track, visualize, and download allowance prices and revenues from emissions trading systems around the world. Please note important information ...",
+     "source_info_link": "https://icapcarbonaction.com/en/ets-prices",
+     "icon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmYq2wkAG2A3AG8AbzDMQFijwBiy-b5UE_U4M6s3ruFuHqP_ibFN0chh5yhRIFYAAD-yyJpwyyO9R6tdjxKErsf-5Mk-XRlAUHNmGr4tfn6ZrgpdjQIrnyv0GBwtKb5Ty7rT9BHZq-60gn-o8mlEahfcB2QQMQ_ahulnVB1qSMMrsP429SK4mH56cZvt7mpT82Epfo9cvG_iEImajh0P6gt-__Ee0mNyQJHy0XwryeKjl66ZuDNygk_-kOh1a1POhbj_Wv-OkcogtYqxJCpj8bTD-lCIn9FrNguHZVdFQz1OrG-2zyaDDMhDC8FpUVWkHazy2dmIHSWrtHQH6ijZvQb_daVUzPr_4xet6GtNwnS4e3GhDGNuadP8VE9D4NWrTURpYUUhehEfBq1uDrdjMX_eAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVllBNDBBRTh0UkRBU1FBT2pzdjlpQVFpYV9ObVNxbnFEZXdvY2ZOcUM2Q1FXSmwwMFpVQkJDSjRVWHJvMGRablM2TG1uSjFOdU5EbWlIU1FqSWlBSmtrQzRUUWpGNjlrZ3RHNk5FWGMta1lGYWFhdHNXaWhjMF83bUhFRVFKa0VWEgQaAggAGt4DEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAuAMIABAAGAAgACpFCgZwZXRyb2wVfNiJQBoEZnVlbBoLZnVlbCBwcmljZXMaCXBldHJvbGV1bRoLcGV0cm9scHJpY2UaC2l2O3A7cGV0cm9sMpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVllBNDBBRTh0UkRBU1FBT2pzdjlpQVFpYV9ObVNxbnFEZXdvY2ZOcUM2Q1FXSmwwMFpVQkJDSjRVWHJvMGRablM2TG1uSjFOdU5EbWlIU1FqSWlBSmtrQzRUUWpGNjlrZ3RHNk5FWGMta1lGYWFhdHNXaWhjMF83bUhFRVFKa0VWOh9BbGxvd2FuY2UgPGI-UHJpY2U8L2I-IEV4cGxvcmVyQqwBSGVyZSB5b3UgY2FuIDxiPnRyYWNrLCB2aXN1YWxpemUsIGFuZCBkb3dubG9hZCBhbGxvd2FuY2UgcHJpY2VzPC9iPiBhbmQgcmV2ZW51ZXMgZnJvbSBlbWlzc2lvbnMgdHJhZGluZyBzeXN0ZW1zIGFyb3VuZCB0aGUgd29ybGQuIFBsZWFzZSBub3RlIGltcG9ydGFudCBpbmZvcm1hdGlvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVllBNDBBRTh0UkRBU1FBT2pzdjlpQVFpYV9ObVNxbnFEZXdvY2ZOcUM2Q1FXSmwwMFpVQkJDSjRVWHJvMGRablM2TG1uSjFOdU5EbWlIU1FqSWlBSmtrQzRUUWpGNjlrZ3RHNk5FWGMta1lGYWFhdHNXaWhjMF83bUhFRVFKa0VWEgQaAggAGt4DEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAuAMIABAAGAAgACpFCgZwZXRyb2wVfNiJQBoEZnVlbBoLZnVlbCBwcmljZXMaCXBldHJvbGV1bRoLcGV0cm9scHJpY2UaC2l2O3A7cGV0cm9sMpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVllBNDBBRTh0UkRBU1FBT2pzdjlpQVFpYV9ObVNxbnFEZXdvY2ZOcUM2Q1FXSmwwMFpVQkJDSjRVWHJvMGRablM2TG1uSjFOdU5EbWlIU1FqSWlBSmtrQzRUUWpGNjlrZ3RHNk5FWGMta1lGYWFhdHNXaWhjMF83bUhFRVFKa0VWOh9BbGxvd2FuY2UgPGI-UHJpY2U8L2I-IEV4cGxvcmVyQqwBSGVyZSB5b3UgY2FuIDxiPnRyYWNrLCB2aXN1YWxpemUsIGFuZCBkb3dubG9hZCBhbGxvd2FuY2UgcHJpY2VzPC9iPiBhbmQgcmV2ZW51ZXMgZnJvbSBlbWlzc2lvbnMgdHJhZGluZyBzeXN0ZW1zIGFyb3VuZCB0aGUgd29ybGQuIFBsZWFzZSBub3RlIGltcG9ydGFudCBpbmZvcm1hdGlvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "International Carbon Action Partnership",
+   "read_more_link": "https://icapcarbonaction.com/en/ets-prices#:~:text=Here%20you%20can%20track%2C%20visualize%2C,Please%20note%20important%20information"
+  },
+  {
+   "position": 6,
+   "title": "PRICE ANALYTICS",
+   "link": "https://price.kerala.gov.in/price3_pmu/price_analytics.htm",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVwce6_kMx8x5h7akYN0lbgn7F-U-qurRH-dqjytBnLTbSYfW3k1w4o0rT2H7CPeaCxReY_jwPtC07giZ4pCnrHHn1AkYg7EVieCxVsCxW616xG65iNR3-qJ5TXgxnQsQFuMW5o3fPgpYmRk8z1XobQw&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQFnoECDsQAQ&uoh=1",
+   "displayed_link": "https://price.kerala.gov.in › price3_pmu › price_analytics",
+   "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAABQBQCdASocABwAPtEutFooIagoGAEAGglpAAUQIZt5EEG_ePQ4y5lmiNnQJfIN-W-yPwAA_vdzC1j3NVcwxvD_xxL4Q8N8p1mquB7nNUH4sNiiGcbWG4iG918Rk6uD23Zp8UkPml3Y1Ee6SUS0bSL_so8ebZMMcldYh5X06av3FleVBm3FR0HM4GQ9VP6out2RYn3ughiMM4RE2MEXJ9xXmONG2nQ097VfyoCU3ekrgNuSPZutj7fDHwtyXrNdxHB_43ctj5M1eKu0x_ETMugAAAA.webp",
+   "snippet": "PRICE Analytics · 64303 · RS 45114 Cr · 343533 · RS 35356 Cr · 619121 · RS 524293 Cr ...",
+   "snippet_highlighted_words": [
+    "64303"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "PRICE Analytics · 64303 · RS 45114 Cr · 343533 · RS 35356 Cr · 619121 · RS 524293 Cr ...",
+     "source_info_link": "https://price.kerala.gov.in/price3_pmu/price_analytics.htm",
+     "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAABQBQCdASocABwAPtEutFooIagoGAEAGglpAAUQIZt5EEG_ePQ4y5lmiNnQJfIN-W-yPwAA_vdzC1j3NVcwxvD_xxL4Q8N8p1mquB7nNUH4sNiiGcbWG4iG918Rk6uD23Zp8UkPml3Y1Ee6SUS0bSL_so8ebZMMcldYh5X06av3FleVBm3FR0HM4GQ9VP6out2RYn3ughiMM4RE2MEXJ9xXmONG2nQ097VfyoCU3ekrgNuSPZutj7fDHwtyXrNdxHB_43ctj5M1eKu0x_ETMugAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVndjZTZfa014OHg1aDdha1lOMGxiZ243Ri1VLXF1clJILWRxanl0Qm5MVGJTWWZXM2sxdzRvMHJUMkg3Q1BlYUN4UmVZX2p3UHRDMDdnaVo0cENuckhIbjFBa1lnN0VWaWVDeFZzQ3hXNjE2eEc2NWlOUjMtcUo1VFhneG5Rc1FGdU1XNW8zZlBncFltUms4ejFYb2JRdxIEGgIIABrRAxIAGgAiACoAOgBCBAgBEABKDggBEgZLZXJhbGEaAggDWgByAHoAgkCnAwgAEAAYACAAKkUKBnBldHJvbBWjFbNAGgRmdWVsGgtmdWVsIHByaWNlcxoJcGV0cm9sZXVtGgtwZXRyb2xwcmljZRoLaXY7cDtwZXRyb2wyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWd2NlNl9rTXg4eDVoN2FrWU4wbGJnbjdGLVUtcXVyUkgtZHFqeXRCbkxUYlNZZlczazF3NG8wclQySDdDUGVhQ3hSZVlfandQdEMwN2dpWjRwQ25ySEhuMUFrWWc3RVZpZUN4VnNDeFc2MTZ4RzY1aU5SMy1xSjVUWGd4blFzUUZ1TVc1bzNmUGdwWW1Sazh6MVhvYlF3OhY8Yj5QUklDRTwvYj4gQU5BTFlUSUNTQo4BUFJJQ0UgQW5hbHl0aWNzICZtaWRkb3Q7IDxiPjY0MzAzPC9iPiAmbWlkZG90OyBSUyA0NTExNCBDciAmbWlkZG90OyAzNDM1MzMgJm1pZGRvdDsgUlMgMzUzNTYgQ3IgJm1pZGRvdDsgNjE5MTIxICZtaWRkb3Q7IFJTIDUyNDI5MyBDciZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVndjZTZfa014OHg1aDdha1lOMGxiZ243Ri1VLXF1clJILWRxanl0Qm5MVGJTWWZXM2sxdzRvMHJUMkg3Q1BlYUN4UmVZX2p3UHRDMDdnaVo0cENuckhIbjFBa1lnN0VWaWVDeFZzQ3hXNjE2eEc2NWlOUjMtcUo1VFhneG5Rc1FGdU1XNW8zZlBncFltUms4ejFYb2JRdxIEGgIIABrRAxIAGgAiACoAOgBCBAgBEABKDggBEgZLZXJhbGEaAggDWgByAHoAgkCnAwgAEAAYACAAKkUKBnBldHJvbBWjFbNAGgRmdWVsGgtmdWVsIHByaWNlcxoJcGV0cm9sZXVtGgtwZXRyb2xwcmljZRoLaXY7cDtwZXRyb2wyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWd2NlNl9rTXg4eDVoN2FrWU4wbGJnbjdGLVUtcXVyUkgtZHFqeXRCbkxUYlNZZlczazF3NG8wclQySDdDUGVhQ3hSZVlfandQdEMwN2dpWjRwQ25ySEhuMUFrWWc3RVZpZUN4VnNDeFc2MTZ4RzY1aU5SMy1xSjVUWGd4blFzUUZ1TVc1bzNmUGdwWW1Sazh6MVhvYlF3OhY8Yj5QUklDRTwvYj4gQU5BTFlUSUNTQo4BUFJJQ0UgQW5hbHl0aWNzICZtaWRkb3Q7IDxiPjY0MzAzPC9iPiAmbWlkZG90OyBSUyA0NTExNCBDciAmbWlkZG90OyAzNDM1MzMgJm1pZGRvdDsgUlMgMzUzNTYgQ3IgJm1pZGRvdDsgNjE5MTIxICZtaWRkb3Q7IFJTIDUyNDI5MyBDciZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "PRICE PMU",
+   "read_more_link": "https://price.kerala.gov.in/price3_pmu/price_analytics.htm#:~:text=PRICE%20Analytics&text=64303&text=45114%20Cr&text=343533&text=35356%20Cr&text=619121&text=524293%20Cr"
+  },
+  {
+   "position": 7,
+   "title": "PRICE function",
+   "link": "https://support.microsoft.com/en-us/excel/functions/price-function",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVn5JMxBKUyzaQ17NwZncbQlNSEHMgVabjP5QhjDwO8VPoOiZRH9e-1jZnVWCTXgfkBXJ2pxjbRHeHgxocW24yqH7-LBwiVXIjGDfH1pZjK9HleDOPdPQpjzS2XzS7miRX_Rcwqn9ubhYzvP7sbY0ZzqcVCuwIeuUw&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://support.microsoft.com › en-us › excel › functions",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAY0lEQVR4AWL4FKD0n1T810XEq3Afg1c9oL05NgEQiIIguk3Y1MVWZ6rYg1qUDQgrH8R8uQsnmHB4p5wGOAAEBAQErDltXeapKjRN2p8W9oO-1HxkSdvttEI_zGmAgICAgP3gC69IRT5tx_gHAAAAAElFTkSuQmCC.png",
+   "snippet": "This article describes the formula syntax and usage of the PRICE function in Microsoft Excel. Description. Returns the price per $100 face value of a ...",
+   "snippet_highlighted_words": [
+    "PRICE",
+    "price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "This article describes the formula syntax and usage of the PRICE function in Microsoft Excel. Description. Returns the price per $100 face value of a ...",
+     "source_info_link": "https://support.microsoft.com/en-us/excel/functions/price-function",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAY0lEQVR4AWL4FKD0n1T810XEq3Afg1c9oL05NgEQiIIguk3Y1MVWZ6rYg1qUDQgrH8R8uQsnmHB4p5wGOAAEBAQErDltXeapKjRN2p8W9oO-1HxkSdvttEI_zGmAgICAgP3gC69IRT5tx_gHAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVm41Sk14QktVeXphUTE3TndabmNiUWxOU0VITWdWYWJqUDVRaGpEd084VlBvT2laUkg5ZS0xalpuVldDVFhnZmtCWEoycHhqYlJIZUhneG9jVzI0eXFINy1MQndpVlhJakdEZkgxcFpqSzlIbGVET1BkUFFwanpTMlh6UzdtaVJYX1Jjd3FuOXViaFl6dlA3c2JZMFp6cWNWQ3V3SWV1VXcSBBoCCAAaiAQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDiAwgAEAAYACAAKkUKBnBldHJvbBUEs4tAGgRmdWVsGgtmdWVsIHByaWNlcxoJcGV0cm9sZXVtGgtwZXRyb2xwcmljZRoLaXY7cDtwZXRyb2wytgEvZ290bz91cmw9Q0FFU2ZRSHJPekFWbjVKTXhCS1V5emFRMTdOd1puY2JRbE5TRUhNZ1ZhYmpQNVFoakR3TzhWUG9PaVpSSDllLTFqWm5WV0NUWGdma0JYSjJweGpiUkhlSGd4b2NXMjR5cUg3LUxCd2lWWElqR0RmSDFwWmpLOUhsZURPUGRQUXBqelMyWHpTN21pUlhfUmN3cW45dWJoWXp2UDdzYlkwWnpxY1ZDdXdJZXVVdzopPGI-UFJJQ0U8L2I-IGZ1bmN0aW9uIHwgTWljcm9zb2Z0IFN1cHBvcnRCrAFUaGlzIGFydGljbGUgZGVzY3JpYmVzIHRoZSBmb3JtdWxhIHN5bnRheCBhbmQgdXNhZ2Ugb2YgdGhlIDxiPlBSSUNFPC9iPiBmdW5jdGlvbiBpbiBNaWNyb3NvZnQgRXhjZWwuIERlc2NyaXB0aW9uLiBSZXR1cm5zIHRoZSA8Yj5wcmljZTwvYj4gcGVyICQxMDAgZmFjZSB2YWx1ZSBvZiBhJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVm41Sk14QktVeXphUTE3TndabmNiUWxOU0VITWdWYWJqUDVRaGpEd084VlBvT2laUkg5ZS0xalpuVldDVFhnZmtCWEoycHhqYlJIZUhneG9jVzI0eXFINy1MQndpVlhJakdEZkgxcFpqSzlIbGVET1BkUFFwanpTMlh6UzdtaVJYX1Jjd3FuOXViaFl6dlA3c2JZMFp6cWNWQ3V3SWV1VXcSBBoCCAAaiAQSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDiAwgAEAAYACAAKkUKBnBldHJvbBUEs4tAGgRmdWVsGgtmdWVsIHByaWNlcxoJcGV0cm9sZXVtGgtwZXRyb2xwcmljZRoLaXY7cDtwZXRyb2wytgEvZ290bz91cmw9Q0FFU2ZRSHJPekFWbjVKTXhCS1V5emFRMTdOd1puY2JRbE5TRUhNZ1ZhYmpQNVFoakR3TzhWUG9PaVpSSDllLTFqWm5WV0NUWGdma0JYSjJweGpiUkhlSGd4b2NXMjR5cUg3LUxCd2lWWElqR0RmSDFwWmpLOUhsZURPUGRQUXBqelMyWHpTN21pUlhfUmN3cW45dWJoWXp2UDdzYlkwWnpxY1ZDdXdJZXVVdzopPGI-UFJJQ0U8L2I-IGZ1bmN0aW9uIHwgTWljcm9zb2Z0IFN1cHBvcnRCrAFUaGlzIGFydGljbGUgZGVzY3JpYmVzIHRoZSBmb3JtdWxhIHN5bnRheCBhbmQgdXNhZ2Ugb2YgdGhlIDxiPlBSSUNFPC9iPiBmdW5jdGlvbiBpbiBNaWNyb3NvZnQgRXhjZWwuIERlc2NyaXB0aW9uLiBSZXR1cm5zIHRoZSA8Yj5wcmljZTwvYj4gcGVyICQxMDAgZmFjZSB2YWx1ZSBvZiBhJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Microsoft Support",
+   "read_more_link": "https://support.microsoft.com/en-us/excel/functions/price-function#:~:text=This%20article%20describes%20the%20formula,security%20that%20pays%20periodic%20interest."
+  },
+  {
+   "position": 8,
+   "title": "Consumer Price Index Summary - 2026 M08 Results",
+   "link": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVQQbWzo1WyByTupYplAYxhVRqOWo8AuzDGmXKgy7lFWzNv_29PU43qlMF5nXi-Go1CsQxlc8nw9yxatNBdzHm38ucVROdAR5K2dQi7TjHYhL8sagtZYcrhEvugFiKpFeWQ-o&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQFnoECEAQAQ&uoh=1",
+   "displayed_link": "https://www.bls.gov › news.release › cpi.nr0.htm",
+   "favicon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAABQBwCdASocABwAPtE-tFooIigoFAEAGglsAMUHAnld0ewrdKqSpDxoagG2AB2a75Xi1C31YXV9oacXRdpJBwylCStwAP72B6DY_rmJcH13lxt3q-ofaNLh0ipm_09wuSqJuGmKQPw5_L3QBbOY6KJhvzHiX7wAG9hoHnh3gAmXHPWKUqmWu97BUeb-d4r4rWaaKELjwOlEY_aIs44f01kiTOV-R_UWzJedAypBU4USowUoEnKMZ_tIblLfY-HVW2IgdLRsEuPxAQh-W9d-uwdG9_F8wplmDu58hCjsW-edIkwhvro_26L49RKQAFxzoT5Cg2x9r9_9-16D6jt_uMHv6kV7TAQNVjno5T7E-Hg9OcFg8mJVrVpOx8duXgFXF6_n_jc_AxP9rq3CGAAAAA.webp",
+   "snippet": "... today. Over the last 12 months, the all items index increased 3.4 percent before seasonal adjustment. The index for gasoline rose 3.9 percent in August ...",
+   "snippet_highlighted_words": [
+    "today"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "... today. Over the last 12 months, the all items index increased 3.4 percent before seasonal adjustment. The index for gasoline rose 3.9 percent in August ...",
+     "source_info_link": "https://www.bls.gov/news.release/cpi.nr0.htm",
+     "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAABQBwCdASocABwAPtE-tFooIigoFAEAGglsAMUHAnld0ewrdKqSpDxoagG2AB2a75Xi1C31YXV9oacXRdpJBwylCStwAP72B6DY_rmJcH13lxt3q-ofaNLh0ipm_09wuSqJuGmKQPw5_L3QBbOY6KJhvzHiX7wAG9hoHnh3gAmXHPWKUqmWu97BUeb-d4r4rWaaKELjwOlEY_aIs44f01kiTOV-R_UWzJedAypBU4USowUoEnKMZ_tIblLfY-HVW2IgdLRsEuPxAQh-W9d-uwdG9_F8wplmDu58hCjsW-edIkwhvro_26L49RKQAFxzoT5Cg2x9r9_9-16D6jt_uMHv6kV7TAQNVjno5T7E-Hg9OcFg8mJVrVpOx8duXgFXF6_n_jc_AxP9rq3CGAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlFRYld6bzFXeUJ5VHVwWXBsQVl4aFZScU9XbzhBdXpER21YS2d5N2xGV3pOdl8yOVBVNDNxbE1GNW5YaS1HbzFDc1F4bGM4bnc5eXhhdE5CZHpIbTM4dWNWUk9kQVI1SzJkUWk3VGpIWWhMOHNhZ3RaWWNyaEV2dWdGaUtwRmVXUS1vEgQaAggAGvcDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0QMIABAAGAAgACpFCgZwZXRyb2wVCKh0QBoEZnVlbBoLZnVlbCBwcmljZXMaCXBldHJvbGV1bRoLcGV0cm9scHJpY2UaC2l2O3A7cGV0cm9sMpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlFRYld6bzFXeUJ5VHVwWXBsQVl4aFZScU9XbzhBdXpER21YS2d5N2xGV3pOdl8yOVBVNDNxbE1GNW5YaS1HbzFDc1F4bGM4bnc5eXhhdE5CZHpIbTM4dWNWUk9kQVI1SzJkUWk3VGpIWWhMOHNhZ3RaWWNyaEV2dWdGaUtwRmVXUS1vOjZDb25zdW1lciA8Yj5QcmljZTwvYj4gSW5kZXggU3VtbWFyeSAtIDIwMjYgTTA4IFJlc3VsdHNCqwEuLi4gPGI-dG9kYXk8L2I-LiBPdmVyIHRoZSBsYXN0IDEyIG1vbnRocywgdGhlIGFsbCBpdGVtcyBpbmRleCBpbmNyZWFzZWQgMy40IHBlcmNlbnQgYmVmb3JlIHNlYXNvbmFsIGFkanVzdG1lbnQuIFRoZSBpbmRleCBmb3IgZ2Fzb2xpbmUgcm9zZSAzLjkgcGVyY2VudCBpbiBBdWd1c3QmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlFRYld6bzFXeUJ5VHVwWXBsQVl4aFZScU9XbzhBdXpER21YS2d5N2xGV3pOdl8yOVBVNDNxbE1GNW5YaS1HbzFDc1F4bGM4bnc5eXhhdE5CZHpIbTM4dWNWUk9kQVI1SzJkUWk3VGpIWWhMOHNhZ3RaWWNyaEV2dWdGaUtwRmVXUS1vEgQaAggAGvcDEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0QMIABAAGAAgACpFCgZwZXRyb2wVCKh0QBoEZnVlbBoLZnVlbCBwcmljZXMaCXBldHJvbGV1bRoLcGV0cm9scHJpY2UaC2l2O3A7cGV0cm9sMpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVlFRYld6bzFXeUJ5VHVwWXBsQVl4aFZScU9XbzhBdXpER21YS2d5N2xGV3pOdl8yOVBVNDNxbE1GNW5YaS1HbzFDc1F4bGM4bnc5eXhhdE5CZHpIbTM4dWNWUk9kQVI1SzJkUWk3VGpIWWhMOHNhZ3RaWWNyaEV2dWdGaUtwRmVXUS1vOjZDb25zdW1lciA8Yj5QcmljZTwvYj4gSW5kZXggU3VtbWFyeSAtIDIwMjYgTTA4IFJlc3VsdHNCqwEuLi4gPGI-dG9kYXk8L2I-LiBPdmVyIHRoZSBsYXN0IDEyIG1vbnRocywgdGhlIGFsbCBpdGVtcyBpbmRleCBpbmNyZWFzZWQgMy40IHBlcmNlbnQgYmVmb3JlIHNlYXNvbmFsIGFkanVzdG1lbnQuIFRoZSBpbmRleCBmb3IgZ2Fzb2xpbmUgcm9zZSAzLjkgcGVyY2VudCBpbiBBdWd1c3QmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Bureau of Labor Statistics (.gov)",
+   "read_more_link": "https://www.bls.gov/news.release/cpi.nr0.htm#:~:text=today.%20Over%20the%20last%2012,the%20monthly%20all%20items%20increase."
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "Petrol Diesel Price Today: दिल्ली में ₹102.12, हैदराबाद में ₹116.15, पटना में 113.37 रुपये में आज बिक रहा पेट्रोल",
+   "link": "https://www.livehindustan.com/business/fuel-prices/petrol-diesel-price-today-delhi-102-12-rupee-hyderabad-116-15-rupee-petrol-rate-201791598604585.html",
+   "source": "Hindustan",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAolBMVEXEICz____EHirBHSnDICzGMDq_MTvAISy9LTe9SlLEf4TIe4HARk--KzW9TlbLnJ_Uvb7d1tfp6Onx6erjx8nWo6fMhovNl5vm7OzesbXTc3rPYmrafIPrubz99_jQkJXVhYvKRE7OUVrWbXTeur3l1tfXkJXIMz_anaHEKDTko6jnq7Dz1tfIjJHiycvUfoXIbHO_WF_PqKvtwMPOWWH04OHoYniSAAAAu0lEQVQYlUXO6RKCIBQFYJbIzDZBM7BoVbxZSUXv_2qFONP9d765Z-YghAiNJvE0mc0jSpC_xXS5SjkWWb6OfR4VGy5Vud1pjPe0B36AY3liZzFAfmGqynZnusVNgBoyaYxhTg-VBmTHrtf2Fir0_mBdDoYZJRIPJKnMD1yrotb6IeT5MKpjN-GYjHsYv8q6hlYf3pd5P5XYlFfOfbC2YTqC5YZXH40LCNmXOMdYjocHLwUX-T__BKyFkL98CRGfCqGKbAAAAABJRU5ErkJggg.png",
+   "date": "13 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6aca579cbca7e5b35b0a6a8f/images/s2MIE2OOZBd1_wLw9V0BcaeuHOPcNQa_lY2vwCQXAf8.jpeg"
+  },
+  {
+   "title": "Petrol Diesel Price Today What is the change in petrol and diesel prices today Big news for motorists",
+   "link": "https://sandesh.com/business/news/petrol-diesel-price-today-9th-october-2026-what-is-the-change-in-petrol-and-diesel-prices-today-big-news-for-motorists",
+   "source": "Sandesh",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAhFBMVEWuCgv___-tAACqAACoAACuBgi5VVavAAC8aGj88fGtAgStAQPFcnLapqbAVlaqAAPHhobRpqbHb2_gsrLdq6y0KiqnFRbv6enNjIy0TEy_cHDTnZ3DZWauHR7_-vrdvr7HlJTo29uxQkLOsLDmu7zEfn7tzs6vTE2kGhqdAACyWVmpKSk1pVvMAAAAd0lEQVQYla2PSxaCMBRDX_Jai6UqWhVQEH9V0f3vzzpyA2SQnJtJTkQmEo2n_kl1BlfM1at6lsKwWK4qDeuNi1sNO-G-RkSDqj0AR3TSnzCcccWlb6ocnZgb7gkJ8fFEnXIhfLVm1Hf60BQ6_sZKJ1bI7LR2khtf9H0GAdsoSCEAAAAASUVORK5CYII.png",
+   "date": "1 day ago",
+   "thumbnail": "https://serpapi.com/searches/6aca579cbca7e5b35b0a6a8f/images/QUdcRx3HPTLN7qpoqsEV6Q9mRs2MXUzhaLJ_Ef52Zow.jpeg"
+  },
+  {
+   "title": "Petrol Diesel Price Today: వాహనదారులకు అలర్ట్.. తెలుగు రాష్ట్రాల్లో నేటి పెట్రోల్, డీజిల్ రేట్లు ఇవే?",
+   "link": "https://telugu.news18.com/news/business/petrol-diesel-prices-today-october-8-hyderabad-vijayawada-visakhapatnam-latest-fuel-rates-kb-3242130.html",
+   "source": "News18 Telugu",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAaVBMVEXsICf____rBxTrAADsExz1oaP__PzrAArrAA7rAATyfH_1pKXyd3r5wsP5xcb73t_sKC7tNzz71tf-9_fzhIb72druRUrsGSHvUVb2qKr60NH96-z-8fLxbXD3ra7tLzX0lpj3uLrwYWSftZGVAAAAf0lEQVQYlY2O2RaCIBiEGX5W0RKXSCTN3v8hMw7aZX13M-fMwthfCP5BfHXlpJSu1odhGmQup8NJE9FVUdG29dT1CU0x9J6IwwioW8iVA-oKdziGzuaCCXFGizRizhnxQL94Wqd4zNhljysFpDWUFf9ctk2-KBw_AjfG8FP-4A1qoAVpOXujjwAAAABJRU5ErkJggg.png",
+   "date": "2 days ago",
+   "thumbnail": "https://serpapi.com/searches/6aca579cbca7e5b35b0a6a8f/images/Mp6yZxsSI1r94AKRSQDYwEd1jhPLyheaegHGpmRgesQ.jpeg"
+  },
+  {
+   "title": "Petrol and diesel prices today in Hyderabad, Delhi, Chennai and Mumbai on ,9 October 2026",
+   "link": "https://www.thehansindia.com/business/petrol-and-diesel-prices-today-in-hyderabad-delhi-chennai-and-mumbai-on-9-october-2026-1130565",
+   "source": "The Hans India",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAe1BMVEVHcEz_______9VU_7_______8AAP7___________-rqv5UVP-amf6Qj_7U0__g4P_ExP7___8AAP7z8v81M_7o5_8kIv5HRv5-ff6amf6iof4GAP6vrv5RUP7g3_-NjP7S0v8dGv4uLP76-v9vbf4QDf7FxP66uf4EAP5itAKNAAAAEXRSTlMAxRuXwJw8OBGTlRvHxBy-wGRqM9QAAACdSURBVBiVTY-HFoIwDEUDKsOddNABVJDh_3-hYeo9pyfJa_LaACzEMfyRRshE6VafcCX_1aIg7VYlESxIhQNxnKauJScNH_VCPLJQmTfiKLmPIwLc-8rwVa3t7JvBpTSyaIPCUi4CkO4KIqrRmnkEbrZryJNFRYtpotv-42nEmsT8LByIvCcnKtq-ep48mCHfl3u6ENxjX24iy9bkC-ZmDYmx34_DAAAAAElFTkSuQmCC.png",
+   "date": "1 day ago",
+   "thumbnail": "https://serpapi.com/searches/6aca579cbca7e5b35b0a6a8f/images/L17NQPJ2xgV4YyCF9YhA5uodsPCsST0SwJdtT5VDkY0.jpeg"
+  }
+ ],
+ "top_stories_link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&q=petrol+price+today&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQt8YBKAJ6BAggEAU",
+ "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=petrol+price+today&tbm=nws",
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "petrol price today near ernakulam, keralam",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&q=petrol+price+today+near+ernakulam,+keralam&sa=X&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ1QJ6BAg4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=petrol+price+today+near+ernakulam%2C+keralam"
+  },
+  {
+   "block_position": 1,
+   "query": "petrol price today near kochi, keralam",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&q=petrol+price+today+near+kochi,+keralam&sa=X&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ1QJ6BAhFEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=petrol+price+today+near+kochi%2C+keralam"
+  },
+  {
+   "block_position": 1,
+   "query": "PRICE Kerala",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&q=PRICE+Kerala&sa=X&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ1QJ6BAhEEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=PRICE+Kerala"
+  },
+  {
+   "block_position": 1,
+   "query": "Price 3",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&q=Price+3&sa=X&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ1QJ6BAhDEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=Price+3"
+  },
+  {
+   "block_position": 1,
+   "query": "PRICE Kerala gov in",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&q=PRICE+Kerala+gov+in&sa=X&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ1QJ6BAhCEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=PRICE+Kerala+gov+in"
+  },
+  {
+   "block_position": 1,
+   "query": "PRICE 1",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&q=PRICE+1&sa=X&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ1QJ6BAg9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=PRICE+1"
+  },
+  {
+   "block_position": 1,
+   "query": "PRICE Kerala PWD",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&q=PRICE+Kerala+PWD&sa=X&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=PRICE+Kerala+PWD"
+  },
+  {
+   "block_position": 1,
+   "query": "What is price in economics Class 11",
+   "link": "https://www.google.co.in/search?sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&q=What+is+price+in+economics+Class+11&sa=X&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ1QJ6BAg5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=What+is+price+in+economics+Class+11"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=petrol+price+today&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&ei=nVfKasz8OM3R5NoPtqTo4AI&start=10&sa=N&sstk=AS6-VmIoZZPqJeSuOQCUb6-zqU3sNQVjW_trzdOz4GRFbFU85zvW94L4xtOnLq4vyiOtnsYQej5O1x9oSx1qBXQbibm0HfVIB6MJBw&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ8NMDegQINRAG",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=petrol+price+today&sca_esv=85be49cb45338bd0&hl=en&gl=in&sxsrf=APpeQnsgCxSBtPoWgELpMH94Be_njZedrg:1791645597940&ei=nVfKasz8OM3R5NoPtqTo4AI&start=10&sa=N&sstk=AS6-VmIoZZPqJeSuOQCUb6-zqU3sNQVjW_trzdOz4GRFbFU85zvW94L4xtOnLq4vyiOtnsYQej5O1x9oSx1qBXQbibm0HfVIB6MJBw&ved=2ahUKEwiMv7b736-XAxXNKFkFHTYSGiwQ8tMDegQINRAE"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=petrol+price+today&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=petrol+price+today&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Kochi%2CKerala%2CIndia&q=petrol+price+today&start=10"
+  }
+ }
+}
