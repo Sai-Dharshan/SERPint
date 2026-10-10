@@ -1,0 +1,626 @@
+{
+ "search_metadata": {
+  "id": "6aca5a34421b08ae1b8974b6",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/MAAu9BsXrrG39LerMvxduBj21CYzL-VDv1phUnmSKX8/6aca5a34421b08ae1b8974b6.json",
+  "markdown_endpoint": "https://serpapi.com/searches/MAAu9BsXrrG39LerMvxduBj21CYzL-VDv1phUnmSKX8/6aca5a34421b08ae1b8974b6.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/MAAu9BsXrrG39LerMvxduBj21CYzL-VDv1phUnmSKX8/6aca5a34421b08ae1b8974b6.json_with_pixel_position",
+  "created_at": "2026-10-10 15:31:00 UTC",
+  "processed_at": "2026-10-10 15:31:00 UTC",
+  "google_url": "https://www.google.co.in/search?q=symptoms+of+dengue&oq=symptoms+of+dengue&uule=w+CAIQICIbQ29pbWJhdG9yZSxUYW1pbCBOYWR1LEluZGlh&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/MAAu9BsXrrG39LerMvxduBj21CYzL-VDv1phUnmSKX8/6aca5a34421b08ae1b8974b6.html",
+  "total_time_taken": 12.65
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "symptoms of dengue",
+  "location_requested": "Coimbatore,Tamil Nadu,India",
+  "location_used": "Coimbatore,Tamil Nadu,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "symptoms of dengue",
+  "total_results": 124,
+  "time_taken_displayed": 0.18,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_images": [
+  {
+   "source": "https://my.clevelandclinic.org/health/diseases/17753-dengue-fever",
+   "thumbnail": "https://serpapi.com/searches/6aca5a34421b08ae1b8974b6/images/uPqDjIg4VErb6L-3e_zgK4KbtgOXQQMS_t1Pu8G1SNM.jpeg",
+   "original": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/17753-dengue-fever",
+   "title": "Dengue Fever: Causes, Symptoms, Treatment & Prevention",
+   "source_name": "Cleveland Clinic"
+  },
+  {
+   "source": "https://www.lalpathlabs.com/blog/7-warning-signs-of-dengue-fever/",
+   "thumbnail": "https://serpapi.com/searches/6aca5a34421b08ae1b8974b6/images/vyVz-KRTm4ZKNmw3CzF66NNZigtYKVrT5elQtsONjmI.jpeg",
+   "original": "https://media-blog.lalpathlabs.com/apis/fc6f146b-5c89-4f4b-b150-c114361f5715.jpg",
+   "title": "Dengue Symptoms: 7 Warning Signs and Symptoms of Dengue |",
+   "source_name": "Dr Lal PathLabs"
+  },
+  {
+   "source": "https://www.cdc.gov/dengue/signs-symptoms/index.html",
+   "thumbnail": "https://serpapi.com/searches/6aca5a34421b08ae1b8974b6/images/cykw_4IETY8pNyH3ZlNIefMRY557EftsIKzUrVYL9Ls.jpeg",
+   "original": "https://www.cdc.gov/dengue/media/images/2025/08/Severe_Dengue.jpg",
+   "title": "Symptoms of Dengue and Testing | Dengue | CDC",
+   "source_name": "CDC"
+  },
+  {
+   "source": "https://www.pacehospital.com/dengue-fever-causes-symptoms-and-treatments",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucGu_-ZBhK-7HNgJwWhKQ8T4TLX5Cjq3K5RFIDZKAzBxLK9TaiNhWxrk&s",
+   "original": "https://irp.cdn-website.com/69c0b277/dms3rep/multi/opt/Dengue+Fever+Symptoms-640w.jpg",
+   "title": "Dengue Fever: Symptoms, Causes, Diagnosis & Treatment",
+   "source_name": "PACE Hospitals"
+  },
+  {
+   "source": "https://www.gbhamericanhospital.com/06/13676/58/dengue-symptoms-precautions/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGmnvlm6-fMdeqaHUnIajRweWwbM1RX6G6L20R4Rq9ytdaNyDiXG7Klw&s",
+   "original": "https://www.gbhamericanhospital.com/wp-content/uploads/2022/12/Dengue-2.jpg",
+   "title": "Dengue - Symptoms & Precautions - GBH American Hospital",
+   "source_name": "GBH American Hospital"
+  },
+  {
+   "source": "https://www.pathkindlabs.com/blog/dengue-fever-causes-symptoms-and-prevention-strategies",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOR08l_ycoUDqOB7nbh5xRPJFXEoK-QQb5Ds5i6gyxaYp9L_oZdeFmisE&s",
+   "original": "https://pathkindwebsiteprod.blob.core.windows.net/websiteprod/uploads/blogs/Pathkindadapts-2330x980-2-01.jpg",
+   "title": "Dengue Fever in India: Causes, Symptoms, and Prevention ...",
+   "source_name": "Pathkind Labs"
+  },
+  {
+   "source": "https://askdrvivi.com/dengue-cases-rising-in-orange-county-what-you-need-to-know/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocO-Zw4DD_3DepLcsgqt8QZGNB-0G6A9iF1R0DMXO1YXh3JdyXzddNYU&s",
+   "original": "https://askdrvivi.com/wp-content/uploads/2024/09/IMG_1912.webp",
+   "title": "Dengue Cases Rising in Orange County | Dr. Vivi",
+   "source_name": "Dr. Aviva Alyeshmerni"
+  },
+  {
+   "source": "https://www.jiethospital.com/blog/managing-dengue-symptoms-at-home-what-works-and-what-doesnt",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLSMiB7U8KKFKcBpB_F7AvRNRVwOpopzkKCurw6XK-SvRMVmgBNtA_xU&s",
+   "original": "https://images.squarespace-cdn.com/content/v1/62fbe833a48ae5660accb5a8/9d028990-9c83-48a7-982a-6380b77a88b6/Dengue+sym.jpg",
+   "title": "Managing Dengue Symptoms at Home: What Works and What Doesn ...",
+   "source_name": "JIET Hospital"
+  },
+  {
+   "source": "https://whitecoatsclinic.com/dengue-fever/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtz37YWZDRwUmtb814h3SW9_ytUahKSK3kJKoqq7CH3YZpo9QYWnolnZ8&s",
+   "original": "http://whitecoatsclinic.com/wp-content/uploads/2024/06/illustration-dengue-fever-symptoms-infographics-600nw-2353069131.webp",
+   "title": "7 Warning Signs of Dengue Fever in Kids: A Guide by WhiteCoat",
+   "source_name": "Whitecoats Clinic"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "How is Dengue Shock Syndrome treated?",
+   "type": "ai_overview",
+   "page_token": "RnFsrnicHdBbboJAFADQdDN-KijYaGKaqAPFCpbLPICfZpiponOFaUvF-te9dFVdTZOeJZzvHzw25vfuWned_ZiPRn3fDw9te8DXoWqHx2YkP74aNVISsZLKzKf3U_dhrxbkM1qu3qJlyqzla3CypnXAmTVl6J6VG0-EKbwk3HQC67U8acIc_7rLgSgT-69rKCsSeYKRLnb4bZvjo6aplzV8WlGNElm_E5tGnpILP8FO0chXLmZwDtL4sQ4qPsuF0WE69kVC64xO6mfNmLcL3QhySzOix-UafU2xLzkUPEz9LDceE5FXBvFEGQ1AkcnA5onwC5G5K2B1KZ3kRsN6A3QJpNbAm822yANbmMTVAt4ZwTQRJUnGuKyu7TFlcFMnPDOcPQtmV9qZMaBxHxMbMQST8daXeRlTGjzpfrBXl8Vk8P-5eNmfu7l9bw9_pJ-COQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RnFsrnicHdBbboJAFADQdDN-KijYaGKaqAPFCpbLPICfZpiponOFaUvF-te9dFVdTZOeJZzvHzw25vfuWned_ZiPRn3fDw9te8DXoWqHx2YkP74aNVISsZLKzKf3U_dhrxbkM1qu3qJlyqzla3CypnXAmTVl6J6VG0-EKbwk3HQC67U8acIc_7rLgSgT-69rKCsSeYKRLnb4bZvjo6aplzV8WlGNElm_E5tGnpILP8FO0chXLmZwDtL4sQ4qPsuF0WE69kVC64xO6mfNmLcL3QhySzOix-UafU2xLzkUPEz9LDceE5FXBvFEGQ1AkcnA5onwC5G5K2B1KZ3kRsN6A3QJpNbAm822yANbmMTVAt4ZwTQRJUnGuKyu7TFlcFMnPDOcPQtmV9qZMaBxHxMbMQST8daXeRlTGjzpfrBXl8Vk8P-5eNmfu7l9bw9_pJ-COQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZHaHVaemd5TlhKcWQyUjJXbkpLT0V4YWNFTkxVbkZLU21vMFFrODVlR1JhWm1aQ1RVNTFSalpXYURoU2NXUXRTelpVZDJkRmRVOURNaTF6VWtoemVEUm1jekpqV1VKd1VYUjVOMHgxYlVkak1ETnlRalZOZGtsQlVSSVhVVlp5UzJGeGFXSkRkWFZrYTFCSlVEVm1SRGRwUVc4YUlrRkVjM0k1WmxKdE1sSXRZWEUxYUU1c01qZGllRUZ1WWw5WmJtSkhZMFkxTVZFIiwiZmN2IjoiMyIsImVpIjoiUVZyS2FxaWJDdXVka1BJUDVmRDdpQW8iLCJxYyI6IkNoSnplVzF3ZEc5dGN5QnZaaUJrWlc1bmRXVVFBQmdCZmNCM1BEOCIsInF1ZXN0aW9uIjoiSG93IGlzIERlbmd1ZSBTaG9jayBTeW5kcm9tZSB0cmVhdGVkPyIsImxrIjoiR2g5a1pXNW5kV1VnYzJodlkyc2djM2x1WkhKdmJXVWdkSEpsWVhSdFpXNTAiLCJicyI6ImMzV09NUXZDTUJTRWNYMlRpNmdSOFRrNDZWUjA3dUpnQmFjT3pxRjV0VVdTU0pLMjlOOGIwd3EyNEhiY2ZYY2NYR0YzMFEyV0ZzLWtIaFZoV3Vqc2lXbXJoTkdTMEJuaWprUWNiZGxHZElRTmhCMFFrcFNER3h6dUJYZVljWVVKQ28xZUZ3SFJIWVg5UWs0MW1UaGFzOVd2Z1lZa2lmYmJnaU1zLTduS2toMTE1MndXZk5UNUlJRUU5cUhGalhmS21yRGhyZjA4ZUJtZnFfRUh4aGFuUDhoMDhnWSIsImlkIjoiZmNfUVZyS2FxaWJDdXVka1BJUDVmRDdpQW9fMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZHaHVaemd5TlhKcWQyUjJXbkpLT0V4YWNFTkxVbkZLU21vMFFrODVlR1JhWm1aQ1RVNTFSalpXYURoU2NXUXRTelpVZDJkRmRVOURNaTF6VWtoemVEUm1jekpqV1VKd1VYUjVOMHgxYlVkak1ETnlRalZOZGtsQlVSSVhVVlp5UzJGeGFXSkRkWFZrYTFCSlVEVm1SRGRwUVc4YUlrRkVjM0k1WmxKdE1sSXRZWEUxYUU1c01qZGllRUZ1WWw5WmJtSkhZMFkxTVZFIiwiZmN2IjoiMyIsImVpIjoiUVZyS2FxaWJDdXVka1BJUDVmRDdpQW8iLCJxYyI6IkNoSnplVzF3ZEc5dGN5QnZaaUJrWlc1bmRXVVFBQmdCZmNCM1BEOCIsInF1ZXN0aW9uIjoiSG93IGlzIERlbmd1ZSBTaG9jayBTeW5kcm9tZSB0cmVhdGVkPyIsImxrIjoiR2g5a1pXNW5kV1VnYzJodlkyc2djM2x1WkhKdmJXVWdkSEpsWVhSdFpXNTAiLCJicyI6ImMzV09NUXZDTUJTRWNYMlRpNmdSOFRrNDZWUjA3dUpnQmFjT3pxRjV0VVdTU0pLMjlOOGIwd3EyNEhiY2ZYY2NYR0YzMFEyV0ZzLWtIaFZoV3Vqc2lXbXJoTkdTMEJuaWprUWNiZGxHZElRTmhCMFFrcFNER3h6dUJYZVljWVVKQ28xZUZ3SFJIWVg5UWs0MW1UaGFzOVd2Z1lZa2lmYmJnaU1zLTduS2toMTE1MndXZk5UNUlJRUU5cUhGalhmS21yRGhyZjA4ZUJtZnFfRUh4aGFuUDhoMDhnWSIsImlkIjoiZmNfUVZyS2FxaWJDdXVka1BJUDVmRDdpQW9fMyJ9"
+  },
+  {
+   "question": "What can I do at home to treat dengue fever?",
+   "type": "ai_overview",
+   "page_token": "h1sHKXicHdBdboIwAADg7DI-SgF10cQsUQtKpIZCC_RlgRb5a4EhDsbb7rJT7TRL9h3h-_6RZVP_vkzFMHSPnaaN47jM2zaX2ZK3y7LRksdXwzWeSJkmvN5tXjf6253v4fNyOH5cDh7pOnrCwI-sgemx6UM0-mqaM6X3qVqXCdge8cxqDLaxkPnAw7XHoNMISm0MCYgAcmklSAKEH1g5yGzHS2trxVUBWFDcSERAEq57ccIESUYCtQ2RacnMpn1AizW3-Sq0i1sC6Z017JJF-ZAGTi0C54lPuXEjwygMdPQM6sZEKhG1c3DUH15UOME51jNaKGygLjW7yj87Zy7ZRE8Sw0Jg2jjXOLK6uEa6CHFPoPRQyCAy5CGd2tIjeOaVVNTWbxjo1ZVMTWpagEHhY9DBtJ5s1xIuNikS4-LOP_fm4v9z_35Xw67r2_wPBLaDwA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=h1sHKXicHdBdboIwAADg7DI-SgF10cQsUQtKpIZCC_RlgRb5a4EhDsbb7rJT7TRL9h3h-_6RZVP_vkzFMHSPnaaN47jM2zaX2ZK3y7LRksdXwzWeSJkmvN5tXjf6253v4fNyOH5cDh7pOnrCwI-sgemx6UM0-mqaM6X3qVqXCdge8cxqDLaxkPnAw7XHoNMISm0MCYgAcmklSAKEH1g5yGzHS2trxVUBWFDcSERAEq57ccIESUYCtQ2RacnMpn1AizW3-Sq0i1sC6Z017JJF-ZAGTi0C54lPuXEjwygMdPQM6sZEKhG1c3DUH15UOME51jNaKGygLjW7yj87Zy7ZRE8Sw0Jg2jjXOLK6uEa6CHFPoPRQyCAy5CGd2tIjeOaVVNTWbxjo1ZVMTWpagEHhY9DBtJ5s1xIuNikS4-LOP_fm4v9z_35Xw67r2_wPBLaDwA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZHaHVaemd5TlhKcWQyUjJXbkpLT0V4YWNFTkxVbkZLU21vMFFrODVlR1JhWm1aQ1RVNTFSalpXYURoU2NXUXRTelpVZDJkRmRVOURNaTF6VWtoemVEUm1jekpqV1VKd1VYUjVOMHgxYlVkak1ETnlRalZOZGtsQlVSSVhVVlp5UzJGeGFXSkRkWFZrYTFCSlVEVm1SRGRwUVc4YUlrRkVjM0k1WmxKdE1sSXRZWEUxYUU1c01qZGllRUZ1WWw5WmJtSkhZMFkxTVZFIiwiZmN2IjoiMyIsImVpIjoiUVZyS2FxaWJDdXVka1BJUDVmRDdpQW8iLCJxYyI6IkNoSnplVzF3ZEc5dGN5QnZaaUJrWlc1bmRXVVFBQmdCZmNCM1BEOCIsInF1ZXN0aW9uIjoiV2hhdCBjYW4gSSBkbyBhdCBob21lIHRvIHRyZWF0IGRlbmd1ZSBmZXZlcj8iLCJsayI6IkdodGtaVzVuZFdVZ1ptVjJaWElnY21WdFpXUjVJR0YwSUdodmJXVSIsImJzIjoiYzNXT01RdkNNQlNFY1gyVGk2Z1I4VGs0NlZSMDd1SmdCYWNPenFGNXRVV1NTSksyOU44YjB3cTI0SGJjZlhjY1hHRjMwUTJXRnMta0hoVmhXdWpzaVdtcmhOR1MwQm5pamtRY2JkbEdkSVFOaEIwUWtwU0RHeHp1QlhlWWNZVUpDbzFlRndIUkhZWDlRazQxbVRoYXM5V3ZnWVlraWZiYmdpTXMtN25La2gxMTUyd1dmTlQ1SUlFRTlxSEZqWGZLbXJEaHJmMDhlQm1mcV9FSHhoYW5QOGgwOGdZIiwiaWQiOiJmY19RVnJLYXFpYkN1dWRrUElQNWZEN2lBb18zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZHaHVaemd5TlhKcWQyUjJXbkpLT0V4YWNFTkxVbkZLU21vMFFrODVlR1JhWm1aQ1RVNTFSalpXYURoU2NXUXRTelpVZDJkRmRVOURNaTF6VWtoemVEUm1jekpqV1VKd1VYUjVOMHgxYlVkak1ETnlRalZOZGtsQlVSSVhVVlp5UzJGeGFXSkRkWFZrYTFCSlVEVm1SRGRwUVc4YUlrRkVjM0k1WmxKdE1sSXRZWEUxYUU1c01qZGllRUZ1WWw5WmJtSkhZMFkxTVZFIiwiZmN2IjoiMyIsImVpIjoiUVZyS2FxaWJDdXVka1BJUDVmRDdpQW8iLCJxYyI6IkNoSnplVzF3ZEc5dGN5QnZaaUJrWlc1bmRXVVFBQmdCZmNCM1BEOCIsInF1ZXN0aW9uIjoiV2hhdCBjYW4gSSBkbyBhdCBob21lIHRvIHRyZWF0IGRlbmd1ZSBmZXZlcj8iLCJsayI6IkdodGtaVzVuZFdVZ1ptVjJaWElnY21WdFpXUjVJR0YwSUdodmJXVSIsImJzIjoiYzNXT01RdkNNQlNFY1gyVGk2Z1I4VGs0NlZSMDd1SmdCYWNPenFGNXRVV1NTSksyOU44YjB3cTI0SGJjZlhjY1hHRjMwUTJXRnMta0hoVmhXdWpzaVdtcmhOR1MwQm5pamtRY2JkbEdkSVFOaEIwUWtwU0RHeHp1QlhlWWNZVUpDbzFlRndIUkhZWDlRazQxbVRoYXM5V3ZnWVlraWZiYmdpTXMtN25La2gxMTUyd1dmTlQ1SUlFRTlxSEZqWGZLbXJEaHJmMDhlQm1mcV9FSHhoYW5QOGgwOGdZIiwiaWQiOiJmY19RVnJLYXFpYkN1dWRrUElQNWZEN2lBb18zIn0%3D"
+  },
+  {
+   "question": "What causes dengue fever?",
+   "type": "ai_overview",
+   "page_token": "pCH2F3icHdBdboIwAADg7DI-ChVx08QsAykEB4wCrfZlqVX-WoFoIz9vu8tOtdNs2RG-7-tbVo34eaKlUt19o2l938-Lti3kZc7bedVo7D42XONMyhPjYrN6XoHXnG-de2_ZbW_FWdfhHdITAVyMu4bBtR02co8yaTKvTNhUGhSuh5N7ti_kaBKJDAxlFB9gFji8DwiEZ2dNEfGnd6Kakz4AhmkTeu0S2foiFsMt2kmJaqyjyfq4uP7-PFGPOsiOPEsFdZnTOhgj1zQzIhcpQCwh4BZeuweV1nCYxBCmpZdCq8JS5ocR1IF3VBS_JBBAwoUqOZFVbGBAXRUn-A1QERssgw-38i3khWNEaMYgXYa6LzJYTCEoF3yHk6Po4J_Z44mup6JEs5w_tsbsf2z7mV_Vpru1xS9gP3lm",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pCH2F3icHdBdboIwAADg7DI-ChVx08QsAykEB4wCrfZlqVX-WoFoIz9vu8tOtdNs2RG-7-tbVo34eaKlUt19o2l938-Lti3kZc7bedVo7D42XONMyhPjYrN6XoHXnG-de2_ZbW_FWdfhHdITAVyMu4bBtR02co8yaTKvTNhUGhSuh5N7ti_kaBKJDAxlFB9gFji8DwiEZ2dNEfGnd6Kakz4AhmkTeu0S2foiFsMt2kmJaqyjyfq4uP7-PFGPOsiOPEsFdZnTOhgj1zQzIhcpQCwh4BZeuweV1nCYxBCmpZdCq8JS5ocR1IF3VBS_JBBAwoUqOZFVbGBAXRUn-A1QERssgw-38i3khWNEaMYgXYa6LzJYTCEoF3yHk6Po4J_Z44mup6JEs5w_tsbsf2z7mV_Vpru1xS9gP3lm",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZHaHVaemd5TlhKcWQyUjJXbkpLT0V4YWNFTkxVbkZLU21vMFFrODVlR1JhWm1aQ1RVNTFSalpXYURoU2NXUXRTelpVZDJkRmRVOURNaTF6VWtoemVEUm1jekpqV1VKd1VYUjVOMHgxYlVkak1ETnlRalZOZGtsQlVSSVhVVlp5UzJGeGFXSkRkWFZrYTFCSlVEVm1SRGRwUVc4YUlrRkVjM0k1WmxKdE1sSXRZWEUxYUU1c01qZGllRUZ1WWw5WmJtSkhZMFkxTVZFIiwiZmN2IjoiMyIsImVpIjoiUVZyS2FxaWJDdXVka1BJUDVmRDdpQW8iLCJxYyI6IkNoSnplVzF3ZEc5dGN5QnZaaUJrWlc1bmRXVVFBQmdCZmNCM1BEOCIsInF1ZXN0aW9uIjoiV2hhdCBjYXVzZXMgZGVuZ3VlIGZldmVyPyIsImxrIjoiR2hWallYVnpaU0J2WmlCa1pXNW5kV1VnWm1WMlpYSSIsImJzIjoiYzNXT01RdkNNQlNFY1gyVGk2Z1I4VGs0NlZSMDd1SmdCYWNPenFGNXRVV1NTSksyOU44YjB3cTI0SGJjZlhjY1hHRjMwUTJXRnMta0hoVmhXdWpzaVdtcmhOR1MwQm5pamtRY2JkbEdkSVFOaEIwUWtwU0RHeHp1QlhlWWNZVUpDbzFlRndIUkhZWDlRazQxbVRoYXM5V3ZnWVlraWZiYmdpTXMtN25La2gxMTUyd1dmTlQ1SUlFRTlxSEZqWGZLbXJEaHJmMDhlQm1mcV9FSHhoYW5QOGgwOGdZIiwiaWQiOiJmY19RVnJLYXFpYkN1dWRrUElQNWZEN2lBb18zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZHaHVaemd5TlhKcWQyUjJXbkpLT0V4YWNFTkxVbkZLU21vMFFrODVlR1JhWm1aQ1RVNTFSalpXYURoU2NXUXRTelpVZDJkRmRVOURNaTF6VWtoemVEUm1jekpqV1VKd1VYUjVOMHgxYlVkak1ETnlRalZOZGtsQlVSSVhVVlp5UzJGeGFXSkRkWFZrYTFCSlVEVm1SRGRwUVc4YUlrRkVjM0k1WmxKdE1sSXRZWEUxYUU1c01qZGllRUZ1WWw5WmJtSkhZMFkxTVZFIiwiZmN2IjoiMyIsImVpIjoiUVZyS2FxaWJDdXVka1BJUDVmRDdpQW8iLCJxYyI6IkNoSnplVzF3ZEc5dGN5QnZaaUJrWlc1bmRXVVFBQmdCZmNCM1BEOCIsInF1ZXN0aW9uIjoiV2hhdCBjYXVzZXMgZGVuZ3VlIGZldmVyPyIsImxrIjoiR2hWallYVnpaU0J2WmlCa1pXNW5kV1VnWm1WMlpYSSIsImJzIjoiYzNXT01RdkNNQlNFY1gyVGk2Z1I4VGs0NlZSMDd1SmdCYWNPenFGNXRVV1NTSksyOU44YjB3cTI0SGJjZlhjY1hHRjMwUTJXRnMta0hoVmhXdWpzaVdtcmhOR1MwQm5pamtRY2JkbEdkSVFOaEIwUWtwU0RHeHp1QlhlWWNZVUpDbzFlRndIUkhZWDlRazQxbVRoYXM5V3ZnWVlraWZiYmdpTXMtN25La2gxMTUyd1dmTlQ1SUlFRTlxSEZqWGZLbXJEaHJmMDhlQm1mcV9FSHhoYW5QOGgwOGdZIiwiaWQiOiJmY19RVnJLYXFpYkN1dWRrUElQNWZEN2lBb18zIn0%3D"
+  },
+  {
+   "question": "What are five ways to prevent dengue fever?",
+   "type": "ai_overview",
+   "page_token": "834z3nicHdBRbpswGABg7TJ9TDCZMjVSNJXWZqDiFMNvJ36ZwIY42AE3oQnlbXfZqXaaTTvBJ32_frtTb_98mcw4-utmubzf74vjMBxds1DD4tQvq-tnr5aqcq6ulN2sv63R91Zt8UcSPb8nUQ7e8xcWFKG_FZgYDebAOvemereG8LrKO93rmVwzSO5VYEI5m4vsDjMUKNKzESpAQ2GZFI4WCpM3DWNAwVcauCtCk-5wulMk8tyyqFjRSZA0afjTuIspo9ybQuiUPSPaWJPWHbM1IrOcs6-ATEex_GwsbeWLLquze8-Qi5uYfPyzTpngryJGPzKMSAk2rEG2urRBvTeQdbzHRjPep6-HPfEHS5EW7ALY5VRITEMX1dNwyoHNqnNnsI9cdMnEZ5MCfmxLOxYlkbc6nni-d8CxSSB_aNVtu3r4_7n92Z7Hjb8Mx79844Xp",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=834z3nicHdBRbpswGABg7TJ9TDCZMjVSNJXWZqDiFMNvJ36ZwIY42AE3oQnlbXfZqXaaTTvBJ32_frtTb_98mcw4-utmubzf74vjMBxds1DD4tQvq-tnr5aqcq6ulN2sv63R91Zt8UcSPb8nUQ7e8xcWFKG_FZgYDebAOvemereG8LrKO93rmVwzSO5VYEI5m4vsDjMUKNKzESpAQ2GZFI4WCpM3DWNAwVcauCtCk-5wulMk8tyyqFjRSZA0afjTuIspo9ybQuiUPSPaWJPWHbM1IrOcs6-ATEex_GwsbeWLLquze8-Qi5uYfPyzTpngryJGPzKMSAk2rEG2urRBvTeQdbzHRjPep6-HPfEHS5EW7ALY5VRITEMX1dNwyoHNqnNnsI9cdMnEZ5MCfmxLOxYlkbc6nni-d8CxSSB_aNVtu3r4_7n92Z7Hjb8Mx79844Xp",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZHaHVaemd5TlhKcWQyUjJXbkpLT0V4YWNFTkxVbkZLU21vMFFrODVlR1JhWm1aQ1RVNTFSalpXYURoU2NXUXRTelpVZDJkRmRVOURNaTF6VWtoemVEUm1jekpqV1VKd1VYUjVOMHgxYlVkak1ETnlRalZOZGtsQlVSSVhVVlp5UzJGeGFXSkRkWFZrYTFCSlVEVm1SRGRwUVc4YUlrRkVjM0k1WmxKdE1sSXRZWEUxYUU1c01qZGllRUZ1WWw5WmJtSkhZMFkxTVZFIiwiZmN2IjoiMyIsImVpIjoiUVZyS2FxaWJDdXVka1BJUDVmRDdpQW8iLCJxYyI6IkNoSnplVzF3ZEc5dGN5QnZaaUJrWlc1bmRXVVFBQmdCZmNCM1BEOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgZml2ZSB3YXlzIHRvIHByZXZlbnQgZGVuZ3VlIGZldmVyPyIsImxrIjoiR2hnMUlIZGhlWE1nZEc4Z2NISmxkbVZ1ZENCa1pXNW5kV1UiLCJicyI6ImMzV09NUXZDTUJTRWNYMlRpNmdSOFRrNDZWUjA3dUpnQmFjT3pxRjV0VVdTU0pLMjlOOGIwd3EyNEhiY2ZYY2NYR0YzMFEyV0ZzLWtIaFZoV3Vqc2lXbXJoTkdTMEJuaWprUWNiZGxHZElRTmhCMFFrcFNER3h6dUJYZVljWVVKQ28xZUZ3SFJIWVg5UWs0MW1UaGFzOVd2Z1lZa2lmYmJnaU1zLTduS2toMTE1MndXZk5UNUlJRUU5cUhGalhmS21yRGhyZjA4ZUJtZnFfRUh4aGFuUDhoMDhnWSIsImlkIjoiZmNfUVZyS2FxaWJDdXVka1BJUDVmRDdpQW9fMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1ZHaHVaemd5TlhKcWQyUjJXbkpLT0V4YWNFTkxVbkZLU21vMFFrODVlR1JhWm1aQ1RVNTFSalpXYURoU2NXUXRTelpVZDJkRmRVOURNaTF6VWtoemVEUm1jekpqV1VKd1VYUjVOMHgxYlVkak1ETnlRalZOZGtsQlVSSVhVVlp5UzJGeGFXSkRkWFZrYTFCSlVEVm1SRGRwUVc4YUlrRkVjM0k1WmxKdE1sSXRZWEUxYUU1c01qZGllRUZ1WWw5WmJtSkhZMFkxTVZFIiwiZmN2IjoiMyIsImVpIjoiUVZyS2FxaWJDdXVka1BJUDVmRDdpQW8iLCJxYyI6IkNoSnplVzF3ZEc5dGN5QnZaaUJrWlc1bmRXVVFBQmdCZmNCM1BEOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgZml2ZSB3YXlzIHRvIHByZXZlbnQgZGVuZ3VlIGZldmVyPyIsImxrIjoiR2hnMUlIZGhlWE1nZEc4Z2NISmxkbVZ1ZENCa1pXNW5kV1UiLCJicyI6ImMzV09NUXZDTUJTRWNYMlRpNmdSOFRrNDZWUjA3dUpnQmFjT3pxRjV0VVdTU0pLMjlOOGIwd3EyNEhiY2ZYY2NYR0YzMFEyV0ZzLWtIaFZoV3Vqc2lXbXJoTkdTMEJuaWprUWNiZGxHZElRTmhCMFFrcFNER3h6dUJYZVljWVVKQ28xZUZ3SFJIWVg5UWs0MW1UaGFzOVd2Z1lZa2lmYmJnaU1zLTduS2toMTE1MndXZk5UNUlJRUU5cUhGalhmS21yRGhyZjA4ZUJtZnFfRUh4aGFuUDhoMDhnWSIsImlkIjoiZmNfUVZyS2FxaWJDdXVka1BJUDVmRDdpQW9fMyJ9"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Dengue fever symptoms typically appear 4 to 10 days after a bite from an infected mosquito, marked by a sudden high fever (up to 104°F / 40°C) and intense body aches known as \"breakbone fever\".",
+    "snippet_highlighted_words": [
+     "sudden high fever (up to 104°F / 40°C) and intense body aches known as \"breakbone fever\""
+    ],
+    "reference_indexes": [
+     0,
+     1,
+     2
+    ]
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "High Fever: Sudden onset of fever lasting 2 to 7 days."
+     },
+     {
+      "snippet": "Severe Headaches: Intense pain, often located behind the eyes (retro-orbital pain) that worsens with eye movement."
+     },
+     {
+      "snippet": "Body Aches: Severe muscle, bone, and joint pain."
+     },
+     {
+      "snippet": "Skin Rash: A flat or slightly raised red rash that may appear around day 3 or 4, often starting on the chest and spreading."
+     },
+     {
+      "snippet": "Gastrointestinal Issues: Nausea, vomiting, and loss of appetite."
+     },
+     {
+      "snippet": "Fatigue: General weakness and exhaustion."
+     }
+    ],
+    "reference_indexes": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Warning signs usually emerge 24 to 48 hours after the fever subsides (often around days 3 to 7). Severe dengue is a medical emergency. Watch for:",
+    "reference_indexes": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Severe abdominal pain or tenderness"
+     },
+     {
+      "snippet": "Persistent or repeated vomiting (3 or more times in 24 hours, or vomiting blood)"
+     },
+     {
+      "snippet": "Bleeding from the nose, gums, or skin (bruising), or blood in the stool or urine"
+     },
+     {
+      "snippet": "Rapid breathing or difficulty breathing"
+     },
+     {
+      "snippet": "Extreme fatigue, restlessness, or irritability/drowsiness"
+     },
+     {
+      "snippet": "Signs of shock (cold, clammy skin and a rapid, weak pulse)"
+     }
+    ],
+    "reference_indexes": [
+     0,
+     1,
+     2,
+     3,
+     7,
+     8
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Official guidance and symptom criteria can be reviewed via the National Center for Vector Borne Diseases Control or the Mayo Clinic.",
+    "snippet_links": [
+     {
+      "text": "National Center for Vector Borne Diseases Control",
+      "link": "https://ncvbdc.mohfw.gov.in/index4.php?lang=1&level=0&linkid=436&lid=3711"
+     },
+     {
+      "text": "Mayo Clinic",
+      "link": "https://www.mayoclinic.org/diseases-conditions/dengue-fever/symptoms-causes/syc-20353078"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Are you or someone you know currently experiencing a high fever or warning signs, or would you like guidance on when to visit a local clinic for a blood test?"
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Dengue fever - Symptoms and causes - Mayo Clinic",
+    "link": "https://www.mayoclinic.org/diseases-conditions/dengue-fever/symptoms-causes/syc-20353078",
+    "snippet": "* Overview. Dengue (DENG-gey) fever is an illness from mosquito bites that happen in tropical and subtropical areas of the world. Mild dengue fever causes a high f...",
+    "source": "Mayo Clinic",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mayoclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   {
+    "index": 1,
+    "title": "What is Dengue Fever: Symptoms, Causes, & Phases | Max Hospital",
+    "link": "https://www.maxhealthcare.in/blogs/dengue-fever",
+    "snippet": "Understanding Dengue Fever: A Complete Guide. ... Do you have what seems to be flu-like symptoms: Fever, rash along with a few itchy mosquito bites? You might be d...",
+    "source": "Max Healthcare",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.maxhealthcare.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjO2GmD9D6udBr622BVzrPbxsTJIOJPojW4gex-_QWxEwFbUdj-D-EYt6iZQSYg4I4r9i4ogvUPL2sXpdl74B4iDoZdAbKsgz-mcdwNo5GPwW-33KckfVdpZ72PMSFYN_PUKCpIUEk5RUstWghxuUaTsY"
+   },
+   {
+    "index": 2,
+    "title": "How to Identify the 7 Warning Signs of Dengue Fever Early",
+    "link": "https://www.vijayadiagnostic.com/blog/how-to-identify-the-7-warning-signs-of-dengue-fever-early",
+    "snippet": "Warning Signs: Sudden high fever (102°F-104°F), severe headache and retro-orbital eye pain, intense muscle and joint pain (breakbone fever), skin rashes appearing ...",
+    "source": "Vijaya Diagnostic Centre",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.vijayadiagnostic.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4tx6NfDMERgsrGsKXh9DR8E7t8wrdrYKMLF1tuPt3uNWaFbeQz_IBG4-lK03a7nR8ydZY2RJp1psbyxbjlGtBC8KrcrFoLqPJdI0_CwTg1iWP2vUSsw0FouDgLsx1q7LL4d7fQ8Vsli-MOZcKeObtEi0"
+   },
+   {
+    "index": 3,
+    "title": "Symptoms of Dengue and Testing | Dengue | CDC",
+    "link": "https://www.cdc.gov/dengue/signs-symptoms/index.html",
+    "snippet": "Infection Rate: 1 in 4 infected individuals get sick; 1 in 20 sick individuals develop severe dengue. Symptoms: Fever lasting 2-7 days with eye, muscle, bone, or j...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cdc.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmliY3RNTm09FdgCPYK5hS4b2ha0pzEWDHzOhPd73nw1xK7B084n55-c-JIXq0KZyvKXK6266tyyA71uviMiB1Kr62bGgCHGtGtEQUxALHZUDeG-S33BRbv5RsR_fNd-mjtFNJdEX_ZUNtEKnjDGC-r9g"
+   },
+   {
+    "index": 4,
+    "title": "SIGNS & SYMPTOMS OF DENGUE FEVER",
+    "link": "https://ncvbdc.mohfw.gov.in/index4.php?lang=1&level=0&linkid=436&lid=3711",
+    "snippet": "Back Abrupt onset of high fever Severe frontal headache Pain behind the eyes which worsens with eye movement Muscle and joint pains Loss of sense of taste and appe...",
+    "source": "National Center for Vector Borne Diseases Control (NCVBDC)",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ncvbdc.mohfw.gov.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   {
+    "index": 5,
+    "title": "What are the signs and symptoms of dengue fever?",
+    "link": "https://www.youtube.com/watch?v=P-_hqG9HKj8&t=4",
+    "snippet": "What are the signs and symptoms of dengue fever? most people infected with deni do not develop any symptoms in the 25%. of people who do become unwell symptoms sta",
+    "source": "YouTube",
+    "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKYwUSYNbcgSX1DApgSy9PU87whTIJSUV3nN_WprAaUr8R1N6f_HBG4vKAHY4OEwOivp5_3CRzs8Xad0VAjRYqzstXy5HfbBILqk-Vl04bh5pQ4caLG3YeCiucV7_BzUgy-n8DdkCmSljGqLEhvJQJJto"
+   },
+   {
+    "index": 6,
+    "title": "Doctor explains Dengue Fever | Causes, Symptoms, Treatment and ...",
+    "link": "https://www.youtube.com/watch?v=H6RUoDSM4Go&t=85",
+    "snippet": "Doctor explains Dengue Fever | Causes, Symptoms, Treatment and Prevention and then also some of the more severe symptoms which whilst less common are still importa",
+    "source": "YouTube",
+    "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXi-LF8lXa5-XSM6nTu2TS_nlhMbYnrnfYo0c_NhLCpEUy_S4L32C8y6S4lfQLRV-0OHGv28PWRJMxMw_7PIUpqF2J8pQeKc9jvJTmutu6MWsMsiJHXst5LarzBKnlKP7arWONkL1BNoh0LTjdVAdN0MA"
+   },
+   {
+    "index": 7,
+    "title": "Dengue Fever: Symptoms & Treatments - Ask A Nurse",
+    "link": "https://www.youtube.com/watch?v=gMdZV_M1HN0&t=69",
+    "snippet": "Dengue Fever: Symptoms & Treatments - Ask A Nurse | @LevelUpRN include the 80s egypti mosquito and the 80s albopictis mosquito these are the same types of mosquito",
+    "source": "YouTube",
+    "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbtiIBt5D1gAnmUutFpEwC-vWTTS4B64_wasQPioX42DD8D_o8lpo93r0NP-QZHRLp8PcRZ4Su_bEV9R531kdjhvYVnm-PO4iscyLnSAfCLd3cR0bqU2Tkanf9MULj5pLAXEDQvGPabXtWp1b5JCU5EhI"
+   },
+   {
+    "index": 8,
+    "title": "Dengue Warning Signs You Shouldn't Ignore | Medicover Hospitals",
+    "link": "https://www.youtube.com/shorts/shsoiCujyrk",
+    "snippet": "Dengue Warning Signs You Shouldn’t Ignore | Medicover Hospitals the small mosquito bite causes life-threatening diseases It increases the risk of denu One must kno",
+    "source": "YouTube",
+    "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5lKU2CZxp5cNdWpb0zzBanRRlHWWNggfB8mWnoVXGOna3Yc5WP4uuXbNhnr6HWTxNPR6tn_kwloWLYa0QMFPdn8Al3gNU5h5nj8kihYN41ktkrH-w8QifyQesWTDENOmjFQLLif6AR1p5EbAiL3lrwQ"
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "What Triggers Dengue? Symptoms and Treatment Options",
+   "link": "https://www.narayanahealth.org/diseases/dengue",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVq_zeS0zosvDEygC0el5msJ8WaPCQ3oxPIhHcQjnX8gckBLfNcmbFNuqi0-QRJSdcD72vkN8vvIrlx7uQxEO0hY86rmxpJwWVPc9cdZkZGJX3SuVrmLwRI4yOzH0qdP1Nyg6tEg&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://www.narayanahealth.org › Health Library",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAG1BMVEUAAAAIVJsIU5wIUpwIUpvnJCjoIynoIynnJCqh7kzxAAAACXRSTlMAQL__gEC__4DybOIZAAAAjUlEQVR4Aa3QtwHCQBBE0cGT4SrANABLBdAAmVISmQx_o5BIKlvebob54Tt_SJvvp8DA9VDUF9kCFnkqoCuyA0LyXEAvA5e8fgmdtUgJpHnjKE3gC-s2GEgbqGf4WOg9OodV0gYInLQT_tHASfNqsJhmagg1UIOrwdIwdhUAGP0BhqTfggH5QqvA1B8VA_paTRXCXu6YAAAAAElFTkSuQmCC.png",
+   "snippet": "Symptoms of Dengue Disease · Sudden fever · High temperature · Eye pain · Nausea · Vomiting · Bleeding · Teeth pain · Nosebleed; Skin rash. Types of Dengue.",
+   "snippet_highlighted_words": [
+    "Sudden fever"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Symptoms of Dengue Disease · Sudden fever · High temperature · Eye pain · Nausea · Vomiting · Bleeding · Teeth pain · Nosebleed; Skin rash. Types of Dengue.",
+     "source_info_link": "https://www.narayanahealth.org/diseases/dengue",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAG1BMVEUAAAAIVJsIU5wIUpwIUpvnJCjoIynoIynnJCqh7kzxAAAACXRSTlMAQL__gEC__4DybOIZAAAAjUlEQVR4Aa3QtwHCQBBE0cGT4SrANABLBdAAmVISmQx_o5BIKlvebob54Tt_SJvvp8DA9VDUF9kCFnkqoCuyA0LyXEAvA5e8fgmdtUgJpHnjKE3gC-s2GEgbqGf4WOg9OodV0gYInLQT_tHASfNqsJhmagg1UIOrwdIwdhUAGP0BhqTfggH5QqvA1B8VA_paTRXCXu6YAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnFfemVTMHpvc3ZERXlnQzBlbDVtc0o4V2FQQ1Ezb3hQSWhIY1Fqblg4Z2NrQkxmTmNtYkZOdXFpMC1RUkpTZGNENzJ2a044dnZJcmx4N3VReEVPMGhZODZybXhwSndXVlBjOWNkWmtaR0pYM1N1VnJtTHdSSTR5T3pIMHFkUDFOeWc2dEVnEgQaAggAGvIEEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQM4ECAAQABgAIAAqUQoIc3ltcHRvbXMVKkaZQBoGc2V2ZXJlGgRzaWduGgVzaWducxoHc3ltcHRvbRoIdHJlYXRpbmcaCXRyZWF0bWVudBoNaXY7cDtzeW1wdG9tcyoJCgJvZhUAAAAAKhoKBmRlbmd1ZRXkpclAGgtpdjtwO2Rlbmd1ZTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZxX3plUzB6b3N2REV5Z0MwZWw1bXNKOFdhUENRM294UEloSGNRam5YOGdja0JMZk5jbWJGTnVxaTAtUVJKU2RjRDcydmtOOHZ2SXJseDd1UXhFTzBoWTg2cm14cEp3V1ZQYzljZFprWkdKWDNTdVZybUx3Ukk0eU96SDBxZFAxTnlnNnRFZzpJV2hhdCBUcmlnZ2VycyA8Yj5EZW5ndWU8L2I-PyA8Yj5TeW1wdG9tczwvYj4gYW5kIDxiPlRyZWF0bWVudDwvYj4gT3B0aW9uc0LbAVN5bXB0b21zIG9mIERlbmd1ZSBEaXNlYXNlICZtaWRkb3Q7IDxiPlN1ZGRlbiBmZXZlcjwvYj4gJm1pZGRvdDsgSGlnaCB0ZW1wZXJhdHVyZSAmbWlkZG90OyBFeWUgcGFpbiAmbWlkZG90OyBOYXVzZWEgJm1pZGRvdDsgVm9taXRpbmcgJm1pZGRvdDsgQmxlZWRpbmcgJm1pZGRvdDsgVGVldGggcGFpbiAmbWlkZG90OyBOb3NlYmxlZWQ7IFNraW4gcmFzaC4gVHlwZXMgb2YgRGVuZ3VlLkoCb2YiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVnFfemVTMHpvc3ZERXlnQzBlbDVtc0o4V2FQQ1Ezb3hQSWhIY1Fqblg4Z2NrQkxmTmNtYkZOdXFpMC1RUkpTZGNENzJ2a044dnZJcmx4N3VReEVPMGhZODZybXhwSndXVlBjOWNkWmtaR0pYM1N1VnJtTHdSSTR5T3pIMHFkUDFOeWc2dEVnEgQaAggAGvIEEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQM4ECAAQABgAIAAqUQoIc3ltcHRvbXMVKkaZQBoGc2V2ZXJlGgRzaWduGgVzaWducxoHc3ltcHRvbRoIdHJlYXRpbmcaCXRyZWF0bWVudBoNaXY7cDtzeW1wdG9tcyoJCgJvZhUAAAAAKhoKBmRlbmd1ZRXkpclAGgtpdjtwO2Rlbmd1ZTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZxX3plUzB6b3N2REV5Z0MwZWw1bXNKOFdhUENRM294UEloSGNRam5YOGdja0JMZk5jbWJGTnVxaTAtUVJKU2RjRDcydmtOOHZ2SXJseDd1UXhFTzBoWTg2cm14cEp3V1ZQYzljZFprWkdKWDNTdVZybUx3Ukk0eU96SDBxZFAxTnlnNnRFZzpJV2hhdCBUcmlnZ2VycyA8Yj5EZW5ndWU8L2I-PyA8Yj5TeW1wdG9tczwvYj4gYW5kIDxiPlRyZWF0bWVudDwvYj4gT3B0aW9uc0LbAVN5bXB0b21zIG9mIERlbmd1ZSBEaXNlYXNlICZtaWRkb3Q7IDxiPlN1ZGRlbiBmZXZlcjwvYj4gJm1pZGRvdDsgSGlnaCB0ZW1wZXJhdHVyZSAmbWlkZG90OyBFeWUgcGFpbiAmbWlkZG90OyBOYXVzZWEgJm1pZGRvdDsgVm9taXRpbmcgJm1pZGRvdDsgQmxlZWRpbmcgJm1pZGRvdDsgVGVldGggcGFpbiAmbWlkZG90OyBOb3NlYmxlZWQ7IFNraW4gcmFzaC4gVHlwZXMgb2YgRGVuZ3VlLkoCb2YiAhABSABYAGgA",
+   "source": "Narayana Health",
+   "read_more_link": "https://www.narayanahealth.org/diseases/dengue#:~:text=Symptoms%20of%20Dengue%20Disease&text=Sudden%20fever&text=High%20temperature&text=Eye%20pain&text=Nausea&text=Vomiting&text=Bleeding&text=Teeth%20pain&text=Nosebleed,Types%20of%20Dengue"
+  },
+  {
+   "position": 2,
+   "title": "Dengue Symptoms: Early & Warning Signs, Causes & ...",
+   "link": "https://www.blkmaxhospital.com/blogs/dengue-symptoms-causes-treatment",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFdjMkXHkrO8M43E1ISS1apD7-qxYzUFcgbvrpgVrKymVBgTHHg8P65uXHcQfyjX8iSGtrkSorx5sZWJiZvN8QO5-um5UDWF0RPY0Mdka_RJ-slR0QDShzrQlbf_Nzk1gutJ3PTodNDzVZlHU3vpW4y6AVsl8KYe4pzXNxQ&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://www.blkmaxhospital.com › Blogs",
+   "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y1UQpAAglNaK9JG_vj7Wro36w8mc972Muw1hefoQPv64oAAD-6Mx81Wm4Ciqpzs961iBpnV2ZLrcadaNUh8YnypJEi4SNblwUJB6wZFFle7S_KnWfJMIR3dl0-y580tGk1VYSQlGzdJ872wNL08WbzlP8rEbdSSQjIDF0YDdAarTZYiyQDwTXJ9SWTZQQQ-dQh_gpKgRrT84L4OlOGxUClSXT51GsOPPx9RT47BxXW3bBRZ1CO5_ARxl-QtuHLhNe26VtnlY_aW_gAAOVAAA.webp",
+   "snippet": "Common Early Symptoms of Dengue · High fever, often peaking as a 101.5 fever or 101.9 fever. · Muscle, bone, or joint pains (often called \"breakbone fever\").",
+   "snippet_highlighted_words": [
+    "High fever, often peaking as a 101.5 fever or 101.9 fever"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Common Early Symptoms of Dengue · High fever, often peaking as a 101.5 fever or 101.9 fever. · Muscle, bone, or joint pains (often called \"breakbone fever\").",
+     "source_info_link": "https://www.blkmaxhospital.com/blogs/dengue-symptoms-causes-treatment",
+     "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y1UQpAAglNaK9JG_vj7Wro36w8mc972Muw1hefoQPv64oAAD-6Mx81Wm4Ciqpzs961iBpnV2ZLrcadaNUh8YnypJEi4SNblwUJB6wZFFle7S_KnWfJMIR3dl0-y580tGk1VYSQlGzdJ872wNL08WbzlP8rEbdSSQjIDF0YDdAarTZYiyQDwTXJ9SWTZQQQ-dQh_gpKgRrT84L4OlOGxUClSXT51GsOPPx9RT47BxXW3bBRZ1CO5_ARxl-QtuHLhNe26VtnlY_aW_gAAOVAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0Zkak1rWEhrck84TTQzRTFJU1MxYXBENy1xeFl6VUZjZ2J2cnBnVnJLeW1WQmdUSEhnOFA2NXVYSGNRZnlqWDhpU0d0cmtTb3J4NXNaV0ppWnZOOFFPNS11bTVVRFdGMFJQWTBNZGthX1JKLXNsUjBRRFNoenJRbGJmX056azFndXRKM1BUb2RORHpWWmxIVTN2cFc0eTZBVnNsOEtZZTRwelhOeFESBBoCCAAagQUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA3QQIABAAGAAgACpRCghzeW1wdG9tcxUcnmlAGgZzZXZlcmUaBHNpZ24aBXNpZ25zGgdzeW1wdG9tGgh0cmVhdGluZxoJdHJlYXRtZW50Gg1pdjtwO3N5bXB0b21zKgkKAm9mFQAAAAAqGgoGZGVuZ3VlFT_jikAaC2l2O3A7ZGVuZ3VlMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0Zkak1rWEhrck84TTQzRTFJU1MxYXBENy1xeFl6VUZjZ2J2cnBnVnJLeW1WQmdUSEhnOFA2NXVYSGNRZnlqWDhpU0d0cmtTb3J4NXNaV0ppWnZOOFFPNS11bTVVRFdGMFJQWTBNZGthX1JKLXNsUjBRRFNoenJRbGJmX056azFndXRKM1BUb2RORHpWWmxIVTN2cFc0eTZBVnNsOEtZZTRwelhOeFE6VzxiPkRlbmd1ZSBTeW1wdG9tczwvYj46IEVhcmx5ICZhbXA7IFdhcm5pbmcgPGI-U2lnbnM8L2I-LCBDYXVzZXMgJmFtcDsgPGI-VHJlYXRtZW50PC9iPkK8AUNvbW1vbiBFYXJseSBTeW1wdG9tcyBvZiBEZW5ndWUgJm1pZGRvdDsgPGI-SGlnaCBmZXZlciwgb2Z0ZW4gcGVha2luZyBhcyBhIDEwMS41IGZldmVyIG9yIDEwMS45IGZldmVyPC9iPi4gJm1pZGRvdDsgTXVzY2xlLCBib25lLCBvciBqb2ludCBwYWlucyAob2Z0ZW4gY2FsbGVkICZxdW90O2JyZWFrYm9uZSBmZXZlciZxdW90OykuSgJvZiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0Zkak1rWEhrck84TTQzRTFJU1MxYXBENy1xeFl6VUZjZ2J2cnBnVnJLeW1WQmdUSEhnOFA2NXVYSGNRZnlqWDhpU0d0cmtTb3J4NXNaV0ppWnZOOFFPNS11bTVVRFdGMFJQWTBNZGthX1JKLXNsUjBRRFNoenJRbGJmX056azFndXRKM1BUb2RORHpWWmxIVTN2cFc0eTZBVnNsOEtZZTRwelhOeFESBBoCCAAagQUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA3QQIABAAGAAgACpRCghzeW1wdG9tcxUcnmlAGgZzZXZlcmUaBHNpZ24aBXNpZ25zGgdzeW1wdG9tGgh0cmVhdGluZxoJdHJlYXRtZW50Gg1pdjtwO3N5bXB0b21zKgkKAm9mFQAAAAAqGgoGZGVuZ3VlFT_jikAaC2l2O3A7ZGVuZ3VlMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0Zkak1rWEhrck84TTQzRTFJU1MxYXBENy1xeFl6VUZjZ2J2cnBnVnJLeW1WQmdUSEhnOFA2NXVYSGNRZnlqWDhpU0d0cmtTb3J4NXNaV0ppWnZOOFFPNS11bTVVRFdGMFJQWTBNZGthX1JKLXNsUjBRRFNoenJRbGJmX056azFndXRKM1BUb2RORHpWWmxIVTN2cFc0eTZBVnNsOEtZZTRwelhOeFE6VzxiPkRlbmd1ZSBTeW1wdG9tczwvYj46IEVhcmx5ICZhbXA7IFdhcm5pbmcgPGI-U2lnbnM8L2I-LCBDYXVzZXMgJmFtcDsgPGI-VHJlYXRtZW50PC9iPkK8AUNvbW1vbiBFYXJseSBTeW1wdG9tcyBvZiBEZW5ndWUgJm1pZGRvdDsgPGI-SGlnaCBmZXZlciwgb2Z0ZW4gcGVha2luZyBhcyBhIDEwMS41IGZldmVyIG9yIDEwMS45IGZldmVyPC9iPi4gJm1pZGRvdDsgTXVzY2xlLCBib25lLCBvciBqb2ludCBwYWlucyAob2Z0ZW4gY2FsbGVkICZxdW90O2JyZWFrYm9uZSBmZXZlciZxdW90OykuSgJvZiICEAFIAFgAaAA",
+   "source": "BLK-Max Hospital",
+   "read_more_link": "https://www.blkmaxhospital.com/blogs/dengue-symptoms-causes-treatment#:~:text=Common%20Early%20Symptoms%20of%20Dengue&text=High%20fever%2C%20often%20peaking%20as,101.5%20fever%20or%20101.9%20fever.&text=Muscle%2C%20bone%2C%20or%20joint%20pains,(often%20called%20%22breakbone%20fever%22)."
+  },
+  {
+   "position": 3,
+   "title": "Dengue Symptoms and Its 7 Warning Signs of Dengue Fever",
+   "link": "https://www.manipalhospitals.com/blog/warning-signs-of-dengue-fever-understand-the-symptoms-early/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFf5FOuSvf_yBYWfYDVDsB3iyCBiz5MzIaMKcyuVP-1qzaossvCNpTSBJ-EYa16NzaLN_tC3KCrJs0lZZOPvFTbdQmGY_61v2b7dzJg9Bhmxye53Rl17EQ7bHTNKpAobh0vN6suaX1wlxc7V77KT6PvsUyotFrsW25dQ7_cEVtHDf146C-kxlkS2Hgc-0hDVuiH2Na9TKz5KH&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://www.manipalhospitals.com › blog",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAACQBwCdASocABwAPtE-tFooIigoFAEAGglsALElQX4BIhfscBbbQciBrJvoAEGp8eL11GEPQQNz6TCgi2xWVp7_NQiTIS4A_v0s9d9uM5B8fJlqaxH7PnV8x17IziPsMuRd31BBj2gRS9pIEHbiVQg36IyHRi625aEkPn4fzqjTX_hxMrZkIN2NxD6ivFveCO7yoZWJgZZYy4sNiEkf7jaqHdK5_ZvzV3dP2vB3D9WXjGJN9FNDcJw7eCTF8tlyTmdNaOGbmQH42FH40xv_xH77Xz_9SZeztH6hUjz74xu6mey976b9Setr0CQ38UGEg4eIwjsTaP_rLDr-MVXVicnxZ_5k7UHyaB5aEpmhQc56y7QfQXpYd_s1FsxlUBzCS4FEcD1_ERZ5FDkSrgquhVcB8m7bwFefp7NDOvZ1yYXcp1jh0S4DmoK6t7YA1hYIpZvB4A6B5_oVD_szHzHAKdGXYwwAAA.webp",
+   "date": "11 Jul 2024",
+   "snippet": "Top 7 Warning Signs of Dengue Fever · 1. Persistent Vomiting · 2. Abdominal Pain · 3. Mucosal Bleeding · 4. Sudden Drop in Platelet Count · 5.",
+   "snippet_highlighted_words": [
+    "1. Persistent Vomiting"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Top 7 Warning Signs of Dengue Fever · 1. Persistent Vomiting · 2. Abdominal Pain · 3. Mucosal Bleeding · 4. Sudden Drop in Platelet Count · 5.",
+     "source_info_link": "https://www.manipalhospitals.com/blog/warning-signs-of-dengue-fever-understand-the-symptoms-early/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAACQBwCdASocABwAPtE-tFooIigoFAEAGglsALElQX4BIhfscBbbQciBrJvoAEGp8eL11GEPQQNz6TCgi2xWVp7_NQiTIS4A_v0s9d9uM5B8fJlqaxH7PnV8x17IziPsMuRd31BBj2gRS9pIEHbiVQg36IyHRi625aEkPn4fzqjTX_hxMrZkIN2NxD6ivFveCO7yoZWJgZZYy4sNiEkf7jaqHdK5_ZvzV3dP2vB3D9WXjGJN9FNDcJw7eCTF8tlyTmdNaOGbmQH42FH40xv_xH77Xz_9SZeztH6hUjz74xu6mey976b9Setr0CQ38UGEg4eIwjsTaP_rLDr-MVXVicnxZ_5k7UHyaB5aEpmhQc56y7QfQXpYd_s1FsxlUBzCS4FEcD1_ERZ5FDkSrgquhVcB8m7bwFefp7NDOvZ1yYXcp1jh0S4DmoK6t7YA1hYIpZvB4A6B5_oVD_szHzHAKdGXYwwAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZmNUZPdVN2Zl95QllXZllEVkRzQjNpeUNCaXo1TXpJYU1LY3l1VlAtMXF6YW9zc3ZDTnBUU0JKLUVZYTE2TnphTE5fdEMzS0NySnMwbFpaT1B2RlRiZFFtR1lfNjF2MmI3ZHpKZzlCaG14eWU1M1JsMTdFUTdiSFROS3BBb2JoMHZONnN1YVgxd2x4YzdWNzdLVDZQdnNVeW90RnJzVzI1ZFE3X2NFVnRIRGYxNDZDLWt4bGtTMkhnYy0waERWdWlIMk5hOVRLejVLSBIEGgIIABqIBRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqUQoIc3ltcHRvbXMVCUqNQBoGc2V2ZXJlGgRzaWduGgVzaWducxoHc3ltcHRvbRoIdHJlYXRpbmcaCXRyZWF0bWVudBoNaXY7cDtzeW1wdG9tcyoJCgJvZhUAAAAAKhoKBmRlbmd1ZRVf6p1AGgtpdjtwO2Rlbmd1ZTLiAS9nb3RvP3VybD1DQUVTblFFQjZ6c3dGZjVGT3VTdmZfeUJZV2ZZRFZEc0IzaXlDQml6NU16SWFNS2N5dVZQLTFxemFvc3N2Q05wVFNCSi1FWWExNk56YUxOX3RDM0tDckpzMGxaWk9QdkZUYmRRbUdZXzYxdjJiN2R6Smc5QmhteHllNTNSbDE3RVE3YkhUTktwQW9iaDB2TjZzdWFYMXdseGM3Vjc3S1Q2UHZzVXlvdEZyc1cyNWRRN19jRVZ0SERmMTQ2Qy1reGxrUzJIZ2MtMGhEVnVpSDJOYTlUS3o1S0g6OjcgV2FybmluZyA8Yj5TaWducyBPZiBEZW5ndWU8L2I-IEZldmVyIC0gTWFuaXBhbCBIb3NwaXRhbHNCuAFUb3AgNyBXYXJuaW5nIFNpZ25zIG9mIERlbmd1ZSBGZXZlciAmbWlkZG90OyA8Yj4xLiBQZXJzaXN0ZW50IFZvbWl0aW5nPC9iPiAmbWlkZG90OyAyLiBBYmRvbWluYWwgUGFpbiAmbWlkZG90OyAzLiBNdWNvc2FsIEJsZWVkaW5nICZtaWRkb3Q7IDQuIFN1ZGRlbiBEcm9wIGluIFBsYXRlbGV0IENvdW50ICZtaWRkb3Q7IDUuSgJvZiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZmNUZPdVN2Zl95QllXZllEVkRzQjNpeUNCaXo1TXpJYU1LY3l1VlAtMXF6YW9zc3ZDTnBUU0JKLUVZYTE2TnphTE5fdEMzS0NySnMwbFpaT1B2RlRiZFFtR1lfNjF2MmI3ZHpKZzlCaG14eWU1M1JsMTdFUTdiSFROS3BBb2JoMHZONnN1YVgxd2x4YzdWNzdLVDZQdnNVeW90RnJzVzI1ZFE3X2NFVnRIRGYxNDZDLWt4bGtTMkhnYy0waERWdWlIMk5hOVRLejVLSBIEGgIIABqIBRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqUQoIc3ltcHRvbXMVCUqNQBoGc2V2ZXJlGgRzaWduGgVzaWducxoHc3ltcHRvbRoIdHJlYXRpbmcaCXRyZWF0bWVudBoNaXY7cDtzeW1wdG9tcyoJCgJvZhUAAAAAKhoKBmRlbmd1ZRVf6p1AGgtpdjtwO2Rlbmd1ZTLiAS9nb3RvP3VybD1DQUVTblFFQjZ6c3dGZjVGT3VTdmZfeUJZV2ZZRFZEc0IzaXlDQml6NU16SWFNS2N5dVZQLTFxemFvc3N2Q05wVFNCSi1FWWExNk56YUxOX3RDM0tDckpzMGxaWk9QdkZUYmRRbUdZXzYxdjJiN2R6Smc5QmhteHllNTNSbDE3RVE3YkhUTktwQW9iaDB2TjZzdWFYMXdseGM3Vjc3S1Q2UHZzVXlvdEZyc1cyNWRRN19jRVZ0SERmMTQ2Qy1reGxrUzJIZ2MtMGhEVnVpSDJOYTlUS3o1S0g6OjcgV2FybmluZyA8Yj5TaWducyBPZiBEZW5ndWU8L2I-IEZldmVyIC0gTWFuaXBhbCBIb3NwaXRhbHNCuAFUb3AgNyBXYXJuaW5nIFNpZ25zIG9mIERlbmd1ZSBGZXZlciAmbWlkZG90OyA8Yj4xLiBQZXJzaXN0ZW50IFZvbWl0aW5nPC9iPiAmbWlkZG90OyAyLiBBYmRvbWluYWwgUGFpbiAmbWlkZG90OyAzLiBNdWNvc2FsIEJsZWVkaW5nICZtaWRkb3Q7IDQuIFN1ZGRlbiBEcm9wIGluIFBsYXRlbGV0IENvdW50ICZtaWRkb3Q7IDUuSgJvZiICEAFIAFgAaAA",
+   "source": "Manipal Hospitals",
+   "read_more_link": "https://www.manipalhospitals.com/blog/warning-signs-of-dengue-fever-understand-the-symptoms-early/#:~:text=Top%207%20Warning%20Signs%20of,Dengue%20Fever&text=1.%20Persistent%20Vomiting&text=2.%20Abdominal%20Pain&text=3.%20Mucosal%20Bleeding&text=4.%20Sudden%20Drop%20in%20Platelet,Count&text=5.%20Difficulty%20in%20Breathing"
+  },
+  {
+   "position": 4,
+   "title": "Dengue fever - Causes, Symptoms, treatments, how long ...",
+   "link": "https://www.medparkhospital.com/en-US/disease-and-treatment/dengue-fever",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFU6RwL5UZ4O0yQYefn-quLX5NTSOagY_cWhfqe0tS02kEb1lorkN6fK7i1zmMWYUZ4qT6j2dlK3BQ4mcddKWGJ8hdxIkVXxpRBkAnNRD2eqUaXjXVDHW4JstRbPqw8pdd7WEXy23zk0yEJ6Tsdx5hHBdkHyDe9Df8fjANSF3jw&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://www.medparkhospital.com › disease-and-treatment",
+   "favicon": "https://serpapi.com/images/i/UklGRtABAABXRUJQVlA4IMQBAACQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhILPgFuHaCQt-gDbUXYBvGVme_gcTdeP-weQA2CP-5LGhgp8D9RA2KNYqPUrjTxodiChxeBO858AAP7-w5Gb_eb_ztfKn0KtgVrZnKxUu0ZCKoUZZvLHzjTM4PsVk_Mv-PgxUbXkw0U8hLe2gXjSd52XmtlJ_5LgQHejy5H0QX-d87gcD6OVrX9LivT_9Tf9ZD-9a047v5anyms-CpT_yDx7-Bpf4GYdofU86wZaLZsKEqouE12bj9gtNE_u3qHnRu6OmLZEBrytVYIaCtlAPx6vcwiK6AOAz4sYxh_FZ_Q1f0N5seT7mrfdvkf9I8Zj6YqSWf2R9yavBvhmAw0X-MLXD3Id_TbQpPOTGJWFPxwzLYkFJbvi_FBgX5i-86S5znphA9GD-d6TM7vr7tXl725rJpQkyhlwXltK7YZY02IDo3rDLKjhMErzVvW-RYgqT3CQ7IMyJZnUwJReMridHHtH-v3SLXWwgNSnN42tVUTyfhBE-MmlryoGm6DT5ycx7TxU9VhHqa4N-X2NbfWM5EvPSrqymEdsvrcLZOIQVNy3EhlVppIAAA.webp",
+   "date": "17 Jul 2023",
+   "snippet": "What are the symptoms of dengue fever? · Headache, red face · Eye pain, pain around the eye socket · Nausea and vomiting · Muscle pain · Poor ...",
+   "snippet_highlighted_words": [
+    "Headache, red face"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "What are the symptoms of dengue fever? · Headache, red face · Eye pain, pain around the eye socket · Nausea and vomiting · Muscle pain · Poor ...",
+     "source_info_link": "https://www.medparkhospital.com/en-US/disease-and-treatment/dengue-fever",
+     "icon": "https://serpapi.com/images/i/UklGRtABAABXRUJQVlA4IMQBAACQCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhILPgFuHaCQt-gDbUXYBvGVme_gcTdeP-weQA2CP-5LGhgp8D9RA2KNYqPUrjTxodiChxeBO858AAP7-w5Gb_eb_ztfKn0KtgVrZnKxUu0ZCKoUZZvLHzjTM4PsVk_Mv-PgxUbXkw0U8hLe2gXjSd52XmtlJ_5LgQHejy5H0QX-d87gcD6OVrX9LivT_9Tf9ZD-9a047v5anyms-CpT_yDx7-Bpf4GYdofU86wZaLZsKEqouE12bj9gtNE_u3qHnRu6OmLZEBrytVYIaCtlAPx6vcwiK6AOAz4sYxh_FZ_Q1f0N5seT7mrfdvkf9I8Zj6YqSWf2R9yavBvhmAw0X-MLXD3Id_TbQpPOTGJWFPxwzLYkFJbvi_FBgX5i-86S5znphA9GD-d6TM7vr7tXl725rJpQkyhlwXltK7YZY02IDo3rDLKjhMErzVvW-RYgqT3CQ7IMyJZnUwJReMridHHtH-v3SLXWwgNSnN42tVUTyfhBE-MmlryoGm6DT5ycx7TxU9VhHqa4N-X2NbfWM5EvPSrqymEdsvrcLZOIQVNy3EhlVppIAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZVNlJ3TDVVWjRPMHlRWWVmbi1xdUxYNU5UU09hZ1lfY1doZnFlMHRTMDJrRWIxbG9ya042Zks3aTF6bU1XWVVaNHFUNmoyZGxLM0JRNG1jZGRLV0dKOGhkeElrVlh4cFJCa0FuTlJEMmVxVWFYalhWREhXNEpzdFJiUHF3OHBkZDdXRVh5MjN6azB5RUo2VHNkeDVoSEJka0h5RGU5RGY4ZmpBTlNGM2p3EgQaAggAGoAFEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA2gQIABAAGAAgACpRCghzeW1wdG9tcxXaNYRAGgZzZXZlcmUaBHNpZ24aBXNpZ25zGgdzeW1wdG9tGgh0cmVhdGluZxoJdHJlYXRtZW50Gg1pdjtwO3N5bXB0b21zKgkKAm9mFQAAAAAqGgoGZGVuZ3VlFajix0AaC2l2O3A7ZGVuZ3VlMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZVNlJ3TDVVWjRPMHlRWWVmbi1xdUxYNU5UU09hZ1lfY1doZnFlMHRTMDJrRWIxbG9ya042Zks3aTF6bU1XWVVaNHFUNmoyZGxLM0JRNG1jZGRLV0dKOGhkeElrVlh4cFJCa0FuTlJEMmVxVWFYalhWREhXNEpzdFJiUHF3OHBkZDdXRVh5MjN6azB5RUo2VHNkeDVoSEJka0h5RGU5RGY4ZmpBTlNGM2p3Okw8Yj5EZW5ndWU8L2I-IGZldmVyIC0gQ2F1c2VzLCA8Yj5TeW1wdG9tczwvYj4sIHRyZWF0bWVudHMsIGhvdyBsb25nIGRvZXMgLi4uQsABV2hhdCBhcmUgdGhlIHN5bXB0b21zIG9mIGRlbmd1ZSBmZXZlcj8gJm1pZGRvdDsgPGI-SGVhZGFjaGUsIHJlZCBmYWNlPC9iPiAmbWlkZG90OyBFeWUgcGFpbiwgcGFpbiBhcm91bmQgdGhlIGV5ZSBzb2NrZXQgJm1pZGRvdDsgTmF1c2VhIGFuZCB2b21pdGluZyAmbWlkZG90OyBNdXNjbGUgcGFpbiAmbWlkZG90OyBQb29yJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZVNlJ3TDVVWjRPMHlRWWVmbi1xdUxYNU5UU09hZ1lfY1doZnFlMHRTMDJrRWIxbG9ya042Zks3aTF6bU1XWVVaNHFUNmoyZGxLM0JRNG1jZGRLV0dKOGhkeElrVlh4cFJCa0FuTlJEMmVxVWFYalhWREhXNEpzdFJiUHF3OHBkZDdXRVh5MjN6azB5RUo2VHNkeDVoSEJka0h5RGU5RGY4ZmpBTlNGM2p3EgQaAggAGoAFEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA2gQIABAAGAAgACpRCghzeW1wdG9tcxXaNYRAGgZzZXZlcmUaBHNpZ24aBXNpZ25zGgdzeW1wdG9tGgh0cmVhdGluZxoJdHJlYXRtZW50Gg1pdjtwO3N5bXB0b21zKgkKAm9mFQAAAAAqGgoGZGVuZ3VlFajix0AaC2l2O3A7ZGVuZ3VlMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZVNlJ3TDVVWjRPMHlRWWVmbi1xdUxYNU5UU09hZ1lfY1doZnFlMHRTMDJrRWIxbG9ya042Zks3aTF6bU1XWVVaNHFUNmoyZGxLM0JRNG1jZGRLV0dKOGhkeElrVlh4cFJCa0FuTlJEMmVxVWFYalhWREhXNEpzdFJiUHF3OHBkZDdXRVh5MjN6azB5RUo2VHNkeDVoSEJka0h5RGU5RGY4ZmpBTlNGM2p3Okw8Yj5EZW5ndWU8L2I-IGZldmVyIC0gQ2F1c2VzLCA8Yj5TeW1wdG9tczwvYj4sIHRyZWF0bWVudHMsIGhvdyBsb25nIGRvZXMgLi4uQsABV2hhdCBhcmUgdGhlIHN5bXB0b21zIG9mIGRlbmd1ZSBmZXZlcj8gJm1pZGRvdDsgPGI-SGVhZGFjaGUsIHJlZCBmYWNlPC9iPiAmbWlkZG90OyBFeWUgcGFpbiwgcGFpbiBhcm91bmQgdGhlIGV5ZSBzb2NrZXQgJm1pZGRvdDsgTmF1c2VhIGFuZCB2b21pdGluZyAmbWlkZG90OyBNdXNjbGUgcGFpbiAmbWlkZG90OyBQb29yJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+   "source": "MedPark Hospital",
+   "read_more_link": "https://www.medparkhospital.com/en-US/disease-and-treatment/dengue-fever#:~:text=What%20are%20the%20symptoms%20of,dengue%20fever%3F&text=Headache%2C%20red%20face&text=Eye%20pain%2C%20pain%20around%20the,eye%20socket&text=Nausea%20and%20vomiting&text=Muscle%20pain&text=Poor%20appetite"
+  },
+  {
+   "position": 5,
+   "title": "Dengue Symptoms, 7 Warning Signs, Stages & Treatment ...",
+   "link": "https://www.manipalhospitalsglobal.com/blogs/dengue-symptoms-warning-signs-treatment-bangladesh/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFSvxi2Oa3O-iRWmtzQdZqfPH-dtvYBFu7YfdHvXj-8R8iidPy_HKQb618cZqpU2TA5GtiI8inpNmyiLyzMzLE9KdDQeWYU-R3r0dqzAu9N0JAz5pH7m0gN_HHgShzJsHQccPu0_rZshLVkR6q6ihtgYJ9URdcZ3UJ6Rlr-KshWP_krL5KOWPAVtVfjS-vXuLxh3TgihXIA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQFnoECD4QAQ&uoh=1",
+   "displayed_link": "https://www.manipalhospitalsglobal.com › blogs › deng...",
+   "favicon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAACQBgCdASocABwAPtE-tFooIigoFAEAGglsALElQNvLYBdgA5TNLqDNlPztKFJYwbzOvTKGrYDtyY0jXgIgAP79LPbMeSC7LKxJ6ovfZ9XkAjRF44l_C8-eP64tSdNH3pG9zSZrEWBYHe6GzsnPrnOQ0myQLMLXKl2rs_8eEgOHfa0dgZvOTck-l3RfuP-fBtNhrr3eLIum_sVgY2-N288TKBX_DZdnUqmyCP7jMGb8usLJMikjdA8jG5uVkorGnz3vMSDyNPpZhlK7xgN1sz8LiltLWhaoqURVUNIHnFl1wdgdSa0Fw7dlBpv4oB7W0xHODENmQ6poUX8FoAdLx4UPyzTy8Nt0Kasfu3PQ0aYqqqxs13wYiLIcbsWqnKnBjORq5_QAAAA.webp",
+   "date": "25 Aug 2026",
+   "snippet": "Common Symptoms of Dengue · Sudden High Fever: · Pain Behind the Eyes (Retro-Orbital Pain) · Severe Musculoskeletal Aches: · Persistent ...",
+   "snippet_highlighted_words": [
+    "Sudden High Fever"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Common Symptoms of Dengue · Sudden High Fever: · Pain Behind the Eyes (Retro-Orbital Pain) · Severe Musculoskeletal Aches: · Persistent ...",
+     "source_info_link": "https://www.manipalhospitalsglobal.com/blogs/dengue-symptoms-warning-signs-treatment-bangladesh/",
+     "icon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAACQBgCdASocABwAPtE-tFooIigoFAEAGglsALElQNvLYBdgA5TNLqDNlPztKFJYwbzOvTKGrYDtyY0jXgIgAP79LPbMeSC7LKxJ6ovfZ9XkAjRF44l_C8-eP64tSdNH3pG9zSZrEWBYHe6GzsnPrnOQ0myQLMLXKl2rs_8eEgOHfa0dgZvOTck-l3RfuP-fBtNhrr3eLIum_sVgY2-N288TKBX_DZdnUqmyCP7jMGb8usLJMikjdA8jG5uVkorGnz3vMSDyNPpZhlK7xgN1sz8LiltLWhaoqURVUNIHnFl1wdgdSa0Fw7dlBpv4oB7W0xHODENmQ6poUX8FoAdLx4UPyzTy8Nt0Kasfu3PQ0aYqqqxs13wYiLIcbsWqnKnBjORq5_QAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZTdnhpMk9hM08taVJXbXR6UWRacWZQSC1kdHZZQkZ1N1lmZEh2WGotOFI4aWlkUHlfSEtRYjYxOGNacXBVMlRBNUd0aUk4aW5wTm15aUx5ek16TEU5S2REUWVXWVUtUjNyMGRxekF1OU4wSkF6NXBIN20wZ05fSEhnU2h6SnNIUWNjUHUwX3Jac2hMVmtSNnE2aWh0Z1lKOVVSZGNaM1VKNlJsci1Lc2hXUF9rckw1S09XUEFWdFZmalMtdlh1THhoM1RnaWhYSUESBBoCCAAamQUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA9QQIABAAGAAgACpRCghzeW1wdG9tcxXUU7JAGgZzZXZlcmUaBHNpZ24aBXNpZ25zGgdzeW1wdG9tGgh0cmVhdGluZxoJdHJlYXRtZW50Gg1pdjtwO3N5bXB0b21zKgkKAm9mFQAAAAAqGgoGZGVuZ3VlFT4DxkAaC2l2O3A7ZGVuZ3VlMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZTdnhpMk9hM08taVJXbXR6UWRacWZQSC1kdHZZQkZ1N1lmZEh2WGotOFI4aWlkUHlfSEtRYjYxOGNacXBVMlRBNUd0aUk4aW5wTm15aUx5ek16TEU5S2REUWVXWVUtUjNyMGRxekF1OU4wSkF6NXBIN20wZ05fSEhnU2h6SnNIUWNjUHUwX3Jac2hMVmtSNnE2aWh0Z1lKOVVSZGNaM1VKNlJsci1Lc2hXUF9rckw1S09XUEFWdFZmalMtdlh1THhoM1RnaWhYSUE6VDxiPkRlbmd1ZSBTeW1wdG9tczwvYj4sIDcgV2FybmluZyA8Yj5TaWduczwvYj4sIFN0YWdlcyAmYW1wOyA8Yj5UcmVhdG1lbnQ8L2I-IGluIC4uLkKzAUNvbW1vbiBTeW1wdG9tcyBvZiBEZW5ndWUgJm1pZGRvdDsgPGI-U3VkZGVuIEhpZ2ggRmV2ZXI8L2I-OiAmbWlkZG90OyBQYWluIEJlaGluZCB0aGUgRXllcyAoUmV0cm8tT3JiaXRhbCBQYWluKSAmbWlkZG90OyBTZXZlcmUgTXVzY3Vsb3NrZWxldGFsIEFjaGVzOiAmbWlkZG90OyBQZXJzaXN0ZW50Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZTdnhpMk9hM08taVJXbXR6UWRacWZQSC1kdHZZQkZ1N1lmZEh2WGotOFI4aWlkUHlfSEtRYjYxOGNacXBVMlRBNUd0aUk4aW5wTm15aUx5ek16TEU5S2REUWVXWVUtUjNyMGRxekF1OU4wSkF6NXBIN20wZ05fSEhnU2h6SnNIUWNjUHUwX3Jac2hMVmtSNnE2aWh0Z1lKOVVSZGNaM1VKNlJsci1Lc2hXUF9rckw1S09XUEFWdFZmalMtdlh1THhoM1RnaWhYSUESBBoCCAAamQUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA9QQIABAAGAAgACpRCghzeW1wdG9tcxXUU7JAGgZzZXZlcmUaBHNpZ24aBXNpZ25zGgdzeW1wdG9tGgh0cmVhdGluZxoJdHJlYXRtZW50Gg1pdjtwO3N5bXB0b21zKgkKAm9mFQAAAAAqGgoGZGVuZ3VlFT4DxkAaC2l2O3A7ZGVuZ3VlMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZTdnhpMk9hM08taVJXbXR6UWRacWZQSC1kdHZZQkZ1N1lmZEh2WGotOFI4aWlkUHlfSEtRYjYxOGNacXBVMlRBNUd0aUk4aW5wTm15aUx5ek16TEU5S2REUWVXWVUtUjNyMGRxekF1OU4wSkF6NXBIN20wZ05fSEhnU2h6SnNIUWNjUHUwX3Jac2hMVmtSNnE2aWh0Z1lKOVVSZGNaM1VKNlJsci1Lc2hXUF9rckw1S09XUEFWdFZmalMtdlh1THhoM1RnaWhYSUE6VDxiPkRlbmd1ZSBTeW1wdG9tczwvYj4sIDcgV2FybmluZyA8Yj5TaWduczwvYj4sIFN0YWdlcyAmYW1wOyA8Yj5UcmVhdG1lbnQ8L2I-IGluIC4uLkKzAUNvbW1vbiBTeW1wdG9tcyBvZiBEZW5ndWUgJm1pZGRvdDsgPGI-U3VkZGVuIEhpZ2ggRmV2ZXI8L2I-OiAmbWlkZG90OyBQYWluIEJlaGluZCB0aGUgRXllcyAoUmV0cm8tT3JiaXRhbCBQYWluKSAmbWlkZG90OyBTZXZlcmUgTXVzY3Vsb3NrZWxldGFsIEFjaGVzOiAmbWlkZG90OyBQZXJzaXN0ZW50Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+   "source": "Manipal Hospitals Global",
+   "read_more_link": "https://www.manipalhospitalsglobal.com/blogs/dengue-symptoms-warning-signs-treatment-bangladesh/#:~:text=Common%20Symptoms%20of%20Dengue&text=Sudden%20High%20Fever%3A%20Body%20temperature&text=Pain%20Behind%20the%20Eyes%20(Retro%2DOrbital,Pain)&text=Severe%20Musculoskeletal%20Aches%3A%20Deep%2C%20relentless,its%20old%20nickname%2C%20%22breakbone%20fever%22.&text=Persistent%20Headaches%3A%20Severe%2C%20pounding%20discomfort,across%20the%20forehead%20and%20temples."
+  },
+  {
+   "position": 6,
+   "title": "Dengue Warning Signs You Shouldn't Ignore",
+   "link": "https://www.youtube.com/shorts/shsoiCujyrk",
+   "displayed_link": "1.2K+ views · 3 months ago",
+   "thumbnail": "https://serpapi.com/searches/6aca5a34421b08ae1b8974b6/images/4Ur_NHneZquU2th7cZElTrQcPdBFYiAbF5pXqmZE5cM.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Dengue Warning Signs You Shouldn't Ignore | Medicover Hospitals Dengue cases tend to rise during the monsoon season, and recognizing the ...",
+   "duration": "0:52",
+   "about_this_result": {
+    "source": {
+     "description": "Dengue Warning Signs You Shouldn't Ignore | Medicover Hospitals Dengue cases tend to rise during the monsoon season, and recognizing the ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkZhdmU1WV9sR3ZOSmZweW9uajZQSjhSWlhVcFkyZmxsRnJuMlFsOFpkLVlCaWYyUVc0M1BNcTZXNC0yNWk4UHFGc1dyTGZIR2JZbDMzc2JBWHhpTWVabF9zR0xocVJYUUhqejVtS2J5Mjg1RzV2LVM2Mmo3ZU9SdVRvMUJMUzBpEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkZhdmU1WV9sR3ZOSmZweW9uajZQSjhSWlhVcFkyZmxsRnJuMlFsOFpkLVlCaWYyUVc0M1BNcTZXNC0yNWk4UHFGc1dyTGZIR2JZbDMzc2JBWHhpTWVabF9zR0xocVJYUUhqejVtS2J5Mjg1RzV2LVM2Mmo3ZU9SdVRvMUJMUzBpEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "YouTube · Medicover Hospitals"
+  },
+  {
+   "position": 7,
+   "title": "7 Warning Signs of Dengue Fever",
+   "link": "https://www.lalpathlabs.com/blog/7-warning-signs-of-dengue-fever/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAV99PnkRugFZIpkzTOODTRSVFBxsyxBuzg6E76IbqdYlNZ7bRG9uDeAKqZ8F_YIBC1GKIaRccKM19_Y0sYRrrGzRgriFGnnM8hwWuCIPVwe9D4Ihk4EQGLKis9f6Z9ZnE_sWVX5pvNh_zwo4uE6wn6HXsy0MXIhaU&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.lalpathlabs.com › blog › 7-warning-signs-o...",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAADQBACdASocABwAPtEutFooIagoGAEAGglsAMTkEoIhkX-s_cZZtveGqMp6y27CAAD-9gI7RtfFQ4AQqEY_ErPIZKOHK_VtzMAfBUz2jMtDw8xlf3WEX9sPqM1TEQmikWFjCi7kZBXk_XNU4mwQFb7PS1t4XUEbB-RZy_yLhuvYPy8H84yEWZ-rIDDI78f36MT_t92azqRcLPVKlQectBx9lk0wohVLZ65HfsesZ-6buegAAAA.webp",
+   "date": "17 May 2024",
+   "snippet": "Mild to severe vomiting (at least three times in 24 hours); Blood in urine, vomit or stool; Bleeding from gums or nose; Rapid breathing; Severe ...",
+   "snippet_highlighted_words": [
+    "severe",
+    "Severe"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Mild to severe vomiting (at least three times in 24 hours); Blood in urine, vomit or stool; Bleeding from gums or nose; Rapid breathing; Severe ...",
+     "source_info_link": "https://www.lalpathlabs.com/blog/7-warning-signs-of-dengue-fever/",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAADQBACdASocABwAPtEutFooIagoGAEAGglsAMTkEoIhkX-s_cZZtveGqMp6y27CAAD-9gI7RtfFQ4AQqEY_ErPIZKOHK_VtzMAfBUz2jMtDw8xlf3WEX9sPqM1TEQmikWFjCi7kZBXk_XNU4mwQFb7PS1t4XUEbB-RZy_yLhuvYPy8H84yEWZ-rIDDI78f36MT_t92azqRcLPVKlQectBx9lk0wohVLZ65HfsesZ-6buegAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjk5UG5rUnVnRlpJcGt6VE9PRFRSU1ZGQnhzeXhCdXpnNkU3NklicWRZbE5aN2JSRzl1RGVBS3FaOEZfWUlCQzFHS0lhUmNjS00xOV9ZMHNZUnJyR3pSZ3JpRkdubk04aHdXdUNJUFZ3ZTlENEloazRFUUdMS2lzOWY2WjlabkVfc1dWWDVwdk5oX3p3bzR1RTZ3bjZIWHN5ME1YSWhhVRIEGgIIABrHBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKEECAAQABgAIAAqUQoIc3ltcHRvbXMVwqCZQBoGc2V2ZXJlGgRzaWduGgVzaWducxoHc3ltcHRvbRoIdHJlYXRpbmcaCXRyZWF0bWVudBoNaXY7cDtzeW1wdG9tcyoJCgJvZhUAAAAAKhoKBmRlbmd1ZRX1kc9AGgtpdjtwO2Rlbmd1ZTK1AS9nb3RvP3VybD1DQUVTZkFIck96QVY5OVBua1J1Z0ZaSXBrelRPT0RUUlNWRkJ4c3l4QnV6ZzZFNzZJYnFkWWxOWjdiUkc5dURlQUtxWjhGX1lJQkMxR0tJYVJjY0tNMTlfWTBzWVJyckd6UmdyaUZHbm5NOGh3V3VDSVBWd2U5RDRJaGs0RVFHTEtpczlmNlo5Wm5FX3NXVlg1cHZOaF96d280dUU2d242SFhzeTBNWEloYVU6ODcgV2FybmluZyA8Yj5TaWducyBvZiBEZW5ndWU8L2I-IEZldmVyIC0gRHIgTGFsIFBhdGhMYWJzQqYBTWlsZCB0byA8Yj5zZXZlcmU8L2I-IHZvbWl0aW5nIChhdCBsZWFzdCB0aHJlZSB0aW1lcyBpbiAyNCBob3Vycyk7IEJsb29kIGluIHVyaW5lLCB2b21pdCBvciBzdG9vbDsgQmxlZWRpbmcgZnJvbSBndW1zIG9yIG5vc2U7IFJhcGlkIGJyZWF0aGluZzsgPGI-U2V2ZXJlPC9iPiZuYnNwOy4uLkoCb2YiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjk5UG5rUnVnRlpJcGt6VE9PRFRSU1ZGQnhzeXhCdXpnNkU3NklicWRZbE5aN2JSRzl1RGVBS3FaOEZfWUlCQzFHS0lhUmNjS00xOV9ZMHNZUnJyR3pSZ3JpRkdubk04aHdXdUNJUFZ3ZTlENEloazRFUUdMS2lzOWY2WjlabkVfc1dWWDVwdk5oX3p3bzR1RTZ3bjZIWHN5ME1YSWhhVRIEGgIIABrHBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKEECAAQABgAIAAqUQoIc3ltcHRvbXMVwqCZQBoGc2V2ZXJlGgRzaWduGgVzaWducxoHc3ltcHRvbRoIdHJlYXRpbmcaCXRyZWF0bWVudBoNaXY7cDtzeW1wdG9tcyoJCgJvZhUAAAAAKhoKBmRlbmd1ZRX1kc9AGgtpdjtwO2Rlbmd1ZTK1AS9nb3RvP3VybD1DQUVTZkFIck96QVY5OVBua1J1Z0ZaSXBrelRPT0RUUlNWRkJ4c3l4QnV6ZzZFNzZJYnFkWWxOWjdiUkc5dURlQUtxWjhGX1lJQkMxR0tJYVJjY0tNMTlfWTBzWVJyckd6UmdyaUZHbm5NOGh3V3VDSVBWd2U5RDRJaGs0RVFHTEtpczlmNlo5Wm5FX3NXVlg1cHZOaF96d280dUU2d242SFhzeTBNWEloYVU6ODcgV2FybmluZyA8Yj5TaWducyBvZiBEZW5ndWU8L2I-IEZldmVyIC0gRHIgTGFsIFBhdGhMYWJzQqYBTWlsZCB0byA8Yj5zZXZlcmU8L2I-IHZvbWl0aW5nIChhdCBsZWFzdCB0aHJlZSB0aW1lcyBpbiAyNCBob3Vycyk7IEJsb29kIGluIHVyaW5lLCB2b21pdCBvciBzdG9vbDsgQmxlZWRpbmcgZnJvbSBndW1zIG9yIG5vc2U7IFJhcGlkIGJyZWF0aGluZzsgPGI-U2V2ZXJlPC9iPiZuYnNwOy4uLkoCb2YiAhABSABYAGgA",
+   "source": "Dr Lal PathLabs",
+   "read_more_link": "https://www.lalpathlabs.com/blog/7-warning-signs-of-dengue-fever/#:~:text=Mild%20to%20severe%20vomiting%20(at,Severe%20fatigue"
+  },
+  {
+   "position": 8,
+   "title": "Dengue Symptoms, Causes & Preventions",
+   "link": "https://www.apollohospitals.com/disease-and-condition/what-causes-dengue-and-its-common-symptoms",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFY4R1NR9aHn0kvVws1v-DROJ4UDUjt7EK5308rMl-IHLzP6UvHrSo7YOAQSQE2Tg3xDm9y92S2h4DsXzs-5JCBI6wMk1unpdqNRjAUtlc22DypGqxQddmaYU2N0jXHTMs2bs3i2CPWxNcgdxKaWPBZ8cXK8Yf_zzNshPTKwZywT-OOiMsAvQbZqc-lbYCIpe50szBXaxxg&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://www.apollohospitals.com › disease-and-condition",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoQABAAAsBMJbACdDiSQUuN-OrqJlegAP76rIYstPbph6g-zUf3u-3ioSZrRtXSVCDcESfQbkAu6kxw5cxlX9GrLtJQaEuKq1oxi0sRC94i7fTb_tZEB0Vv6V8UVH2FJOhYAb6VAmYvjf3kf-a1q47iV8qM7XJ2dxcUF8CXYHuSY62XnU686eYAAAA.webp",
+   "snippet": "High fever with up to 104-degree Fahrenheit. It can occur suddenly. · Severe headache. · Nausea and vomiting. · Rashes in various body parts. · Swelling in glands.",
+   "snippet_highlighted_words": [
+    "High fever with up to 104-degree Fahrenheit"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "High fever with up to 104-degree Fahrenheit. It can occur suddenly. · Severe headache. · Nausea and vomiting. · Rashes in various body parts. · Swelling in glands.",
+     "source_info_link": "https://www.apollohospitals.com/disease-and-condition/what-causes-dengue-and-its-common-symptoms",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAABwAgCdASoQABAAAsBMJbACdDiSQUuN-OrqJlegAP76rIYstPbph6g-zUf3u-3ioSZrRtXSVCDcESfQbkAu6kxw5cxlX9GrLtJQaEuKq1oxi0sRC94i7fTb_tZEB0Vv6V8UVH2FJOhYAb6VAmYvjf3kf-a1q47iV8qM7XJ2dxcUF8CXYHuSY62XnU686eYAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZZNFIxTlI5YUhuMGt2VndzMXYtRFJPSjRVRFVqdDdFSzUzMDhyTWwtSUhMelA2VXZIclNvN1lPQVFTUUUyVGczeERtOXk5MlMyaDREc1h6cy01SkNCSTZ3TWsxdW5wZHFOUmpBVXRsYzIyRHlwR3F4UWRkbWFZVTJOMGpYSFRNczJiczNpMkNQV3hOY2dkeEthV1BCWjhjWEs4WWZfenpOc2hQVEt3Wnl3VC1PT2lNc0F2UWJacWMtbGJZQ0lwZTUwc3pCWGF4eGcSBBoCCAAamwUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA9wQIABAAGAAgACpRCghzeW1wdG9tcxX_xGhAGgZzZXZlcmUaBHNpZ24aBXNpZ25zGgdzeW1wdG9tGgh0cmVhdGluZxoJdHJlYXRtZW50Gg1pdjtwO3N5bXB0b21zKgkKAm9mFQAAAAAqGgoGZGVuZ3VlFSRKcEAaC2l2O3A7ZGVuZ3VlMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZZNFIxTlI5YUhuMGt2VndzMXYtRFJPSjRVRFVqdDdFSzUzMDhyTWwtSUhMelA2VXZIclNvN1lPQVFTUUUyVGczeERtOXk5MlMyaDREc1h6cy01SkNCSTZ3TWsxdW5wZHFOUmpBVXRsYzIyRHlwR3F4UWRkbWFZVTJOMGpYSFRNczJiczNpMkNQV3hOY2dkeEthV1BCWjhjWEs4WWZfenpOc2hQVEt3Wnl3VC1PT2lNc0F2UWJacWMtbGJZQ0lwZTUwc3pCWGF4eGc6QzxiPkRlbmd1ZSBTeW1wdG9tczwvYj4sIENhdXNlcyAmYW1wOyBQcmV2ZW50aW9ucyAtIEFwb2xsbyBIb3NwaXRhbHNCxgE8Yj5IaWdoIGZldmVyIHdpdGggdXAgdG8gMTA0LWRlZ3JlZSBGYWhyZW5oZWl0PC9iPi4gSXQgY2FuIG9jY3VyIHN1ZGRlbmx5LiAmbWlkZG90OyBTZXZlcmUgaGVhZGFjaGUuICZtaWRkb3Q7IE5hdXNlYSBhbmQgdm9taXRpbmcuICZtaWRkb3Q7IFJhc2hlcyBpbiB2YXJpb3VzIGJvZHkgcGFydHMuICZtaWRkb3Q7IFN3ZWxsaW5nIGluIGdsYW5kcy5KAm9mIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZZNFIxTlI5YUhuMGt2VndzMXYtRFJPSjRVRFVqdDdFSzUzMDhyTWwtSUhMelA2VXZIclNvN1lPQVFTUUUyVGczeERtOXk5MlMyaDREc1h6cy01SkNCSTZ3TWsxdW5wZHFOUmpBVXRsYzIyRHlwR3F4UWRkbWFZVTJOMGpYSFRNczJiczNpMkNQV3hOY2dkeEthV1BCWjhjWEs4WWZfenpOc2hQVEt3Wnl3VC1PT2lNc0F2UWJacWMtbGJZQ0lwZTUwc3pCWGF4eGcSBBoCCAAamwUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA9wQIABAAGAAgACpRCghzeW1wdG9tcxX_xGhAGgZzZXZlcmUaBHNpZ24aBXNpZ25zGgdzeW1wdG9tGgh0cmVhdGluZxoJdHJlYXRtZW50Gg1pdjtwO3N5bXB0b21zKgkKAm9mFQAAAAAqGgoGZGVuZ3VlFSRKcEAaC2l2O3A7ZGVuZ3VlMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZZNFIxTlI5YUhuMGt2VndzMXYtRFJPSjRVRFVqdDdFSzUzMDhyTWwtSUhMelA2VXZIclNvN1lPQVFTUUUyVGczeERtOXk5MlMyaDREc1h6cy01SkNCSTZ3TWsxdW5wZHFOUmpBVXRsYzIyRHlwR3F4UWRkbWFZVTJOMGpYSFRNczJiczNpMkNQV3hOY2dkeEthV1BCWjhjWEs4WWZfenpOc2hQVEt3Wnl3VC1PT2lNc0F2UWJacWMtbGJZQ0lwZTUwc3pCWGF4eGc6QzxiPkRlbmd1ZSBTeW1wdG9tczwvYj4sIENhdXNlcyAmYW1wOyBQcmV2ZW50aW9ucyAtIEFwb2xsbyBIb3NwaXRhbHNCxgE8Yj5IaWdoIGZldmVyIHdpdGggdXAgdG8gMTA0LWRlZ3JlZSBGYWhyZW5oZWl0PC9iPi4gSXQgY2FuIG9jY3VyIHN1ZGRlbmx5LiAmbWlkZG90OyBTZXZlcmUgaGVhZGFjaGUuICZtaWRkb3Q7IE5hdXNlYSBhbmQgdm9taXRpbmcuICZtaWRkb3Q7IFJhc2hlcyBpbiB2YXJpb3VzIGJvZHkgcGFydHMuICZtaWRkb3Q7IFN3ZWxsaW5nIGluIGdsYW5kcy5KAm9mIgIQAUgAWABoAA",
+   "source": "Apollo Hospitals",
+   "read_more_link": "https://www.apollohospitals.com/disease-and-condition/what-causes-dengue-and-its-common-symptoms#:~:text=High%20fever%20with%20up%20to,Fahrenheit.%20It%20can%20occur%20suddenly.&text=Severe%20headache.&text=Nausea%20and%20vomiting.&text=Rashes%20in%20various%20body%20parts.&text=Swelling%20in%20glands."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "7 warning signs of dengue fever",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&q=7+warning+signs+of+dengue+fever&sa=X&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ1QJ6BAgzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=7+warning+signs+of+dengue+fever"
+  },
+  {
+   "block_position": 1,
+   "query": "4 stages of dengue fever",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&q=4+stages+of+dengue+fever&sa=X&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=4+stages+of+dengue+fever"
+  },
+  {
+   "block_position": 1,
+   "query": "Dengue stages and symptoms",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&q=Dengue+stages+and+symptoms&sa=X&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ1QJ6BAg5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=Dengue+stages+and+symptoms"
+  },
+  {
+   "block_position": 1,
+   "query": "7 warning signs of dengue fever in child",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&q=7+warning+signs+of+dengue+fever+in+child&sa=X&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ1QJ6BAg3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=7+warning+signs+of+dengue+fever+in+child"
+  },
+  {
+   "block_position": 1,
+   "query": "Mild dengue symptoms",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&q=Mild+dengue+symptoms&sa=X&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ1QJ6BAg4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=Mild+dengue+symptoms"
+  },
+  {
+   "block_position": 1,
+   "query": "Dengue fever temperature pattern",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&q=Dengue+fever+temperature+pattern&sa=X&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ1QJ6BAg2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=Dengue+fever+temperature+pattern"
+  },
+  {
+   "block_position": 1,
+   "query": "Dengue stage 3 symptoms",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&q=Dengue+stage+3+symptoms&sa=X&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ1QJ6BAg1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=Dengue+stage+3+symptoms"
+  },
+  {
+   "block_position": 1,
+   "query": "Dengue stage 2 symptoms",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&q=Dengue+stage+2+symptoms&sa=X&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ1QJ6BAg0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=Dengue+stage+2+symptoms"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=10&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8NMDegQIMRAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=10&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8tMDegQIMRAE",
+   "3": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=20&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8tMDegQIMRAG",
+   "4": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=30&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8tMDegQIMRAI",
+   "5": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=40&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8tMDegQIMRAK",
+   "6": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=50&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8tMDegQIMRAM",
+   "7": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=60&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8tMDegQIMRAO",
+   "8": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=70&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8tMDegQIMRAQ",
+   "9": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=80&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8tMDegQIMRAS",
+   "10": "https://www.google.co.in/search?q=symptoms+of+dengue&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQntfqZH_s2Vbwc49uv_yb_hSty6C0A:1791646273173&ei=QVrKaqibCuudkPIP5fD7iAo&start=90&sa=N&sstk=AS6-VmIyNoOXPfjfTHlGmjEgYbnzdv8j48U21I5jE-1ctEnNDdVekbdLzm6xIE1tgHH0Z2FKsNZdwBrG-SaRUknoIG1zz_KHgTl3KA&ved=2ahUKEwjov7O94q-XAxXrDkQIHWX4HqEQ8tMDegQIMRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Coimbatore%2CTamil+Nadu%2CIndia&q=symptoms+of+dengue&start=90"
+  }
+ }
+}

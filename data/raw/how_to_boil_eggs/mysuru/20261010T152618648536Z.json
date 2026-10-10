@@ -1,0 +1,776 @@
+{
+ "search_metadata": {
+  "id": "6aca591a69819d37af7d8a97",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/d87ga0I4eZVE5x-r43AX9hgj-sfWA9rqRX68bQXK67g/6aca591a69819d37af7d8a97.json",
+  "markdown_endpoint": "https://serpapi.com/searches/d87ga0I4eZVE5x-r43AX9hgj-sfWA9rqRX68bQXK67g/6aca591a69819d37af7d8a97.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/d87ga0I4eZVE5x-r43AX9hgj-sfWA9rqRX68bQXK67g/6aca591a69819d37af7d8a97.json_with_pixel_position",
+  "created_at": "2026-10-10 15:26:18 UTC",
+  "processed_at": "2026-10-10 15:26:18 UTC",
+  "google_url": "https://www.google.co.in/search?q=how+to+boil+eggs&oq=how+to+boil+eggs&uule=w+CAIQICIWTXlzdXJ1LEthcm5hdGFrYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/d87ga0I4eZVE5x-r43AX9hgj-sfWA9rqRX68bQXK67g/6aca591a69819d37af7d8a97.html",
+  "total_time_taken": 0.51
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "how to boil eggs",
+  "location_requested": "Mysuru,Karnataka,India",
+  "location_used": "Mysuru,Karnataka,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "how to boil eggs",
+  "total_results": 126,
+  "time_taken_displayed": 0.19,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "recipes_results": [
+  {
+   "title": "How to boil eggs",
+   "link": "https://www.recipetineats.com/how-to-boil-eggs/",
+   "source": "RecipeTin Eats",
+   "rating": 5.0,
+   "reviews": 69,
+   "ingredients": [
+    "Fridge cold"
+   ],
+   "thumbnail": "https://serpapi.com/searches/6aca591a69819d37af7d8a97/images/1NhVX3pUInhtnjNJi77vBWrwbOYXNEAqe4tLAnAekmE.jpeg"
+  },
+  {
+   "title": "How to boil an egg",
+   "link": "https://www.bbcgoodfood.com/howto/guide/how-boil-egg-perfectly",
+   "source": "BBC Good Food",
+   "ingredients": [
+    "Egg"
+   ],
+   "thumbnail": "https://serpapi.com/searches/6aca591a69819d37af7d8a97/images/1NhVX3pUInhtnjNJi77vBZg34MPGSlQX6YZBsEn7_00.jpeg"
+  },
+  {
+   "title": "How to Make Hard Boiled Eggs",
+   "link": "https://www.loveandlemons.com/how-to-make-hard-boiled-eggs/",
+   "source": "Love and Lemons",
+   "rating": 4.7,
+   "reviews": 657,
+   "total_time": "35 mins",
+   "ingredients": [
+    "Eggs"
+   ],
+   "thumbnail": "https://serpapi.com/searches/6aca591a69819d37af7d8a97/images/1NhVX3pUInhtnjNJi77vBWAk3SGnwOAf9DTsOcmzQpg.jpeg"
+  }
+ ],
+ "short_videos": [
+  {
+   "position": 1,
+   "title": "How I perfectly boil eggs",
+   "source": "YouTube",
+   "profile_name": "Andy Cooks",
+   "extensions": [
+    "Andy Cooks"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:37",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSAzxw7LNa3XBBeg5-NdzQjHe-1NqY_JkNC8Q",
+   "thumbnail": "https://serpapi.com/searches/6aca591a69819d37af7d8a97/images/ShKkLzM7hytdPtF3R73xkU35XYvAYuzmLgBfKxMNswE.jpeg",
+   "link": "https://www.youtube.com/shorts/yLcFn9eChys"
+  },
+  {
+   "position": 2,
+   "title": "How To Boil Eggs Perfectly | Cooking Studio by Cooking Studio on Facebook. Play on Facebook. 0:55",
+   "source": "Facebook",
+   "profile_name": "Cooking Studio",
+   "extensions": [
+    "Cooking Studio"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "0:55",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQLBLslz06-BYmBINtpT9DUbdSB4ODmxBhlhQ",
+   "thumbnail": "https://serpapi.com/searches/6aca591a69819d37af7d8a97/images/C7AYlpLwrjfXScgOMx6yaxddgR1JFmsZctJX3fispwQ.jpeg",
+   "link": "https://www.facebook.com/Cookingstudious/videos/how-to-boil-eggs-perfectly/517968934037132/"
+  },
+  {
+   "position": 3,
+   "title": "How to make Perfectly Boiled Eggs every time! Detailed Video ... by Smita Deo on Instagram. Play on Instagram. 0:55",
+   "source": "Instagram",
+   "profile_name": "Smita Deo",
+   "extensions": [
+    "Smita Deo"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "0:55",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSCdYbOm9-ZmQhAX0csSnSO7xU4HQ2MrSGI8A",
+   "thumbnail": "https://serpapi.com/searches/6aca591a69819d37af7d8a97/images/q_D11VVEy0SqMQzxoV2lttYLRy5qmn-9FmwTsRQK1ag.jpeg",
+   "link": "https://www.instagram.com/reel/C7jYzKAvHd5/?hl=en"
+  },
+  {
+   "position": 4,
+   "title": "How To Boil Eggs #easyrecipes #shorts #foodies",
+   "source": "YouTube",
+   "profile_name": "Chef Nehal Karkera",
+   "extensions": [
+    "Chef Nehal Karkera"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:31",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR_ChA2pkIYHuyqJMcwHxXzCcVxEunV41me0g",
+   "thumbnail": "https://serpapi.com/searches/6aca591a69819d37af7d8a97/images/OOT_Bdo5KJ-a281z7zfGWdbOYM2sVboUke8tgMVZEzE.jpeg",
+   "link": "https://www.youtube.com/shorts/wdYrSvXtb1I"
+  },
+  {
+   "position": 5,
+   "title": "How to boil an egg This my step by step guide to the perfect 4/6 ... by Matthew Ryle on Facebook. Play on Facebook. 0:54",
+   "source": "Facebook",
+   "profile_name": "Matthew Ryle",
+   "extensions": [
+    "Matthew Ryle"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "0:54",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAFHZPcUUMm453Sekm1wYwoSOlrHJbFjkVM68ioH9XwxoZUlsr8YjYh8&s=10",
+   "link": "https://www.facebook.com/matthewjryle/videos/how-to-boil-an-egg/1843147286400274/"
+  },
+  {
+   "position": 6,
+   "title": "How to boil and peel perfect egg😊 #egg #kitchentip ... by Kabita Singh on Instagram. Play on Instagram. 0:54",
+   "source": "Instagram",
+   "profile_name": "Kabita Singh",
+   "extensions": [
+    "Kabita Singh"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "0:54",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4PPPBRzILztl4jqZFDcO47J4Mzbm971roRSy040D-aIyMvUaXHleijc&s=10",
+   "link": "https://www.instagram.com/reel/CBX9UdqBieP/?hl=en"
+  },
+  {
+   "position": 7,
+   "title": "How To Boil Eggs + Easy Peel Every Time! #shorts",
+   "source": "YouTube",
+   "profile_name": "Natashas Kitchen",
+   "extensions": [
+    "Natashas Kitchen"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:23",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcScJNMRuwhhEFxh1eOZvdpLCnm2sE_MxfXJfw",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbpP3a_MNdnynbMUB9ibAqI_qladxwuywVVr5XUWlBogliZncnWa1is0c&s=10",
+   "link": "https://www.youtube.com/shorts/lR0Go54CNkE"
+  },
+  {
+   "position": 8,
+   "title": "What is the best way to boil an egg you ask? Not ... by Sara Moulton on Facebook. Play on Facebook. 0:57",
+   "source": "Facebook",
+   "profile_name": "Sara Moulton",
+   "extensions": [
+    "Sara Moulton"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "duration": "0:57",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBZ8HA-7sM2CXeNsZyQp9jcaTkqx6QCew72pWr6fdArr4QCtbEs3T2q2s&s=10",
+   "link": "https://www.facebook.com/SaraMoulton/videos/what-is-the-best-way-to-boil-an-egg-you-ask-not-to-boil-it-steam-it-instead-acco/1429136762451064/"
+  },
+  {
+   "position": 9,
+   "title": "How to Boil Eggs (Soft-boiled & Hard-boiled)",
+   "source": "YouTube",
+   "profile_name": "Royale Eats",
+   "extensions": [
+    "Royale Eats"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "2:10",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQaeUYLw1eYde7XJ4n_cbRsXbDFM_ilOxKpJQ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLsfAt57496aK1XR39CWo85P6dsJll1dO0H7Okyj-NkTyjROPihozgZ1U&s=10",
+   "link": "https://www.youtube.com/shorts/VCWMWLu7EYY"
+  },
+  {
+   "position": 10,
+   "title": "HOW TO BOIL EGGS PERFECTLY (EVERY TIME) 🥚Let me ... by Sofia Misabishvili on Instagram. Play on Instagram. 0:18",
+   "source": "Instagram",
+   "profile_name": "Sofia Misabishvili",
+   "extensions": [
+    "Sofia Misabishvili"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "0:18",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQWrzugG-bsl_du3T_NbLGvqu76zuVfZVogqg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRMmXYPjvbYc2bK2lrYlg1IGuuSncFZU_UE_rbZSQ5IoYlXxv2GabvoH0&s=10",
+   "link": "https://www.instagram.com/reel/C5OSjdqMbws/?hl=en"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "Do you put eggs in cold or boiling water?",
+   "type": "ai_overview",
+   "page_token": "e_iCz3icHdBRboIwAADQ7DJ-KlhxYmKWIAUlA0ehVfhZ2oJWaWk3cYh_u8tOtdMs2TvC-_6R57b5fbqLrjPX5WTS9_34pPVJ1mOux-d2Qq9DyyecSskob5bz57n9cuQreNt664-tl2JjiI-sTCZ6l0u_bKJ5QhZT0gSKYSfLQjGlgRio7RXlYHVxiwYaOhorsdtvojUKF4Aq8kalW1R-5BWWg1hoz5mPnfKRXGsVxBgEfkEiJ7XLWw3dfWWRz9r3GgTlpbLcLYMmocrFuZ1k_NEAciCzGuqeAdOzTSUxFEN1iOyyNTFp7qoABhZS6GTqejiAVjUt7hxjUPmnobSSM8qJB0W1YaHzWhzgsMP9LA-wnSs3rcMoZpcIxZ4-pxg9-EUqrMw1BgTkQGzZgztZa1CmojTDnSgv5Q033ZCmoyP_WoHR_-fq_ai6pfnUpz_dO4Mf",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=e_iCz3icHdBRboIwAADQ7DJ-KlhxYmKWIAUlA0ehVfhZ2oJWaWk3cYh_u8tOtdMs2TvC-_6R57b5fbqLrjPX5WTS9_34pPVJ1mOux-d2Qq9DyyecSskob5bz57n9cuQreNt664-tl2JjiI-sTCZ6l0u_bKJ5QhZT0gSKYSfLQjGlgRio7RXlYHVxiwYaOhorsdtvojUKF4Aq8kalW1R-5BWWg1hoz5mPnfKRXGsVxBgEfkEiJ7XLWw3dfWWRz9r3GgTlpbLcLYMmocrFuZ1k_NEAciCzGuqeAdOzTSUxFEN1iOyyNTFp7qoABhZS6GTqejiAVjUt7hxjUPmnobSSM8qJB0W1YaHzWhzgsMP9LA-wnSs3rcMoZpcIxZ4-pxg9-EUqrMw1BgTkQGzZgztZa1CmojTDnSgv5Q033ZCmoyP_WoHR_-fq_ai6pfnUpz_dO4Mf",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJYbzFRVk5oTWxoeWRXWTVRbFI1Y0RGS1pqSldhVFYzTFhkM2FrdDFTVzloUlVwQlVWaDRjSEpYU2xCU1NHTnpjbGxDVnpCek5WUTVMVUZTWldjMU0zQXllVTVVYlRRd1MwaFBhalJUWTFOM2FYWmFUVzkyVkRWelp4SVhSMnh1UzJGeE1qbE1PRXhWTlU1dlVIaGlURzR5VVRBYUlrRkVjM0k1WmxRdGNURXlhVEJ1WkZGUVdtcDRPR1ptV1d4d1NVdFliMlpPU2xFIiwiZmN2IjoiMyIsImVpIjoiR2xuS2FxMjlMOExVNU5vUHhiTG4yUTAiLCJxYyI6IkNoQm9iM2NnZEc4Z1ltOXBiQ0JsWjJkekVBQjllaVUwUHciLCJxdWVzdGlvbiI6IkRvIHlvdSBwdXQgZWdncyBpbiBjb2xkIG9yIGJvaWxpbmcgd2F0ZXI/IiwibGsiOiJHaWhrYnlCNWIzVWdjSFYwSUdWblozTWdhVzRnWTI5c1pDQnZjaUJpYjJsc2FXNW5JSGRoZEdWeSIsImJzIjoiYzQyT3NRckNNQlJGY1gyVGM2cjB1YWxqVm9jb0tnaC1nSE5zWHB2VWtpY3hwZFN2dDJZUUJCWFhlODdsWGpqQllzZlljNHZYTmlKVjFRMmR4NEliZ3h6d3pLNXh2c0pPUndwS0xzWGNfQ25EQ3JLdDlra3VBOUdkRWllVGFrcE9oQ2ktWXRnRGJzSmJoSlowRTIyUDViQTB0SlNjaVZ6X2RtQU4tWUU3akl4V0I1UFUxLXNqLWRvcE9SV1pfYWhjbm53OGVnQSIsImlkIjoiZmNfR2xuS2FxMjlMOExVNU5vUHhiTG4yUTBfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJYbzFRVk5oTWxoeWRXWTVRbFI1Y0RGS1pqSldhVFYzTFhkM2FrdDFTVzloUlVwQlVWaDRjSEpYU2xCU1NHTnpjbGxDVnpCek5WUTVMVUZTWldjMU0zQXllVTVVYlRRd1MwaFBhalJUWTFOM2FYWmFUVzkyVkRWelp4SVhSMnh1UzJGeE1qbE1PRXhWTlU1dlVIaGlURzR5VVRBYUlrRkVjM0k1WmxRdGNURXlhVEJ1WkZGUVdtcDRPR1ptV1d4d1NVdFliMlpPU2xFIiwiZmN2IjoiMyIsImVpIjoiR2xuS2FxMjlMOExVNU5vUHhiTG4yUTAiLCJxYyI6IkNoQm9iM2NnZEc4Z1ltOXBiQ0JsWjJkekVBQjllaVUwUHciLCJxdWVzdGlvbiI6IkRvIHlvdSBwdXQgZWdncyBpbiBjb2xkIG9yIGJvaWxpbmcgd2F0ZXI%2FIiwibGsiOiJHaWhrYnlCNWIzVWdjSFYwSUdWblozTWdhVzRnWTI5c1pDQnZjaUJpYjJsc2FXNW5JSGRoZEdWeSIsImJzIjoiYzQyT3NRckNNQlJGY1gyVGM2cjB1YWxqVm9jb0tnaC1nSE5zWHB2VWtpY3hwZFN2dDJZUUJCWFhlODdsWGpqQllzZlljNHZYTmlKVjFRMmR4NEliZ3h6d3pLNXh2c0pPUndwS0xzWGNfQ25EQ3JLdDlra3VBOUdkRWllVGFrcE9oQ2ktWXRnRGJzSmJoSlowRTIyUDViQTB0SlNjaVZ6X2RtQU4tWUU3akl4V0I1UFUxLXNqLWRvcE9SV1pfYWhjbm53OGVnQSIsImlkIjoiZmNfR2xuS2FxMjlMOExVNU5vUHhiTG4yUTBfNSJ9"
+  },
+  {
+   "question": "Can you freeze boiled eggs?",
+   "type": "ai_overview",
+   "page_token": "i01GZnicHdBRkpowAADQ6WX2UxOVbXXG6QwKcekSJjEJwZ8OBAVNAtkaV-Cvd-mpeprO9B3h_f5jrp3--2VovXf3zXz-fD5nTd835jxT_ezazcv72Km5Ko2pSqU3r19f4feL2kaPt3D38RYS7pzYU3C05nac8F4COmLdHihKduccrGrrujRugww5lO2TQcUhxRKP1SR4segnjnBUIXjIWcIoWj8EgrIADpCl4DiHIUZqZDoNqI5ZzVdDhdp7JqOB7qCpQAxoV0-EhZwuanNiVOPcJKkJP96l-3G2q4Bx-Kgi4U6yZUcpAqaNpF3vszz1zHKP8zU7ih6UU-NzRKA4JEQA30VtfahQ8F7IaMz4c8ViDpldkzNK0uqW0DTsr4TTSd2M5fzbslg0Y2kHq4CGp4WxBUunUlOQgnVwyr0j5OWiPrfLl_-f258X6zfuV9_8A3hJgx4",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=i01GZnicHdBRkpowAADQ6WX2UxOVbXXG6QwKcekSJjEJwZ8OBAVNAtkaV-Cvd-mpeprO9B3h_f5jrp3--2VovXf3zXz-fD5nTd835jxT_ezazcv72Km5Ko2pSqU3r19f4feL2kaPt3D38RYS7pzYU3C05nac8F4COmLdHihKduccrGrrujRugww5lO2TQcUhxRKP1SR4segnjnBUIXjIWcIoWj8EgrIADpCl4DiHIUZqZDoNqI5ZzVdDhdp7JqOB7qCpQAxoV0-EhZwuanNiVOPcJKkJP96l-3G2q4Bx-Kgi4U6yZUcpAqaNpF3vszz1zHKP8zU7ih6UU-NzRKA4JEQA30VtfahQ8F7IaMz4c8ViDpldkzNK0uqW0DTsr4TTSd2M5fzbslg0Y2kHq4CGp4WxBUunUlOQgnVwyr0j5OWiPrfLl_-f258X6zfuV9_8A3hJgx4",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJYbzFRVk5oTWxoeWRXWTVRbFI1Y0RGS1pqSldhVFYzTFhkM2FrdDFTVzloUlVwQlVWaDRjSEpYU2xCU1NHTnpjbGxDVnpCek5WUTVMVUZTWldjMU0zQXllVTVVYlRRd1MwaFBhalJUWTFOM2FYWmFUVzkyVkRWelp4SVhSMnh1UzJGeE1qbE1PRXhWTlU1dlVIaGlURzR5VVRBYUlrRkVjM0k1WmxRdGNURXlhVEJ1WkZGUVdtcDRPR1ptV1d4d1NVdFliMlpPU2xFIiwiZmN2IjoiMyIsImVpIjoiR2xuS2FxMjlMOExVNU5vUHhiTG4yUTAiLCJxYyI6IkNoQm9iM2NnZEc4Z1ltOXBiQ0JsWjJkekVBQjllaVUwUHciLCJxdWVzdGlvbiI6IkNhbiB5b3UgZnJlZXplIGJvaWxlZCBlZ2dzPyIsImxrIjoiR2hwallXNGdlVzkxSUdaeVpXVjZaU0JpYjJsc1pXUWdaV2RuY3ciLCJicyI6ImM0Mk9zUXJDTUJSRmNYMlRjNnIwdWFsalZvY29LZ2gtZ0hOc1hwdlVraWN4cGRTdnQyWVFCQlhYZTg3bFhqakJZc2ZZYzR2WE5pSlYxUTJkeDRJYmd4end6SzV4dnNKT1J3cEtMc1hjX0NuRENyS3Q5a2t1QTlHZEVpZVRha3BPaENpLVl0Z0Ric0piaEpaMEUyMlA1YkEwdEpTY2lWel9kbUFOLVlFN2pJeFdCNVBVMS1zai1kb3BPUldaX2FoY25udzhlZ0EiLCJpZCI6ImZjX0dsbkthcTI5TDhMVTVOb1B4YkxuMlEwXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJYbzFRVk5oTWxoeWRXWTVRbFI1Y0RGS1pqSldhVFYzTFhkM2FrdDFTVzloUlVwQlVWaDRjSEpYU2xCU1NHTnpjbGxDVnpCek5WUTVMVUZTWldjMU0zQXllVTVVYlRRd1MwaFBhalJUWTFOM2FYWmFUVzkyVkRWelp4SVhSMnh1UzJGeE1qbE1PRXhWTlU1dlVIaGlURzR5VVRBYUlrRkVjM0k1WmxRdGNURXlhVEJ1WkZGUVdtcDRPR1ptV1d4d1NVdFliMlpPU2xFIiwiZmN2IjoiMyIsImVpIjoiR2xuS2FxMjlMOExVNU5vUHhiTG4yUTAiLCJxYyI6IkNoQm9iM2NnZEc4Z1ltOXBiQ0JsWjJkekVBQjllaVUwUHciLCJxdWVzdGlvbiI6IkNhbiB5b3UgZnJlZXplIGJvaWxlZCBlZ2dzPyIsImxrIjoiR2hwallXNGdlVzkxSUdaeVpXVjZaU0JpYjJsc1pXUWdaV2RuY3ciLCJicyI6ImM0Mk9zUXJDTUJSRmNYMlRjNnIwdWFsalZvY29LZ2gtZ0hOc1hwdlVraWN4cGRTdnQyWVFCQlhYZTg3bFhqakJZc2ZZYzR2WE5pSlYxUTJkeDRJYmd4end6SzV4dnNKT1J3cEtMc1hjX0NuRENyS3Q5a2t1QTlHZEVpZVRha3BPaENpLVl0Z0Ric0piaEpaMEUyMlA1YkEwdEpTY2lWel9kbUFOLVlFN2pJeFdCNVBVMS1zai1kb3BPUldaX2FoY25udzhlZ0EiLCJpZCI6ImZjX0dsbkthcTI5TDhMVTVOb1B4YkxuMlEwXzUifQ%3D%3D"
+  },
+  {
+   "question": "Are boiled eggs healthy for you?",
+   "type": "ai_overview",
+   "page_token": "pRMv3XicHdDbboIwAADQ7Gd81JaLUxOzBNcibKBc2iIvC7QoSrk460De9i_7qn3Nkp1PON8_8txUv09DqVR3W81mfd9PT217ksWUt9NzM8tuj4bPeCZlnvFqNX-ew5cjX6O7Y22ujhWQrqOvIYhqug_0MKUSDbRWNCNo4Gi5j0kPODEtPxHpQYq7D9SVIjEIuOhjLMuCBT0BLsgb3GXwZJBGjCLGfqq3MGby5qPyXmwFYomIBHbUQVtuIja85Rf_zde7gQOqvLHUIlICT4OGZ_vGzja0nChAY3wJYbpn0m3SJjUyLb2GuFSZJswQlp7HAiOkeM5sMymYeciSTopqAVgFLVSKbW6b74cEPXakN2JMYFwvg8J2vfzihp7VngMSjvwiazLScce8obCFyysXk9rRdqzSKaRpUCmH4sVIgsmRf631yf_n-uNYq1X32Z7-AJfvgnY",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pRMv3XicHdDbboIwAADQ7Gd81JaLUxOzBNcibKBc2iIvC7QoSrk460De9i_7qn3Nkp1PON8_8txUv09DqVR3W81mfd9PT217ksWUt9NzM8tuj4bPeCZlnvFqNX-ew5cjX6O7Y22ujhWQrqOvIYhqug_0MKUSDbRWNCNo4Gi5j0kPODEtPxHpQYq7D9SVIjEIuOhjLMuCBT0BLsgb3GXwZJBGjCLGfqq3MGby5qPyXmwFYomIBHbUQVtuIja85Rf_zde7gQOqvLHUIlICT4OGZ_vGzja0nChAY3wJYbpn0m3SJjUyLb2GuFSZJswQlp7HAiOkeM5sMymYeciSTopqAVgFLVSKbW6b74cEPXakN2JMYFwvg8J2vfzihp7VngMSjvwiazLScce8obCFyysXk9rRdqzSKaRpUCmH4sVIgsmRf631yf_n-uNYq1X32Z7-AJfvgnY",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJYbzFRVk5oTWxoeWRXWTVRbFI1Y0RGS1pqSldhVFYzTFhkM2FrdDFTVzloUlVwQlVWaDRjSEpYU2xCU1NHTnpjbGxDVnpCek5WUTVMVUZTWldjMU0zQXllVTVVYlRRd1MwaFBhalJUWTFOM2FYWmFUVzkyVkRWelp4SVhSMnh1UzJGeE1qbE1PRXhWTlU1dlVIaGlURzR5VVRBYUlrRkVjM0k1WmxRdGNURXlhVEJ1WkZGUVdtcDRPR1ptV1d4d1NVdFliMlpPU2xFIiwiZmN2IjoiMyIsImVpIjoiR2xuS2FxMjlMOExVNU5vUHhiTG4yUTAiLCJxYyI6IkNoQm9iM2NnZEc4Z1ltOXBiQ0JsWjJkekVBQjllaVUwUHciLCJxdWVzdGlvbiI6IkFyZSBib2lsZWQgZWdncyBoZWFsdGh5IGZvciB5b3U/IiwibGsiOiJHaDloY21VZ1ltOXBiR1ZrSUdWblozTWdhR1ZoYkhSb2VTQm1iM0lnZVc5MSIsImJzIjoiYzQyT3NRckNNQlJGY1gyVGM2cjB1YWxqVm9jb0tnaC1nSE5zWHB2VWtpY3hwZFN2dDJZUUJCWFhlODdsWGpqQllzZlljNHZYTmlKVjFRMmR4NEliZ3h6d3pLNXh2c0pPUndwS0xzWGNfQ25EQ3JLdDlra3VBOUdkRWllVGFrcE9oQ2ktWXRnRGJzSmJoSlowRTIyUDViQTB0SlNjaVZ6X2RtQU4tWUU3akl4V0I1UFUxLXNqLWRvcE9SV1pfYWhjbm53OGVnQSIsImlkIjoiZmNfR2xuS2FxMjlMOExVNU5vUHhiTG4yUTBfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJYbzFRVk5oTWxoeWRXWTVRbFI1Y0RGS1pqSldhVFYzTFhkM2FrdDFTVzloUlVwQlVWaDRjSEpYU2xCU1NHTnpjbGxDVnpCek5WUTVMVUZTWldjMU0zQXllVTVVYlRRd1MwaFBhalJUWTFOM2FYWmFUVzkyVkRWelp4SVhSMnh1UzJGeE1qbE1PRXhWTlU1dlVIaGlURzR5VVRBYUlrRkVjM0k1WmxRdGNURXlhVEJ1WkZGUVdtcDRPR1ptV1d4d1NVdFliMlpPU2xFIiwiZmN2IjoiMyIsImVpIjoiR2xuS2FxMjlMOExVNU5vUHhiTG4yUTAiLCJxYyI6IkNoQm9iM2NnZEc4Z1ltOXBiQ0JsWjJkekVBQjllaVUwUHciLCJxdWVzdGlvbiI6IkFyZSBib2lsZWQgZWdncyBoZWFsdGh5IGZvciB5b3U%2FIiwibGsiOiJHaDloY21VZ1ltOXBiR1ZrSUdWblozTWdhR1ZoYkhSb2VTQm1iM0lnZVc5MSIsImJzIjoiYzQyT3NRckNNQlJGY1gyVGM2cjB1YWxqVm9jb0tnaC1nSE5zWHB2VWtpY3hwZFN2dDJZUUJCWFhlODdsWGpqQllzZlljNHZYTmlKVjFRMmR4NEliZ3h6d3pLNXh2c0pPUndwS0xzWGNfQ25EQ3JLdDlra3VBOUdkRWllVGFrcE9oQ2ktWXRnRGJzSmJoSlowRTIyUDViQTB0SlNjaVZ6X2RtQU4tWUU3akl4V0I1UFUxLXNqLWRvcE9SV1pfYWhjbm53OGVnQSIsImlkIjoiZmNfR2xuS2FxMjlMOExVNU5vUHhiTG4yUTBfNSJ9"
+  },
+  {
+   "question": "How to hard boil eggs in Kenji?",
+   "type": "ai_overview",
+   "page_token": "4AQxkXicHdBRboIwGADg7DI-KqzggolZglDUCc5SfrAvCxQFbQsIbKBvu8tOtdMs2XeE7_tHXirx-8TKvm-6xWw2DMO0qOtCnqa8nl6qWdrdKz7jqZRZysVi_jLXX8986XaDvaoH-xA1DThEo_ho-LGB-Lpsd0kxntwCcQ1ohDfPXMdvTJY4E-MVwNX8hFURkNhH25BoHcqErgNuUFgJjT5YCg6YRAtGQHZ7eEDsy8aLY2t3TNgzvQo9jE2ZeZaWJowGqr9FFJp8DUaug8txoI6ibFO66U9qNPYeXoGEOowAh0qqyMkNhsh7rkSItbzLRF9yujGpU_pAYZ_ptnEU46cv3cG7bG2yDu77mIXcCRiJzC52a51cWRAl7BYovz9IaxUkZUWUhSZn_rVEk_-x5cdZ9YumrYs_ePF41Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4AQxkXicHdBRboIwGADg7DI-KqzggolZglDUCc5SfrAvCxQFbQsIbKBvu8tOtdMs2XeE7_tHXirx-8TKvm-6xWw2DMO0qOtCnqa8nl6qWdrdKz7jqZRZysVi_jLXX8986XaDvaoH-xA1DThEo_ho-LGB-Lpsd0kxntwCcQ1ohDfPXMdvTJY4E-MVwNX8hFURkNhH25BoHcqErgNuUFgJjT5YCg6YRAtGQHZ7eEDsy8aLY2t3TNgzvQo9jE2ZeZaWJowGqr9FFJp8DUaug8txoI6ibFO66U9qNPYeXoGEOowAh0qqyMkNhsh7rkSItbzLRF9yujGpU_pAYZ_ptnEU46cv3cG7bG2yDu77mIXcCRiJzC52a51cWRAl7BYovz9IaxUkZUWUhSZn_rVEk_-x5cdZ9YumrYs_ePF41Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJYbzFRVk5oTWxoeWRXWTVRbFI1Y0RGS1pqSldhVFYzTFhkM2FrdDFTVzloUlVwQlVWaDRjSEpYU2xCU1NHTnpjbGxDVnpCek5WUTVMVUZTWldjMU0zQXllVTVVYlRRd1MwaFBhalJUWTFOM2FYWmFUVzkyVkRWelp4SVhSMnh1UzJGeE1qbE1PRXhWTlU1dlVIaGlURzR5VVRBYUlrRkVjM0k1WmxRdGNURXlhVEJ1WkZGUVdtcDRPR1ptV1d4d1NVdFliMlpPU2xFIiwiZmN2IjoiMyIsImVpIjoiR2xuS2FxMjlMOExVNU5vUHhiTG4yUTAiLCJxYyI6IkNoQm9iM2NnZEc4Z1ltOXBiQ0JsWjJkekVBQjllaVUwUHciLCJxdWVzdGlvbiI6IkhvdyB0byBoYXJkIGJvaWwgZWdncyBpbiBLZW5qaT8iLCJsayI6IkdodG9iM2NnZEc4Z2FHRnlaQ0JpYjJsc0lHVm5aM01nYTJWdWFtayIsImJzIjoiYzQyT3NRckNNQlJGY1gyVGM2cjB1YWxqVm9jb0tnaC1nSE5zWHB2VWtpY3hwZFN2dDJZUUJCWFhlODdsWGpqQllzZlljNHZYTmlKVjFRMmR4NEliZ3h6d3pLNXh2c0pPUndwS0xzWGNfQ25EQ3JLdDlra3VBOUdkRWllVGFrcE9oQ2ktWXRnRGJzSmJoSlowRTIyUDViQTB0SlNjaVZ6X2RtQU4tWUU3akl4V0I1UFUxLXNqLWRvcE9SV1pfYWhjbm53OGVnQSIsImlkIjoiZmNfR2xuS2FxMjlMOExVNU5vUHhiTG4yUTBfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVJYbzFRVk5oTWxoeWRXWTVRbFI1Y0RGS1pqSldhVFYzTFhkM2FrdDFTVzloUlVwQlVWaDRjSEpYU2xCU1NHTnpjbGxDVnpCek5WUTVMVUZTWldjMU0zQXllVTVVYlRRd1MwaFBhalJUWTFOM2FYWmFUVzkyVkRWelp4SVhSMnh1UzJGeE1qbE1PRXhWTlU1dlVIaGlURzR5VVRBYUlrRkVjM0k1WmxRdGNURXlhVEJ1WkZGUVdtcDRPR1ptV1d4d1NVdFliMlpPU2xFIiwiZmN2IjoiMyIsImVpIjoiR2xuS2FxMjlMOExVNU5vUHhiTG4yUTAiLCJxYyI6IkNoQm9iM2NnZEc4Z1ltOXBiQ0JsWjJkekVBQjllaVUwUHciLCJxdWVzdGlvbiI6IkhvdyB0byBoYXJkIGJvaWwgZWdncyBpbiBLZW5qaT8iLCJsayI6IkdodG9iM2NnZEc4Z2FHRnlaQ0JpYjJsc0lHVm5aM01nYTJWdWFtayIsImJzIjoiYzQyT3NRckNNQlJGY1gyVGM2cjB1YWxqVm9jb0tnaC1nSE5zWHB2VWtpY3hwZFN2dDJZUUJCWFhlODdsWGpqQllzZlljNHZYTmlKVjFRMmR4NEliZ3h6d3pLNXh2c0pPUndwS0xzWGNfQ25EQ3JLdDlra3VBOUdkRWllVGFrcE9oQ2ktWXRnRGJzSmJoSlowRTIyUDViQTB0SlNjaVZ6X2RtQU4tWUU3akl4V0I1UFUxLXNqLWRvcE9SV1pfYWhjbm53OGVnQSIsImlkIjoiZmNfR2xuS2FxMjlMOExVNU5vUHhiTG4yUTBfNSJ9"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "To boil a perfect egg, bring a pot of water to a boil, gently lower the eggs in, set a timer for your desired doneness, and transfer them to an ice bath.",
+    "snippet_highlighted_words": [
+     "bring a pot of water to a boil, gently lower the eggs in, set a timer for your desired doneness, and transfer them to an ice bath"
+    ],
+    "reference_indexes": [
+     0,
+     1
+    ]
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Boil the Water: Fill a saucepan with enough water to completely cover the eggs and bring it to a rolling boil. You can add a pinch of salt to the water.",
+      "reference_indexes": [
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "snippet": "Lower the Eggs: Use a slotted spoon to gently lower the eggs into the boiling water to prevent cracking.",
+      "reference_indexes": [
+       0,
+       3
+      ]
+     },
+     {
+      "snippet": "Set the Timer: Adjust the heat to maintain a gentle boil and start your timer right away according to the times below:",
+      "list": [
+       {
+        "snippet": "6 minutes: Runny, liquid yolk (soft-boiled)"
+       },
+       {
+        "snippet": "8 minutes: Jammy, soft-set yolk"
+       },
+       {
+        "snippet": "10–12 minutes: Firm, classic hard-boiled yolk"
+       }
+      ],
+      "reference_indexes": [
+       0,
+       2,
+       3,
+       5,
+       6
+      ]
+     },
+     {
+      "snippet": "8 minutes: Jammy, soft-set yolk"
+     },
+     {
+      "snippet": "10–12 minutes: Firm, classic hard-boiled yolk",
+      "reference_indexes": [
+       0,
+       2,
+       3,
+       5,
+       6
+      ]
+     },
+     {
+      "snippet": "Stop the Cooking: Immediately transfer the boiled eggs into a bowl of ice water for 3 to 5 minutes to halt the cooking process and make peeling easier.",
+      "reference_indexes": [
+       1,
+       7
+      ]
+     },
+     {
+      "snippet": "Peel: Tap the egg gently all over on the counter, roll it softly, and peel it starting from the wider bottom end—ideally while submerged in water."
+     }
+    ],
+    "reference_indexes": [
+     0,
+     1,
+     8
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "For more details on scaling times and techniques, check out the guide on RecipeTin Eats.",
+    "snippet_links": [
+     {
+      "text": "RecipeTin Eats",
+      "link": "https://www.recipetineats.com/how-to-boil-eggs/"
+     }
+    ],
+    "reference_indexes": [
+     0
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Would you like to know how to peel stubborn fresh eggs easily, or are you looking for a recipe that uses boiled eggs like deviled eggs or ramen toppings?"
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "How to boil eggs - RecipeTin Eats",
+    "link": "https://www.recipetineats.com/how-to-boil-eggs/",
+    "snippet": "Method: Bring water to a rapid boil first, gently lower fridge-cold large eggs (55g/2oz) using a slotted spoon, reduce heat slightly to maintain a gentle boil, and...",
+    "source": "RecipeTin Eats",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.recipetineats.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkPYTR9VDSzhRDszRUau-EJaUzrE3kBtsujacoTqhQcXMkws3YKJdmHaLX5jxiYC1sZSpKUBhCyL024K-VweCtDWxFqhDgXuqN1Om-"
+   },
+   {
+    "index": 1,
+    "title": "How to Make the Perfect Boiled Eggs",
+    "link": "https://www.youtube.com/shorts/umdCxoQ9dBU",
+    "snippet": "How to Make the Perfect Boiled Eggs this is how you make the perfect boiled eggs every single time start off by getting yourself a pot and placing your eggs. now i",
+    "source": "YouTube",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREwa8UMH98GRwYb8_JOKGeJR5SfCZXzQmdFL0aV1FdZvcwjI6jD3ODJaL6WM0oT0ZbMiawbiPyFox8n0Yelhxf8-unuhOiS3GLskZr"
+   },
+   {
+    "index": 2,
+    "title": "How I perfectly boil eggs",
+    "link": "https://www.youtube.com/shorts/yLcFn9eChys",
+    "snippet": "￼How I perfectly boil eggs 🥚 ￼ this is how you boil the perfect egg start with cold eggs from the fridge cold water in a pot eggs go in make sure your eggs are co",
+    "source": "YouTube",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwVw8KzI8NP3YnlO4Psqrd44IpcnG31rZty15OgjWhbVszc6RKlD8v1Hc33WGj8jkrSIDfUJg8XPYn622OPxqeitaKwob6a4JdkC3z"
+   },
+   {
+    "index": 3,
+    "title": "How to boil an egg: soft, medium and hard",
+    "link": "https://hw.qld.gov.au/cooking-skills/how-to-boil-an-egg/",
+    "snippet": "Step 1 Fill a saucepan with enough water to fully cover the eggs. Cover with a lid and bring the water to a boil. Step 2 Reduce the heat so the water is gently sim...",
+    "source": "Health and Wellbeing Queensland",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hw.qld.gov.au&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn8XKvwTQtHAdNbRys6zD9o6NQAgxNQ9vS98-x9raJkvcXV58Lwdw8BjvkqqSVK3SWrYj4394yVtXJMTwK-JyFV0Wpv4kYH1BP16Kh"
+   },
+   {
+    "index": 4,
+    "title": "How to BOIL EGGS PERFECTLY, every time 🧑‍🍳🥚 | Jamie Oliver",
+    "link": "https://www.facebook.com/jamieoliver/videos/how-to-boil-an-egg-jamie-oliver/567638029094868/",
+    "snippet": "How to BOIL EGGS PERFECTLY, every time 🧑‍🍳🥚 | Jamie Oliver | Facebook hi guys hope you're well okay today I'm going to teach you how to boil an egg yes you hear",
+    "source": "Facebook",
+    "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1wrEohRSwiEUOI-omLAATh9tsHgHxOYZlyLxPnwEvgZMVVDM51CH-IEVIahC-6Qyt_CrtIOCc5n2vQBCD_kGNZG_cizDsIWo-fVEd"
+   },
+   {
+    "index": 5,
+    "title": "How long to boil an egg - BBC Good Food",
+    "link": "https://www.bbcgoodfood.com/howto/guide/how-boil-egg-perfectly",
+    "snippet": "I always make sure the eggs aren't fridge cold. By having the eggs at room temperature, it will be less of a shock for the egg reaching the hot water and therefore...",
+    "source": "Good Food",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbcgoodfood.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNaSNy_U27rOBjARZlXe5Q9MZ48BgfTr4LIDYJd-L21bMfxE36Wtn4uI9oreGRqFVw7SW8Gnh1EtoF1w-dSh7qQOnQDOYEMJQpkgEp"
+   },
+   {
+    "index": 6,
+    "title": "The Secret to Perfect Boiled Eggs (Soft, Jammy, Hard) | Epicurious 101",
+    "link": "https://www.youtube.com/watch?v=mcXzPF4-LFw",
+    "snippet": "The Secret to Perfect Boiled Eggs (Soft, Jammy, Hard) | Epicurious 101 i'm Frank Proto professional chef and culinary instructor. and today I'm going to show you t",
+    "source": "YouTube",
+    "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTjOMXd97oRm9nGiGlJSBqNz1lO9Me9vTeKFde0ktdo12Ji9RHZWHv4jDjJsXJ1wS4POMem1AqsVm6MG6RVZfm4BRfx5C7LVZva54O"
+   },
+   {
+    "index": 7,
+    "title": "The Best Way to Boil Eggs (Tested by a Chef)",
+    "link": "https://www.youtube.com/shorts/5xUOxbhq-GY?vl=en",
+    "snippet": "The Best Way to Boil Eggs (Tested by a Chef) in my opinion. the industry standard for most chefs for a proper hard-boiled egg is to get a small pot of water bring",
+    "source": "YouTube",
+    "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHIwv0cz8BQ2YbA5960jYwoKk84W9vxjRFqLYdX54a8TOMLMhoHFQHwef5w279jD48lP4TVhbdGmhQ02R4KH38ymwljtCQQjT1mTca"
+   },
+   {
+    "index": 8,
+    "title": "How to Make Hard-Boiled Eggs | The Incredible Egg - American Egg Board",
+    "link": "https://www.incredibleegg.org/recipes/cooking-school/how-to-hard-boil-eggs/",
+    "snippet": "To peel a hard-boiled egg: Gently tap egg on countertop until shell is finely crackled all over. Roll egg between hands to loosen shell. Starting peeling at large ...",
+    "source": "American Egg Board",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.incredibleegg.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHz5JT8QhtXYZdauvL2ozv-had1tSExiHLdSw61iLVzZAO0g_qq8gtt4X1r6GKS4ETV6JtTw40n8WrpshijnshsAVzBLNvKfqoU2O7"
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Fastest foolproof way to make hard and soft boiled eggs",
+   "link": "https://www.youtube.com/watch?v=MfckqpX_xb8",
+   "displayed_link": "1L+ views · 2 years ago",
+   "thumbnail": "https://serpapi.com/searches/6aca591a69819d37af7d8a97/images/tjFJzXhu8IYLNxjx844wt72KJPHhto6Rnr8akSIsNgo.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Don't boil eggs directly in water. This is how to boil eggs like in a five-star hotel | Simple Tip. Kitchen Tips •6.6M views · 15:41.",
+   "duration": "2:54",
+   "about_this_result": {
+    "source": {
+     "description": "Don't boil eggs directly in water. This is how to boil eggs like in a five-star hotel | Simple Tip. Kitchen Tips •6.6M views · 15:41.",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlUtbGo0VGpORFpYNkd5MnhvQzh0OTRmT2dNdUs4VVdvS0hxZk5jWTV2WU1qc1RERDd1cWN2RlpGMXFEMVZZNUtMOXNVZEt6X0U5ME9wSC1FVXlCS2tFZkJsdTlla2tlRmtycVY2VkppUlp4QTBrZEhPQ2Jicy1wNWFIYU5iVXB5dncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlUtbGo0VGpORFpYNkd5MnhvQzh0OTRmT2dNdUs4VVdvS0hxZk5jWTV2WU1qc1RERDd1cWN2RlpGMXFEMVZZNUtMOXNVZEt6X0U5ME9wSC1FVXlCS2tFZkJsdTlla2tlRmtycVY2VkppUlp4QTBrZEhPQ2Jicy1wNWFIYU5iVXB5dncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSAWTR1Hq1Pe2llwvdn3cg9dUYPke1FB4FkvA",
+   "source": "YouTube · TRUE FOOD TV"
+  },
+  {
+   "position": 2,
+   "title": "How to Boil an Egg",
+   "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0",
+   "displayed_link": "43.8K+ views · 14 years ago",
+   "thumbnail": "https://serpapi.com/searches/6aca591a69819d37af7d8a97/images/tjFJzXhu8IYLNxjx844wtyoKgX20JjILDGXTeS8L0LY.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Don't boil eggs directly in water. This is how to boil eggs like in a five-star hotel | Simple Tip. Kitchen Tips •6.6M views · 21:51.",
+   "duration": "3:28",
+   "key_moments": [
+    {
+     "time": "00:00",
+     "title": "Intro",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=0"
+    },
+    {
+     "time": "00:34",
+     "title": "Cover eggs with cold water",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=34"
+    },
+    {
+     "time": "00:48",
+     "title": "Bring to a simmer",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=48"
+    },
+    {
+     "time": "01:15",
+     "title": "Medium-boiled egg",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=75"
+    },
+    {
+     "time": "01:33",
+     "title": "Drain the eggs",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=93"
+    },
+    {
+     "time": "01:44",
+     "title": "Peel under running water",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=104"
+    },
+    {
+     "time": "01:57",
+     "title": "Easier Hard-Boiled Method",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=117"
+    },
+    {
+     "time": "02:17",
+     "title": "Remove off heat",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=137"
+    },
+    {
+     "time": "02:31",
+     "title": "Taste Test",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=151"
+    },
+    {
+     "time": "03:07",
+     "title": "Hard-cooked egg",
+     "link": "https://www.youtube.com/watch?v=YoMVFax7dJ0&t=187"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Don't boil eggs directly in water. This is how to boil eggs like in a five-star hotel | Simple Tip. Kitchen Tips •6.6M views · 21:51.",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjVuN2NuLVBuSV90Wi1VTFVwQ2xDOHJ6RHZSTmRGUTB0ME1uVTBXOGNCQUp2NUxKYUpSUEthNEVXUmNIWDNiN0dNQklFLUZwZmkxempPNktrNFl0YzNoMmM1RmNCWXI1bjVLWEJQVlhQUjFSS09xdUQ5WkZZcEdSdDJDZ201N2Q0aXcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjVuN2NuLVBuSV90Wi1VTFVwQ2xDOHJ6RHZSTmRGUTB0ME1uVTBXOGNCQUp2NUxKYUpSUEthNEVXUmNIWDNiN0dNQklFLUZwZmkxempPNktrNFl0YzNoMmM1RmNCWXI1bjVLWEJQVlhQUjFSS09xdUQ5WkZZcEdSdDJDZ201N2Q0aXcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSaPF-WxiTPRgryVouQ10Gm4kGG9-nP1MVf_A",
+   "source": "YouTube · FineCooking"
+  },
+  {
+   "position": 3,
+   "title": "Perfect Hard-Boiled Eggs Recipe",
+   "link": "https://www.seriouseats.com/perfect-boiled-eggs-recipe",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVDBTTCXq6a4ydJOGDsYLfyHfAaKYDghemWtDNzEpmp6dUV1wPRsqjXN29jpoxRn0eD1UYayvS9fTZgB9EEzpJVqmqX-txoukJxoA8ftYHUgFjXYf8UjfYJMW4Z0ZayONuWzwWQ2AXD8S1Rrzg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://www.seriouseats.com › ... › Eggs › Boiled Eggs",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwFgZIFgJIGgZIGgZIGgZIFgZEGgZIGgZIGg5IGgJIGgJLgFxFfAAAADHRSTlMADxbf_6kv78kIkH7my8KEAAAAY0lEQVR4AWPABhiVlASQuMwuLgFIXKYUJ6gsY7ExEJg4g0gLBgbOVQiwGtPQcgQonsDA6IIA7hMYOlyQQAfDKmTuKgZOZMUMaHoHKZehBcH1APo_BcF1A3LZIjqgoDWBAT8AAOPZWEDNA3JgAAAAAElFTkSuQmCC.png",
+   "date": "6 Mar 2025",
+   "snippet": "Bring 3 quarts (2.8L) water to a boil in a large pot. Carefully lower eggs into pot and continue to boil for 30 seconds. Cover tightly, reduce ...",
+   "snippet_highlighted_words": [
+    "Bring 3 quarts (2.8L) water to a boil in a large pot"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.4,
+      "reviews": 9,
+      "mins": 35
+     },
+     "extensions": [
+      "4.4(9)",
+      "35 mins"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Bring 3 quarts (2.8L) water to a boil in a large pot. Carefully lower eggs into pot and continue to boil for 30 seconds. Cover tightly, reduce ...",
+     "source_info_link": "https://www.seriouseats.com/perfect-boiled-eggs-recipe",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwFgZIFgJIGgZIGgZIGgZIFgZEGgZIGgZIGg5IGgJIGgJLgFxFfAAAADHRSTlMADxbf_6kv78kIkH7my8KEAAAAY0lEQVR4AWPABhiVlASQuMwuLgFIXKYUJ6gsY7ExEJg4g0gLBgbOVQiwGtPQcgQonsDA6IIA7hMYOlyQQAfDKmTuKgZOZMUMaHoHKZehBcH1APo_BcF1A3LZIjqgoDWBAT8AAOPZWEDNA3JgAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVkRCVFRDWHE2YTR5ZEpPR0RzWUxmeUhmQWFLWURnaGVtV3RETnpFcG1wNmRVVjF3UFJzcWpYTjI5anBveFJuMGVEMVVZYXl2UzlmVFpnQjlFRXpwSlZxbXFYLXR4b3VrSnhvQThmdFlIVWdGalhZZjhVamZZSk1XNFowWmF5T051V3p3V1EyQVhEOFMxUnJ6ZxIEGgIIABqTBBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQO0DCAAQABgAIAAqCgoDaG93FbYZoj8qCQoCdG8VAAAAACogCgRib2lsFepfjz8aCGJvaWxlZ2dzGglpdjtwO2JvaWwqJQoEZWdncxXWpJFAGgNlZ2caCGJvaWxlZ2dzGglpdjtwO2VnZ3MypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWREJUVENYcTZhNHlkSk9HRHNZTGZ5SGZBYUtZRGdoZW1XdEROekVwbXA2ZFVWMXdQUnNxalhOMjlqcG94Um4wZUQxVVlheXZTOWZUWmdCOUVFenBKVnFtcVgtdHhvdWtKeG9BOGZ0WUhVZ0ZqWFlmOFVqZllKTVc0WjBaYXlPTnVXendXUTJBWEQ4UzFScnpnOjVQZXJmZWN0IEhhcmQtQm9pbGVkIDxiPkVnZ3M8L2I-IFJlY2lwZSAtIFNlcmlvdXMgRWF0c0KeATxiPkJyaW5nIDMgcXVhcnRzICgyLjhMKSB3YXRlciB0byBhIGJvaWwgaW4gYSBsYXJnZSBwb3Q8L2I-LiBDYXJlZnVsbHkgbG93ZXIgZWdncyBpbnRvIHBvdCBhbmQgY29udGludWUgdG8gYm9pbCBmb3IgMzAgc2Vjb25kcy4gQ292ZXIgdGlnaHRseSwgcmVkdWNlJm5ic3A7Li4uSgJ0byICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVkRCVFRDWHE2YTR5ZEpPR0RzWUxmeUhmQWFLWURnaGVtV3RETnpFcG1wNmRVVjF3UFJzcWpYTjI5anBveFJuMGVEMVVZYXl2UzlmVFpnQjlFRXpwSlZxbXFYLXR4b3VrSnhvQThmdFlIVWdGalhZZjhVamZZSk1XNFowWmF5T051V3p3V1EyQVhEOFMxUnJ6ZxIEGgIIABqTBBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQO0DCAAQABgAIAAqCgoDaG93FbYZoj8qCQoCdG8VAAAAACogCgRib2lsFepfjz8aCGJvaWxlZ2dzGglpdjtwO2JvaWwqJQoEZWdncxXWpJFAGgNlZ2caCGJvaWxlZ2dzGglpdjtwO2VnZ3MypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWREJUVENYcTZhNHlkSk9HRHNZTGZ5SGZBYUtZRGdoZW1XdEROekVwbXA2ZFVWMXdQUnNxalhOMjlqcG94Um4wZUQxVVlheXZTOWZUWmdCOUVFenBKVnFtcVgtdHhvdWtKeG9BOGZ0WUhVZ0ZqWFlmOFVqZllKTVc0WjBaYXlPTnVXendXUTJBWEQ4UzFScnpnOjVQZXJmZWN0IEhhcmQtQm9pbGVkIDxiPkVnZ3M8L2I-IFJlY2lwZSAtIFNlcmlvdXMgRWF0c0KeATxiPkJyaW5nIDMgcXVhcnRzICgyLjhMKSB3YXRlciB0byBhIGJvaWwgaW4gYSBsYXJnZSBwb3Q8L2I-LiBDYXJlZnVsbHkgbG93ZXIgZWdncyBpbnRvIHBvdCBhbmQgY29udGludWUgdG8gYm9pbCBmb3IgMzAgc2Vjb25kcy4gQ292ZXIgdGlnaHRseSwgcmVkdWNlJm5ic3A7Li4uSgJ0byICEAFIAFgAaAA",
+   "source": "Serious Eats",
+   "read_more_link": "https://www.seriouseats.com/perfect-boiled-eggs-recipe#:~:text=Bring%203%20quarts%20(2.8L)%20water,30%20seconds.%20Cover%20tightly%2C%20reduce"
+  },
+  {
+   "position": 4,
+   "title": "How to Boil the Perfect Egg",
+   "link": "https://www.nytimes.com/2019/09/23/dining/how-to-hard-boil-eggs.html",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVCtrw59eO2emB0rPa-jz8IEsQePvaPOA-CNjIcrtm0EJoMLJPUem2fkweV4qBBm1ddrs5xK8XzefBuRXD-CXlBWaaT486ltMrGSxDv6zL1N6m5R4Y1b_dYD-fYsnsPX2GT4ySFdvbm63ZIDy5e7sM2Vn6mugMlpev_HU&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://www.nytimes.com › 2019/09/23 › dining › how...",
+   "favicon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAACQBQCdASocABwAPtFAtFooIqgoFAEAGglpAAbIDvwczv0aGEhRUgsNhpFTDaUtPSq5uEvmAAD-9Mt4W56Oar_VeUHj_BX9pCJfhMaY765PE4v-EKMTBd-f6nQoIFnsE0474lLGNMdjXYvoE12ZMtNjiZtTGNQ1HZwnm_KAft1PZkT_DBv9wedT89OEMPC1W_n87JSy1wraGKvzbsVK69_tj0rQTuVavHd7RviZqb56Y-eyn5dT-MfnWX7b1SxdeOHhLz6C0x7V1XV43z3vRnQ3rpfMOaUaisKpQgjwAAA.webp",
+   "date": "15 Oct 2019",
+   "snippet": "Starting eggs in cold water causes egg-white proteins to coagulate slowly, bonding tightly to the inner membrane of the shell. The difference is ...",
+   "snippet_highlighted_words": [
+    "Starting eggs in cold water causes egg-white proteins to coagulate slowly"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Starting eggs in cold water causes egg-white proteins to coagulate slowly, bonding tightly to the inner membrane of the shell. The difference is ...",
+     "source_info_link": "https://www.nytimes.com/2019/09/23/dining/how-to-hard-boil-eggs.html",
+     "icon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAACQBQCdASocABwAPtFAtFooIqgoFAEAGglpAAbIDvwczv0aGEhRUgsNhpFTDaUtPSq5uEvmAAD-9Mt4W56Oar_VeUHj_BX9pCJfhMaY765PE4v-EKMTBd-f6nQoIFnsE0474lLGNMdjXYvoE12ZMtNjiZtTGNQ1HZwnm_KAft1PZkT_DBv9wedT89OEMPC1W_n87JSy1wraGKvzbsVK69_tj0rQTuVavHd7RviZqb56Y-eyn5dT-MfnWX7b1SxdeOHhLz6C0x7V1XV43z3vRnQ3rpfMOaUaisKpQgjwAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkN0cnc1OWVPMmVtQjByUGEtano4SUVzUWVQdmFQT0EtQ05qSWNydG0wRUpvTUxKUFVlbTJma3dlVjRxQkJtMWRkcnM1eEs4WHplZkJ1UlhELUNYbEJXYWFUNDg2bHRNckdTeER2NnpMMU42bTVSNFkxYl9kWUQtZllzbnNQWDJHVDR5U0ZkdmJtNjNaSUR5NWU3c00yVm42bXVnTWxwZXZfSFUSBBoCCAAasQQSAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCLBAgAEAAYACAAKgoKA2hvdxWiRZVAKgkKAnRvFQAAAAAqIAoEYm9pbBWQnppAGghib2lsZWdncxoJaXY7cDtib2lsKiUKBGVnZ3MVae5uQBoDZWdnGghib2lsZWdncxoJaXY7cDtlZ2dzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkN0cnc1OWVPMmVtQjByUGEtano4SUVzUWVQdmFQT0EtQ05qSWNydG0wRUpvTUxKUFVlbTJma3dlVjRxQkJtMWRkcnM1eEs4WHplZkJ1UlhELUNYbEJXYWFUNDg2bHRNckdTeER2NnpMMU42bTVSNFkxYl9kWUQtZllzbnNQWDJHVDR5U0ZkdmJtNjNaSUR5NWU3c00yVm42bXVnTWxwZXZfSFU6PjxiPkhvdyB0byBCb2lsPC9iPiB0aGUgUGVyZmVjdCA8Yj5FZ2c8L2I-IC0gVGhlIE5ldyBZb3JrIFRpbWVzQqABPGI-U3RhcnRpbmcgZWdncyBpbiBjb2xkIHdhdGVyIGNhdXNlcyBlZ2ctd2hpdGUgcHJvdGVpbnMgdG8gY29hZ3VsYXRlIHNsb3dseTwvYj4sIGJvbmRpbmcgdGlnaHRseSB0byB0aGUgaW5uZXIgbWVtYnJhbmUgb2YgdGhlIHNoZWxsLiBUaGUgZGlmZmVyZW5jZSBpcyZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkN0cnc1OWVPMmVtQjByUGEtano4SUVzUWVQdmFQT0EtQ05qSWNydG0wRUpvTUxKUFVlbTJma3dlVjRxQkJtMWRkcnM1eEs4WHplZkJ1UlhELUNYbEJXYWFUNDg2bHRNckdTeER2NnpMMU42bTVSNFkxYl9kWUQtZllzbnNQWDJHVDR5U0ZkdmJtNjNaSUR5NWU3c00yVm42bXVnTWxwZXZfSFUSBBoCCAAasQQSAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCLBAgAEAAYACAAKgoKA2hvdxWiRZVAKgkKAnRvFQAAAAAqIAoEYm9pbBWQnppAGghib2lsZWdncxoJaXY7cDtib2lsKiUKBGVnZ3MVae5uQBoDZWdnGghib2lsZWdncxoJaXY7cDtlZ2dzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkN0cnc1OWVPMmVtQjByUGEtano4SUVzUWVQdmFQT0EtQ05qSWNydG0wRUpvTUxKUFVlbTJma3dlVjRxQkJtMWRkcnM1eEs4WHplZkJ1UlhELUNYbEJXYWFUNDg2bHRNckdTeER2NnpMMU42bTVSNFkxYl9kWUQtZllzbnNQWDJHVDR5U0ZkdmJtNjNaSUR5NWU3c00yVm42bXVnTWxwZXZfSFU6PjxiPkhvdyB0byBCb2lsPC9iPiB0aGUgUGVyZmVjdCA8Yj5FZ2c8L2I-IC0gVGhlIE5ldyBZb3JrIFRpbWVzQqABPGI-U3RhcnRpbmcgZWdncyBpbiBjb2xkIHdhdGVyIGNhdXNlcyBlZ2ctd2hpdGUgcHJvdGVpbnMgdG8gY29hZ3VsYXRlIHNsb3dseTwvYj4sIGJvbmRpbmcgdGlnaHRseSB0byB0aGUgaW5uZXIgbWVtYnJhbmUgb2YgdGhlIHNoZWxsLiBUaGUgZGlmZmVyZW5jZSBpcyZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+   "source": "The New York Times",
+   "read_more_link": "https://www.nytimes.com/2019/09/23/dining/how-to-hard-boil-eggs.html#:~:text=Starting%20eggs%20in%20cold%20water,the%20number%20of%20small%20flaws."
+  },
+  {
+   "position": 5,
+   "title": "How to Make Boiled Eggs",
+   "link": "https://www.youtube.com/watch?v=GChZeuhcs2c",
+   "displayed_link": "1.1K+ views · 13 years ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6v7uktn1x0LE0PMGO5W_tri8r0LYQ9OoYywkchBxOhwm52H-kN9sNVQ&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "HARD BOILED EGGS - How to BOIL EGGS so they PEEL EASY and NO Eggshells Stick/Sticking! ... Don't Boil Eggs Directly In Water. Here's The ...",
+   "duration": "2:13",
+   "key_moments": [
+    {
+     "time": "00:23",
+     "title": "Cover them with cold water",
+     "link": "https://www.youtube.com/watch?v=GChZeuhcs2c&t=23"
+    },
+    {
+     "time": "00:32",
+     "title": "Put the lid on",
+     "link": "https://www.youtube.com/watch?v=GChZeuhcs2c&t=32"
+    },
+    {
+     "time": "01:13",
+     "title": "Set them aside for 11 minutes",
+     "link": "https://www.youtube.com/watch?v=GChZeuhcs2c&t=73"
+    },
+    {
+     "time": "01:36",
+     "title": "Start with the large end of the egg",
+     "link": "https://www.youtube.com/watch?v=GChZeuhcs2c&t=96"
+    },
+    {
+     "time": "02:01",
+     "title": "Sprinkle these with a little bit of chives",
+     "link": "https://www.youtube.com/watch?v=GChZeuhcs2c&t=121"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "HARD BOILED EGGS - How to BOIL EGGS so they PEEL EASY and NO Eggshells Stick/Sticking! ... Don't Boil Eggs Directly In Water. Here's The ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmVQNW1ZUl9mLThpTDlyYVVUV2hiWGZhLXZuRVB1OFZQTDFwU0x2eW8wVkJkcHRNVG1XUGgzcWJHSDlQUzBxbkNka3dKZXV4d0R1RzlLN29JaVAtV1pNSzBsVll2U1RnczV6Q0lHc0JMa3FhV3JObGVEV1lqRzFsWFlwZzl3YWtkZFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmVQNW1ZUl9mLThpTDlyYVVUV2hiWGZhLXZuRVB1OFZQTDFwU0x2eW8wVkJkcHRNVG1XUGgzcWJHSDlQUzBxbkNka3dKZXV4d0R1RzlLN29JaVAtV1pNSzBsVll2U1RnczV6Q0lHc0JMa3FhV3JObGVEV1lqRzFsWFlwZzl3YWtkZFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTxfTQMcIY8rZ--LRAIt2p-4A9u2C3lX6XUCw",
+   "source": "YouTube · University of Illinois Extension"
+  },
+  {
+   "position": 6,
+   "title": "Perfect Hard Boiled Eggs Recipe (Easy Peeling!)",
+   "link": "https://www.butterbeready.com/perfect-hard-boiled-eggs/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVjTNCrNyeIVdR2tXYAE93xHBopOeBVtIetv4IrmEVWf44qoITL46EMNS6SPq6iWPf_8F_Pdc_ckvtuPcGildJHhAcR4_W4XlQpki7HHLv4SrcgbGipteHdto7IztKldNCx_Ja__TpFcyTlVm5dA&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://www.butterbeready.com › ... › Breakfast",
+   "favicon": "https://serpapi.com/images/i/UklGRtYAAABXRUJQVlA4IMoAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAKwogczcTWEBLAG8kDlAI2PGCPOtJLbK0CKgdeck-GgA_v0r2XerPnVyU98vSFp4d68h9jvUvmWYnR7_Yhi_xPeRp6NugweVAZKW2Qt_DhrP8E3V_hJOafiDOmKioTdN-ImSMJwIJ550Y4y_LhmiyAQzWK2ti0F83zXRIkfg6SB_-JQO39M7vgwdku3mIWg251pgIjzQH6SrzF--Z5s6q_i-FtFyP6foQC321vu9ggAA.webp",
+   "date": "7 Jan 2026",
+   "snippet": "First, boil water. Fill a large saucepan or pot with a few inches of water. · Add the eggs. Once the water is boiling, place a few eggs on a ...",
+   "snippet_highlighted_words": [
+    "First, boil water"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "mins": 19
+     },
+     "extensions": [
+      "19 mins"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "First, boil water. Fill a large saucepan or pot with a few inches of water. · Add the eggs. Once the water is boiling, place a few eggs on a ...",
+     "source_info_link": "https://www.butterbeready.com/perfect-hard-boiled-eggs/",
+     "icon": "https://serpapi.com/images/i/UklGRtYAAABXRUJQVlA4IMoAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAKwogczcTWEBLAG8kDlAI2PGCPOtJLbK0CKgdeck-GgA_v0r2XerPnVyU98vSFp4d68h9jvUvmWYnR7_Yhi_xPeRp6NugweVAZKW2Qt_DhrP8E3V_hJOafiDOmKioTdN-ImSMJwIJ550Y4y_LhmiyAQzWK2ti0F83zXRIkfg6SB_-JQO39M7vgwdku3mIWg251pgIjzQH6SrzF--Z5s6q_i-FtFyP6foQC321vu9ggAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmpUTkNyTnllSVZkUjJ0WFlBRTkzeEhCb3BPZUJWdElldHY0SXJtRVZXZjQ0cW9JVEw0NkVNTlM2U1BxNmlXUGZfOEZfUGRjX2NrdnR1UGNHaWxkSkhoQWNSNF9XNFhsUXBraTdISEx2NFNyY2diR2lwdGVIZHRvN0l6dEtsZE5DeF9KYV9fVHBGY3lUbFZtNWRBEgQaAggAGpsEEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA9QMIABAAGAAgACoKCgNob3cVCVPQPyoJCgJ0bxUAAAAAKiAKBGJvaWwVSG_oPxoIYm9pbGVnZ3MaCWl2O3A7Ym9pbColCgRlZ2dzFUOjsUAaA2VnZxoIYm9pbGVnZ3MaCWl2O3A7ZWdnczKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZqVE5Dck55ZUlWZFIydFhZQUU5M3hIQm9wT2VCVnRJZXR2NElybUVWV2Y0NHFvSVRMNDZFTU5TNlNQcTZpV1BmXzhGX1BkY19ja3Z0dVBjR2lsZEpIaEFjUjRfVzRYbFFwa2k3SEhMdjRTcmNnYkdpcHRlSGR0bzdJenRLbGROQ3hfSmFfX1RwRmN5VGxWbTVkQTo2UGVyZmVjdCBIYXJkIEJvaWxlZCA8Yj5FZ2dzPC9iPiBSZWNpcGUgKEVhc3kgUGVlbGluZyEpQqMBPGI-Rmlyc3QsIGJvaWwgd2F0ZXI8L2I-LiBGaWxsIGEgbGFyZ2Ugc2F1Y2VwYW4gb3IgcG90IHdpdGggYSBmZXcgaW5jaGVzIG9mIHdhdGVyLiAmbWlkZG90OyBBZGQgdGhlIGVnZ3MuIE9uY2UgdGhlIHdhdGVyIGlzIGJvaWxpbmcsIHBsYWNlIGEgZmV3IGVnZ3Mgb24gYSZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmpUTkNyTnllSVZkUjJ0WFlBRTkzeEhCb3BPZUJWdElldHY0SXJtRVZXZjQ0cW9JVEw0NkVNTlM2U1BxNmlXUGZfOEZfUGRjX2NrdnR1UGNHaWxkSkhoQWNSNF9XNFhsUXBraTdISEx2NFNyY2diR2lwdGVIZHRvN0l6dEtsZE5DeF9KYV9fVHBGY3lUbFZtNWRBEgQaAggAGpsEEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA9QMIABAAGAAgACoKCgNob3cVCVPQPyoJCgJ0bxUAAAAAKiAKBGJvaWwVSG_oPxoIYm9pbGVnZ3MaCWl2O3A7Ym9pbColCgRlZ2dzFUOjsUAaA2VnZxoIYm9pbGVnZ3MaCWl2O3A7ZWdnczKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZqVE5Dck55ZUlWZFIydFhZQUU5M3hIQm9wT2VCVnRJZXR2NElybUVWV2Y0NHFvSVRMNDZFTU5TNlNQcTZpV1BmXzhGX1BkY19ja3Z0dVBjR2lsZEpIaEFjUjRfVzRYbFFwa2k3SEhMdjRTcmNnYkdpcHRlSGR0bzdJenRLbGROQ3hfSmFfX1RwRmN5VGxWbTVkQTo2UGVyZmVjdCBIYXJkIEJvaWxlZCA8Yj5FZ2dzPC9iPiBSZWNpcGUgKEVhc3kgUGVlbGluZyEpQqMBPGI-Rmlyc3QsIGJvaWwgd2F0ZXI8L2I-LiBGaWxsIGEgbGFyZ2Ugc2F1Y2VwYW4gb3IgcG90IHdpdGggYSBmZXcgaW5jaGVzIG9mIHdhdGVyLiAmbWlkZG90OyBBZGQgdGhlIGVnZ3MuIE9uY2UgdGhlIHdhdGVyIGlzIGJvaWxpbmcsIHBsYWNlIGEgZmV3IGVnZ3Mgb24gYSZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+   "source": "Butter Be Ready",
+   "read_more_link": "https://www.butterbeready.com/perfect-hard-boiled-eggs/#:~:text=First%2C%20boil%20water.%20Fill%20a,a%20few%20inches%20of%20water.&text=Add%20the%20eggs.%20Once%20the,eggs%20into%20the%20boiling%20water."
+  },
+  {
+   "position": 7,
+   "title": "How To Boil An Egg Perfectly | अंडे उबालने ने का सही तरीका",
+   "link": "https://www.youtube.com/watch?v=NtWRZLHSDwI&vl=en",
+   "displayed_link": "9.4L+ views · 6 years ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-67DkCoxq2AHBTsm2zYHTiSDm3niJNm4M-d1-9pOz36z9KlTZ8r8ew&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Don't boil eggs directly in water. · Easiest Peeling Perfect Hard-Boiled Eggs - Egg Shells Almost Fall Off · How to boil eggs so the shells ...",
+   "duration": "4:35",
+   "about_this_result": {
+    "source": {
+     "description": "Don't boil eggs directly in water. · Easiest Peeling Perfect Hard-Boiled Eggs - Egg Shells Almost Fall Off · How to boil eggs so the shells ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmJ1N29vRzRoUXJNd3pmWjdTT0hYZ1dyNlZrTFl5WHNQa2o1a1h1bTBnV3JfdE9aNkptZ3JZNjE4bURHZFNwaDZBQnNHeVEtdjlCOVRTZUtFWDYyaFduZkdqUFI3ZEtVVy1PUF9OY28zZE1XNUl2bDdjUTlmakxPSHYyT0N1eHFaVFhCSncycTZfURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmJ1N29vRzRoUXJNd3pmWjdTT0hYZ1dyNlZrTFl5WHNQa2o1a1h1bTBnV3JfdE9aNkptZ3JZNjE4bURHZFNwaDZBQnNHeVEtdjlCOVRTZUtFWDYyaFduZkdqUFI3ZEtVVy1PUF9OY28zZE1XNUl2bDdjUTlmakxPSHYyT0N1eHFaVFhCSncycTZfURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ0pQPsF7fvy1WwgFwEiTbEF0sLdgg7QpNjMw",
+   "source": "YouTube · Swaad Anusaar"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "How to boil eggs without breaking",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&q=How+to+boil+eggs+without+breaking&sa=X&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ1QJ6BAgzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=How+to+boil+eggs+without+breaking"
+  },
+  {
+   "block_position": 1,
+   "query": "How to boil eggs so they peel easily",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&q=How+to+boil+eggs+so+they+peel+easily&sa=X&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=How+to+boil+eggs+so+they+peel+easily"
+  },
+  {
+   "block_position": 1,
+   "query": "How to boil eggs from cold water",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&q=How+to+boil+eggs+from+cold+water&sa=X&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ1QJ6BAg5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=How+to+boil+eggs+from+cold+water"
+  },
+  {
+   "block_position": 1,
+   "query": "Youtube how to boil eggs",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&q=Youtube+how+to+boil+eggs&sa=X&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ1QJ6BAg4EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=Youtube+how+to+boil+eggs"
+  },
+  {
+   "block_position": 1,
+   "query": "How to boil eggs room temp",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&q=How+to+boil+eggs+room+temp&sa=X&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ1QJ6BAg3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=How+to+boil+eggs+room+temp"
+  },
+  {
+   "block_position": 1,
+   "query": "How long to cook hard boiled eggs on stove",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&q=How+long+to+cook+hard+boiled+eggs+on+stove&sa=X&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ1QJ6BAg2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=How+long+to+cook+hard+boiled+eggs+on+stove"
+  },
+  {
+   "block_position": 1,
+   "query": "How to boil eggs in air fryer",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&q=How+to+boil+eggs+in+air+fryer&sa=X&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ1QJ6BAg1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=How+to+boil+eggs+in+air+fryer"
+  },
+  {
+   "block_position": 1,
+   "query": "How long to boil an egg from cold water",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&q=How+long+to+boil+an+egg+from+cold+water&sa=X&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ1QJ6BAg0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=How+long+to+boil+an+egg+from+cold+water"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=10&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8NMDegQIMBAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=10&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8tMDegQIMBAE",
+   "3": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=20&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8tMDegQIMBAG",
+   "4": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=30&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8tMDegQIMBAI",
+   "5": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=40&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8tMDegQIMBAK",
+   "6": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=50&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8tMDegQIMBAM",
+   "7": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=60&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8tMDegQIMBAO",
+   "8": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=70&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8tMDegQIMBAQ",
+   "9": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=80&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8tMDegQIMBAS",
+   "10": "https://www.google.co.in/search?q=how+to+boil+eggs&sca_esv=d0fa25ced5188e1a&gl=in&hl=en&sxsrf=APpeQnufLk5ArUGj4FZETzoNXwwkcTOapQ:1791645978786&ei=GlnKaq29L8LU5NoPxbLn2Q0&start=90&sa=N&sstk=AS6-VmIHBA7_2Zg8C9sWLbCsFuCodoxZIEJVv2fvRqjdnzv1KA6JCmjJ9eiImXERgwp2ZpO05IwzklhJQe6MSkVsQ1eBpA2tb8odRg&ved=2ahUKEwitsoOx4a-XAxVCKlkFHUXZOdsQ8tMDegQIMBAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Mysuru%2CKarnataka%2CIndia&q=how+to+boil+eggs&start=90"
+  }
+ }
+}

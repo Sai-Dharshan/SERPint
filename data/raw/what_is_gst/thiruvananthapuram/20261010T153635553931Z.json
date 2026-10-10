@@ -1,0 +1,607 @@
+{
+ "search_metadata": {
+  "id": "6aca5b8322abf7269601ce32",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/5GQhOwG7fo63KAO8lM5x2WLJZccqjPsUmBM9BGps_BU/6aca5b8322abf7269601ce32.json",
+  "markdown_endpoint": "https://serpapi.com/searches/5GQhOwG7fo63KAO8lM5x2WLJZccqjPsUmBM9BGps_BU/6aca5b8322abf7269601ce32.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/5GQhOwG7fo63KAO8lM5x2WLJZccqjPsUmBM9BGps_BU/6aca5b8322abf7269601ce32.json_with_pixel_position",
+  "created_at": "2026-10-10 15:36:35 UTC",
+  "processed_at": "2026-10-10 15:36:35 UTC",
+  "google_url": "https://www.google.co.in/search?q=what+is+GST&oq=what+is+GST&uule=w+CAIQICIfVGhpcnV2YW5hbnRoYXB1cmFtLEtlcmFsYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/5GQhOwG7fo63KAO8lM5x2WLJZccqjPsUmBM9BGps_BU/6aca5b8322abf7269601ce32.html",
+  "total_time_taken": 33.09
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "what is GST",
+  "location_requested": "Thiruvananthapuram,Kerala,India",
+  "location_used": "Thiruvananthapuram,Kerala,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "what is GST",
+  "total_results": 123,
+  "time_taken_displayed": 0.14,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What is a GST for?",
+   "type": "ai_overview",
+   "page_token": "YoNPe3icHdDbToMwAADQ-DN7HC3MGZYsRpDLyGCh0HbwYqAdg5Wbo8rlzX_xq_wajZ9wztd3XbXi5yEtpeyHnaKM47i-dt21vqxZt65aJRvmliksq-s8Y2K3fdrC54LtrWE0zG40Qtz35BWB2PVwDvSWN_oUCjvI1WGDLTJl0KOJlsxMpB2CeAmBbkTCFhm2jyi2t-GC7EQQShppcTEsqdupviqPCCKStOWB1AH2G3TkGse01nHmHDbsTATSyoQ5wefJRR7R2JgL-e5bg4oBumcVrPxzcLs4CfTx1JycKcItuUUmAIHTl6cznrmGI1szHC5kyQQHIU2LWJVhRF5kKuQHBzZyKs9AbjCfaIp9TSyRCX1GJ0RuRsQWI_lzx4F4NCntYUy9dlWwz722-h_bvxWN3PX37voLUiV5hw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YoNPe3icHdDbToMwAADQ-DN7HC3MGZYsRpDLyGCh0HbwYqAdg5Wbo8rlzX_xq_wajZ9wztd3XbXi5yEtpeyHnaKM47i-dt21vqxZt65aJRvmliksq-s8Y2K3fdrC54LtrWE0zG40Qtz35BWB2PVwDvSWN_oUCjvI1WGDLTJl0KOJlsxMpB2CeAmBbkTCFhm2jyi2t-GC7EQQShppcTEsqdupviqPCCKStOWB1AH2G3TkGse01nHmHDbsTATSyoQ5wefJRR7R2JgL-e5bg4oBumcVrPxzcLs4CfTx1JycKcItuUUmAIHTl6cznrmGI1szHC5kyQQHIU2LWJVhRF5kKuQHBzZyKs9AbjCfaIp9TSyRCX1GJ0RuRsQWI_lzx4F4NCntYUy9dlWwz722-h_bvxWN3PX37voLUiV5hw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlYySnFlSFJ2VUdaeVFrNUZaMFpZTjJJNGF6WkpXRGx3UzFZdGRXNXdRbWwzZVZVNFkzUjBSbDlxUW5JNUxVaFJiV3BrVDBrMU0yWk5VbFUyT0RNMVVVbDVVREpzV210MVlYbGFlWEJoYkRGd2IzRmxjRkJzT1dvM1FSSVhjRVoyUzJGeVIzUkJabDlQYTFCSlVDMW1TMjUzUVZFYUlrRkVjM0k1WmxSeVVHRnJkbnB5VkdGWFMxbG5PRzR4VDNwNFNqQXdNWGsyVDBFIiwiZmN2IjoiMyIsImVpIjoicEZ2S2FyR3RBZl9Pa1BJUC1mS253QVEiLCJxYyI6IkNndDNhR0YwSUdseklHZHpkQkFBZlFsVEl6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIEdTVCBmb3I/IiwibGsiOiJHaEYzYUdGMElHbHpJR0VnWjNOMElHWnZjZyIsImJzIjoiYzMyUHNXNENNUXlHeFpxSjB1MGt3R0lxQThzdGpDZWtDc1NFRUVpZHJTUkFCQ1NuMk1mUlItbmJZcDhLVTlVdHNqOV8tWDh6TllPdkV6SUVBb1RWYmctSGxLdnl2WGhyWDlNanNVN04xc3c2MUNWUE1CRjJBc1FZblM0aFJDRjFUWXU2Qml1UHFvUmkxTjAybDRzeVY0VlVTX2lMbUlVWmRVck1IdmprWVE3OFhZczlIWUR4N3FrcXg4V3dfWTh3UHoyemVUWlF3S1pJSExqaGtDTEt2eG12dmszNTNLVmNwZVNra21UZS1Yd0xWa1I3dk1PSGxKbHF1blYwQWF0eVdYeTZRTGFoUDVWSXRiZXNDWTR2SFQxMUVrcEZRVVg5M2dNIiwiaWQiOiJmY19wRnZLYXJHdEFmX09rUElQLWZLbndBUV8zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlYySnFlSFJ2VUdaeVFrNUZaMFpZTjJJNGF6WkpXRGx3UzFZdGRXNXdRbWwzZVZVNFkzUjBSbDlxUW5JNUxVaFJiV3BrVDBrMU0yWk5VbFUyT0RNMVVVbDVVREpzV210MVlYbGFlWEJoYkRGd2IzRmxjRkJzT1dvM1FSSVhjRVoyUzJGeVIzUkJabDlQYTFCSlVDMW1TMjUzUVZFYUlrRkVjM0k1WmxSeVVHRnJkbnB5VkdGWFMxbG5PRzR4VDNwNFNqQXdNWGsyVDBFIiwiZmN2IjoiMyIsImVpIjoicEZ2S2FyR3RBZl9Pa1BJUC1mS253QVEiLCJxYyI6IkNndDNhR0YwSUdseklHZHpkQkFBZlFsVEl6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIEdTVCBmb3I%2FIiwibGsiOiJHaEYzYUdGMElHbHpJR0VnWjNOMElHWnZjZyIsImJzIjoiYzMyUHNXNENNUXlHeFpxSjB1MGt3R0lxQThzdGpDZWtDc1NFRUVpZHJTUkFCQ1NuMk1mUlItbmJZcDhLVTlVdHNqOV8tWDh6TllPdkV6SUVBb1RWYmctSGxLdnl2WGhyWDlNanNVN04xc3c2MUNWUE1CRjJBc1FZblM0aFJDRjFUWXU2Qml1UHFvUmkxTjAybDRzeVY0VlVTX2lMbUlVWmRVck1IdmprWVE3OFhZczlIWUR4N3FrcXg4V3dfWTh3UHoyemVUWlF3S1pJSExqaGtDTEt2eG12dmszNTNLVmNwZVNra21UZS1Yd0xWa1I3dk1PSGxKbHF1blYwQWF0eVdYeTZRTGFoUDVWSXRiZXNDWTR2SFQxMUVrcEZRVVg5M2dNIiwiaWQiOiJmY19wRnZLYXJHdEFmX09rUElQLWZLbndBUV8zIn0%3D"
+  },
+  {
+   "question": "What does \"GST\" stand for in a WhatsApp chat?",
+   "type": "ai_overview",
+   "page_token": "8imYc3icHdBRkpowGADg6WX2URNQOzjj7AwIutSwJZAQ_peOhCqSEDIsistb79Aj9FQ9TWf6HeH79UffjPr75XczjvZju1xO07S49v1V_1zIfnEzy_PHp5FLeda6Oku13Xzd4NeL3IUP6QeD9FNmLd9TlBk6MO037BOtOHu6ddscSeeJyoDmhbeGA8WJ6qfMIY7UdoIMj5XTbLKoCcAhU6Ioo854kUaDdOM8deN7dljzzMD9jGJGHHuQc1xyFAUQeivJ-UM4SVK09Q2Up-sAZ--RPVGlVmUOItWwrw_xN8rlM0dsLlUSEBU-SacLgrQpQnjLhbV5wY_vRRxWLf1OMFWsq0nZkpFguGed7SXiPeAGA1vfmYFYIIjDpp6ogVMp4mMdRp1A3sBCnZ4KOFWm9hntbymjs2x1x7QmkuF9Id6mSuGhbK-ICD2TEBS40SoX_szSl4t87NyX_9e7H5du3Nqhv_4Da4CN3A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8imYc3icHdBRkpowGADg6WX2URNQOzjj7AwIutSwJZAQ_peOhCqSEDIsistb79Aj9FQ9TWf6HeH79UffjPr75XczjvZju1xO07S49v1V_1zIfnEzy_PHp5FLeda6Oku13Xzd4NeL3IUP6QeD9FNmLd9TlBk6MO037BOtOHu6ddscSeeJyoDmhbeGA8WJ6qfMIY7UdoIMj5XTbLKoCcAhU6Ioo854kUaDdOM8deN7dljzzMD9jGJGHHuQc1xyFAUQeivJ-UM4SVK09Q2Up-sAZ--RPVGlVmUOItWwrw_xN8rlM0dsLlUSEBU-SacLgrQpQnjLhbV5wY_vRRxWLf1OMFWsq0nZkpFguGed7SXiPeAGA1vfmYFYIIjDpp6ogVMp4mMdRp1A3sBCnZ4KOFWm9hntbymjs2x1x7QmkuF9Id6mSuGhbK-ICD2TEBS40SoX_szSl4t87NyX_9e7H5du3Nqhv_4Da4CN3A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlYySnFlSFJ2VUdaeVFrNUZaMFpZTjJJNGF6WkpXRGx3UzFZdGRXNXdRbWwzZVZVNFkzUjBSbDlxUW5JNUxVaFJiV3BrVDBrMU0yWk5VbFUyT0RNMVVVbDVVREpzV210MVlYbGFlWEJoYkRGd2IzRmxjRkJzT1dvM1FSSVhjRVoyUzJGeVIzUkJabDlQYTFCSlVDMW1TMjUzUVZFYUlrRkVjM0k1WmxSeVVHRnJkbnB5VkdGWFMxbG5PRzR4VDNwNFNqQXdNWGsyVDBFIiwiZmN2IjoiMyIsImVpIjoicEZ2S2FyR3RBZl9Pa1BJUC1mS253QVEiLCJxYyI6IkNndDNhR0YwSUdseklHZHpkQkFBZlFsVEl6OCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIFwiR1NUXCIgc3RhbmQgZm9yIGluIGEgV2hhdHNBcHAgY2hhdD8iLCJsayI6IkdoNW5jM1FnWm5Wc2JDQm1iM0p0SUdsdUlIZG9ZWFJ6WVhCd0lHTm9ZWFEiLCJicyI6ImMzMlBzVzRDTVF5R3hacUowdTBrd0dJcUE4c3RqQ2VrQ3NTRUVFaWRyU1JBQkNTbjJNZlJSLW5iWXA4S1U5VXRzajlfLVg4ek5ZT3ZFeklFQW9UVmJnLUhsS3Z5dlhoclg5TWpzVTdOMXN3NjFDVlBNQkYyQXNRWW5TNGhSQ0YxVFl1NkJpdVBxb1JpMU4wMmw0c3lWNFZVU19pTG1JVVpkVXJNSHZqa1lRNzhYWXM5SFlEeDdxa3F4OFd3X1k4d1B6MnplVFpRd0taSUhMamhrQ0xLdnhtdnZrMzUzS1ZjcGVTa2ttVGUtWHdMVmtSN3ZNT0hsSmxxdW5WMEFhdHlXWHk2UUxhaFA1Vkl0YmVzQ1k0dkhUMTFFa3BGUVVYOTNnTSIsImlkIjoiZmNfcEZ2S2FyR3RBZl9Pa1BJUC1mS253QVFfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlYySnFlSFJ2VUdaeVFrNUZaMFpZTjJJNGF6WkpXRGx3UzFZdGRXNXdRbWwzZVZVNFkzUjBSbDlxUW5JNUxVaFJiV3BrVDBrMU0yWk5VbFUyT0RNMVVVbDVVREpzV210MVlYbGFlWEJoYkRGd2IzRmxjRkJzT1dvM1FSSVhjRVoyUzJGeVIzUkJabDlQYTFCSlVDMW1TMjUzUVZFYUlrRkVjM0k1WmxSeVVHRnJkbnB5VkdGWFMxbG5PRzR4VDNwNFNqQXdNWGsyVDBFIiwiZmN2IjoiMyIsImVpIjoicEZ2S2FyR3RBZl9Pa1BJUC1mS253QVEiLCJxYyI6IkNndDNhR0YwSUdseklHZHpkQkFBZlFsVEl6OCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIFwiR1NUXCIgc3RhbmQgZm9yIGluIGEgV2hhdHNBcHAgY2hhdD8iLCJsayI6IkdoNW5jM1FnWm5Wc2JDQm1iM0p0SUdsdUlIZG9ZWFJ6WVhCd0lHTm9ZWFEiLCJicyI6ImMzMlBzVzRDTVF5R3hacUowdTBrd0dJcUE4c3RqQ2VrQ3NTRUVFaWRyU1JBQkNTbjJNZlJSLW5iWXA4S1U5VXRzajlfLVg4ek5ZT3ZFeklFQW9UVmJnLUhsS3Z5dlhoclg5TWpzVTdOMXN3NjFDVlBNQkYyQXNRWW5TNGhSQ0YxVFl1NkJpdVBxb1JpMU4wMmw0c3lWNFZVU19pTG1JVVpkVXJNSHZqa1lRNzhYWXM5SFlEeDdxa3F4OFd3X1k4d1B6MnplVFpRd0taSUhMamhrQ0xLdnhtdnZrMzUzS1ZjcGVTa2ttVGUtWHdMVmtSN3ZNT0hsSmxxdW5WMEFhdHlXWHk2UUxhaFA1Vkl0YmVzQ1k0dkhUMTFFa3BGUVVYOTNnTSIsImlkIjoiZmNfcEZ2S2FyR3RBZl9Pa1BJUC1mS253QVFfMyJ9"
+  },
+  {
+   "question": "What are the 7 types of taxes?",
+   "type": "ai_overview",
+   "page_token": "Yo9XTXicHdBRboIwAADQ7DJ-KgXnoolZ4qAig7IW2kJ_FihThFKY4FD-dpedaqdZsneE9_2jzrr-fbiVw9D1m8ViHMf5qW1P6mMu2_lZL7L-ruVCZkrlmaw3q6cVeD7KrXM97F4-DztMu47ZxIhtZgdukaB6yHyOXJwIN6K3MlCwp6a3J3VpMRhYYQS6zELXzIYHwcqRcBgg43EVcC_m-yHgunhlRj-FMUwyzu68UnaqSYVqLyQNGyIOIXfWb7lTvgQgvTPQIVkDM4e7hJjAjRnhNBZhegZIOGCFzYHKivUpHUHEB8Qr4SBbaDKxKKpT4NPy5kfALnTn5pwtA0OEyeRppyxGooWfJp5bOLBJjPWFOgr7XPi5LnaUtGdMySQr1dAJm7kJvljTLyNVmjSpLayQz9hpwhTB1GRYjLOj_Npas__P7fuxGTbdpT39Af-Sgsc",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Yo9XTXicHdBRboIwAADQ7DJ-KgXnoolZ4qAig7IW2kJ_FihThFKY4FD-dpedaqdZsneE9_2jzrr-fbiVw9D1m8ViHMf5qW1P6mMu2_lZL7L-ruVCZkrlmaw3q6cVeD7KrXM97F4-DztMu47ZxIhtZgdukaB6yHyOXJwIN6K3MlCwp6a3J3VpMRhYYQS6zELXzIYHwcqRcBgg43EVcC_m-yHgunhlRj-FMUwyzu68UnaqSYVqLyQNGyIOIXfWb7lTvgQgvTPQIVkDM4e7hJjAjRnhNBZhegZIOGCFzYHKivUpHUHEB8Qr4SBbaDKxKKpT4NPy5kfALnTn5pwtA0OEyeRppyxGooWfJp5bOLBJjPWFOgr7XPi5LnaUtGdMySQr1dAJm7kJvljTLyNVmjSpLayQz9hpwhTB1GRYjLOj_Npas__P7fuxGTbdpT39Af-Sgsc",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlYySnFlSFJ2VUdaeVFrNUZaMFpZTjJJNGF6WkpXRGx3UzFZdGRXNXdRbWwzZVZVNFkzUjBSbDlxUW5JNUxVaFJiV3BrVDBrMU0yWk5VbFUyT0RNMVVVbDVVREpzV210MVlYbGFlWEJoYkRGd2IzRmxjRkJzT1dvM1FSSVhjRVoyUzJGeVIzUkJabDlQYTFCSlVDMW1TMjUzUVZFYUlrRkVjM0k1WmxSeVVHRnJkbnB5VkdGWFMxbG5PRzR4VDNwNFNqQXdNWGsyVDBFIiwiZmN2IjoiMyIsImVpIjoicEZ2S2FyR3RBZl9Pa1BJUC1mS253QVEiLCJxYyI6IkNndDNhR0YwSUdseklHZHpkQkFBZlFsVEl6OCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDcgdHlwZXMgb2YgdGF4ZXM/IiwibGsiOiJHaDEzYUdGMElHRnlaU0IwYUdVZ055QjBlWEJsY3lCdlppQjBZWGhsY3ciLCJicyI6ImMzMlBzVzRDTVF5R3hacUowdTBrd0dJcUE4c3RqQ2VrQ3NTRUVFaWRyU1JBQkNTbjJNZlJSLW5iWXA4S1U5VXRzajlfLVg4ek5ZT3ZFeklFQW9UVmJnLUhsS3Z5dlhoclg5TWpzVTdOMXN3NjFDVlBNQkYyQXNRWW5TNGhSQ0YxVFl1NkJpdVBxb1JpMU4wMmw0c3lWNFZVU19pTG1JVVpkVXJNSHZqa1lRNzhYWXM5SFlEeDdxa3F4OFd3X1k4d1B6MnplVFpRd0taSUhMamhrQ0xLdnhtdnZrMzUzS1ZjcGVTa2ttVGUtWHdMVmtSN3ZNT0hsSmxxdW5WMEFhdHlXWHk2UUxhaFA1Vkl0YmVzQ1k0dkhUMTFFa3BGUVVYOTNnTSIsImlkIjoiZmNfcEZ2S2FyR3RBZl9Pa1BJUC1mS253QVFfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlYySnFlSFJ2VUdaeVFrNUZaMFpZTjJJNGF6WkpXRGx3UzFZdGRXNXdRbWwzZVZVNFkzUjBSbDlxUW5JNUxVaFJiV3BrVDBrMU0yWk5VbFUyT0RNMVVVbDVVREpzV210MVlYbGFlWEJoYkRGd2IzRmxjRkJzT1dvM1FSSVhjRVoyUzJGeVIzUkJabDlQYTFCSlVDMW1TMjUzUVZFYUlrRkVjM0k1WmxSeVVHRnJkbnB5VkdGWFMxbG5PRzR4VDNwNFNqQXdNWGsyVDBFIiwiZmN2IjoiMyIsImVpIjoicEZ2S2FyR3RBZl9Pa1BJUC1mS253QVEiLCJxYyI6IkNndDNhR0YwSUdseklHZHpkQkFBZlFsVEl6OCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDcgdHlwZXMgb2YgdGF4ZXM%2FIiwibGsiOiJHaDEzYUdGMElHRnlaU0IwYUdVZ055QjBlWEJsY3lCdlppQjBZWGhsY3ciLCJicyI6ImMzMlBzVzRDTVF5R3hacUowdTBrd0dJcUE4c3RqQ2VrQ3NTRUVFaWRyU1JBQkNTbjJNZlJSLW5iWXA4S1U5VXRzajlfLVg4ek5ZT3ZFeklFQW9UVmJnLUhsS3Z5dlhoclg5TWpzVTdOMXN3NjFDVlBNQkYyQXNRWW5TNGhSQ0YxVFl1NkJpdVBxb1JpMU4wMmw0c3lWNFZVU19pTG1JVVpkVXJNSHZqa1lRNzhYWXM5SFlEeDdxa3F4OFd3X1k4d1B6MnplVFpRd0taSUhMamhrQ0xLdnhtdnZrMzUzS1ZjcGVTa2ttVGUtWHdMVmtSN3ZNT0hsSmxxdW5WMEFhdHlXWHk2UUxhaFA1Vkl0YmVzQ1k0dkhUMTFFa3BGUVVYOTNnTSIsImlkIjoiZmNfcEZ2S2FyR3RBZl9Pa1BJUC1mS253QVFfMyJ9"
+  },
+  {
+   "question": "What is the constitutional framework for Goods and Services Tax (GST) in India?",
+   "type": "ai_overview",
+   "page_token": "AXDNbHicHdBRbpswGABg7TJ9TAyErIkUVWLYkBZYMRiDXyb4TUKCDSSlJeFtd9gReqqeptK-I3x_P9Wpa79-_GvGcXjbLpfTNC2OfX9U9QL6xalblm_3DpZQKlWV0G7XP9fG0wF2-AOcX1dwYjYMmUtR6kWEeiKucDxDnqkqky_SzTIgTQjmxheucwlygUq0waCGJk7FvdbGRbrNoUDTLZoLu2L9GGoyUCJdZm5IclZeajh-ycIb5RIFnOjEIuua7e-yU0LM4Ur4KhNK7aUp0zptrWom5zqL3pNza6WMWMlMOMzq9Te3u5ihCdImSUgxckVEoVUDLjYYakTNVya19mPJZVIg24lIdqFa3CKLrNL28R4Z-FZ6YiXQc4cbOdFOBEX-7EtMdI42V4ZVHHARVJ10GO1PMaMznJVmGkzKaR5q4UZYmSG2-wJJj_vOJDRlIR9sFj8c4GNnPfy_3v056HE7XPvjN2vcjSE",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AXDNbHicHdBRbpswGABg7TJ9TAyErIkUVWLYkBZYMRiDXyb4TUKCDSSlJeFtd9gReqqeptK-I3x_P9Wpa79-_GvGcXjbLpfTNC2OfX9U9QL6xalblm_3DpZQKlWV0G7XP9fG0wF2-AOcX1dwYjYMmUtR6kWEeiKucDxDnqkqky_SzTIgTQjmxheucwlygUq0waCGJk7FvdbGRbrNoUDTLZoLu2L9GGoyUCJdZm5IclZeajh-ycIb5RIFnOjEIuua7e-yU0LM4Ur4KhNK7aUp0zptrWom5zqL3pNza6WMWMlMOMzq9Te3u5ihCdImSUgxckVEoVUDLjYYakTNVya19mPJZVIg24lIdqFa3CKLrNL28R4Z-FZ6YiXQc4cbOdFOBEX-7EtMdI42V4ZVHHARVJ10GO1PMaMznJVmGkzKaR5q4UZYmSG2-wJJj_vOJDRlIR9sFj8c4GNnPfy_3v056HE7XPvjN2vcjSE",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlYySnFlSFJ2VUdaeVFrNUZaMFpZTjJJNGF6WkpXRGx3UzFZdGRXNXdRbWwzZVZVNFkzUjBSbDlxUW5JNUxVaFJiV3BrVDBrMU0yWk5VbFUyT0RNMVVVbDVVREpzV210MVlYbGFlWEJoYkRGd2IzRmxjRkJzT1dvM1FSSVhjRVoyUzJGeVIzUkJabDlQYTFCSlVDMW1TMjUzUVZFYUlrRkVjM0k1WmxSeVVHRnJkbnB5VkdGWFMxbG5PRzR4VDNwNFNqQXdNWGsyVDBFIiwiZmN2IjoiMyIsImVpIjoicEZ2S2FyR3RBZl9Pa1BJUC1mS253QVEiLCJxYyI6IkNndDNhR0YwSUdseklHZHpkQkFBZlFsVEl6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgY29uc3RpdHV0aW9uYWwgZnJhbWV3b3JrIGZvciBHb29kcyBhbmQgU2VydmljZXMgVGF4IChHU1QpIGluIEluZGlhPyIsImxrIjoiY3czS3dRbUFRQXdFd0Q1OGJURTJFcEtvQVVua05pZVc3OEU4WjlzdHFKTkVYdzZ0WkVmUGprcTVJWHhjRzNYZ3JESkMwa0FmYjZpdkx4OGlGd3Y1QVEiLCJicyI6ImMzMlBzVzRDTVF5R3hacUowdTBrd0dJcUE4c3RqQ2VrQ3NTRUVFaWRyU1JBQkNTbjJNZlJSLW5iWXA4S1U5VXRzajlfLVg4ek5ZT3ZFeklFQW9UVmJnLUhsS3Z5dlhoclg5TWpzVTdOMXN3NjFDVlBNQkYyQXNRWW5TNGhSQ0YxVFl1NkJpdVBxb1JpMU4wMmw0c3lWNFZVU19pTG1JVVpkVXJNSHZqa1lRNzhYWXM5SFlEeDdxa3F4OFd3X1k4d1B6MnplVFpRd0taSUhMamhrQ0xLdnhtdnZrMzUzS1ZjcGVTa2ttVGUtWHdMVmtSN3ZNT0hsSmxxdW5WMEFhdHlXWHk2UUxhaFA1Vkl0YmVzQ1k0dkhUMTFFa3BGUVVYOTNnTSIsImlkIjoiZmNfcEZ2S2FyR3RBZl9Pa1BJUC1mS253QVFfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlYySnFlSFJ2VUdaeVFrNUZaMFpZTjJJNGF6WkpXRGx3UzFZdGRXNXdRbWwzZVZVNFkzUjBSbDlxUW5JNUxVaFJiV3BrVDBrMU0yWk5VbFUyT0RNMVVVbDVVREpzV210MVlYbGFlWEJoYkRGd2IzRmxjRkJzT1dvM1FSSVhjRVoyUzJGeVIzUkJabDlQYTFCSlVDMW1TMjUzUVZFYUlrRkVjM0k1WmxSeVVHRnJkbnB5VkdGWFMxbG5PRzR4VDNwNFNqQXdNWGsyVDBFIiwiZmN2IjoiMyIsImVpIjoicEZ2S2FyR3RBZl9Pa1BJUC1mS253QVEiLCJxYyI6IkNndDNhR0YwSUdseklHZHpkQkFBZlFsVEl6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgY29uc3RpdHV0aW9uYWwgZnJhbWV3b3JrIGZvciBHb29kcyBhbmQgU2VydmljZXMgVGF4IChHU1QpIGluIEluZGlhPyIsImxrIjoiY3czS3dRbUFRQXdFd0Q1OGJURTJFcEtvQVVua05pZVc3OEU4WjlzdHFKTkVYdzZ0WkVmUGprcTVJWHhjRzNYZ3JESkMwa0FmYjZpdkx4OGlGd3Y1QVEiLCJicyI6ImMzMlBzVzRDTVF5R3hacUowdTBrd0dJcUE4c3RqQ2VrQ3NTRUVFaWRyU1JBQkNTbjJNZlJSLW5iWXA4S1U5VXRzajlfLVg4ek5ZT3ZFeklFQW9UVmJnLUhsS3Z5dlhoclg5TWpzVTdOMXN3NjFDVlBNQkYyQXNRWW5TNGhSQ0YxVFl1NkJpdVBxb1JpMU4wMmw0c3lWNFZVU19pTG1JVVpkVXJNSHZqa1lRNzhYWXM5SFlEeDdxa3F4OFd3X1k4d1B6MnplVFpRd0taSUhMamhrQ0xLdnhtdnZrMzUzS1ZjcGVTa2ttVGUtWHdMVmtSN3ZNT0hsSmxxdW5WMEFhdHlXWHk2UUxhaFA1Vkl0YmVzQ1k0dkhUMTFFa3BGUVVYOTNnTSIsImlkIjoiZmNfcEZ2S2FyR3RBZl9Pa1BJUC1mS253QVFfMyJ9"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "GST stands for Goods and Services Tax, a comprehensive, multi-stage, destination-based indirect tax levied on the supply of goods and services. Introduced in India on July 1, 2017, it replaced a web of multiple overlapping central and state indirect taxes—such as VAT, service tax, central excise duty, and luxury tax—under a unified \"one nation, one tax\" framework.",
+    "reference_indexes": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Indirect Tax: It is collected by the seller at the point of sale and eventually borne by the end consumer.",
+      "reference_indexes": [
+       5,
+       6,
+       7
+      ]
+     },
+     {
+      "snippet": "Destination-Based: The tax revenue goes to the state where the goods or services are consumed rather than where they are produced.",
+      "reference_indexes": [
+       5,
+       8
+      ]
+     },
+     {
+      "snippet": "Multi-Stage & Input Tax Credit (ITC): Tax is applied at every step of the supply chain. Businesses can claim credit for the GST they paid on raw materials or business expenses, ensuring tax is paid only on the value added at each stage (eliminating the \"cascading\" or tax-on-tax effect)."
+     },
+     {
+      "snippet": "CGST (Central Goods and Services Tax): Levied by the Central Government on intra-state sales (within the same state).",
+      "reference_indexes": [
+       5
+      ]
+     },
+     {
+      "snippet": "SGST (State Goods and Services Tax): Levied by the State Government on intra-state sales.",
+      "reference_indexes": [
+       5,
+       9
+      ]
+     },
+     {
+      "snippet": "IGST (Integrated Goods and Services Tax): Levied by the Central Government on inter-state (between two different states) sales and imports.",
+      "reference_indexes": [
+       5,
+       9
+      ]
+     },
+     {
+      "snippet": "UGST (Union Territory Goods and Services Tax): Levied on transactions within Union Territories without a legislature."
+     }
+    ],
+    "reference_indexes": [
+     2,
+     5,
+     6,
+     7,
+     8,
+     10
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Goods and services are categorized into different tax brackets—frequently including rates like 0%, 5%, 12%, 18%, and 28%—depending on whether they are daily essentials, standard services, or luxury items.",
+    "reference_indexes": [
+     3,
+     4,
+     11
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "You can read a detailed overview of compliance and rules on the CBIC GST Portal.",
+    "snippet_links": [
+     {
+      "text": "CBIC GST Portal",
+      "link": "https://cbic-gst.gov.in/about-gst.html"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "What is GST (Goods and Services Tax): Definition, Calculation, Types ...",
+    "link": "https://www.kotak.bank.in/en/stories-in-focus/taxes/goods-and-services-tax-gst.html",
+    "snippet": "As the name suggests, GST is a unified tax system combining goods and services into one, making life easier for businesses and bolstering the economy. The meaning ...",
+    "source": "Kotak Mahindra Bank",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kotak.bank.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxlXtLwc41CNSzLY-2-tEXIW7pllt9iiKWXzh3aj-E5tpUnGCCNDhv-eK-F3ZMAQQT7Gs2hlnuNE558Brx65Nq_J16uN-o_ZvHAava"
+   },
+   {
+    "index": 1,
+    "title": "What is GST in India? Meaning, Types and Registration Process | Bajaj Finance",
+    "link": "https://www.bajajfinserv.in/gst",
+    "snippet": "Meaning: Goods and Services Tax (GST) is a multi-stage, destination-based indirect tax implemented in India on July 1, 2017, replacing numerous central and state t...",
+    "source": "Bajaj Finserv",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bajajfinserv.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2DtRTQwgoPLBIlIzelOKDLOLq-gN4Mwiybjht1NLPIOdM__kagPuLMGKsA9_RH7qVYDuBN2Aj7qg84sBU577Wjp-w1ABLAObGGI-y"
+   },
+   {
+    "index": 2,
+    "title": "What is GST in India: Goods and Services Tax Example, and How it ...",
+    "link": "https://razorpay.com/learn/gst-goods-and-services-tax-guide/",
+    "snippet": "GST stands for Goods and Services Tax. It is a comprehensive indirect tax levied on the supply of goods and services across India. Introduced on July 1, 2017, GST ...",
+    "source": "Razorpay",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://razorpay.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgrRR-QcYmdP8YgCh0VN7tjc6DTqi-s0tTC_0FIuTJTUh08ztCG6M8KasnDkeLBS6ENIF0LPzfEjBIF7V0yB0c7wmegi6bQ93rN3D4"
+   },
+   {
+    "index": 3,
+    "title": "What is GST? - Meaning Definition & Objectives | SBI Life",
+    "link": "https://www.sbilife.co.in/blogs/tax/what-is-gst-meaning-definition-objectives",
+    "snippet": "What is GST? - Meaning Definition & Objectives | SBI Life * Did you know that most of us, directly or indirectly, pay GST? Did you know that most of us, directly o...",
+    "source": "SBI Life Insurance",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sbilife.co.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DfFscEOOdhR9pHxr1mfdR5ezntphYRpbBWYWbT50n-OUTIIR46dfFQc-rU2nSWgXjhsZZ3iLujg7CcyocNv2eXk5AsJRrbX89LMk"
+   },
+   {
+    "index": 4,
+    "title": "GST Explained | What is GST? Latest Tax Simplified for Beginners",
+    "link": "https://www.youtube.com/watch?v=IBr7ooOi6sQ&t=14",
+    "snippet": "GST Explained | What is GST? Latest Tax Simplified for Beginners whether you're a student a professional or just someone trying to understand how the tax system. w",
+    "source": "YouTube",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqkJIz-IERquG3E1_stQbC7y3C0WDUKssDMRmtPOVGAq2JDO0on-9Wgku9rOscQdOElHitmX3Ub87X8yibkGnteoUaEJEZ2cQETjCZ"
+   },
+   {
+    "index": 5,
+    "title": "What is GST? The 2026 Guide to GST for Indian Businesses - Tally Solutions",
+    "link": "https://tallysolutions.com/gst/what-is-gst-business-guide/",
+    "snippet": "What is GST? A Complete Guide for Indian Businesses (2026 Edition) * India's tax landscape changed permanently on July 1, 2017. With a single stroke, over 17 diffe...",
+    "source": "Tally Solutions",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://tallysolutions.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlmIIRZWhET9Mt-m0nszXuTuaWevhzhwr9BHRsS50E8gHXS98mEPfWHUIuFJDoHfLsv_FOOKyOnIE6tr7GdwGVAyJXcp4zqqYOYzAS"
+   },
+   {
+    "index": 6,
+    "title": "Goods and Services Tax (GST): Definition, Types, and How It's ...",
+    "link": "https://www.investopedia.com/terms/g/gst.asp",
+    "snippet": "* Goods and Services Tax (GST) * Understanding the GST. * Why Governments Use GST. * Dual Tax Structures. * Critiques of the GST. * Example: India. * GST vs. GST T...",
+    "source": "Investopedia",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvCYe70YMR3i8W6YvuJ-pFLmmPEUHpTYSdkJcpIbTYOLztdiBDL66i43EIRGQjNn_qnhN-jCslm12y034JTBGs0c5sUNp-pEJPqvkH"
+   },
+   {
+    "index": 7,
+    "title": "Q 1. What is GST (Goods and Service Tax)? Ans. GST is a levy of tax on ...",
+    "link": "https://www.iocl.com/Download/FAQ-Introduction.pdf",
+    "snippet": "Q 1. What is GST (Goods and Service Tax)? Ans. GST is a levy of tax on the value addition on every transaction of supply of Good Page 1 Q 1. What is GST (Goods and...",
+    "source": "Indian Oil Corporation Ltd.",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.iocl.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3AozvW5qKnppPrPieGgIQq8275gNUJP-zmTalDfQVoTF7uS-4qUXGtt3gwR5zYg5v9hAQ0lsFSaXNigxETI3sKXjMOHc1RmfaDVk"
+   },
+   {
+    "index": 8,
+    "title": "GST (Goods and Services Tax) - Definition, What is ...",
+    "link": "https://cleartax.in/glossary/gst-goods-and-services-tax",
+    "snippet": "GST (Goods and Services Tax) * What is GST? Goods and Services Tax (GST) is an indirect tax which is levied on the supply of goods and services in India. It is a c...",
+    "source": "ClearTax",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cleartax.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjhdxNhgeyjYW22xxNMGMQ7QReCvV8h7iQPgAnfLGbmLyy3oGPA7IrviUh6IvT-QpDLyeUJiTnoJvTrMhNcTAT62Il"
+   },
+   {
+    "index": 9,
+    "title": "Types of GST (Goods and Services Tax) in India | Explained",
+    "link": "https://www.kotak.bank.in/en/stories-in-focus/taxes/types-of-gst.html",
+    "snippet": "Components of GST and its Explanation * SGST (State Goods and Services Tax): Similar to CGST, SGST is the tax collected by the state Government through an intrasta...",
+    "source": "Kotak Mahindra Bank",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kotak.bank.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNUxWb0ViF2bTbUmnoRm_XhHhO9yUES8B77TFAeDA4iBGTLRKqrwBDVXXCEp-1zexFlMhrKjup-LLVOUp5BNHEZCHvlEKIPTTBYAF6"
+   },
+   {
+    "index": 10,
+    "title": "What is GST - Types, Objectives & Advantages of GST",
+    "link": "https://www.dbs.bank.in/digibank/in/articles/save/what-is-gst",
+    "snippet": "Meaning: Goods and Services Tax (GST) is a unified destination-based indirect tax introduced in India on July 1, 2017, eliminating cascading tax effects and curbin...",
+    "source": "DBS Bank",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dbs.bank.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5RGXE7Ym7AmdIZU64RetDZCqviPPDe1WGNsddu7Jn4qgZR_6peYNRwvx0CHV0d2ze7nqIB7RHZECPt_9un7mRFKOk9P8wVqTbOk61"
+   },
+   {
+    "index": 11,
+    "title": "Goods and Services Tax (GST) (Part-1) - Simplified | Drishti IAS English",
+    "link": "https://www.youtube.com/watch?v=BpKn4AG9QlU&t=22",
+    "snippet": "today's topic of discussion is goods and services tax that is GST part one in the part one The dimensions we are going to cover are introduction GST architecture a",
+    "source": "YouTube",
+    "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ964Tha08BtLkIEimV9uxCKDxrVbVUN48RPMHoDi-bKY8no-wCjUgi2I94uTMbDzA6RuNowWLBn0XPlajRZ7vTPpIDQGAE5ncRfgyU"
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Concept Note on GST | DOR",
+   "link": "https://dor.gov.in/concept-note-gst",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVzUzzCK6AwPiMuit1jT3u5hFzVWog5kHF-zcDfrYU4w9HNhfwCV_34oQAAb5NNK6CvQ1pu7RNUaRCkT4DzTGm2nwM3JsjyUDzLmH9Je6uQeebucWaczU-lok&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://dor.gov.in › concept-note-gst",
+   "favicon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAADwBwCdASogACAAPtE-tFooIigoFAEAGglsAMD5gEyS7yAvwLg8zvPtfoSpst_OPNB6VhK7UoHkdEbq0jMwDdZbhY2JWBlQ8tAA_v3bo9_-Kb7c1rofDiQee7fL6FwBJK42LOASQZIpowsRDIutZIlmVmO0pRdUGe4zS3BYAxVoFlJA_digWRBRe3927CoCIh-K5yOOFaJrGN4FzvlWWaIGqSzffYDzgOfZREXHjAUVHE7QaBNvvRSHcJfirK3B4Bjz5tC0vz7VYasUZpNQhTqWg1M_WF5yMs073K50Ph_88L72aIGBKbQzh4OR_ogbkFds7eSMeRYNfR5TAV-4vlBULvLrlaDSgTv1s0j1eHuK4dq-ShpcpH9ezxuVftWGN_87N_oBhYUwLm9jOCCieTsLYGbbE_3yK1Fgtsd_Wnzc1HK7z8ygpZh_mTYViE6d8JTkRt_4_aOJVvscqjaH80Q3vg9C3uOHQdFShh7enJoFktvrgZFJaWPnS4haGEJ8prQ5No_ZgAA.webp",
+   "snippet": "Goods and Services Tax (GST) in the country. GST will simplify and harmonise the indirect tax regime in the country. Tax GST will be a destination-based tax ...",
+   "snippet_highlighted_words": [
+    "Goods and Services Tax (GST"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Goods and Services Tax (GST) in the country. GST will simplify and harmonise the indirect tax regime in the country. Tax GST will be a destination-based tax ...",
+     "source_info_link": "https://dor.gov.in/concept-note-gst",
+     "icon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAADwBwCdASogACAAPtE-tFooIigoFAEAGglsAMD5gEyS7yAvwLg8zvPtfoSpst_OPNB6VhK7UoHkdEbq0jMwDdZbhY2JWBlQ8tAA_v3bo9_-Kb7c1rofDiQee7fL6FwBJK42LOASQZIpowsRDIutZIlmVmO0pRdUGe4zS3BYAxVoFlJA_digWRBRe3927CoCIh-K5yOOFaJrGN4FzvlWWaIGqSzffYDzgOfZREXHjAUVHE7QaBNvvRSHcJfirK3B4Bjz5tC0vz7VYasUZpNQhTqWg1M_WF5yMs073K50Ph_88L72aIGBKbQzh4OR_ogbkFds7eSMeRYNfR5TAV-4vlBULvLrlaDSgTv1s0j1eHuK4dq-ShpcpH9ezxuVftWGN_87N_oBhYUwLm9jOCCieTsLYGbbE_3yK1Fgtsd_Wnzc1HK7z8ygpZh_mTYViE6d8JTkRt_4_aOJVvscqjaH80Q3vg9C3uOHQdFShh7enJoFktvrgZFJaWPnS4haGEJ8prQ5No_ZgAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnpVenpDSzZBd1BpTXVpdDFqVDN1NWhGelZXb2c1a0hGLXpjRGZyWVU0dzlITmhmd0NWXzM0b1FBQWI1Tk5LNkN2UTFwdTdSTlVhUkNrVDREelRHbTJud00zSnNqeVVEekxtSDlKZTZ1UWVlYnVjV2FjelUtbG9rEgQaAggAGtwDEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtgMIABAAGAAgACoSCgR3aGF0FZdaBT0aBXdoYXRzKgkKAmlzFYL0kz8qFAoDZ3N0FRkCd0AaCGl2O3A7Z3N0Mo0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnpVenpDSzZBd1BpTXVpdDFqVDN1NWhGelZXb2c1a0hGLXpjRGZyWVU0dzlITmhmd0NWXzM0b1FBQWI1Tk5LNkN2UTFwdTdSTlVhUkNrVDREelRHbTJud00zSnNqeVVEekxtSDlKZTZ1UWVlYnVjV2FjelUtbG9rOjhDb25jZXB0IE5vdGUgb24gPGI-R1NUPC9iPiB8IERPUiAtIERlcGFydG1lbnQgb2YgUmV2ZW51ZUKsATxiPkdvb2RzIGFuZCBTZXJ2aWNlcyBUYXggKEdTVDwvYj4pIGluIHRoZSBjb3VudHJ5LiBHU1Qgd2lsbCBzaW1wbGlmeSBhbmQgaGFybW9uaXNlIHRoZSBpbmRpcmVjdCB0YXggcmVnaW1lIGluIHRoZSBjb3VudHJ5LiBUYXggR1NUIHdpbGwgYmUgYSBkZXN0aW5hdGlvbi1iYXNlZCB0YXgmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnpVenpDSzZBd1BpTXVpdDFqVDN1NWhGelZXb2c1a0hGLXpjRGZyWVU0dzlITmhmd0NWXzM0b1FBQWI1Tk5LNkN2UTFwdTdSTlVhUkNrVDREelRHbTJud00zSnNqeVVEekxtSDlKZTZ1UWVlYnVjV2FjelUtbG9rEgQaAggAGtwDEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtgMIABAAGAAgACoSCgR3aGF0FZdaBT0aBXdoYXRzKgkKAmlzFYL0kz8qFAoDZ3N0FRkCd0AaCGl2O3A7Z3N0Mo0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVnpVenpDSzZBd1BpTXVpdDFqVDN1NWhGelZXb2c1a0hGLXpjRGZyWVU0dzlITmhmd0NWXzM0b1FBQWI1Tk5LNkN2UTFwdTdSTlVhUkNrVDREelRHbTJud00zSnNqeVVEekxtSDlKZTZ1UWVlYnVjV2FjelUtbG9rOjhDb25jZXB0IE5vdGUgb24gPGI-R1NUPC9iPiB8IERPUiAtIERlcGFydG1lbnQgb2YgUmV2ZW51ZUKsATxiPkdvb2RzIGFuZCBTZXJ2aWNlcyBUYXggKEdTVDwvYj4pIGluIHRoZSBjb3VudHJ5LiBHU1Qgd2lsbCBzaW1wbGlmeSBhbmQgaGFybW9uaXNlIHRoZSBpbmRpcmVjdCB0YXggcmVnaW1lIGluIHRoZSBjb3VudHJ5LiBUYXggR1NUIHdpbGwgYmUgYSBkZXN0aW5hdGlvbi1iYXNlZCB0YXgmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "dor.gov.in"
+  },
+  {
+   "position": 2,
+   "title": "What is GST (Goods & Services Tax)?",
+   "link": "https://www.policybazaar.com/corporate-insurance/articles/what-is-gst-goods-services-tax/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFe_oZ7PcyLUVOVe7lPmy2LvbPxYgkMTMt_7x6Plw78Nd1PiPnZBZtHNChHEqo9Qq3H1eXoYxJcP8K7WpVMGxpnxlPrgL_8WG-LaJyzHng_yyg79F9Dq0-izEn_07f6OVBkeSoZ58qmCtLWk0T-sRkygMHM5ECNYE0yNZN5mJE60J8wxMX4oXc2o6MCM2-58w&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://www.policybazaar.com › articles › what-is-gst-go...",
+   "favicon": "https://serpapi.com/images/i/UklGRuABAABXRUJQVlA4INQBAABQCQCdASogACAAAsBMJbACdMoR6f47bh2gkJnoA8QDpAbgDzdP6r1jX6gewB5a3sdvltIBKge3t9_4pgs9iAZaq6Dfs0M51sJ-N49Qy5UQ5PgKMAD--q31o3sThhBkIW5R7GkBbiOHf-ncTpCnhCc5xCjRW0H17_WFFautHKkYt1sVkIHyZajvb519RvnfaurSCSZo05o_3jDUiX_O8EbJ7lDheBH4wi10EMe5_TtDJtc64VZ0zP4BHgaYTd7NGV_x_SNc63hUf08175If_CSON4Mh0inpr0XEzrqIMzW2UutjmlccLaHwI6nsNQap82VMVa8VGaMsCAVj2Gf3EvDYU3Zpmn_mupx18b0ywO698WIeAIi2uS0e8sH3tAZTQF5a2giiz85s_PPcYm5dihyCLmNv8UD6wq2_N-ml8c-H8JalhH2GqoRMHOnMZTYaA12-lHsMfU9QbSnuqc_m4TuCSngjBka_HTWKDXNx71qrCYAvlu8MkcO_4w-QjLIzgynHckIrSg7IsiDaA1aNtWh0drU26y9EeZLXa7_cR7hX6X0N6UcNkTIyhvDmA2LaNQfCmTvDd88530FIJauNHZmpjz3drt9PG5aTDPPcezVba_EAAAA.webp",
+   "snippet": "GST (Goods & Services Tax) is a complete, multi-stage, destination-based tax on the supply of goods and services in India. It was launched on July 1, 2017, ...",
+   "snippet_highlighted_words": [
+    "GST"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "GST (Goods & Services Tax) is a complete, multi-stage, destination-based tax on the supply of goods and services in India. It was launched on July 1, 2017, ...",
+     "source_info_link": "https://www.policybazaar.com/corporate-insurance/articles/what-is-gst-goods-services-tax/",
+     "icon": "https://serpapi.com/images/i/UklGRuABAABXRUJQVlA4INQBAABQCQCdASogACAAAsBMJbACdMoR6f47bh2gkJnoA8QDpAbgDzdP6r1jX6gewB5a3sdvltIBKge3t9_4pgs9iAZaq6Dfs0M51sJ-N49Qy5UQ5PgKMAD--q31o3sThhBkIW5R7GkBbiOHf-ncTpCnhCc5xCjRW0H17_WFFautHKkYt1sVkIHyZajvb519RvnfaurSCSZo05o_3jDUiX_O8EbJ7lDheBH4wi10EMe5_TtDJtc64VZ0zP4BHgaYTd7NGV_x_SNc63hUf08175If_CSON4Mh0inpr0XEzrqIMzW2UutjmlccLaHwI6nsNQap82VMVa8VGaMsCAVj2Gf3EvDYU3Zpmn_mupx18b0ywO698WIeAIi2uS0e8sH3tAZTQF5a2giiz85s_PPcYm5dihyCLmNv8UD6wq2_N-ml8c-H8JalhH2GqoRMHOnMZTYaA12-lHsMfU9QbSnuqc_m4TuCSngjBka_HTWKDXNx71qrCYAvlu8MkcO_4w-QjLIzgynHckIrSg7IsiDaA1aNtWh0drU26y9EeZLXa7_cR7hX6X0N6UcNkTIyhvDmA2LaNQfCmTvDd88530FIJauNHZmpjz3drt9PG5aTDPPcezVba_EAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZlX29aN1BjeUxVVk9WZTdsUG15Mkx2YlB4WWdrTVRNdF83eDZQbHc3OE5kMVBpUG5aQlp0SE5DaEhFcW85UXEzSDFlWG9ZeEpjUDhLN1dwVk1HeHBueGxQcmdMXzhXRy1MYUp5ekhuZ195eWc3OUY5RHEwLWl6RW5fMDdmNk9WQmtlU29aNThxbUN0TFdrMFQtc1JreWdNSE01RUNOWUUweU5aTjVtSkU2MEo4d3hNWDRvWGMybzZNQ00yLTU4dxIEGgIIABqrBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCHBAgAEAAYACAAKhIKBHdoYXQVVguUQBoFd2hhdHMqCQoCaXMVO7iXQCoUCgNnc3QVZH-hQBoIaXY7cDtnc3Qy1gEvZ290bz91cmw9Q0FFU2xBRUI2enN3RmVfb1o3UGN5TFVWT1ZlN2xQbXkyTHZiUHhZZ2tNVE10Xzd4NlBsdzc4TmQxUGlQblpCWnRITkNoSEVxbzlRcTNIMWVYb1l4SmNQOEs3V3BWTUd4cG54bFByZ0xfOFdHLUxhSnl6SG5nX3l5Zzc5RjlEcTAtaXpFbl8wN2Y2T1ZCa2VTb1o1OHFtQ3RMV2swVC1zUmt5Z01ITTVFQ05ZRTB5TlpONW1KRTYwSjh3eE1YNG9YYzJvNk1DTTItNTh3Oj08Yj5XaGF0IGlzIEdTVDwvYj4gKEdvb2RzICZhbXA7IFNlcnZpY2VzIFRheCk_IC0gUG9saWN5YmF6YWFyQq8BPGI-R1NUPC9iPiAoR29vZHMgJmFtcDsgU2VydmljZXMgVGF4KSBpcyBhIGNvbXBsZXRlLCBtdWx0aS1zdGFnZSwgZGVzdGluYXRpb24tYmFzZWQgdGF4IG9uIHRoZSBzdXBwbHkgb2YgZ29vZHMgYW5kIHNlcnZpY2VzIGluIEluZGlhLiBJdCB3YXMgbGF1bmNoZWQgb24gSnVseSAxLCAyMDE3LCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZlX29aN1BjeUxVVk9WZTdsUG15Mkx2YlB4WWdrTVRNdF83eDZQbHc3OE5kMVBpUG5aQlp0SE5DaEhFcW85UXEzSDFlWG9ZeEpjUDhLN1dwVk1HeHBueGxQcmdMXzhXRy1MYUp5ekhuZ195eWc3OUY5RHEwLWl6RW5fMDdmNk9WQmtlU29aNThxbUN0TFdrMFQtc1JreWdNSE01RUNOWUUweU5aTjVtSkU2MEo4d3hNWDRvWGMybzZNQ00yLTU4dxIEGgIIABqrBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCHBAgAEAAYACAAKhIKBHdoYXQVVguUQBoFd2hhdHMqCQoCaXMVO7iXQCoUCgNnc3QVZH-hQBoIaXY7cDtnc3Qy1gEvZ290bz91cmw9Q0FFU2xBRUI2enN3RmVfb1o3UGN5TFVWT1ZlN2xQbXkyTHZiUHhZZ2tNVE10Xzd4NlBsdzc4TmQxUGlQblpCWnRITkNoSEVxbzlRcTNIMWVYb1l4SmNQOEs3V3BWTUd4cG54bFByZ0xfOFdHLUxhSnl6SG5nX3l5Zzc5RjlEcTAtaXpFbl8wN2Y2T1ZCa2VTb1o1OHFtQ3RMV2swVC1zUmt5Z01ITTVFQ05ZRTB5TlpONW1KRTYwSjh3eE1YNG9YYzJvNk1DTTItNTh3Oj08Yj5XaGF0IGlzIEdTVDwvYj4gKEdvb2RzICZhbXA7IFNlcnZpY2VzIFRheCk_IC0gUG9saWN5YmF6YWFyQq8BPGI-R1NUPC9iPiAoR29vZHMgJmFtcDsgU2VydmljZXMgVGF4KSBpcyBhIGNvbXBsZXRlLCBtdWx0aS1zdGFnZSwgZGVzdGluYXRpb24tYmFzZWQgdGF4IG9uIHRoZSBzdXBwbHkgb2YgZ29vZHMgYW5kIHNlcnZpY2VzIGluIEluZGlhLiBJdCB3YXMgbGF1bmNoZWQgb24gSnVseSAxLCAyMDE3LCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Policybazaar",
+   "read_more_link": "https://www.policybazaar.com/corporate-insurance/articles/what-is-gst-goods-services-tax/#:~:text=GST%20(Goods%20%26%20Services%20Tax),destination%2Dbased%20tax%20on%20the%20supply"
+  },
+  {
+   "position": 3,
+   "title": "GST Full Form and Meaning",
+   "link": "https://razorpay.com/learn/gst-full-form/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVGjmBfcCpjonC_4O98RX7XvzUfI9Lujj8H52lhT8E257dsoyoc3CMIw9FOwzTINVQDUXRIOxLqEFVWxCD2lmnTO7NfJBgqaTycwqUDfcKQOuUAEevchbgxOj3NRiQEO4&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQFnoECDcQAQ&uoh=1",
+   "displayed_link": "https://razorpay.com › Learn › Taxation & Notifications",
+   "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACwBwCdASogACAAPtEutFooIagoGAEAGglsALsoycYehPbAXZ3vNCNBCAcoZoGZlf6zLa1u003hEa9zbz67GzvrZlc2sCs4AP7-wg0wjrFJ2q6JZBHywqBgCWIQ8PnUjqGLZi3vycmn7eKKg0sND1m3CCRQaNBF9cXZVWCxwZXd_pIScEX1xkAppc_QYNUTQ8IRoqAjZ_qlpwXh13nlCEwr63Aarc-w-Bc35EmcyLDNofCHMMp5i3PK6ze3PgycSYm5nQaxvG80Q6MQfCN-set_KZ7cKhR-sO-RFgxPyByeR7TnbdKhDXRc80TzhvhP60iz56FXV3NFb9OAmz4XuqOlZXyVSrmIFhjXeac-2zlDgRGh42k-6qja-YQgL5Hv-CjdBc2_qOhGUVUJ9bdNtvnhElra6otKvD7hfswgAAA.webp",
+   "date": "15 Oct 2024",
+   "snippet": "GST stands for Goods and Services Tax, which represents a unified approach to indirect taxation in India.",
+   "snippet_highlighted_words": [
+    "Goods and Services Tax"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "GST stands for Goods and Services Tax, which represents a unified approach to indirect taxation in India.",
+     "source_info_link": "https://razorpay.com/learn/gst-full-form/",
+     "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAACwBwCdASogACAAPtEutFooIagoGAEAGglsALsoycYehPbAXZ3vNCNBCAcoZoGZlf6zLa1u003hEa9zbz67GzvrZlc2sCs4AP7-wg0wjrFJ2q6JZBHywqBgCWIQ8PnUjqGLZi3vycmn7eKKg0sND1m3CCRQaNBF9cXZVWCxwZXd_pIScEX1xkAppc_QYNUTQ8IRoqAjZ_qlpwXh13nlCEwr63Aarc-w-Bc35EmcyLDNofCHMMp5i3PK6ze3PgycSYm5nQaxvG80Q6MQfCN-set_KZ7cKhR-sO-RFgxPyByeR7TnbdKhDXRc80TzhvhP60iz56FXV3NFb9OAmz4XuqOlZXyVSrmIFhjXeac-2zlDgRGh42k-6qja-YQgL5Hv-CjdBc2_qOhGUVUJ9bdNtvnhElra6otKvD7hfswgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVkdqbUJmY0Nwam9uQ180Tzk4Ulg3WHZ6VWZJOUx1amo4SDUybGhUOEUyNTdkc295b2MzQ01JdzlGT3d6VElOVlFEVVhSSU94THFFRlZXeENEMmxtblRPN05mSkJncWFUeWN3cVVEZmNLUU91VUFFZXZjaGJneE9qM05SaVFFTzQSBBoCCAAamAMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA9AIIABAAGAAgACoSCgR3aGF0FZYOqj8aBXdoYXRzKgkKAmlzFc9oUUAqFAoDZ3N0FTxryUAaCGl2O3A7Z3N0MpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVkdqbUJmY0Nwam9uQ180Tzk4Ulg3WHZ6VWZJOUx1amo4SDUybGhUOEUyNTdkc295b2MzQ01JdzlGT3d6VElOVlFEVVhSSU94THFFRlZXeENEMmxtblRPN05mSkJncWFUeWN3cVVEZmNLUU91VUFFZXZjaGJneE9qM05SaVFFTzQ6KzxiPkdTVDwvYj4gRnVsbCBGb3JtIGFuZCBNZWFuaW5nIC0gUmF6b3JwYXlCcEdTVCBzdGFuZHMgZm9yIDxiPkdvb2RzIGFuZCBTZXJ2aWNlcyBUYXg8L2I-LCB3aGljaCByZXByZXNlbnRzIGEgdW5pZmllZCBhcHByb2FjaCB0byBpbmRpcmVjdCB0YXhhdGlvbiBpbiBJbmRpYS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVkdqbUJmY0Nwam9uQ180Tzk4Ulg3WHZ6VWZJOUx1amo4SDUybGhUOEUyNTdkc295b2MzQ01JdzlGT3d6VElOVlFEVVhSSU94THFFRlZXeENEMmxtblRPN05mSkJncWFUeWN3cVVEZmNLUU91VUFFZXZjaGJneE9qM05SaVFFTzQSBBoCCAAamAMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA9AIIABAAGAAgACoSCgR3aGF0FZYOqj8aBXdoYXRzKgkKAmlzFc9oUUAqFAoDZ3N0FTxryUAaCGl2O3A7Z3N0MpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVkdqbUJmY0Nwam9uQ180Tzk4Ulg3WHZ6VWZJOUx1amo4SDUybGhUOEUyNTdkc295b2MzQ01JdzlGT3d6VElOVlFEVVhSSU94THFFRlZXeENEMmxtblRPN05mSkJncWFUeWN3cVVEZmNLUU91VUFFZXZjaGJneE9qM05SaVFFTzQ6KzxiPkdTVDwvYj4gRnVsbCBGb3JtIGFuZCBNZWFuaW5nIC0gUmF6b3JwYXlCcEdTVCBzdGFuZHMgZm9yIDxiPkdvb2RzIGFuZCBTZXJ2aWNlcyBUYXg8L2I-LCB3aGljaCByZXByZXNlbnRzIGEgdW5pZmllZCBhcHByb2FjaCB0byBpbmRpcmVjdCB0YXhhdGlvbiBpbiBJbmRpYS4iAhABSABYAGgA",
+   "source": "Razorpay"
+  },
+  {
+   "position": 4,
+   "title": "What is GST in India? Everything You Need To Know",
+   "link": "https://www.bimakavach.com/blog/what-is-gst-in-india-guide/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVfM8ABO4UAErb5FJROPJ58RiZS0-dnP14czjRLFvp58V-cOlfQLMdIZ2IPgNrgSp4LOVU0sDLrd_qHzWQyyckeaYTZriVt3_7y8Jjj6nrqjoJurB2dAtF_g6husmNnTU_DbLL-mcVqcm2ryM-Ik8k5Qs&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQFnoECDAQAQ&uoh=1",
+   "displayed_link": "https://www.bimakavach.com › blog › what-is-gst-in-in...",
+   "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0y0IaHqvCDFABeeR5ICgj7oca-_LSawvJgZacgAAD-7ndrnRqLijum2hoOUZorLVTM6extF2c7A5tDWshkbDnH8rSFn_5KaBpYdi6X5dx3nbup9hpWlvgzy0qNuNlA4i8FM1_D78i7ZPfT1N5j-00cQ8v_6StMq9n-Z3NiIB19vv_O_af_n6oyBY39hJ7JYOavI-0ldDnEdhWVRbEhyaHGF83BTRucz_9zCdLURCwBRhJCDSdLPxMCpo14shmnOO3p8h6Ttr1aUr4eDreURlwe3AL0iDjkKfHv79j_n3V7pYIxq5VgAAA.webp",
+   "date": "30 May 2025",
+   "snippet": "GST is a single, unified tax system introduced to replace the complex and multiple tax structures that were previously in place across India.",
+   "snippet_highlighted_words": [
+    "GST"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "GST is a single, unified tax system introduced to replace the complex and multiple tax structures that were previously in place across India.",
+     "source_info_link": "https://www.bimakavach.com/blog/what-is-gst-in-india-guide/",
+     "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0y0IaHqvCDFABeeR5ICgj7oca-_LSawvJgZacgAAD-7ndrnRqLijum2hoOUZorLVTM6extF2c7A5tDWshkbDnH8rSFn_5KaBpYdi6X5dx3nbup9hpWlvgzy0qNuNlA4i8FM1_D78i7ZPfT1N5j-00cQ8v_6StMq9n-Z3NiIB19vv_O_af_n6oyBY39hJ7JYOavI-0ldDnEdhWVRbEhyaHGF83BTRucz_9zCdLURCwBRhJCDSdLPxMCpo14shmnOO3p8h6Ttr1aUr4eDreURlwe3AL0iDjkKfHv79j_n3V7pYIxq5VgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVmZNOEFCTzRVQUVyYjVGSlJPUEo1OFJpWlMwLWRuUDE0Y3pqUkxGdnA1OFYtY09sZlFMTWRJWjJJUGdOcmdTcDRMT1ZVMHNETHJkX3FIeldReXlja2VhWVRacmlWdDNfN3k4SmpqNm5ycWpvSnVyQjJkQXRGX2c2aHVzbU5uVFVfRGJMTC1tY1ZxY20ycnlNLUlrOGs1UXMSBBoCCAAa4gMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgACoSCgR3aGF0FWBnkkAaBXdoYXRzKgkKAmlzFTB7pUAqFAoDZ3N0FcDjxEAaCGl2O3A7Z3N0Mq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVmZNOEFCTzRVQUVyYjVGSlJPUEo1OFJpWlMwLWRuUDE0Y3pqUkxGdnA1OFYtY09sZlFMTWRJWjJJUGdOcmdTcDRMT1ZVMHNETHJkX3FIeldReXlja2VhWVRacmlWdDNfN3k4SmpqNm5ycWpvSnVyQjJkQXRGX2c2aHVzbU5uVFVfRGJMTC1tY1ZxY20ycnlNLUlrOGs1UXM6ODxiPldoYXQgaXMgR1NUPC9iPiBpbiBJbmRpYT8gRXZlcnl0aGluZyBZb3UgTmVlZCBUbyBLbm93QpQBPGI-R1NUPC9iPiBpcyBhIHNpbmdsZSwgdW5pZmllZCB0YXggc3lzdGVtIGludHJvZHVjZWQgdG8gcmVwbGFjZSB0aGUgY29tcGxleCBhbmQgbXVsdGlwbGUgdGF4IHN0cnVjdHVyZXMgdGhhdCB3ZXJlIHByZXZpb3VzbHkgaW4gcGxhY2UgYWNyb3NzIEluZGlhLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVmZNOEFCTzRVQUVyYjVGSlJPUEo1OFJpWlMwLWRuUDE0Y3pqUkxGdnA1OFYtY09sZlFMTWRJWjJJUGdOcmdTcDRMT1ZVMHNETHJkX3FIeldReXlja2VhWVRacmlWdDNfN3k4SmpqNm5ycWpvSnVyQjJkQXRGX2c2aHVzbU5uVFVfRGJMTC1tY1ZxY20ycnlNLUlrOGs1UXMSBBoCCAAa4gMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgACoSCgR3aGF0FWBnkkAaBXdoYXRzKgkKAmlzFTB7pUAqFAoDZ3N0FcDjxEAaCGl2O3A7Z3N0Mq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVmZNOEFCTzRVQUVyYjVGSlJPUEo1OFJpWlMwLWRuUDE0Y3pqUkxGdnA1OFYtY09sZlFMTWRJWjJJUGdOcmdTcDRMT1ZVMHNETHJkX3FIeldReXlja2VhWVRacmlWdDNfN3k4SmpqNm5ycWpvSnVyQjJkQXRGX2c2aHVzbU5uVFVfRGJMTC1tY1ZxY20ycnlNLUlrOGs1UXM6ODxiPldoYXQgaXMgR1NUPC9iPiBpbiBJbmRpYT8gRXZlcnl0aGluZyBZb3UgTmVlZCBUbyBLbm93QpQBPGI-R1NUPC9iPiBpcyBhIHNpbmdsZSwgdW5pZmllZCB0YXggc3lzdGVtIGludHJvZHVjZWQgdG8gcmVwbGFjZSB0aGUgY29tcGxleCBhbmQgbXVsdGlwbGUgdGF4IHN0cnVjdHVyZXMgdGhhdCB3ZXJlIHByZXZpb3VzbHkgaW4gcGxhY2UgYWNyb3NzIEluZGlhLiICEAFIAFgAaAA",
+   "source": "BimaKavach",
+   "read_more_link": "https://www.bimakavach.com/blog/what-is-gst-in-india-guide/#:~:text=GST%20is%20a%20single%2C%20unified,previously%20in%20place%20across%20India."
+  },
+  {
+   "position": 5,
+   "title": "Goods and Services Tax (GST) – Meaning | Advantages",
+   "link": "https://www.taxmann.com/post/blog/goods-and-services-tax-gst-meaning-advantages-and-characteristics",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFamoDf6yOqIoMiXFVxxG_1wwPephu_aq8ByTAQpzWCHJJC-ow404uEkYVHJI9gZOX4oBWlKU0GB5saivFBPl3LNXmd63UObIHFQ3tsrwuIRsVYwesXUWRhVxMawHL3CdXOlTwqGhOdS7NN98IQbFagv1LSndfcBgUBTOKkOXOAofzsnhxBDEnv7ola6ldjuXO1fCtL0bh6VWJQ&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://www.taxmann.com › Home › Blog",
+   "date": "24 Nov 2022",
+   "snippet": "Goods and Services Tax (GST) is a comprehensive indirect tax levied on the supply of goods and services in India.",
+   "snippet_highlighted_words": [
+    "Goods and Services Tax (GST"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Goods and Services Tax (GST) is a comprehensive indirect tax levied on the supply of goods and services in India.",
+     "source_info_link": "https://www.taxmann.com/post/blog/goods-and-services-tax-gst-meaning-advantages-and-characteristics"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhbW9EZjZ5T3FJb01pWEZWeHhHXzF3d1BlcGh1X2FxOEJ5VEFRcHpXQ0hKSkMtb3c0MDR1RWtZVkhKSTlnWk9YNG9CV2xLVTBHQjVzYWl2RkJQbDNMTlhtZDYzVU9iSUhGUTN0c3J3dUlSc1ZZd2VzWFVXUmhWeE1hd0hMM0NkWE9sVHdxR2hPZFM3Tk45OElRYkZhZ3YxTFNuZGZjQmdVQlRPS2tPWE9Bb2Z6c25oeEJERW52N29sYTZsZGp1WE8xZkN0TDBiaDZWV0pREgQaAggAGoAEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNwDCAAQABgAIAAqEgoEd2hhdBUH6Yg-GgV3aGF0cyoJCgJpcxWwwjlAKhQKA2dzdBWryqhAGghpdjtwO2dzdDLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGYW1vRGY2eU9xSW9NaVhGVnh4R18xd3dQZXBodV9hcThCeVRBUXB6V0NISkpDLW93NDA0dUVrWVZISkk5Z1pPWDRvQldsS1UwR0I1c2FpdkZCUGwzTE5YbWQ2M1VPYklIRlEzdHNyd3VJUnNWWXdlc1hVV1JoVnhNYXdITDNDZFhPbFR3cUdoT2RTN05OOThJUWJGYWd2MUxTbmRmY0JnVUJUT0trT1hPQW9menNuaHhCREVudjdvbGE2bGRqdVhPMWZDdEwwYmg2VldKUTo8R29vZHMgYW5kIFNlcnZpY2VzIFRheCAoPGI-R1NUPC9iPikg4oCTIE1lYW5pbmcgfCBBZHZhbnRhZ2VzQng8Yj5Hb29kcyBhbmQgU2VydmljZXMgVGF4IChHU1Q8L2I-KSBpcyBhIGNvbXByZWhlbnNpdmUgaW5kaXJlY3QgdGF4IGxldmllZCBvbiB0aGUgc3VwcGx5IG9mIGdvb2RzIGFuZCBzZXJ2aWNlcyBpbiBJbmRpYS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhbW9EZjZ5T3FJb01pWEZWeHhHXzF3d1BlcGh1X2FxOEJ5VEFRcHpXQ0hKSkMtb3c0MDR1RWtZVkhKSTlnWk9YNG9CV2xLVTBHQjVzYWl2RkJQbDNMTlhtZDYzVU9iSUhGUTN0c3J3dUlSc1ZZd2VzWFVXUmhWeE1hd0hMM0NkWE9sVHdxR2hPZFM3Tk45OElRYkZhZ3YxTFNuZGZjQmdVQlRPS2tPWE9Bb2Z6c25oeEJERW52N29sYTZsZGp1WE8xZkN0TDBiaDZWV0pREgQaAggAGoAEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNwDCAAQABgAIAAqEgoEd2hhdBUH6Yg-GgV3aGF0cyoJCgJpcxWwwjlAKhQKA2dzdBWryqhAGghpdjtwO2dzdDLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGYW1vRGY2eU9xSW9NaVhGVnh4R18xd3dQZXBodV9hcThCeVRBUXB6V0NISkpDLW93NDA0dUVrWVZISkk5Z1pPWDRvQldsS1UwR0I1c2FpdkZCUGwzTE5YbWQ2M1VPYklIRlEzdHNyd3VJUnNWWXdlc1hVV1JoVnhNYXdITDNDZFhPbFR3cUdoT2RTN05OOThJUWJGYWd2MUxTbmRmY0JnVUJUT0trT1hPQW9menNuaHhCREVudjdvbGE2bGRqdVhPMWZDdEwwYmg2VldKUTo8R29vZHMgYW5kIFNlcnZpY2VzIFRheCAoPGI-R1NUPC9iPikg4oCTIE1lYW5pbmcgfCBBZHZhbnRhZ2VzQng8Yj5Hb29kcyBhbmQgU2VydmljZXMgVGF4IChHU1Q8L2I-KSBpcyBhIGNvbXByZWhlbnNpdmUgaW5kaXJlY3QgdGF4IGxldmllZCBvbiB0aGUgc3VwcGx5IG9mIGdvb2RzIGFuZCBzZXJ2aWNlcyBpbiBJbmRpYS4iAhABSABYAGgA",
+   "source": "Taxmann"
+  },
+  {
+   "position": 6,
+   "title": "What is GST in India?",
+   "link": "https://www.invoicera.com/glossary/what-is-gst/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVeazuTpTeqJH6bPewXRRqfMnCYguiIF5NT1lul90lqkzaX_YKw2ZqC9A-34kE_V1Ul4Ma2bUvLry6pV5yY9078LImd1GL-NPzYMC2VI4xKratKEZ8e3CvQ58EuJTXbeTxgNWnASs&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQFnoECDMQAQ&uoh=1",
+   "displayed_link": "https://www.invoicera.com › Glossary",
+   "favicon": "https://serpapi.com/images/i/UklGRoIAAABXRUJQVlA4IHYAAADwAwCdASocABwAPtEutFooIagoGAEAGglmAKwAId_iVGfOFSaU3XmQAP70Gns_YZauPFmgC9H2JtCObJ7q74ib1xv2eR0DPG7NddbSH2fUeoHebLWOYBvyrK38gf8xfmX_gq3OxWZdd8XELTKBuL6XV-G03AAA.webp",
+   "snippet": "GST stands for Goods and Services Tax. CBIC describes it as a destination-based tax on consumption of goods and services, with tax collected through the supply ...",
+   "snippet_highlighted_words": [
+    "GST stands for Goods and Services Tax"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "GST stands for Goods and Services Tax. CBIC describes it as a destination-based tax on consumption of goods and services, with tax collected through the supply ...",
+     "source_info_link": "https://www.invoicera.com/glossary/what-is-gst/",
+     "icon": "https://serpapi.com/images/i/UklGRoIAAABXRUJQVlA4IHYAAADwAwCdASocABwAPtEutFooIagoGAEAGglmAKwAId_iVGfOFSaU3XmQAP70Gns_YZauPFmgC9H2JtCObJ7q74ib1xv2eR0DPG7NddbSH2fUeoHebLWOYBvyrK38gf8xfmX_gq3OxWZdd8XELTKBuL6XV-G03AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmVhenVUcFRlcUpINmJQZXdYUlJxZk1uQ1lndWlJRjVOVDFsdWw5MGxxa3phWF9ZS3cyWnFDOUEtMzRrRV9WMVVsNE1hMmJVdkxyeTZwVjV5WTkwNzhMSW1kMUdMLU5QellNQzJWSTR4S3JhdEtFWjhlM0N2UTU4RXVKVFhiZVR4Z05XbkFTcxIEGgIIABrdAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC5AwgAEAAYACAAKhIKBHdoYXQVHO-YQBoFd2hhdHMqCQoCaXMVmPuWQCoUCgNnc3QVbNixQBoIaXY7cDtnc3QynQEvZ290bz91cmw9Q0FFU2FnSHJPekFWZWF6dVRwVGVxSkg2YlBld1hSUnFmTW5DWWd1aUlGNU5UMWx1bDkwbHFremFYX1lLdzJacUM5QS0zNGtFX1YxVWw0TWEyYlV2THJ5NnBWNXlZOTA3OExJbWQxR0wtTlB6WU1DMlZJNHhLcmF0S0VaOGUzQ3ZRNThFdUpUWGJlVHhnTlduQVNzOig8Yj5XaGF0IGlzIEdTVDwvYj4gaW4gSW5kaWE_IC0gSW52b2ljZXJhQq8BPGI-R1NUIHN0YW5kcyBmb3IgR29vZHMgYW5kIFNlcnZpY2VzIFRheDwvYj4uIENCSUMgZGVzY3JpYmVzIGl0IGFzIGEgZGVzdGluYXRpb24tYmFzZWQgdGF4IG9uIGNvbnN1bXB0aW9uIG9mIGdvb2RzIGFuZCBzZXJ2aWNlcywgd2l0aCB0YXggY29sbGVjdGVkIHRocm91Z2ggdGhlIHN1cHBseSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVmVhenVUcFRlcUpINmJQZXdYUlJxZk1uQ1lndWlJRjVOVDFsdWw5MGxxa3phWF9ZS3cyWnFDOUEtMzRrRV9WMVVsNE1hMmJVdkxyeTZwVjV5WTkwNzhMSW1kMUdMLU5QellNQzJWSTR4S3JhdEtFWjhlM0N2UTU4RXVKVFhiZVR4Z05XbkFTcxIEGgIIABrdAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC5AwgAEAAYACAAKhIKBHdoYXQVHO-YQBoFd2hhdHMqCQoCaXMVmPuWQCoUCgNnc3QVbNixQBoIaXY7cDtnc3QynQEvZ290bz91cmw9Q0FFU2FnSHJPekFWZWF6dVRwVGVxSkg2YlBld1hSUnFmTW5DWWd1aUlGNU5UMWx1bDkwbHFremFYX1lLdzJacUM5QS0zNGtFX1YxVWw0TWEyYlV2THJ5NnBWNXlZOTA3OExJbWQxR0wtTlB6WU1DMlZJNHhLcmF0S0VaOGUzQ3ZRNThFdUpUWGJlVHhnTlduQVNzOig8Yj5XaGF0IGlzIEdTVDwvYj4gaW4gSW5kaWE_IC0gSW52b2ljZXJhQq8BPGI-R1NUIHN0YW5kcyBmb3IgR29vZHMgYW5kIFNlcnZpY2VzIFRheDwvYj4uIENCSUMgZGVzY3JpYmVzIGl0IGFzIGEgZGVzdGluYXRpb24tYmFzZWQgdGF4IG9uIGNvbnN1bXB0aW9uIG9mIGdvb2RzIGFuZCBzZXJ2aWNlcywgd2l0aCB0YXggY29sbGVjdGVkIHRocm91Z2ggdGhlIHN1cHBseSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Invoicera",
+   "read_more_link": "https://www.invoicera.com/glossary/what-is-gst/#:~:text=GST%20stands%20for%20Goods%20and,credit%20under%20the%20applicable%20rules."
+  },
+  {
+   "position": 7,
+   "title": "What is Goods and Service Tax (GST)?",
+   "link": "https://bpaeducators.com/goods-and-services-tax/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVzmpNAv7rEmruWuLIYLOcK-dYvg8mx-vTxBdH48ff72BdzPgOgOOyr7LU60hQjNtdL-QHBNMIJEQby6H6yBXmqxjQSAw7xYqBqjBsroGV0RRZoONRyEWqo-2iMepXrEQBd46u7QVs&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQFnoECFQQAQ&uoh=1",
+   "displayed_link": "https://bpaeducators.com › BPA Content",
+   "favicon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAABwBQCdASocABwAPtEutFooIagoGAEAGglsACPKxyY8s_hFwZPTIqgPJkzjFHm8inJwJBRyAP7-wh5xP9cfRWvoFSCie-N-V-aSVWlvg3mr9kVVLz3DXXIYuP7sxj-onpRi-DyjEL9xJuUP4qq_8D8gGPlDu5nr_9UYIvXdXVj3xaMON_0WeOlcgLhge1VVaQB79MqGV324JOVKGkfrwVT58_-Ggc5YL9h6bVjGtQ7SdpZpKiGP2mhrYXSSevVO5W9Pn7Uvky5k-9O7oU8guCBL6P4tVAIj2vvgxf14GmIoGOwb_2p8gnDQUJx7pteDX2PkRzvICErXDvPNEQmjnwS4lvTmZUSUTkSg-9bb7X1wqZmarVuxE8Q4J4EGsYKy75uePpNTAAA.webp",
+   "snippet": "Goods and Service Tax (GST) is an indirect tax (or consumption tax) used in India on the supply of goods and services. It is a comprehensive, multistage,",
+   "snippet_highlighted_words": [
+    "an indirect tax (or consumption tax) used in India on the supply of goods and services"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Goods and Service Tax (GST) is an indirect tax (or consumption tax) used in India on the supply of goods and services. It is a comprehensive, multistage,",
+     "source_info_link": "https://bpaeducators.com/goods-and-services-tax/",
+     "icon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAABwBQCdASocABwAPtEutFooIagoGAEAGglsACPKxyY8s_hFwZPTIqgPJkzjFHm8inJwJBRyAP7-wh5xP9cfRWvoFSCie-N-V-aSVWlvg3mr9kVVLz3DXXIYuP7sxj-onpRi-DyjEL9xJuUP4qq_8D8gGPlDu5nr_9UYIvXdXVj3xaMON_0WeOlcgLhge1VVaQB79MqGV324JOVKGkfrwVT58_-Ggc5YL9h6bVjGtQ7SdpZpKiGP2mhrYXSSevVO5W9Pn7Uvky5k-9O7oU8guCBL6P4tVAIj2vvgxf14GmIoGOwb_2p8gnDQUJx7pteDX2PkRzvICErXDvPNEQmjnwS4lvTmZUSUTkSg-9bb7X1wqZmarVuxE8Q4J4EGsYKy75uePpNTAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnptcE5BdjdyRW1ydVd1TElZTE9jSy1kWXZnOG14LXZUeEJkSDQ4ZmY3MkJkelBnT2dPT3lyN0xVNjBoUWpOdGRMLVFIQk5NSUpFUWJ5Nkg2eUJYbXF4alFTQXc3eFlxQnFqQnNyb0dWMFJSWm9PTlJ5RVdxby0yaU1lcFhyRVFCZDQ2dTdRVnMSBBoCCAAa4gMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgACoSCgR3aGF0FdhCXkAaBXdoYXRzKgkKAmlzFaJwoEAqFAoDZ3N0FaYVsUAaCGl2O3A7Z3N0Mp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnptcE5BdjdyRW1ydVd1TElZTE9jSy1kWXZnOG14LXZUeEJkSDQ4ZmY3MkJkelBnT2dPT3lyN0xVNjBoUWpOdGRMLVFIQk5NSUpFUWJ5Nkg2eUJYbXF4alFTQXc3eFlxQnFqQnNyb0dWMFJSWm9PTlJ5RVdxby0yaU1lcFhyRVFCZDQ2dTdRVnM6O1doYXQgaXMgR29vZHMgYW5kIFNlcnZpY2UgVGF4ICg8Yj5HU1Q8L2I-KT8gLSBCUEEgRWR1Y2F0b3JzQqABR29vZHMgYW5kIFNlcnZpY2UgVGF4IChHU1QpIGlzIDxiPmFuIGluZGlyZWN0IHRheCAob3IgY29uc3VtcHRpb24gdGF4KSB1c2VkIGluIEluZGlhIG9uIHRoZSBzdXBwbHkgb2YgZ29vZHMgYW5kIHNlcnZpY2VzPC9iPi4gSXQgaXMgYSBjb21wcmVoZW5zaXZlLCBtdWx0aXN0YWdlLCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnptcE5BdjdyRW1ydVd1TElZTE9jSy1kWXZnOG14LXZUeEJkSDQ4ZmY3MkJkelBnT2dPT3lyN0xVNjBoUWpOdGRMLVFIQk5NSUpFUWJ5Nkg2eUJYbXF4alFTQXc3eFlxQnFqQnNyb0dWMFJSWm9PTlJ5RVdxby0yaU1lcFhyRVFCZDQ2dTdRVnMSBBoCCAAa4gMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgACoSCgR3aGF0FdhCXkAaBXdoYXRzKgkKAmlzFaJwoEAqFAoDZ3N0FaYVsUAaCGl2O3A7Z3N0Mp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnptcE5BdjdyRW1ydVd1TElZTE9jSy1kWXZnOG14LXZUeEJkSDQ4ZmY3MkJkelBnT2dPT3lyN0xVNjBoUWpOdGRMLVFIQk5NSUpFUWJ5Nkg2eUJYbXF4alFTQXc3eFlxQnFqQnNyb0dWMFJSWm9PTlJ5RVdxby0yaU1lcFhyRVFCZDQ2dTdRVnM6O1doYXQgaXMgR29vZHMgYW5kIFNlcnZpY2UgVGF4ICg8Yj5HU1Q8L2I-KT8gLSBCUEEgRWR1Y2F0b3JzQqABR29vZHMgYW5kIFNlcnZpY2UgVGF4IChHU1QpIGlzIDxiPmFuIGluZGlyZWN0IHRheCAob3IgY29uc3VtcHRpb24gdGF4KSB1c2VkIGluIEluZGlhIG9uIHRoZSBzdXBwbHkgb2YgZ29vZHMgYW5kIHNlcnZpY2VzPC9iPi4gSXQgaXMgYSBjb21wcmVoZW5zaXZlLCBtdWx0aXN0YWdlLCICEAFIAFgAaAA",
+   "source": "BPA Educators"
+  },
+  {
+   "position": 8,
+   "title": "What is GST? | All about GST",
+   "link": "https://www.youtube.com/watch?v=gPUGr4C-E8I",
+   "displayed_link": "3.2L+ views · 9 years ago",
+   "thumbnail": "https://serpapi.com/searches/6aca5b8322abf7269601ce32/images/_Rbm0WMmQS5mxqwPelrPNkuxK8c5vT-ATnErdpNC8dY.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "What is GST? We have started a new series on the GST Act and GST Rules for CA, CMA, CS and MBA. Goods and Services Tax Act 2017. What Are The ...",
+   "duration": "5:51",
+   "key_moments": [
+    {
+     "time": "00:24",
+     "title": "Goods and Services Tax",
+     "link": "https://www.youtube.com/watch?v=gPUGr4C-E8I&t=24"
+    },
+    {
+     "time": "01:57",
+     "title": "Present Tax System",
+     "link": "https://www.youtube.com/watch?v=gPUGr4C-E8I&t=117"
+    },
+    {
+     "time": "03:38",
+     "title": "Dual Gst",
+     "link": "https://www.youtube.com/watch?v=gPUGr4C-E8I&t=218"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "What is GST? We have started a new series on the GST Act and GST Rules for CA, CMA, CS and MBA. Goods and Services Tax Act 2017. What Are The ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlc1bU5MMERwYzN4WTdxX1d3YWdCaWdsdUREeVRDdHVUNEJZSm9xYVFOVk1LM2lnUk14aktIOFR0WnI1ZkZ6Rm9QSFM0VEVfUzlzRHJtdFV0eThfbFZ0MmpIZWVWYzhYLUJhYWpqTlA4UkllLXoxcVZZMlJzZGdHb25RdHlmN3MyT2cSIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlc1bU5MMERwYzN4WTdxX1d3YWdCaWdsdUREeVRDdHVUNEJZSm9xYVFOVk1LM2lnUk14aktIOFR0WnI1ZkZ6Rm9QSFM0VEVfUzlzRHJtdFV0eThfbFZ0MmpIZWVWYzhYLUJhYWpqTlA4UkllLXoxcVZZMlJzZGdHb25RdHlmN3MyT2cSIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSwIqbL6ZjdSFgxtmIA2KGWKO4Y_qSWWfOQIQ",
+   "source": "YouTube · Edupedia World by Exambyte"
+  },
+  {
+   "position": 9,
+   "title": "What is GST? What is an explanation with examples?",
+   "link": "https://www.quora.com/What-is-GST-What-is-an-explanation-with-examples",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFcErc5ke7YXCcm2sXz0ZCseIXuSrwW96b9h-v9DBfz4aOA3tCrbZ-LRNCj5U7GS9sC_Wmf8or3MH7CqtPMbsd3iqNhF6WcA2cVDx-Vsho9zHgvl0dZLugJOcydLKe7FWjcU_czFMtxI225rhoZpPn3xUMRmGsq0H4_3DoR8&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQFnoECFgQAQ&uoh=1",
+   "displayed_link": "70+ answers · 11 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+   "snippet": "What is GST? What is an explanation with examples?",
+   "about_this_result": {
+    "source": {
+     "description": "What is GST? What is an explanation with examples? All related (77). Recommended. Profile photo for Assistant. Assistant. Bot. · 1y.",
+     "source_info_link": "https://www.quora.com/What-is-GST-What-is-an-explanation-with-examples",
+     "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjRXJjNWtlN1lYQ2NtMnNYejBaQ3NlSVh1U3J3Vzk2YjloLXY5REJmejRhT0EzdENyYlotTFJOQ2o1VTdHUzlzQ19XbWY4b3IzTUg3Q3F0UE1ic2QzaXFOaEY2V2NBMmNWRHgtVnNobzl6SGd2bDBkWkx1Z0pPY3lkTEtlN0ZXamNVX2N6Rk10eEkyMjVyaG9acFBuM3hVTVJtR3NxMEg0XzNEb1I4EgQaAggAGvMDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQM8DCAAQABgAIAAqEgoEd2hhdBXQYItAGgV3aGF0cyoJCgJpcxU4RpBAKhQKA2dzdBV8c4xAGghpdjtwO2dzdDK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGY0VyYzVrZTdZWENjbTJzWHowWkNzZUlYdVNyd1c5NmI5aC12OURCZno0YU9BM3RDcmJaLUxSTkNqNVU3R1M5c0NfV21mOG9yM01IN0NxdFBNYnNkM2lxTmhGNldjQTJjVkR4LVZzaG85ekhndmwwZFpMdWdKT2N5ZExLZTdGV2pjVV9jekZNdHhJMjI1cmhvWnBQbjN4VU1SbUdzcTBINF8zRG9SODpBPGI-V2hhdCBpcyBHU1Q8L2I-PyBXaGF0IGlzIGFuIGV4cGxhbmF0aW9uIHdpdGggZXhhbXBsZXM_IC0gUXVvcmFCjAE8Yj5XaGF0IGlzIEdTVDwvYj4_IFdoYXQgaXMgYW4gZXhwbGFuYXRpb24gd2l0aCBleGFtcGxlcz8gQWxsIHJlbGF0ZWQgKDc3KS4gUmVjb21tZW5kZWQuIFByb2ZpbGUgcGhvdG8gZm9yIEFzc2lzdGFudC4gQXNzaXN0YW50LiBCb3QuIMK3IDF5LiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjRXJjNWtlN1lYQ2NtMnNYejBaQ3NlSVh1U3J3Vzk2YjloLXY5REJmejRhT0EzdENyYlotTFJOQ2o1VTdHUzlzQ19XbWY4b3IzTUg3Q3F0UE1ic2QzaXFOaEY2V2NBMmNWRHgtVnNobzl6SGd2bDBkWkx1Z0pPY3lkTEtlN0ZXamNVX2N6Rk10eEkyMjVyaG9acFBuM3hVTVJtR3NxMEg0XzNEb1I4EgQaAggAGvMDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQM8DCAAQABgAIAAqEgoEd2hhdBXQYItAGgV3aGF0cyoJCgJpcxU4RpBAKhQKA2dzdBV8c4xAGghpdjtwO2dzdDK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGY0VyYzVrZTdZWENjbTJzWHowWkNzZUlYdVNyd1c5NmI5aC12OURCZno0YU9BM3RDcmJaLUxSTkNqNVU3R1M5c0NfV21mOG9yM01IN0NxdFBNYnNkM2lxTmhGNldjQTJjVkR4LVZzaG85ekhndmwwZFpMdWdKT2N5ZExLZTdGV2pjVV9jekZNdHhJMjI1cmhvWnBQbjN4VU1SbUdzcTBINF8zRG9SODpBPGI-V2hhdCBpcyBHU1Q8L2I-PyBXaGF0IGlzIGFuIGV4cGxhbmF0aW9uIHdpdGggZXhhbXBsZXM_IC0gUXVvcmFCjAE8Yj5XaGF0IGlzIEdTVDwvYj4_IFdoYXQgaXMgYW4gZXhwbGFuYXRpb24gd2l0aCBleGFtcGxlcz8gQWxsIHJlbGF0ZWQgKDc3KS4gUmVjb21tZW5kZWQuIFByb2ZpbGUgcGhvdG8gZm9yIEFzc2lzdGFudC4gQXNzaXN0YW50LiBCb3QuIMK3IDF5LiICEAFIAFgAaAA",
+   "source": "Quora"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "What is gst in india",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&q=What+is+gst+in+india&sa=X&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=What+is+gst+in+india"
+  },
+  {
+   "block_position": 1,
+   "query": "Features of GST",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&q=Features+of+GST&sa=X&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=Features+of+GST"
+  },
+  {
+   "block_position": 1,
+   "query": "Types of GST",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&q=Types+of+GST&sa=X&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=Types+of+GST"
+  },
+  {
+   "block_position": 1,
+   "query": "What is GST full form",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&q=What+is+GST+full+form&sa=X&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=What+is+GST+full+form"
+  },
+  {
+   "block_position": 1,
+   "query": "Advantages of GST",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&q=Advantages+of+GST&sa=X&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=Advantages+of+GST"
+  },
+  {
+   "block_position": 1,
+   "query": "GST basic concepts pdf",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&q=GST+basic+concepts+pdf&sa=X&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=GST+basic+concepts+pdf"
+  },
+  {
+   "block_position": 1,
+   "query": "Five features of GST",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&q=Five+features+of+GST&sa=X&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=Five+features+of+GST"
+  },
+  {
+   "block_position": 1,
+   "query": "Features of GST in India",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&q=Features+of+GST+in+India&sa=X&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=Features+of+GST+in+India"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=10&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8NMDegQIQRAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=10&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8tMDegQIQRAE",
+   "3": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=20&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8tMDegQIQRAG",
+   "4": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=30&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8tMDegQIQRAI",
+   "5": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=40&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8tMDegQIQRAK",
+   "6": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=50&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8tMDegQIQRAM",
+   "7": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=60&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8tMDegQIQRAO",
+   "8": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=70&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8tMDegQIQRAQ",
+   "9": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=80&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8tMDegQIQRAS",
+   "10": "https://www.google.co.in/search?q=what+is+GST&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsLkFz_kOlLbNjUgWUEswOHfuJabg:1791646628028&ei=pFvKarGtAf_OkPIP-fKnwAQ&start=90&sa=N&sstk=AS6-VmKrkU3EPBiBuB14XRH6PkOy8ouS6GPxNMrWCygEIxzsveD72yA6akC-LEKlcdThv5tyoct-0Z5c5JmwR-B25aeJJK5zqnXBmg&ved=2ahUKEwixj87m46-XAxV_J0QIHXn5CUgQ8tMDegQIQRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Thiruvananthapuram%2CKerala%2CIndia&q=what+is+GST&start=90"
+  }
+ }
+}

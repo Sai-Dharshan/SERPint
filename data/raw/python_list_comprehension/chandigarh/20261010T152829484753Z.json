@@ -1,0 +1,517 @@
+{
+ "search_metadata": {
+  "id": "6aca599d4de49a01ffbfcbe4",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/3eZMrZolNtHLAd_AgjGgInmw1G3RSWAk3pYbFKGhgwg/6aca599d4de49a01ffbfcbe4.json",
+  "markdown_endpoint": "https://serpapi.com/searches/3eZMrZolNtHLAd_AgjGgInmw1G3RSWAk3pYbFKGhgwg/6aca599d4de49a01ffbfcbe4.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/3eZMrZolNtHLAd_AgjGgInmw1G3RSWAk3pYbFKGhgwg/6aca599d4de49a01ffbfcbe4.json_with_pixel_position",
+  "created_at": "2026-10-10 15:28:29 UTC",
+  "processed_at": "2026-10-10 15:28:29 UTC",
+  "google_url": "https://www.google.co.in/search?q=python+list+comprehension&oq=python+list+comprehension&uule=w+CAIQICIbQ2hhbmRpZ2FyaCxDaGFuZGlnYXJoLEluZGlh&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/3eZMrZolNtHLAd_AgjGgInmw1G3RSWAk3pYbFKGhgwg/6aca599d4de49a01ffbfcbe4.html",
+  "total_time_taken": 1.41
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "python list comprehension",
+  "location_requested": "Chandigarh,Chandigarh,India",
+  "location_used": "Chandigarh,Chandigarh,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "python list comprehension",
+  "total_results": 123,
+  "time_taken_displayed": 0.23,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "List comprehension",
+  "entity_type": "kp3_verticals",
+  "kgmid": "/m/01p9md",
+  "knowledge_graph_search_link": "https://www.google.co.in/search?kgmid=/m/01p9md&hl=en-IN&q=List+comprehension",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en-IN&kgmid=%2Fm%2F01p9md&location=Chandigarh%2CChandigarh%2CIndia&q=List+comprehension",
+  "header_images": [
+   {
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAbCAMAAAAeYLy0AAAA81BMVEUAAABwAACAAACKU1OWlpa-vr7_e3v_fX2Hh4fKenrdhYUcEBAeERHBwcEhAAB0AACMAAD_goIsAACioqKBgYEWFhYeHh46OjqEUFBJcYaJwnHVgID_oqLkiYmRzXftj4-J1P2Axux5vN8TGxAOFRm1tbX_Tk7_VFT_Dw__a2v_kZH_iIj_XFz_c3P_AAD_YmJgYGAoKChPT09ta25DSEgtNDQ3MjAiHSRRckJVekV4WUxmYGs6SE97sWST23zbqo2lX2LRxN5oosCR4P-iu8hunVrHmICybGyyqL5dkauInKdjjFHutJg9Xm6mf3_U2Njfq6s_ttwKAAABZklEQVQ4jd2TaVeCQBSGLXYVVwaLYZtRMlwqbbWFdFrIsuz__5oueuoAUoePnp57z_DCPQ_DfKBQ2AIq1Z0U1UousXbQFcVDX-z1Jaku1X2p363lEwdDf3jki_4g8kSxXj_OJzZ2N2jkErefpgy1Sid8U5Nlnm9-j_gmlMZr2SJCLR2t4wjpCOkj9DPSoUYIZYuwUyy3WslZ-j6BHH_JODkbp-4TnMby2XlydvH7jpdXk8nkmuO4PaiouXW-2Y9xmyFqd4YR3E-xYkLhnoWViCmeUUYIo-wBmj1mfeiTYdw9KyG2QisMQQsVTglD5YUxwtgcVEbmr5te-4_Dx-ikH7zZQQC9MLHTsyzH6TmwRMGcUZcS4rqEQhP3PS0admDb9sK0FNMpFosOthzFKmIciYRSChKsjKbFQntFoVQqQ5fXFwjlEuokyHeifwL8eBr_4amqKgiC6uUXBU_1lp-q7EXuUtDzel98yS0lkwYDxwAAAABJRU5ErkJggg.png",
+    "source": "https://www.freecodecamp.org/news/list-comprehension-in-python/"
+   }
+  ],
+  "description": "A list comprehension is a syntactic construct available in some programming languages for creating a list based on existing lists. It follows the form of the mathematical set-builder notation as distinct from the use of map and filter functions.",
+  "description_highlighted_words": [],
+  "source": {
+   "name": " Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/List_comprehension"
+  }
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Learn Python LIST COMPREHENSIONS in 10 minutes!",
+   "link": "https://www.youtube.com/watch?v=YlY2g2xrl6Q",
+   "thumbnail": "https://serpapi.com/searches/6aca599d4de49a01ffbfcbe4/images/KRt_U_XQIGeDnQ0fK4Hl8KSmnvE3k0WTvqyJpi6Xf2g.jpeg",
+   "channel": "Bro Code",
+   "duration": "10:20",
+   "platform": "YouTube",
+   "date": "2 Jun 2024",
+   "snippet": "List comprehensions are a concise way to create lists in Python. Use the formula: expression for value in iterable (with optional condition)."
+  },
+  {
+   "position": 2,
+   "title": "List Comprehension in Python",
+   "link": "https://www.youtube.com/watch?v=-_L0SHhFMC4&t=3",
+   "thumbnail": "https://serpapi.com/searches/6aca599d4de49a01ffbfcbe4/images/wLjZVMW1_oFaoIfdEo1FXTOnnbZxKOwh5Qd63hh1xgM.png",
+   "channel": "Neso Academy",
+   "duration": "4m",
+   "platform": "YouTube",
+   "date": "6 Aug 2023",
+   "snippet": "List comprehension offers a concise syntax to create new lists from existing ones, often replacing traditional for loops for better readability."
+  },
+  {
+   "position": 3,
+   "title": "Python list comprehension",
+   "link": "https://www.youtube.com/watch?v=fcLDzKH_5XM",
+   "thumbnail": "https://serpapi.com/searches/6aca599d4de49a01ffbfcbe4/images/tUu3ztLX0mbdnJgWI9mTEAJlY3RLjiKKUTeWpNJWpjw.jpeg",
+   "channel": "Bro Code",
+   "duration": "6:08",
+   "platform": "YouTube",
+   "date": "26 Jan 2021",
+   "snippet": "List comprehensions create new lists with less syntax, mimicking lambda functions like map & filter, and are easier to read.",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTkTzz7Cwlyr0QNxbyr__mWLBm8Kmaf_yTD6g"
+  },
+  {
+   "position": 4,
+   "title": "Intermediate Python Puzzle #1: List Comprehensions",
+   "link": "https://www.youtube.com/watch?v=nsuE4FMBcWU&t=89",
+   "thumbnail": "https://serpapi.com/searches/6aca599d4de49a01ffbfcbe4/images/fvrjDIg_JTblhkEM8zYpVmvWII_BwFoKa51K25i_b7M.jpeg",
+   "channel": "Kris Jordan",
+   "duration": "1m",
+   "platform": "YouTube",
+   "date": "6 Jan 2021",
+   "snippet": "Learn to use Python's list comprehensions for building lists. Understand the syntax, including transform expressions & optional filters."
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "What is a comprehension list in Python?",
+   "type": "ai_overview",
+   "page_token": "ReCZaXicHdBdboIwAADg7DI-Kgi6aWKWoRSdUNdKi_RlwRZFWgpTlJ-33WWn2mmW7DvC9_2jLlr-PrVZXVe3-WjUNM3wXJZnlQ55ObzoUXLrNB_xRKljwuV8-jw1X0984d43zvJr4yBSVXSFjXDNaGxWGnYmhhLkfkQVJZCJ3mmFrCeJVLZYwzxcKYoL3qUSblPSfggCq0hVY2YJn0UgSNX7PpLIQD17BFZmM1kZIoJZaCEDu7cxWdFtUjBNTJr5h00TmuKK82wfFvWSKxGHBu8SADx0eJuE7gywi6kjrWyeY0gVHtNe-YzSMKbOg5igJTm1xQG7uzW8Bh6OI3KzUznTbibuR2_ixwfHJxJvWfTS8WKGAgsT5glHtOUFEdzzXBVEAQml2OxdIOMc2URTZwcgQER5Mcm8oJiZohmc-GNhDf4_F5-nop5X1_L8BzRLhNU",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ReCZaXicHdBdboIwAADg7DI-Kgi6aWKWoRSdUNdKi_RlwRZFWgpTlJ-33WWn2mmW7DvC9_2jLlr-PrVZXVe3-WjUNM3wXJZnlQ55ObzoUXLrNB_xRKljwuV8-jw1X0984d43zvJr4yBSVXSFjXDNaGxWGnYmhhLkfkQVJZCJ3mmFrCeJVLZYwzxcKYoL3qUSblPSfggCq0hVY2YJn0UgSNX7PpLIQD17BFZmM1kZIoJZaCEDu7cxWdFtUjBNTJr5h00TmuKK82wfFvWSKxGHBu8SADx0eJuE7gywi6kjrWyeY0gVHtNe-YzSMKbOg5igJTm1xQG7uzW8Bh6OI3KzUznTbibuR2_ixwfHJxJvWfTS8WKGAgsT5glHtOUFEdzzXBVEAQml2OxdIOMc2URTZwcgQER5Mcm8oJiZohmc-GNhDf4_F5-nop5X1_L8BzRLhNU",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VtMW9iR2RCUkZaRVJGWlNaV3cwWWxoSWJUSm9ZV28yVDNCMGVuaERZa0pVYVVOUWNHNXBOMEZJZUd4WGFtOWtVR2x0YVUxWFpEUjZVMlZITUhOVlpqTnhNbWxCTnpoTllXTlpaakZFVFdGeVMzVk9UVmQ1ZEU5elp4SVhibXh1UzJGd1MxSkVTbVZ2TW5KdlVETjBWR1JuUVhjYUlrRkVjM0k1WmxKWmJXaGZablpZTjBKdFp6bHJiM0ZZT1VwTVVWUlNZVlpTV2xFIiwiZmN2IjoiMyIsImVpIjoibmxuS2FwS1JESmVvMnJvUDN0VGRnQXciLCJxYyI6IkNobHdlWFJvYjI0Z2JHbHpkQ0JqYjIxd2NtVm9aVzV6YVc5dUVBQjloXzRVUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBjb21wcmVoZW5zaW9uIGxpc3QgaW4gUHl0aG9uPyIsImxrIjoiR2laM2FHRjBJR2x6SUdFZ1kyOXRjSEpsYUdWdWMybHZiaUJzYVhOMElHbHVJSEI1ZEdodmJnIiwiYnMiOiJjNVdQT3d2Q1FCQ0VzYjNLU2lUVlZqNUtGWXRvWVdGbEo0aFlpTVdaYk14QjNEMXVUMk1RXzdzaEtzWktyUmFHbmZsbTFFcDFONm4yWUFRMFJIeTBEbE1rTVV5UUdTbDFnbVhoVTZiWnNCZDA4aS12dG5wVmhacThRbjJLRUpza1FZY1VJZXpSNTRnRXZUNW9pbUc3cTg3MVZ1ZE1nekRfM18xRXIxVTQxd1FGbjhBNlBwc1lRZmlJZ0JkMGtSRVVTTmhCaHRxUm9jT1RXZldYMmJBZHRHeE5lSnRVcHNZTGVjejhYSjVvOGVqS29pVzBTbWEyOVRHallHQi1OejdvemNZZCIsImlkIjoiZmNfbmxuS2FwS1JESmVvMnJvUDN0VGRnQXdfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VtMW9iR2RCUkZaRVJGWlNaV3cwWWxoSWJUSm9ZV28yVDNCMGVuaERZa0pVYVVOUWNHNXBOMEZJZUd4WGFtOWtVR2x0YVUxWFpEUjZVMlZITUhOVlpqTnhNbWxCTnpoTllXTlpaakZFVFdGeVMzVk9UVmQ1ZEU5elp4SVhibXh1UzJGd1MxSkVTbVZ2TW5KdlVETjBWR1JuUVhjYUlrRkVjM0k1WmxKWmJXaGZablpZTjBKdFp6bHJiM0ZZT1VwTVVWUlNZVlpTV2xFIiwiZmN2IjoiMyIsImVpIjoibmxuS2FwS1JESmVvMnJvUDN0VGRnQXciLCJxYyI6IkNobHdlWFJvYjI0Z2JHbHpkQ0JqYjIxd2NtVm9aVzV6YVc5dUVBQjloXzRVUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBjb21wcmVoZW5zaW9uIGxpc3QgaW4gUHl0aG9uPyIsImxrIjoiR2laM2FHRjBJR2x6SUdFZ1kyOXRjSEpsYUdWdWMybHZiaUJzYVhOMElHbHVJSEI1ZEdodmJnIiwiYnMiOiJjNVdQT3d2Q1FCQ0VzYjNLU2lUVlZqNUtGWXRvWVdGbEo0aFlpTVdaYk14QjNEMXVUMk1RXzdzaEtzWktyUmFHbmZsbTFFcDFONm4yWUFRMFJIeTBEbE1rTVV5UUdTbDFnbVhoVTZiWnNCZDA4aS12dG5wVmhacThRbjJLRUpza1FZY1VJZXpSNTRnRXZUNW9pbUc3cTg3MVZ1ZE1nekRfM18xRXIxVTQxd1FGbjhBNlBwc1lRZmlJZ0JkMGtSRVVTTmhCaHRxUm9jT1RXZldYMmJBZHRHeE5lSnRVcHNZTGVjejhYSjVvOGVqS29pVzBTbWEyOVRHallHQi1OejdvemNZZCIsImlkIjoiZmNfbmxuS2FwS1JESmVvMnJvUDN0VGRnQXdfNSJ9"
+  },
+  {
+   "question": "What is the difference between () and [] and {} in Python?",
+   "type": "ai_overview",
+   "page_token": "Nq8_dnicHdBLcpswAADQ6WWytCWIU9sznk4wiJYiEslIyNp0QAJjIz6xifnscoceoafqadLp-u3exx9zbqq_X36Xfd_dtsvlMAyLU9ueTL5Q7eLcLNPb1KilSo3JUlVtn74-wW-F2nl35eyvyiGs67hLwYFtUFrpXgr-iD1gZbWO_pkVix_9EUj3cJGX7LuU0n3uUwu1LDF7AgyWFz0JGAlaj1gDRFMThSQJRjWbV213L5lNXc2CK7OZlfs8znzjC6tvkrhEeK5mkjxOCtJzLlBw4HjCTQBCvgG5384xlAVhQYlZYBI_uilUBqSRdYToniQmEnA9hHxtS6EGKngjD5Bgsxk1d6CA9E7dCGTeKiYgmpXrxHiCxYu3unulfs_8VXgUTsgq-lMm60nVG4JtyqSvHT22Z8LorC6mZrNJcqFsKoxPPTgqgN5Sht44gIX2AkA4PRLyUKj7zn74f737VdT9tru2p0--BYw-",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Nq8_dnicHdBLcpswAADQ6WWytCWIU9sznk4wiJYiEslIyNp0QAJjIz6xifnscoceoafqadLp-u3exx9zbqq_X36Xfd_dtsvlMAyLU9ueTL5Q7eLcLNPb1KilSo3JUlVtn74-wW-F2nl35eyvyiGs67hLwYFtUFrpXgr-iD1gZbWO_pkVix_9EUj3cJGX7LuU0n3uUwu1LDF7AgyWFz0JGAlaj1gDRFMThSQJRjWbV213L5lNXc2CK7OZlfs8znzjC6tvkrhEeK5mkjxOCtJzLlBw4HjCTQBCvgG5384xlAVhQYlZYBI_uilUBqSRdYToniQmEnA9hHxtS6EGKngjD5Bgsxk1d6CA9E7dCGTeKiYgmpXrxHiCxYu3unulfs_8VXgUTsgq-lMm60nVG4JtyqSvHT22Z8LorC6mZrNJcqFsKoxPPTgqgN5Sht44gIX2AkA4PRLyUKj7zn74f737VdT9tru2p0--BYw-",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VtMW9iR2RCUkZaRVJGWlNaV3cwWWxoSWJUSm9ZV28yVDNCMGVuaERZa0pVYVVOUWNHNXBOMEZJZUd4WGFtOWtVR2x0YVUxWFpEUjZVMlZITUhOVlpqTnhNbWxCTnpoTllXTlpaakZFVFdGeVMzVk9UVmQ1ZEU5elp4SVhibXh1UzJGd1MxSkVTbVZ2TW5KdlVETjBWR1JuUVhjYUlrRkVjM0k1WmxKWmJXaGZablpZTjBKdFp6bHJiM0ZZT1VwTVVWUlNZVlpTV2xFIiwiZmN2IjoiMyIsImVpIjoibmxuS2FwS1JESmVvMnJvUDN0VGRnQXciLCJxYyI6IkNobHdlWFJvYjI0Z2JHbHpkQ0JqYjIxd2NtVm9aVzV6YVc5dUVBQjloXzRVUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiAoKSBhbmQgW10gYW5kIHt9IGluIFB5dGhvbj8iLCJsayI6ImM1T3lMTTlJTEZISUxGWW95VWhWU01sTVMwc3RTczFMVGxWSVNpMHBUMDNOVTlEUVZFak1TMUdJamdWVDFiVUttWGtLQlpVbEdmbDVBQSIsImJzIjoiYzVXUE93dkNRQkNFc2IzS1NpVFZWajVLRll0b1lXRmxKNGhZaU1XWmJNeEIzRDF1VDJNUV83c2hLc1pLclJhR25mbG0xRXAxTjZuMllBUTBSSHkwRGxNa01VeVFHU2wxZ21YaFU2YlpzQmQwOGktdnRucFZoWnE4UW4yS0VKc2tRWWNVSWV6UjU0Z0V2VDVvaW1HN3E4NzFWdWRNZ3pEXzNfMUVyMVU0MXdRRm44QTZQcHNZUWZpSWdCZDBrUkVVU05oQmh0cVJvY09UV2ZXWDJiQWR0R3hOZUp0VXBzWUxlY3o4WEo1bzhlaktvaVcwU21hMjlUR2pZR0ItTno3b3pjWWQiLCJpZCI6ImZjX25sbkthcEtSREplbzJyb1AzdFRkZ0F3XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VtMW9iR2RCUkZaRVJGWlNaV3cwWWxoSWJUSm9ZV28yVDNCMGVuaERZa0pVYVVOUWNHNXBOMEZJZUd4WGFtOWtVR2x0YVUxWFpEUjZVMlZITUhOVlpqTnhNbWxCTnpoTllXTlpaakZFVFdGeVMzVk9UVmQ1ZEU5elp4SVhibXh1UzJGd1MxSkVTbVZ2TW5KdlVETjBWR1JuUVhjYUlrRkVjM0k1WmxKWmJXaGZablpZTjBKdFp6bHJiM0ZZT1VwTVVWUlNZVlpTV2xFIiwiZmN2IjoiMyIsImVpIjoibmxuS2FwS1JESmVvMnJvUDN0VGRnQXciLCJxYyI6IkNobHdlWFJvYjI0Z2JHbHpkQ0JqYjIxd2NtVm9aVzV6YVc5dUVBQjloXzRVUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiAoKSBhbmQgW10gYW5kIHt9IGluIFB5dGhvbj8iLCJsayI6ImM1T3lMTTlJTEZISUxGWW95VWhWU01sTVMwc3RTczFMVGxWSVNpMHBUMDNOVTlEUVZFak1TMUdJamdWVDFiVUttWGtLQlpVbEdmbDVBQSIsImJzIjoiYzVXUE93dkNRQkNFc2IzS1NpVFZWajVLRll0b1lXRmxKNGhZaU1XWmJNeEIzRDF1VDJNUV83c2hLc1pLclJhR25mbG0xRXAxTjZuMllBUTBSSHkwRGxNa01VeVFHU2wxZ21YaFU2YlpzQmQwOGktdnRucFZoWnE4UW4yS0VKc2tRWWNVSWV6UjU0Z0V2VDVvaW1HN3E4NzFWdWRNZ3pEXzNfMUVyMVU0MXdRRm44QTZQcHNZUWZpSWdCZDBrUkVVU05oQmh0cVJvY09UV2ZXWDJiQWR0R3hOZUp0VXBzWUxlY3o4WEo1bzhlaktvaVcwU21hMjlUR2pZR0ItTno3b3pjWWQiLCJpZCI6ImZjX25sbkthcEtSREplbzJyb1AzdFRkZ0F3XzUifQ%3D%3D"
+  },
+  {
+   "question": "Can you provide some exercises for learning Python lists?",
+   "type": "ai_overview",
+   "page_token": "KCs4a3icHdBRbpswGABg7TJ9TLAL2RIpmkSBJDRxaoMN-GUC_yEQbECFQpO33WFH2Kl2mkn9jvD9_qvrtvn37U81jv2wWS7neV5cu-6qLwvVLep2mQ_3Vi1VrnWRq2az-r5CP0u19Sflvrwrl_K-Fx6zYi_sCB5dhZjMzQEne4LljT3ELhigrcIiDRPRgJfFZH8OdMWwJsQPa5pUnowpyq1gFeHOLnyQgJiTpPCmMHOh0al6CCw9bpHEQZCK18hCtvCEHbVi4nq9K4y2UwQHigeHGanjpjKAgF0awOoBOOFBSU3YxcE6In5_hyAs41hPTFP7xMeR-c6bulXHsxfY5z07RF6AaAsfieZjzIWXIYLOQk4ZduhFhK1fwUexc45Z6h55w15l8uOuzJqenhmXO3Dhs6spZw9104Yn5AZWf7j46z6rLSvnoV8Y2SodDCfRz5E53WF-KtW0fX76ut7-Ks246d-763-O_IxS",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KCs4a3icHdBRbpswGABg7TJ9TLAL2RIpmkSBJDRxaoMN-GUC_yEQbECFQpO33WFH2Kl2mkn9jvD9_qvrtvn37U81jv2wWS7neV5cu-6qLwvVLep2mQ_3Vi1VrnWRq2az-r5CP0u19Sflvrwrl_K-Fx6zYi_sCB5dhZjMzQEne4LljT3ELhigrcIiDRPRgJfFZH8OdMWwJsQPa5pUnowpyq1gFeHOLnyQgJiTpPCmMHOh0al6CCw9bpHEQZCK18hCtvCEHbVi4nq9K4y2UwQHigeHGanjpjKAgF0awOoBOOFBSU3YxcE6In5_hyAs41hPTFP7xMeR-c6bulXHsxfY5z07RF6AaAsfieZjzIWXIYLOQk4ZduhFhK1fwUexc45Z6h55w15l8uOuzJqenhmXO3Dhs6spZw9104Yn5AZWf7j46z6rLSvnoV8Y2SodDCfRz5E53WF-KtW0fX76ut7-Ks246d-763-O_IxS",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VtMW9iR2RCUkZaRVJGWlNaV3cwWWxoSWJUSm9ZV28yVDNCMGVuaERZa0pVYVVOUWNHNXBOMEZJZUd4WGFtOWtVR2x0YVUxWFpEUjZVMlZITUhOVlpqTnhNbWxCTnpoTllXTlpaakZFVFdGeVMzVk9UVmQ1ZEU5elp4SVhibXh1UzJGd1MxSkVTbVZ2TW5KdlVETjBWR1JuUVhjYUlrRkVjM0k1WmxKWmJXaGZablpZTjBKdFp6bHJiM0ZZT1VwTVVWUlNZVlpTV2xFIiwiZmN2IjoiMyIsImVpIjoibmxuS2FwS1JESmVvMnJvUDN0VGRnQXciLCJxYyI6IkNobHdlWFJvYjI0Z2JHbHpkQ0JqYjIxd2NtVm9aVzV6YVc5dUVBQjloXzRVUHciLCJxdWVzdGlvbiI6IkNhbiB5b3UgcHJvdmlkZSBzb21lIGV4ZXJjaXNlcyBmb3IgbGVhcm5pbmcgUHl0aG9uIGxpc3RzPyIsImxrIjoiR2had2VYUm9iMjRnYkdsemRITWdaWGhsY21OcGMyVnoiLCJicyI6ImM1V1BPd3ZDUUJDRXNiM0tTaVRWVmo1S0ZZdG9ZV0ZsSjRoWWlNV1piTXhCM0QxdVQyTVFfN3NoS3NaS3JSYUduZmxtMUVwMU42bjJZQVEwUkh5MERsTWtNVXlRR1NsMWdtWGhVNmJac0JkMDhpLXZ0bnBWaFpxOFFuMktFSnNrUVljVUllelI1NGdFdlQ1b2ltRzdxODcxVnVkTWd6RF8zXzFFcjFVNDF3UUZuOEE2UHBzWVFmaUlnQmQwa1JFVVNOaEJodHFSb2NPVFdmV1gyYkFkdEd4TmVKdFVwc1lMZWN6OFhKNW84ZWpLb2lXMFNtYTI5VEdqWUdCLU56N296Y1lkIiwiaWQiOiJmY19ubG5LYXBLUkRKZW8ycm9QM3RUZGdBd181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VtMW9iR2RCUkZaRVJGWlNaV3cwWWxoSWJUSm9ZV28yVDNCMGVuaERZa0pVYVVOUWNHNXBOMEZJZUd4WGFtOWtVR2x0YVUxWFpEUjZVMlZITUhOVlpqTnhNbWxCTnpoTllXTlpaakZFVFdGeVMzVk9UVmQ1ZEU5elp4SVhibXh1UzJGd1MxSkVTbVZ2TW5KdlVETjBWR1JuUVhjYUlrRkVjM0k1WmxKWmJXaGZablpZTjBKdFp6bHJiM0ZZT1VwTVVWUlNZVlpTV2xFIiwiZmN2IjoiMyIsImVpIjoibmxuS2FwS1JESmVvMnJvUDN0VGRnQXciLCJxYyI6IkNobHdlWFJvYjI0Z2JHbHpkQ0JqYjIxd2NtVm9aVzV6YVc5dUVBQjloXzRVUHciLCJxdWVzdGlvbiI6IkNhbiB5b3UgcHJvdmlkZSBzb21lIGV4ZXJjaXNlcyBmb3IgbGVhcm5pbmcgUHl0aG9uIGxpc3RzPyIsImxrIjoiR2had2VYUm9iMjRnYkdsemRITWdaWGhsY21OcGMyVnoiLCJicyI6ImM1V1BPd3ZDUUJDRXNiM0tTaVRWVmo1S0ZZdG9ZV0ZsSjRoWWlNV1piTXhCM0QxdVQyTVFfN3NoS3NaS3JSYUduZmxtMUVwMU42bjJZQVEwUkh5MERsTWtNVXlRR1NsMWdtWGhVNmJac0JkMDhpLXZ0bnBWaFpxOFFuMktFSnNrUVljVUllelI1NGdFdlQ1b2ltRzdxODcxVnVkTWd6RF8zXzFFcjFVNDF3UUZuOEE2UHBzWVFmaUlnQmQwa1JFVVNOaEJodHFSb2NPVFdmV1gyYkFkdEd4TmVKdFVwc1lMZWN6OFhKNW84ZWpLb2lXMFNtYTI5VEdqWUdCLU56N296Y1lkIiwiaWQiOiJmY19ubG5LYXBLUkRKZW8ycm9QM3RUZGdBd181In0%3D"
+  },
+  {
+   "question": "Is list comprehension faster than for loop in Python?",
+   "type": "ai_overview",
+   "page_token": "-yaJE3icHdBdbpswAABg7TJ9TELcdkukqCoFw9KaDOMf5peJ2E4I2MZKGIG89Q49Qk-100zqd4Tv_dOcXPvv20fd9_6yns-v1-vs2HVHo2eym53cvLpMTs5lZcy-ku368ftj8HSQm3iQ4ctZhjn1nkV4UbT1LosQEDSeSmBIxbHD7XFEERxEuh2wZWdEfV2U7HUfrwKyVAtsYaOtTxBbYVyGSeZCo40X1RIT5MSoAmG1xaV29H5X-lhDeOFpeyuYwgS0Nw27oACwyZkqMl73-1QBzfwgwXOPF-rGnA9ybmxGfk5i6UfFswcU4S01YZMHW1IZNlX0CorUv8gUBSgKMUuYwdZTzXu-S1hGSe11XMeFE2dF4C9OFIxr9XefPLz9LsM32uJXwX9M0q5yBDAViQrV2J1yim-yMZbaftwlwrNge2DNc5-zekFSTEgjUkLhUrUqpfndQQ4bcPd1vflzsP3an7vjf8dTj1A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-yaJE3icHdBdbpswAABg7TJ9TELcdkukqCoFw9KaDOMf5peJ2E4I2MZKGIG89Q49Qk-100zqd4Tv_dOcXPvv20fd9_6yns-v1-vs2HVHo2eym53cvLpMTs5lZcy-ku368ftj8HSQm3iQ4ctZhjn1nkV4UbT1LosQEDSeSmBIxbHD7XFEERxEuh2wZWdEfV2U7HUfrwKyVAtsYaOtTxBbYVyGSeZCo40X1RIT5MSoAmG1xaV29H5X-lhDeOFpeyuYwgS0Nw27oACwyZkqMl73-1QBzfwgwXOPF-rGnA9ybmxGfk5i6UfFswcU4S01YZMHW1IZNlX0CorUv8gUBSgKMUuYwdZTzXu-S1hGSe11XMeFE2dF4C9OFIxr9XefPLz9LsM32uJXwX9M0q5yBDAViQrV2J1yim-yMZbaftwlwrNge2DNc5-zekFSTEgjUkLhUrUqpfndQQ4bcPd1vflzsP3an7vjf8dTj1A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VtMW9iR2RCUkZaRVJGWlNaV3cwWWxoSWJUSm9ZV28yVDNCMGVuaERZa0pVYVVOUWNHNXBOMEZJZUd4WGFtOWtVR2x0YVUxWFpEUjZVMlZITUhOVlpqTnhNbWxCTnpoTllXTlpaakZFVFdGeVMzVk9UVmQ1ZEU5elp4SVhibXh1UzJGd1MxSkVTbVZ2TW5KdlVETjBWR1JuUVhjYUlrRkVjM0k1WmxKWmJXaGZablpZTjBKdFp6bHJiM0ZZT1VwTVVWUlNZVlpTV2xFIiwiZmN2IjoiMyIsImVpIjoibmxuS2FwS1JESmVvMnJvUDN0VGRnQXciLCJxYyI6IkNobHdlWFJvYjI0Z2JHbHpkQ0JqYjIxd2NtVm9aVzV6YVc5dUVBQjloXzRVUHciLCJxdWVzdGlvbiI6IklzIGxpc3QgY29tcHJlaGVuc2lvbiBmYXN0ZXIgdGhhbiBmb3IgbG9vcCBpbiBQeXRob24/IiwibGsiOiJHakZwY3lCc2FYTjBJR052YlhCeVpXaGxibk5wYjI0Z1ptRnpkR1Z5SUhSb1lXNGdabTl5SUd4dmIzQWdjSGwwYUc5dSIsImJzIjoiYzVXUE93dkNRQkNFc2IzS1NpVFZWajVLRll0b1lXRmxKNGhZaU1XWmJNeEIzRDF1VDJNUV83c2hLc1pLclJhR25mbG0xRXAxTjZuMllBUTBSSHkwRGxNa01VeVFHU2wxZ21YaFU2YlpzQmQwOGktdnRucFZoWnE4UW4yS0VKc2tRWWNVSWV6UjU0Z0V2VDVvaW1HN3E4NzFWdWRNZ3pEXzNfMUVyMVU0MXdRRm44QTZQcHNZUWZpSWdCZDBrUkVVU05oQmh0cVJvY09UV2ZXWDJiQWR0R3hOZUp0VXBzWUxlY3o4WEo1bzhlaktvaVcwU21hMjlUR2pZR0ItTno3b3pjWWQiLCJpZCI6ImZjX25sbkthcEtSREplbzJyb1AzdFRkZ0F3XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2VtMW9iR2RCUkZaRVJGWlNaV3cwWWxoSWJUSm9ZV28yVDNCMGVuaERZa0pVYVVOUWNHNXBOMEZJZUd4WGFtOWtVR2x0YVUxWFpEUjZVMlZITUhOVlpqTnhNbWxCTnpoTllXTlpaakZFVFdGeVMzVk9UVmQ1ZEU5elp4SVhibXh1UzJGd1MxSkVTbVZ2TW5KdlVETjBWR1JuUVhjYUlrRkVjM0k1WmxKWmJXaGZablpZTjBKdFp6bHJiM0ZZT1VwTVVWUlNZVlpTV2xFIiwiZmN2IjoiMyIsImVpIjoibmxuS2FwS1JESmVvMnJvUDN0VGRnQXciLCJxYyI6IkNobHdlWFJvYjI0Z2JHbHpkQ0JqYjIxd2NtVm9aVzV6YVc5dUVBQjloXzRVUHciLCJxdWVzdGlvbiI6IklzIGxpc3QgY29tcHJlaGVuc2lvbiBmYXN0ZXIgdGhhbiBmb3IgbG9vcCBpbiBQeXRob24%2FIiwibGsiOiJHakZwY3lCc2FYTjBJR052YlhCeVpXaGxibk5wYjI0Z1ptRnpkR1Z5SUhSb1lXNGdabTl5SUd4dmIzQWdjSGwwYUc5dSIsImJzIjoiYzVXUE93dkNRQkNFc2IzS1NpVFZWajVLRll0b1lXRmxKNGhZaU1XWmJNeEIzRDF1VDJNUV83c2hLc1pLclJhR25mbG0xRXAxTjZuMllBUTBSSHkwRGxNa01VeVFHU2wxZ21YaFU2YlpzQmQwOGktdnRucFZoWnE4UW4yS0VKc2tRWWNVSWV6UjU0Z0V2VDVvaW1HN3E4NzFWdWRNZ3pEXzNfMUVyMVU0MXdRRm44QTZQcHNZUWZpSWdCZDBrUkVVU05oQmh0cVJvY09UV2ZXWDJiQWR0R3hOZUp0VXBzWUxlY3o4WEo1bzhlaktvaVcwU21hMjlUR2pZR0ItTno3b3pjWWQiLCJpZCI6ImZjX25sbkthcEtSREplbzJyb1AzdFRkZ0F3XzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "Gqs1HniczVXbcqpIFP2A-Y7hJSfejSRV1KnuDgIqkjYmal4oBGxQLgpEYt7Ov8xXzfN8yDQ3g0Y9OedhatqSpntvdu_b6vXjL8f2Vn__8Y8VRevwrlqN47hCfJ84ZkX3K7ZX1cKdp1cXvhMGuvXdcjjTY15fHZOLrxCQsISkOW5Y1twdrV8a3Z2G3u41ofv6IjjebNrzB7yTvFsMcTjbY3ZbrsnoIVdjTJvzHK-vrfuj-57pNwL_oRmNDQJiJj2SU-daaC6pT2_LsKpW6WP1Z_OeLiphxfRUAVZ4LKvvgSn0oFRp1BrNilLVXKoD_sNBeIDpk76tAH9BDcAvmZMkABAG0n4Do1yw36EbOBHQHy9la3LeWOYd9TJ3QF2KrhADMCx0LjjDl-zGID8LyGk4AI--FNDHyIz5xfJyPk5GlH_y9KFUzvjZSCT5YAUQkcEDDSA_Ax1pZ1k9ODFO1cRYkaHCj_BFz0EXA1EmCNuX1ejwkcTCwpoQ05LgqkFoA9eq84BO9aqtW3r6EoRJX6Pxbc3vdnnXjm87rmz1N13eWsnXriA2QbOnxFV9TvUcXzNMQ7XU2vd0XW_UO7c3tZvWtxRTergHVVgG1bMQ8I3pjTiVSWVQgfUCTjRBH3k-LAwE_qlKoeQD6VNqiyFlHXw8ICq1fX6klGjukv1SqdGylrnCF_ZEGcCYxyfaASa2juHEH6jkB-K8OQlJBSSPpGSRXiz83nF4IFM-R_O5H2UeZoYRQpmdvDMJOM6IBUbloA86OMuf3U1mn_oRw6e0T1ulD8AQUlel4xsJJneClYdVeFhU0C7lGHaTelAZ5Fd0-WjNMBqBDBCpY_y-QAge-I7OVB0mxmY_wc7Z0f-SllTg5ggGB_CJOoG2uVna70gxArclja6VXs0yrrt9fBouvjv_NRLS_1-YKigK5xR1FlPwS5iSJHiKovhcmvn6QVEJphAh5AymBhmmCopKZAVFPZRPzaL5hCk-_MDUDqcUJZ-jqF_GFLyIqaJIpzD1dBpT0jlMpRRVxpQl4wOKOqj6nqJKmPoNiur_LkWlEDOz6ZCvXpfkLG8Jymj2Noq2nfVCbEWuoSo4kISWIT67-Ke8tXCjO1cznG-qbdzBRi_aGd9UuuHfmQaz4da7yPK9K8cOoyuK13VgWqYX2r7HuE7gczWts3SGhja5tadK3DZGtuC_tLfh2xhqRPAMvhapN2OxzQ62Cv_4PFH0-aSxgfU53zXcYTOO8fNmAV7Y2e1isJw3nMcnD0RbMXa7rzz77rTVxzGwm80pGHjXU9aTw2e2035oLazJPKq7k_sm0icqGs7Dh8FqLLLilKR-hdzqBUbWhkzghGVoNKHJ1Rk30Dla7hYBQwwmAGgUhqBHIL0D6Z_OAzoPfHrrijOA7xNcM6GuqWa45YzaQmu0ddNo11nWrGuMS6LdmmOZ0Au4-r-8AGGw",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Gqs1HniczVXbcqpIFP2A-Y7hJSfejSRV1KnuDgIqkjYmal4oBGxQLgpEYt7Ov8xXzfN8yDQ3g0Y9OedhatqSpntvdu_b6vXjL8f2Vn__8Y8VRevwrlqN47hCfJ84ZkX3K7ZX1cKdp1cXvhMGuvXdcjjTY15fHZOLrxCQsISkOW5Y1twdrV8a3Z2G3u41ofv6IjjebNrzB7yTvFsMcTjbY3ZbrsnoIVdjTJvzHK-vrfuj-57pNwL_oRmNDQJiJj2SU-daaC6pT2_LsKpW6WP1Z_OeLiphxfRUAVZ4LKvvgSn0oFRp1BrNilLVXKoD_sNBeIDpk76tAH9BDcAvmZMkABAG0n4Do1yw36EbOBHQHy9la3LeWOYd9TJ3QF2KrhADMCx0LjjDl-zGID8LyGk4AI--FNDHyIz5xfJyPk5GlH_y9KFUzvjZSCT5YAUQkcEDDSA_Ax1pZ1k9ODFO1cRYkaHCj_BFz0EXA1EmCNuX1ejwkcTCwpoQ05LgqkFoA9eq84BO9aqtW3r6EoRJX6Pxbc3vdnnXjm87rmz1N13eWsnXriA2QbOnxFV9TvUcXzNMQ7XU2vd0XW_UO7c3tZvWtxRTergHVVgG1bMQ8I3pjTiVSWVQgfUCTjRBH3k-LAwE_qlKoeQD6VNqiyFlHXw8ICq1fX6klGjukv1SqdGylrnCF_ZEGcCYxyfaASa2juHEH6jkB-K8OQlJBSSPpGSRXiz83nF4IFM-R_O5H2UeZoYRQpmdvDMJOM6IBUbloA86OMuf3U1mn_oRw6e0T1ulD8AQUlel4xsJJneClYdVeFhU0C7lGHaTelAZ5Fd0-WjNMBqBDBCpY_y-QAge-I7OVB0mxmY_wc7Z0f-SllTg5ggGB_CJOoG2uVna70gxArclja6VXs0yrrt9fBouvjv_NRLS_1-YKigK5xR1FlPwS5iSJHiKovhcmvn6QVEJphAh5AymBhmmCopKZAVFPZRPzaL5hCk-_MDUDqcUJZ-jqF_GFLyIqaJIpzD1dBpT0jlMpRRVxpQl4wOKOqj6nqJKmPoNiur_LkWlEDOz6ZCvXpfkLG8Jymj2Noq2nfVCbEWuoSo4kISWIT67-Ke8tXCjO1cznG-qbdzBRi_aGd9UuuHfmQaz4da7yPK9K8cOoyuK13VgWqYX2r7HuE7gczWts3SGhja5tadK3DZGtuC_tLfh2xhqRPAMvhapN2OxzQ62Cv_4PFH0-aSxgfU53zXcYTOO8fNmAV7Y2e1isJw3nMcnD0RbMXa7rzz77rTVxzGwm80pGHjXU9aTw2e2035oLazJPKq7k_sm0icqGs7Dh8FqLLLilKR-hdzqBUbWhkzghGVoNKHJ1Rk30Dla7hYBQwwmAGgUhqBHIL0D6Z_OAzoPfHrrijOA7xNcM6GuqWa45YzaQmu0ddNo11nWrGuMS6LdmmOZ0Au4-r-8AGGw"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Python List Comprehension Using If-Else",
+   "link": "https://www.geeksforgeeks.org/python/python-list-comprehension-using-if-else/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFRWV-MY_3-NBiJg4aJjmjevhIkKiZOonog30u42hmt_uRabKuIaofkGry_IwFP2s41Rjf8_ddA0_GIyXNCZMJDcn-PJRbMwfcvRs7of-SGeBYuKOSGfsb1B_wGqnwQelHG-WL7URPm16onysucjgU7h4NVOJ9mvWtPH2Pw5RxkwpQsqU&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQFnoECCoQAQ&uoh=1",
+   "displayed_link": "https://www.geeksforgeeks.org › python › python-list-c...",
+   "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+   "date": "16 May 2026",
+   "snippet": "List comprehension with if-else is used to create lists with conditional logic concisely. It allows elements to be filtered or modified while ...",
+   "snippet_highlighted_words": [
+    "used to create lists with conditional logic concisely"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "List comprehension with if-else is used to create lists with conditional logic concisely. It allows elements to be filtered or modified while ...",
+     "source_info_link": "https://www.geeksforgeeks.org/python/python-list-comprehension-using-if-else/",
+     "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZSV1YtTVlfMy1OQmlKZzRhSmptamV2aElrS2laT29ub2czMHU0MmhtdF91UmFiS3VJYW9ma0dyeV9Jd0ZQMnM0MVJqZjhfZGRBMF9HSXlYTkNaTUpEY24tUEpSYk13ZmN2UnM3b2YtU0dlQll1S09TR2ZzYjFCX3dHcW53UWVsSEctV0w3VVJQbTE2b255c3VjamdVN2g0TlZPSjltdld0UEgyUHc1Unhrd3BRc3FVEgQaAggAGsgEEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKQECAAQABgAIAAqGgoGcHl0aG9uFehfy0AaC2l2O3A7cHl0aG9uKhsKBGxpc3QVOIy_QBoHbGlzdGluZxoFbGlzdHMqOAoNY29tcHJlaGVuc2lvbhVCbq1AGg5jb21wcmVoZW5zaW9ucxoSaXY7cDtjb21wcmVoZW5zaW9uMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZSV1YtTVlfMy1OQmlKZzRhSmptamV2aElrS2laT29ub2czMHU0MmhtdF91UmFiS3VJYW9ma0dyeV9Jd0ZQMnM0MVJqZjhfZGRBMF9HSXlYTkNaTUpEY24tUEpSYk13ZmN2UnM3b2YtU0dlQll1S09TR2ZzYjFCX3dHcW53UWVsSEctV0w3VVJQbTE2b255c3VjamdVN2g0TlZPSjltdld0UEgyUHc1Unhrd3BRc3FVOj48Yj5QeXRob24gTGlzdCBDb21wcmVoZW5zaW9uPC9iPiBVc2luZyBJZi1FbHNlIC0gR2Vla3Nmb3JHZWVrc0KdAUxpc3QgY29tcHJlaGVuc2lvbiB3aXRoIGlmLWVsc2UgaXMgPGI-dXNlZCB0byBjcmVhdGUgbGlzdHMgd2l0aCBjb25kaXRpb25hbCBsb2dpYyBjb25jaXNlbHk8L2I-LiBJdCBhbGxvd3MgZWxlbWVudHMgdG8gYmUgZmlsdGVyZWQgb3IgbW9kaWZpZWQgd2hpbGUmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZSV1YtTVlfMy1OQmlKZzRhSmptamV2aElrS2laT29ub2czMHU0MmhtdF91UmFiS3VJYW9ma0dyeV9Jd0ZQMnM0MVJqZjhfZGRBMF9HSXlYTkNaTUpEY24tUEpSYk13ZmN2UnM3b2YtU0dlQll1S09TR2ZzYjFCX3dHcW53UWVsSEctV0w3VVJQbTE2b255c3VjamdVN2g0TlZPSjltdld0UEgyUHc1Unhrd3BRc3FVEgQaAggAGsgEEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKQECAAQABgAIAAqGgoGcHl0aG9uFehfy0AaC2l2O3A7cHl0aG9uKhsKBGxpc3QVOIy_QBoHbGlzdGluZxoFbGlzdHMqOAoNY29tcHJlaGVuc2lvbhVCbq1AGg5jb21wcmVoZW5zaW9ucxoSaXY7cDtjb21wcmVoZW5zaW9uMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZSV1YtTVlfMy1OQmlKZzRhSmptamV2aElrS2laT29ub2czMHU0MmhtdF91UmFiS3VJYW9ma0dyeV9Jd0ZQMnM0MVJqZjhfZGRBMF9HSXlYTkNaTUpEY24tUEpSYk13ZmN2UnM3b2YtU0dlQll1S09TR2ZzYjFCX3dHcW53UWVsSEctV0w3VVJQbTE2b255c3VjamdVN2g0TlZPSjltdld0UEgyUHc1Unhrd3BRc3FVOj48Yj5QeXRob24gTGlzdCBDb21wcmVoZW5zaW9uPC9iPiBVc2luZyBJZi1FbHNlIC0gR2Vla3Nmb3JHZWVrc0KdAUxpc3QgY29tcHJlaGVuc2lvbiB3aXRoIGlmLWVsc2UgaXMgPGI-dXNlZCB0byBjcmVhdGUgbGlzdHMgd2l0aCBjb25kaXRpb25hbCBsb2dpYyBjb25jaXNlbHk8L2I-LiBJdCBhbGxvd3MgZWxlbWVudHMgdG8gYmUgZmlsdGVyZWQgb3IgbW9kaWZpZWQgd2hpbGUmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "GeeksforGeeks",
+   "read_more_link": "https://www.geeksforgeeks.org/python/python-list-comprehension-using-if-else/#:~:text=List%20comprehension%20with%20if%2Delse%20is,while%20generating%20the%20new%20list."
+  },
+  {
+   "position": 2,
+   "title": "Comprehensions in Python",
+   "link": "https://www.geeksforgeeks.org/python/comprehensions-in-python/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAV38-nLN1lYQ2KkcDihXjOFlDu3PfkEjqW6VskZY7UYB1a0ALXq9fGgW7m11uMavNNd88pjy72_6lrbsUVVj4wwJBH4pognVW5bNuBQamOGur39tslm5fj5XDhrPPawM91fUYXC4FjCf5jD6PsrZ1kHPJSIwg&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://www.geeksforgeeks.org › python › comprehensi...",
+   "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp",
+   "date": "18 Mar 2026",
+   "snippet": "List comprehensions allow for the creation of lists in a single line, improving efficiency and readability. They follow a specific pattern to ...",
+   "snippet_highlighted_words": [
+    "List comprehensions allow for the creation of lists in a single line"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "List comprehensions allow for the creation of lists in a single line, improving efficiency and readability. They follow a specific pattern to ...",
+     "source_info_link": "https://www.geeksforgeeks.org/python/comprehensions-in-python/",
+     "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACQBQCdASocABwAPtE-tFooIigoFAEAGglqAMcjwWz_FsUDY-wl1mPE_3RRg2gjbnJg8ecAAAD-_SpvvHZ-cX20-wsm1etmCqaHASoYY_Kv5nc8B4isRV9I4-ZoOD2TKqbkHoNiqggBUi5fyPX4omTrYAH9sgee52qNDe9ya-2gP6SADgCG5dMGrY8gHo8A4PXa3eMxTt75gbpLZTAj3aV09rKCzunoflM-4NNTYTA09r-kLavN0UI_etioif2ERUn7apBv2V9M4Tz2IDboggPPNIdSX0XtPsqCTwZVkGnRpsCzXNI6xbdpouM1MsXip4gsN78KD-yRUcoLKyWqAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjM4LW5MTjFsWVEyS2tjRGloWGpPRmxEdTNQZmtFanFXNlZza1pZN1VZQjFhMEFMWHE5ZkdnVzdtMTF1TWF2Tk5kODhwank3Ml82bHJic1VWVmo0d3dKQkg0cG9nblZXNWJOdUJRYW1PR3VyMzl0c2xtNWZqNVhEaHJQUGF3TTkxZlVZWEM0RmpDZjVqRDZQc3JaMWtIUEpTSXdnEgQaAggAGq0EEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAhwQIABAAGAAgACoaCgZweXRob24VsOmXQBoLaXY7cDtweXRob24qGwoEbGlzdBVXzrQ_GgdsaXN0aW5nGgVsaXN0cyo4Cg1jb21wcmVoZW5zaW9uFebiOD8aDmNvbXByZWhlbnNpb25zGhJpdjtwO2NvbXByZWhlbnNpb24ysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWMzgtbkxOMWxZUTJLa2NEaWhYak9GbER1M1Bma0VqcVc2VnNrWlk3VVlCMWEwQUxYcTlmR2dXN20xMXVNYXZOTmQ4OHBqeTcyXzZscmJzVVZWajR3d0pCSDRwb2duVlc1Yk51QlFhbU9HdXIzOXRzbG01Zmo1WERoclBQYXdNOTFmVVlYQzRGakNmNWpENlBzcloxa0hQSlNJd2c6NjxiPkNvbXByZWhlbnNpb25zPC9iPiBpbiA8Yj5QeXRob248L2I-IC0gR2Vla3Nmb3JHZWVrc0KdATxiPkxpc3QgY29tcHJlaGVuc2lvbnMgYWxsb3cgZm9yIHRoZSBjcmVhdGlvbiBvZiBsaXN0cyBpbiBhIHNpbmdsZSBsaW5lPC9iPiwgaW1wcm92aW5nIGVmZmljaWVuY3kgYW5kIHJlYWRhYmlsaXR5LiBUaGV5IGZvbGxvdyBhIHNwZWNpZmljIHBhdHRlcm4gdG8mbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjM4LW5MTjFsWVEyS2tjRGloWGpPRmxEdTNQZmtFanFXNlZza1pZN1VZQjFhMEFMWHE5ZkdnVzdtMTF1TWF2Tk5kODhwank3Ml82bHJic1VWVmo0d3dKQkg0cG9nblZXNWJOdUJRYW1PR3VyMzl0c2xtNWZqNVhEaHJQUGF3TTkxZlVZWEM0RmpDZjVqRDZQc3JaMWtIUEpTSXdnEgQaAggAGq0EEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAhwQIABAAGAAgACoaCgZweXRob24VsOmXQBoLaXY7cDtweXRob24qGwoEbGlzdBVXzrQ_GgdsaXN0aW5nGgVsaXN0cyo4Cg1jb21wcmVoZW5zaW9uFebiOD8aDmNvbXByZWhlbnNpb25zGhJpdjtwO2NvbXByZWhlbnNpb24ysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWMzgtbkxOMWxZUTJLa2NEaWhYak9GbER1M1Bma0VqcVc2VnNrWlk3VVlCMWEwQUxYcTlmR2dXN20xMXVNYXZOTmQ4OHBqeTcyXzZscmJzVVZWajR3d0pCSDRwb2duVlc1Yk51QlFhbU9HdXIzOXRzbG01Zmo1WERoclBQYXdNOTFmVVlYQzRGakNmNWpENlBzcloxa0hQSlNJd2c6NjxiPkNvbXByZWhlbnNpb25zPC9iPiBpbiA8Yj5QeXRob248L2I-IC0gR2Vla3Nmb3JHZWVrc0KdATxiPkxpc3QgY29tcHJlaGVuc2lvbnMgYWxsb3cgZm9yIHRoZSBjcmVhdGlvbiBvZiBsaXN0cyBpbiBhIHNpbmdsZSBsaW5lPC9iPiwgaW1wcm92aW5nIGVmZmljaWVuY3kgYW5kIHJlYWRhYmlsaXR5LiBUaGV5IGZvbGxvdyBhIHNwZWNpZmljIHBhdHRlcm4gdG8mbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "GeeksforGeeks",
+   "read_more_link": "https://www.geeksforgeeks.org/python/comprehensions-in-python/#:~:text=List%20comprehensions%20allow%20for%20the,data%20from%20an%20existing%20iterable."
+  },
+  {
+   "position": 3,
+   "title": "List comprehensions 101 | Pydon't 🐍",
+   "link": "https://mathspp.com/blog/pydonts/list-comprehensions-101",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVOapMT3wotyqZdkzDCy7DQLN7p9Jg--WELqb2Whpe0dC_QHi8fK48oIcoyRTX4Iian7uhesUwQrcGg0ClgDGaD49vq8OK-fn57e5uRDKZXMTOdTAKjpqc8zD_UFmBPMGjyOLJjMBlQjsN9uNlb98&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://mathspp.com › Blog › Pydon'ts",
+   "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAACwBgCdASocABwAPtEutFooIagoGAEAGglsALUQgRqDxM8kl3lUvADIBG-2v46cshw39BTMpEkSujdpnEygAAD-9gL9jVxa9VVbJnXDDy8-ugxRJl89jxtivW-uiWLav5VtnkIgu13uN534-VeLaPYrS6pKM9Cg2XI-uTOieKf4ok8o1Bt-wrvvFeSC3jtGtaJ2EzBPfgZN8Ald-ZqEtnJaIqYv4ko7k-5xvgQMgypjo3NgD_o9xlYJ6aDWFdMQav9HTA-f_-pF23TEJeYShDL4p-u5W4_mhPXNsr0bVJ5tsRYvetZT_bG7oKEfhbcko2xFj2r_OBIbs8DVz9wQxNb_0-K0NqH-R-cBf-jzFP0CbqndbLrDRc4ffoDl1_neZ689BgJtwF9GQ6XllI3LvkJKga4eYoLOQbQAAA.webp",
+   "date": "24 Sept 2021",
+   "snippet": "What is a list comprehension? A list comprehension is a Python expression that builds a list. That's it, really. In other words, list ...",
+   "snippet_highlighted_words": [
+    "a Python expression that builds a list"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "What is a list comprehension? A list comprehension is a Python expression that builds a list. That's it, really. In other words, list ...",
+     "source_info_link": "https://mathspp.com/blog/pydonts/list-comprehensions-101",
+     "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAACwBgCdASocABwAPtEutFooIagoGAEAGglsALUQgRqDxM8kl3lUvADIBG-2v46cshw39BTMpEkSujdpnEygAAD-9gL9jVxa9VVbJnXDDy8-ugxRJl89jxtivW-uiWLav5VtnkIgu13uN534-VeLaPYrS6pKM9Cg2XI-uTOieKf4ok8o1Bt-wrvvFeSC3jtGtaJ2EzBPfgZN8Ald-ZqEtnJaIqYv4ko7k-5xvgQMgypjo3NgD_o9xlYJ6aDWFdMQav9HTA-f_-pF23TEJeYShDL4p-u5W4_mhPXNsr0bVJ5tsRYvetZT_bG7oKEfhbcko2xFj2r_OBIbs8DVz9wQxNb_0-K0NqH-R-cBf-jzFP0CbqndbLrDRc4ffoDl1_neZ689BgJtwF9GQ6XllI3LvkJKga4eYoLOQbQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVk9hcE1UM3dvdHlxWmRrekRDeTdEUUxON3A5SmctLVdFTHFiMldocGUwZENfUUhpOGZLNDhvSWNveVJUWDRJaWFuN3VoZXNVd1FyY0dnMENsZ0RHYUQ0OXZxOE9LLWZuNTdlNXVSREtaWE1UT2RUQUtqcHFjOHpEX1VGbUJQTUdqeU9MSmpNQmxRanNOOXVObGI5OBIEGgIIABqhBBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQPsDCAAQABgAIAAqGgoGcHl0aG9uFeq9F0AaC2l2O3A7cHl0aG9uKhsKBGxpc3QVgOC9QBoHbGlzdGluZxoFbGlzdHMqOAoNY29tcHJlaGVuc2lvbhWadxhAGg5jb21wcmVoZW5zaW9ucxoSaXY7cDtjb21wcmVoZW5zaW9uMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVk9hcE1UM3dvdHlxWmRrekRDeTdEUUxON3A5SmctLVdFTHFiMldocGUwZENfUUhpOGZLNDhvSWNveVJUWDRJaWFuN3VoZXNVd1FyY0dnMENsZ0RHYUQ0OXZxOE9LLWZuNTdlNXVSREtaWE1UT2RUQUtqcHFjOHpEX1VGbUJQTUdqeU9MSmpNQmxRanNOOXVObGI5ODo2PGI-TGlzdCBjb21wcmVoZW5zaW9uczwvYj4gMTAxIHwgUHlkb24mIzM5O3QgLSBtYXRoc3BwQpkBV2hhdCBpcyBhIGxpc3QgY29tcHJlaGVuc2lvbj8gQSBsaXN0IGNvbXByZWhlbnNpb24gaXMgPGI-YSBQeXRob24gZXhwcmVzc2lvbiB0aGF0IGJ1aWxkcyBhIGxpc3Q8L2I-LiBUaGF0JiMzOTtzIGl0LCByZWFsbHkuIEluIG90aGVyIHdvcmRzLCBsaXN0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVk9hcE1UM3dvdHlxWmRrekRDeTdEUUxON3A5SmctLVdFTHFiMldocGUwZENfUUhpOGZLNDhvSWNveVJUWDRJaWFuN3VoZXNVd1FyY0dnMENsZ0RHYUQ0OXZxOE9LLWZuNTdlNXVSREtaWE1UT2RUQUtqcHFjOHpEX1VGbUJQTUdqeU9MSmpNQmxRanNOOXVObGI5OBIEGgIIABqhBBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQPsDCAAQABgAIAAqGgoGcHl0aG9uFeq9F0AaC2l2O3A7cHl0aG9uKhsKBGxpc3QVgOC9QBoHbGlzdGluZxoFbGlzdHMqOAoNY29tcHJlaGVuc2lvbhWadxhAGg5jb21wcmVoZW5zaW9ucxoSaXY7cDtjb21wcmVoZW5zaW9uMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVk9hcE1UM3dvdHlxWmRrekRDeTdEUUxON3A5SmctLVdFTHFiMldocGUwZENfUUhpOGZLNDhvSWNveVJUWDRJaWFuN3VoZXNVd1FyY0dnMENsZ0RHYUQ0OXZxOE9LLWZuNTdlNXVSREtaWE1UT2RUQUtqcHFjOHpEX1VGbUJQTUdqeU9MSmpNQmxRanNOOXVObGI5ODo2PGI-TGlzdCBjb21wcmVoZW5zaW9uczwvYj4gMTAxIHwgUHlkb24mIzM5O3QgLSBtYXRoc3BwQpkBV2hhdCBpcyBhIGxpc3QgY29tcHJlaGVuc2lvbj8gQSBsaXN0IGNvbXByZWhlbnNpb24gaXMgPGI-YSBQeXRob24gZXhwcmVzc2lvbiB0aGF0IGJ1aWxkcyBhIGxpc3Q8L2I-LiBUaGF0JiMzOTtzIGl0LCByZWFsbHkuIEluIG90aGVyIHdvcmRzLCBsaXN0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "mathspp",
+   "read_more_link": "https://mathspp.com/blog/pydonts/list-comprehensions-101#:~:text=What%20is%20a%20list%20comprehension%3F,convenient%20syntax%20to%20create%20lists."
+  },
+  {
+   "position": 4,
+   "title": "List Comprehension in Python - A Python Feature You MUST ...",
+   "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0",
+   "displayed_link": "12.4K+ views · 6 years ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BfnRD3QIuZhyKWQ6ng3h_P-zLk7rvtK_mTdvBEIWLHIZeaF2cSIVUA&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "In this Python Tutorial we will be learning about Lists Comprehension in Python. List comprehension provides a simple and concise way to ...",
+   "duration": "16:05",
+   "key_moments": [
+    {
+     "time": "00:00",
+     "title": "Intro",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=0"
+    },
+    {
+     "time": "01:20",
+     "title": "List Comprehension Syntax",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=80"
+    },
+    {
+     "time": "02:20",
+     "title": "List Comprehension with a Function",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=140"
+    },
+    {
+     "time": "04:53",
+     "title": "Modifying Lists",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=293"
+    },
+    {
+     "time": "05:53",
+     "title": "Conclusion",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=353"
+    },
+    {
+     "time": "06:19",
+     "title": "List Comprehension Example",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=379"
+    },
+    {
+     "time": "08:22",
+     "title": "Nested List Comprehension in Python",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=502"
+    },
+    {
+     "time": "09:51",
+     "title": "When NOT to use List Comprehension",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=591"
+    },
+    {
+     "time": "11:14",
+     "title": "Generator Expressions",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=674"
+    },
+    {
+     "time": "14:15",
+     "title": "Timing a List Comprehension",
+     "link": "https://www.youtube.com/watch?v=RaIu2-NM0t0&t=855"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "In this Python Tutorial we will be learning about Lists Comprehension in Python. List comprehension provides a simple and concise way to ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm52S1ZmZ2w1VWVUMF9SNHFUWDFydlUxMGRaRUFORjFGNzZlYk5CUjdRU3JUUF9FQlRDdG9yMVlZYURSalpYQUltOU12N1pnMUdSUFlhUmRMdXZ6ZGpPNDhRTkgzRkxuZUFVMzBoLUk0bjVQUVhQcFNyMVludmoycWo3Z1l6SGxWMkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm52S1ZmZ2w1VWVUMF9SNHFUWDFydlUxMGRaRUFORjFGNzZlYk5CUjdRU3JUUF9FQlRDdG9yMVlZYURSalpYQUltOU12N1pnMUdSUFlhUmRMdXZ6ZGpPNDhRTkgzRkxuZUFVMzBoLUk0bjVQUVhQcFNyMVludmoycWo3Z1l6SGxWMkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS4DJdRXbuVws8LdBWMJo9pHt6IUN2Sk0Nllw",
+   "source": "YouTube · Patrick Loeber"
+  },
+  {
+   "position": 5,
+   "title": "List Comprehension in Python",
+   "link": "https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFShzU4yRiy4XM8Q6Urd5TkbH7OWLd3Dg5ZXhDDXK8sv8mMGGT0tqJyQxSFU-OJYG-HCNyDebHk7XA6xkCZHVi5Hdh6S_su177f_gk8NS1Nyef_DKuuPfwCtlJSEfILGNAJfa13hBCyf0lCkgDAp6Td4KOGY5huQIUM7BxdVNqhzm8zvJauZB-fI&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQFnoECEoQAQ&uoh=1",
+   "displayed_link": "https://www.freecodecamp.org › news › list-comprehen...",
+   "favicon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABwBgCdASocABwAPtFAtFooIqgoFAEAGgllAL3U88txLNo9AagAHYLWFoNPPqVvqec8dAdsVG9KvrBFIuAA_vVrVpvAe0f4hUL8M0rI-gVAafy7GLEHhs7uno0NREFqQY3JQ9u_B2ptSXGDL-P18r8MAZJ5i9K8LPk9tkPdT4E05fmrUgHApCzZIK6AAyYVzOpHRjKCeT_-g37Ir75bIwQ0xO9_-ugW8XpAESnfJIiw_-QG2xOSo8vjRa12x34P0O0AtrlvP8OcaRl8_-21BfAzgYvnC8_38fqOM4Nt_nKEn023vQgCHp1CnS2d4r_vL8t_Z3X0fQ0F9MR5__hJcLgifDxuKE9yIjN_MV792xfoamKrPHf77ewE90QytE36vAAAAA.webp",
+   "date": "18 Nov 2021",
+   "snippet": "Lists are a helpful and frequently used feature in Python. And list comprehension gives you a way to create lists while writing more elegant ...",
+   "snippet_highlighted_words": [
+    "list comprehension"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lists are a helpful and frequently used feature in Python. And list comprehension gives you a way to create lists while writing more elegant ...",
+     "source_info_link": "https://www.freecodecamp.org/news/list-comprehension-in-python-with-code-examples/",
+     "icon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAABwBgCdASocABwAPtFAtFooIqgoFAEAGgllAL3U88txLNo9AagAHYLWFoNPPqVvqec8dAdsVG9KvrBFIuAA_vVrVpvAe0f4hUL8M0rI-gVAafy7GLEHhs7uno0NREFqQY3JQ9u_B2ptSXGDL-P18r8MAZJ5i9K8LPk9tkPdT4E05fmrUgHApCzZIK6AAyYVzOpHRjKCeT_-g37Ir75bIwQ0xO9_-ugW8XpAESnfJIiw_-QG2xOSo8vjRa12x34P0O0AtrlvP8OcaRl8_-21BfAzgYvnC8_38fqOM4Nt_nKEn023vQgCHp1CnS2d4r_vL8t_Z3X0fQ0F9MR5__hJcLgifDxuKE9yIjN_MV792xfoamKrPHf77ewE90QytE36vAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZTaHpVNHlSaXk0WE04UTZVcmQ1VGtiSDdPV0xkM0RnNVpYaEREWEs4c3Y4bU1HR1QwdHFKeVF4U0ZVLU9KWUctSENOeURlYkhrN1hBNnhrQ1pIVmk1SGRoNlNfc3UxNzdmX2drOE5TMU55ZWZfREt1dVBmd0N0bEpTRWZJTEdOQUpmYTEzaEJDeWYwbENrZ0RBcDZUZDRLT0dZNWh1UUlVTTdCeGRWTnFoem04enZKYXVaQi1mSRIEGgIIABrLBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKUECAAQABgAIAAqGgoGcHl0aG9uFWjFxkAaC2l2O3A7cHl0aG9uKhsKBGxpc3QVXcfiQBoHbGlzdGluZxoFbGlzdHMqOAoNY29tcHJlaGVuc2lvbhWm6L9AGg5jb21wcmVoZW5zaW9ucxoSaXY7cDtjb21wcmVoZW5zaW9uMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZTaHpVNHlSaXk0WE04UTZVcmQ1VGtiSDdPV0xkM0RnNVpYaEREWEs4c3Y4bU1HR1QwdHFKeVF4U0ZVLU9KWUctSENOeURlYkhrN1hBNnhrQ1pIVmk1SGRoNlNfc3UxNzdmX2drOE5TMU55ZWZfREt1dVBmd0N0bEpTRWZJTEdOQUpmYTEzaEJDeWYwbENrZ0RBcDZUZDRLT0dZNWh1UUlVTTdCeGRWTnFoem04enZKYXVaQi1mSTo5PGI-TGlzdCBDb21wcmVoZW5zaW9uPC9iPiBpbiA8Yj5QeXRob248L2I-IC0gZnJlZUNvZGVDYW1wQpwBTGlzdHMgYXJlIGEgaGVscGZ1bCBhbmQgZnJlcXVlbnRseSB1c2VkIGZlYXR1cmUgaW4gUHl0aG9uLiBBbmQgPGI-bGlzdCBjb21wcmVoZW5zaW9uPC9iPiBnaXZlcyB5b3UgYSB3YXkgdG8gY3JlYXRlIGxpc3RzIHdoaWxlIHdyaXRpbmcgbW9yZSBlbGVnYW50Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZTaHpVNHlSaXk0WE04UTZVcmQ1VGtiSDdPV0xkM0RnNVpYaEREWEs4c3Y4bU1HR1QwdHFKeVF4U0ZVLU9KWUctSENOeURlYkhrN1hBNnhrQ1pIVmk1SGRoNlNfc3UxNzdmX2drOE5TMU55ZWZfREt1dVBmd0N0bEpTRWZJTEdOQUpmYTEzaEJDeWYwbENrZ0RBcDZUZDRLT0dZNWh1UUlVTTdCeGRWTnFoem04enZKYXVaQi1mSRIEGgIIABrLBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKUECAAQABgAIAAqGgoGcHl0aG9uFWjFxkAaC2l2O3A7cHl0aG9uKhsKBGxpc3QVXcfiQBoHbGlzdGluZxoFbGlzdHMqOAoNY29tcHJlaGVuc2lvbhWm6L9AGg5jb21wcmVoZW5zaW9ucxoSaXY7cDtjb21wcmVoZW5zaW9uMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZTaHpVNHlSaXk0WE04UTZVcmQ1VGtiSDdPV0xkM0RnNVpYaEREWEs4c3Y4bU1HR1QwdHFKeVF4U0ZVLU9KWUctSENOeURlYkhrN1hBNnhrQ1pIVmk1SGRoNlNfc3UxNzdmX2drOE5TMU55ZWZfREt1dVBmd0N0bEpTRWZJTEdOQUpmYTEzaEJDeWYwbENrZ0RBcDZUZDRLT0dZNWh1UUlVTTdCeGRWTnFoem04enZKYXVaQi1mSTo5PGI-TGlzdCBDb21wcmVoZW5zaW9uPC9iPiBpbiA8Yj5QeXRob248L2I-IC0gZnJlZUNvZGVDYW1wQpwBTGlzdHMgYXJlIGEgaGVscGZ1bCBhbmQgZnJlcXVlbnRseSB1c2VkIGZlYXR1cmUgaW4gUHl0aG9uLiBBbmQgPGI-bGlzdCBjb21wcmVoZW5zaW9uPC9iPiBnaXZlcyB5b3UgYSB3YXkgdG8gY3JlYXRlIGxpc3RzIHdoaWxlIHdyaXRpbmcgbW9yZSBlbGVnYW50Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "freeCodeCamp"
+  },
+  {
+   "position": 6,
+   "title": "List Comprehension in Python Programming | Example",
+   "link": "https://www.youtube.com/watch?v=fnJOBQbc7Qg",
+   "displayed_link": "32.8K+ views · 8 years ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNHJfJP5SishSvTBHRNMIp0vgnfrjgwEcH316MwmxdtoWiqY2w46jCQ&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "In this Python Programming video tutorial you will learn about List comprehension in detail with example. List is nothing but “it is the ...",
+   "duration": "9:21",
+   "key_moments": [
+    {
+     "time": "01:33",
+     "title": "Multiplying a value to each element of a list",
+     "link": "https://www.youtube.com/watch?v=fnJOBQbc7Qg&t=93"
+    },
+    {
+     "time": "02:15",
+     "title": "Change the case of alphabets or words",
+     "link": "https://www.youtube.com/watch?v=fnJOBQbc7Qg&t=135"
+    },
+    {
+     "time": "04:19",
+     "title": "Extract Alphabets from String",
+     "link": "https://www.youtube.com/watch?v=fnJOBQbc7Qg&t=259"
+    },
+    {
+     "time": "05:09",
+     "title": "List Comprehension on a Nested List",
+     "link": "https://www.youtube.com/watch?v=fnJOBQbc7Qg&t=309"
+    },
+    {
+     "time": "05:39",
+     "title": "List Comprehension with Functions",
+     "link": "https://www.youtube.com/watch?v=fnJOBQbc7Qg&t=339"
+    },
+    {
+     "time": "06:36",
+     "title": "Add to List using Python List Comprehension",
+     "link": "https://www.youtube.com/watch?v=fnJOBQbc7Qg&t=396"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "In this Python Programming video tutorial you will learn about List comprehension in detail with example. List is nothing but “it is the ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjRpVlM5UHVVYzQwbHJRVlhQQ2V1YXYwX2ppaS04ZHY0anFGbFNjb2dUSE5RWnVzMkpOV2xlR0ZBV0RtTmNKWUhtZ0RqUFpuNzd5YktZdFhheC1EeUhjcjJEdlA1QzZjTTQ0bFFpb2ZNR250TV96TnhpcHBIREZvODFHQ3gxbFJqTUESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjRpVlM5UHVVYzQwbHJRVlhQQ2V1YXYwX2ppaS04ZHY0anFGbFNjb2dUSE5RWnVzMkpOV2xlR0ZBV0RtTmNKWUhtZ0RqUFpuNzd5YktZdFhheC1EeUhjcjJEdlA1QzZjTTQ0bFFpb2ZNR250TV96TnhpcHBIREZvODFHQ3gxbFJqTUESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "source": "YouTube · Amulya's Academy"
+  },
+  {
+   "position": 7,
+   "title": "List Comprehensions in Python - by Volkan Culhaci",
+   "link": "https://medium.com/@volkanculhaci/list-comprehensions-in-python-c188753134ce",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFZp8PBwCOwsX_r0cEerceESN1an8uoxQhf4WZl43hSjZLmNpMQTnLEnjKIdmqdYxXHmKbEQYqP4_NEPvCtVftrR0fEOI6ui2RVPMBydVKM_pucMRYX91KutEv6fK2HLHU2qn5mijrO1Cw7zfwQ3jJB1lYRoNDM8qUqKmArEBHI4vtT0&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQFnoECEUQAQ&uoh=1",
+   "displayed_link": "3 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAABQBwCdASocABwAPtEytFooIigoGAEAGglpAAznf1Vcxech6G_5Hqq9U30AP1mGqvqdUgmnZ4poKzlLrvAx4-Mst8AAAP7CCyYY03O28r5JLioHtbFiVFHnCJyb2nNCBNRW56SV-XlrfT7Q3tRrlur0xQidpwCAO83snjRUs4X8b4Vd29vh5FZY0ANnK5gA7UA4K8ogU94vGfbJKfPsedJPrrnbqSsGt4cVKmMg9gk3bc-IvDOh_3W7s9bYtT-jv2vzP7YBkzzvo38BMP0T5w-2nGchsxdZJ7p07VcBr7iyjWnewYq1_h32TqlV751Dr3L7qdpfQi7DjV3S_YvIb08XwjDmGVhfc871zz-7kEket3qOqhOkfPVdCTnyCcO29XitwYDfKoDwpCklX7VO65n-8y2Pa_-Mz7rzPAFFzF7oAAAA.webp",
+   "snippet": "List comprehension is a concise and efficient way to create a new list in Python by applying a certain condition or transformation to an ...",
+   "snippet_highlighted_words": [
+    "List comprehension is a concise and efficient way to create a new list in Python"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "List comprehension is a concise and efficient way to create a new list in Python by applying a certain condition or transformation to an ...",
+     "source_info_link": "https://medium.com/@volkanculhaci/list-comprehensions-in-python-c188753134ce",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAABQBwCdASocABwAPtEytFooIigoGAEAGglpAAznf1Vcxech6G_5Hqq9U30AP1mGqvqdUgmnZ4poKzlLrvAx4-Mst8AAAP7CCyYY03O28r5JLioHtbFiVFHnCJyb2nNCBNRW56SV-XlrfT7Q3tRrlur0xQidpwCAO83snjRUs4X8b4Vd29vh5FZY0ANnK5gA7UA4K8ogU94vGfbJKfPsedJPrrnbqSsGt4cVKmMg9gk3bc-IvDOh_3W7s9bYtT-jv2vzP7YBkzzvo38BMP0T5w-2nGchsxdZJ7p07VcBr7iyjWnewYq1_h32TqlV751Dr3L7qdpfQi7DjV3S_YvIb08XwjDmGVhfc871zz-7kEket3qOqhOkfPVdCTnyCcO29XitwYDfKoDwpCklX7VO65n-8y2Pa_-Mz7rzPAFFzF7oAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZacDhQQndDT3dzWF9yMGNFZXJjZUVTTjFhbjh1b3hRaGY0V1psNDNoU2paTG1OcE1RVG5MRW5qS0lkbXFkWXhYSG1LYkVRWXFQNF9ORVB2Q3RWZnRyUjBmRU9JNnVpMlJWUE1CeWRWS01fcHVjTVJZWDkxS3V0RXY2ZksySExIVTJxbjVtaWpyTzFDdzd6ZndRM2pKQjFsWVJvTkRNOHFVcUttQXJFQkhJNHZ0VDASBBoCCAAazAQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAqAQIABAAGAAgACoaCgZweXRob24VSPW0QBoLaXY7cDtweXRob24qGwoEbGlzdBXXFsVAGgdsaXN0aW5nGgVsaXN0cyo4Cg1jb21wcmVoZW5zaW9uFZ7wl0AaDmNvbXByZWhlbnNpb25zGhJpdjtwO2NvbXByZWhlbnNpb24yxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RlpwOFBCd0NPd3NYX3IwY0VlcmNlRVNOMWFuOHVveFFoZjRXWmw0M2hTalpMbU5wTVFUbkxFbmpLSWRtcWRZeFhIbUtiRVFZcVA0X05FUHZDdFZmdHJSMGZFT0k2dWkyUlZQTUJ5ZFZLTV9wdWNNUllYOTFLdXRFdjZmSzJITEhVMnFuNW1panJPMUN3N3pmd1EzakpCMWxZUm9ORE04cVVxS21BckVCSEk0dnRUMDpIPGI-TGlzdCBDb21wcmVoZW5zaW9uczwvYj4gaW4gPGI-UHl0aG9uPC9iPiAtIGJ5IFZvbGthbiBDdWxoYWNpIC0gTWVkaXVtQpgBPGI-TGlzdCBjb21wcmVoZW5zaW9uIGlzIGEgY29uY2lzZSBhbmQgZWZmaWNpZW50IHdheSB0byBjcmVhdGUgYSBuZXcgbGlzdCBpbiBQeXRob248L2I-IGJ5IGFwcGx5aW5nIGEgY2VydGFpbiBjb25kaXRpb24gb3IgdHJhbnNmb3JtYXRpb24gdG8gYW4mbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZacDhQQndDT3dzWF9yMGNFZXJjZUVTTjFhbjh1b3hRaGY0V1psNDNoU2paTG1OcE1RVG5MRW5qS0lkbXFkWXhYSG1LYkVRWXFQNF9ORVB2Q3RWZnRyUjBmRU9JNnVpMlJWUE1CeWRWS01fcHVjTVJZWDkxS3V0RXY2ZksySExIVTJxbjVtaWpyTzFDdzd6ZndRM2pKQjFsWVJvTkRNOHFVcUttQXJFQkhJNHZ0VDASBBoCCAAazAQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAqAQIABAAGAAgACoaCgZweXRob24VSPW0QBoLaXY7cDtweXRob24qGwoEbGlzdBXXFsVAGgdsaXN0aW5nGgVsaXN0cyo4Cg1jb21wcmVoZW5zaW9uFZ7wl0AaDmNvbXByZWhlbnNpb25zGhJpdjtwO2NvbXByZWhlbnNpb24yxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RlpwOFBCd0NPd3NYX3IwY0VlcmNlRVNOMWFuOHVveFFoZjRXWmw0M2hTalpMbU5wTVFUbkxFbmpLSWRtcWRZeFhIbUtiRVFZcVA0X05FUHZDdFZmdHJSMGZFT0k2dWkyUlZQTUJ5ZFZLTV9wdWNNUllYOTFLdXRFdjZmSzJITEhVMnFuNW1panJPMUN3N3pmd1EzakpCMWxZUm9ORE04cVVxS21BckVCSEk0dnRUMDpIPGI-TGlzdCBDb21wcmVoZW5zaW9uczwvYj4gaW4gPGI-UHl0aG9uPC9iPiAtIGJ5IFZvbGthbiBDdWxoYWNpIC0gTWVkaXVtQpgBPGI-TGlzdCBjb21wcmVoZW5zaW9uIGlzIGEgY29uY2lzZSBhbmQgZWZmaWNpZW50IHdheSB0byBjcmVhdGUgYSBuZXcgbGlzdCBpbiBQeXRob248L2I-IGJ5IGFwcGx5aW5nIGEgY2VydGFpbiBjb25kaXRpb24gb3IgdHJhbnNmb3JtYXRpb24gdG8gYW4mbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Medium · Volkan Culhaci",
+   "read_more_link": "https://medium.com/@volkanculhaci/list-comprehensions-in-python-c188753134ce#:~:text=List%20comprehension%20is%20a%20concise,a%20list%2C%20tuple%2C%20set%2C%20etc."
+  },
+  {
+   "position": 8,
+   "title": "List Comprehensions in Python",
+   "link": "https://pythongeeks.org/list-comprehensions-in-python/",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVSlixQtohH2MoJX0RnuSmDrh-khy5R5AUvothLLODYOeObF6id2bh0Ob6RdBRF8bOKpwPe_M63q_JxToQy8w-iZxAerfZuywVJxl0UUHNqa3RUjK29rYaGK6IuanmoX7vMXcDWqtYi9wwX9oV&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://pythongeeks.org › Learn Python",
+   "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0zND4nYzgQYDbYXZBvL5Xge8khX-7c7wkjN8HC4UrVwq6Tq7LrPapBtlwAAP71HXzMHPkyuz0RcX9l9OToUn_0wnKMPuqwg284zxEc__24oJ6jrFz8ocZG9U-CdkuEYa_FyGJM9qpsIEJX21XwfE75YRM363iEsn1XyXeV4CQxoiWrLKv8VITtCj2ZUkZ6zbfJrmHz2rzfI_vwjv95gmkSax4TeAoSe-Mu-GKX0_emBAl-P_bocPtgv-fGB59wR8l2_Oy7w69XPDM5f-bzf8-1m3yVTs4eMGdNeMsDnpgLE-QPWm8oZ_paRsdvNilS3aiWfwwxe6ctmnafkgVdS2K5OIl00aJjMwD-e6Wg37QOHUG4O09pvXZ7AAAA.webp",
+   "snippet": "List comprehensions are a shorter way to create a list from existing containers like lists, strings, etc. For example, if you have a list and want to create a ...",
+   "snippet_highlighted_words": [
+    "List comprehensions are a shorter way to create a list"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "List comprehensions are a shorter way to create a list from existing containers like lists, strings, etc. For example, if you have a list and want to create a ...",
+     "source_info_link": "https://pythongeeks.org/list-comprehensions-in-python/",
+     "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0zND4nYzgQYDbYXZBvL5Xge8khX-7c7wkjN8HC4UrVwq6Tq7LrPapBtlwAAP71HXzMHPkyuz0RcX9l9OToUn_0wnKMPuqwg284zxEc__24oJ6jrFz8ocZG9U-CdkuEYa_FyGJM9qpsIEJX21XwfE75YRM363iEsn1XyXeV4CQxoiWrLKv8VITtCj2ZUkZ6zbfJrmHz2rzfI_vwjv95gmkSax4TeAoSe-Mu-GKX0_emBAl-P_bocPtgv-fGB59wR8l2_Oy7w69XPDM5f-bzf8-1m3yVTs4eMGdNeMsDnpgLE-QPWm8oZ_paRsdvNilS3aiWfwwxe6ctmnafkgVdS2K5OIl00aJjMwD-e6Wg37QOHUG4O09pvXZ7AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVlNsaXhRdG9oSDJNb0pYMFJudVNtRHJoLWtoeTVSNUFVdm90aExMT0RZT2VPYkY2aWQyYmgwT2I2UmRCUkY4Yk9LcHdQZV9NNjNxX0p4VG9ReTh3LWlaeEFlcmZadXl3Vkp4bDBVVUhOcWEzUlVqSzI5cllhR0s2SXVhbm1vWDd2TVhjRFdxdFlpOXd3WDlvVhIEGgIIABqoBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIIECAAQABgAIAAqGgoGcHl0aG9uFTrjvUAaC2l2O3A7cHl0aG9uKhsKBGxpc3QVxIC0QBoHbGlzdGluZxoFbGlzdHMqOAoNY29tcHJlaGVuc2lvbhXGcaU_Gg5jb21wcmVoZW5zaW9ucxoSaXY7cDtjb21wcmVoZW5zaW9uMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVlNsaXhRdG9oSDJNb0pYMFJudVNtRHJoLWtoeTVSNUFVdm90aExMT0RZT2VPYkY2aWQyYmgwT2I2UmRCUkY4Yk9LcHdQZV9NNjNxX0p4VG9ReTh3LWlaeEFlcmZadXl3Vkp4bDBVVUhOcWEzUlVqSzI5cllhR0s2SXVhbm1vWDd2TVhjRFdxdFlpOXd3WDlvVjorPGI-TGlzdCBDb21wcmVoZW5zaW9uczwvYj4gaW4gPGI-UHl0aG9uPC9iPkKuATxiPkxpc3QgY29tcHJlaGVuc2lvbnMgYXJlIGEgc2hvcnRlciB3YXkgdG8gY3JlYXRlIGEgbGlzdDwvYj4gZnJvbSBleGlzdGluZyBjb250YWluZXJzIGxpa2UgbGlzdHMsIHN0cmluZ3MsIGV0Yy4gRm9yIGV4YW1wbGUsIGlmIHlvdSBoYXZlIGEgbGlzdCBhbmQgd2FudCB0byBjcmVhdGUgYSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVlNsaXhRdG9oSDJNb0pYMFJudVNtRHJoLWtoeTVSNUFVdm90aExMT0RZT2VPYkY2aWQyYmgwT2I2UmRCUkY4Yk9LcHdQZV9NNjNxX0p4VG9ReTh3LWlaeEFlcmZadXl3Vkp4bDBVVUhOcWEzUlVqSzI5cllhR0s2SXVhbm1vWDd2TVhjRFdxdFlpOXd3WDlvVhIEGgIIABqoBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIIECAAQABgAIAAqGgoGcHl0aG9uFTrjvUAaC2l2O3A7cHl0aG9uKhsKBGxpc3QVxIC0QBoHbGlzdGluZxoFbGlzdHMqOAoNY29tcHJlaGVuc2lvbhXGcaU_Gg5jb21wcmVoZW5zaW9ucxoSaXY7cDtjb21wcmVoZW5zaW9uMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVlNsaXhRdG9oSDJNb0pYMFJudVNtRHJoLWtoeTVSNUFVdm90aExMT0RZT2VPYkY2aWQyYmgwT2I2UmRCUkY4Yk9LcHdQZV9NNjNxX0p4VG9ReTh3LWlaeEFlcmZadXl3Vkp4bDBVVUhOcWEzUlVqSzI5cllhR0s2SXVhbm1vWDd2TVhjRFdxdFlpOXd3WDlvVjorPGI-TGlzdCBDb21wcmVoZW5zaW9uczwvYj4gaW4gPGI-UHl0aG9uPC9iPkKuATxiPkxpc3QgY29tcHJlaGVuc2lvbnMgYXJlIGEgc2hvcnRlciB3YXkgdG8gY3JlYXRlIGEgbGlzdDwvYj4gZnJvbSBleGlzdGluZyBjb250YWluZXJzIGxpa2UgbGlzdHMsIHN0cmluZ3MsIGV0Yy4gRm9yIGV4YW1wbGUsIGlmIHlvdSBoYXZlIGEgbGlzdCBhbmQgd2FudCB0byBjcmVhdGUgYSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "pythongeeks.org",
+   "read_more_link": "https://pythongeeks.org/list-comprehensions-in-python/#:~:text=List%20comprehensions%20are%20a%20shorter,the%20existing%20list%20by%202."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Python list comprehension if",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&q=Python+list+comprehension+if&sa=X&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ1QJ6BAg-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=Python+list+comprehension+if"
+  },
+  {
+   "block_position": 1,
+   "query": "Python list comprehension examples",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&q=Python+list+comprehension+examples&sa=X&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ1QJ6BAhIEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=Python+list+comprehension+examples"
+  },
+  {
+   "block_position": 1,
+   "query": "Python list comprehension worksheet",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&q=Python+list+comprehension+worksheet&sa=X&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ1QJ6BAhGEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=Python+list+comprehension+worksheet"
+  },
+  {
+   "block_position": 1,
+   "query": "Python list comprehension elif",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&q=Python+list+comprehension+elif&sa=X&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ1QJ6BAhDEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=Python+list+comprehension+elif"
+  },
+  {
+   "block_position": 1,
+   "query": "Python list comprehension if multiple conditions or",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&q=Python+list+comprehension+if+multiple+conditions+or&sa=X&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ1QJ6BAhEEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=Python+list+comprehension+if+multiple+conditions+or"
+  },
+  {
+   "block_position": 1,
+   "query": "Python list comprehension syntax",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&q=Python+list+comprehension+syntax&sa=X&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ1QJ6BAhBEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=Python+list+comprehension+syntax"
+  },
+  {
+   "block_position": 1,
+   "query": "Python list comprehension filter",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&q=Python+list+comprehension+filter&sa=X&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ1QJ6BAhAEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=Python+list+comprehension+filter"
+  },
+  {
+   "block_position": 1,
+   "query": "Python list comprehension else",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&q=Python+list+comprehension+else&sa=X&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ1QJ6BAg_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=Python+list+comprehension+else"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=10&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8NMDegQIOxAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=10&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8tMDegQIOxAE",
+   "3": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=20&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8tMDegQIOxAG",
+   "4": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=30&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8tMDegQIOxAI",
+   "5": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=40&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8tMDegQIOxAK",
+   "6": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=50&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8tMDegQIOxAM",
+   "7": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=60&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8tMDegQIOxAO",
+   "8": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=70&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8tMDegQIOxAQ",
+   "9": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=80&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8tMDegQIOxAS",
+   "10": "https://www.google.co.in/search?q=python+list+comprehension&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnujrHfkcguDpERSDuUGr4mr7FpoVg:1791646110208&ei=nlnKapKRDJeo2roP3tTdgAw&start=90&sa=N&sstk=AS6-VmKPCUt0DWJ5RiQWNgITTSu8LVf3BnIQnq7JCm6MIaWFgK0iAAJpGdWPJl_jpTHuI4kGWm5bj3zk8rGEmUSTOkPkzWMhIbOn1A&ved=2ahUKEwiS2Njv4a-XAxUXlFYBHV5qF8AQ8tMDegQIOxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Chandigarh%2CChandigarh%2CIndia&q=python+list+comprehension&start=90"
+  }
+ }
+}

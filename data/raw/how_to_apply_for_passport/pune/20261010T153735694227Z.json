@@ -1,0 +1,673 @@
+{
+ "search_metadata": {
+  "id": "6aca5bbfd3c512d18f399f1a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/GIY6wBo6BWoQokULmtcVIrLlnc4NV93XstOt15P2NM8/6aca5bbfd3c512d18f399f1a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/GIY6wBo6BWoQokULmtcVIrLlnc4NV93XstOt15P2NM8/6aca5bbfd3c512d18f399f1a.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/GIY6wBo6BWoQokULmtcVIrLlnc4NV93XstOt15P2NM8/6aca5bbfd3c512d18f399f1a.json_with_pixel_position",
+  "created_at": "2026-10-10 15:37:35 UTC",
+  "processed_at": "2026-10-10 15:37:35 UTC",
+  "google_url": "https://www.google.co.in/search?q=how+to+apply+for+passport&oq=how+to+apply+for+passport&uule=w+CAIQICIWUHVuZSxNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/GIY6wBo6BWoQokULmtcVIrLlnc4NV93XstOt15P2NM8/6aca5bbfd3c512d18f399f1a.html",
+  "total_time_taken": 0.46
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "how to apply for passport",
+  "location_requested": "Pune,Maharashtra,India",
+  "location_used": "Pune,Maharashtra,India",
+  "google_domain": "google.co.in",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "how to apply for passport",
+  "total_results": 119,
+  "time_taken_displayed": 0.23,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "How many days will it take for a passport in India?",
+   "type": "ai_overview",
+   "page_token": "TFtdU3icHdBLbqMwAIBh9TJdJuAERokUVaI8Mik4tbENeDMydggB8yigpGHXO_QIc6o5zWRm_y8-_V-_9aWt_zx9l9PUj9vl8na7Lc5dd9anhewWl3Ypxnsrl1JonQtZb-0ftvlSyJ13lc7rIB1E-5652IhTP2Szb6q72Ubk8Jq3tYXMQ0Uq_42C8ucxWM_xCoYq4B-Sqg6B3oKAX2nAbOrDLjP6Waa1kbWemdfaiis4ZIBhwvRE9yUje_9TJUrw1uGKlnNIH32lC0L1CFOdch-P3PV7WpVhDKCd-_WdzTglqYNkowpFmS0APz6agbmH9yQwZ7533rKLiZKKHzFQq6jZWJSgdW5sPhIPWiHDQoLsMwJ6SJIyFkaZieB880oFopSHWYrDEzXAqVmbpNmgkysnGGiH4O6CKP7na5j3sKdsjFyF6eyUglohbPs5briIiR9zAwGEngt53a2e_7_e_SqaadsP3fkvPxmNMg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TFtdU3icHdBLbqMwAIBh9TJdJuAERokUVaI8Mik4tbENeDMydggB8yigpGHXO_QIc6o5zWRm_y8-_V-_9aWt_zx9l9PUj9vl8na7Lc5dd9anhewWl3Ypxnsrl1JonQtZb-0ftvlSyJ13lc7rIB1E-5652IhTP2Szb6q72Ubk8Jq3tYXMQ0Uq_42C8ucxWM_xCoYq4B-Sqg6B3oKAX2nAbOrDLjP6Waa1kbWemdfaiis4ZIBhwvRE9yUje_9TJUrw1uGKlnNIH32lC0L1CFOdch-P3PV7WpVhDKCd-_WdzTglqYNkowpFmS0APz6agbmH9yQwZ7533rKLiZKKHzFQq6jZWJSgdW5sPhIPWiHDQoLsMwJ6SJIyFkaZieB880oFopSHWYrDEzXAqVmbpNmgkysnGGiH4O6CKP7na5j3sKdsjFyF6eyUglohbPs5briIiR9zAwGEngt53a2e_7_e_SqaadsP3fkvPxmNMg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuSmliV2hTUlhNemIzcENlSFpNYjNVNVpVOVBSREJJYm1Kc1JuVklTbll0ZEZCeGJrbFFSVTlCWDJsNWVHMDVOVEl4Y1hacWRrVlpXWGRIU0UxTFNtNDNPRUo1UjNGU2VVeElhMVpFWTBwV1dtNUlZamw2UjFJelVSSVhkakYyUzJGMFMzbE5ObnB1TlU1dlVIZzNMVFJwUVUwYUlrRkVjM0k1WmxOS2NYQlJSSGhYUmpWemJXTlJSMnBFVldjeFRuUnBhbFZvZEVFIiwiZmN2IjoiMyIsImVpIjoidjF2S2F0S3lNNnpuNU5vUHg3LTRpQU0iLCJxYyI6IkNobG9iM2NnZEc4Z1lYQndiSGtnWm05eUlIQmhjM053YjNKMEVBQjlnVU1OUHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IGRheXMgd2lsbCBpdCB0YWtlIGZvciBhIHBhc3Nwb3J0IGluIEluZGlhPyIsImxrIjoiR2pCb2IzY2diV0Z1ZVNCa1lYbHpJSGRwYkd3Z2FYUWdkR0ZyWlNCbWIzSWdjR0Z6YzNCdmNuUWdhVzRnYVc1a2FXRSIsImJzIjoiYzMyUHNRN0NNQXhFeFpxSnVaT2hZa2RoWWV2QUFQME1sNmJVa0RoUmsxTDE3MGxBZ2d6QWFPbTk4NTBnc1R2WkNRenlEQzNPSGliU0dpaEF3SnVDemc2QTROQjdaNGNBeEZCelMxaEpXV3o3XzFvdVVaSUVpdjBCWXdKMDhRWXpmeEFlVGFNR3NLeUpGWXllLUFMWDBZY0VNUnBWeVUxUlBxMGZTdlBpUkMzS3RDYlktQ1AyeWFxamM1ck9HTWh5SmRjRjlCbjJEUkpIc1VwUjJzWXU1UE9vTzJwcTA4WjMwRDlvdVhnQSIsImlkIjoiZmNfdjF2S2F0S3lNNnpuNU5vUHg3LTRpQU1fMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuSmliV2hTUlhNemIzcENlSFpNYjNVNVpVOVBSREJJYm1Kc1JuVklTbll0ZEZCeGJrbFFSVTlCWDJsNWVHMDVOVEl4Y1hacWRrVlpXWGRIU0UxTFNtNDNPRUo1UjNGU2VVeElhMVpFWTBwV1dtNUlZamw2UjFJelVSSVhkakYyUzJGMFMzbE5ObnB1TlU1dlVIZzNMVFJwUVUwYUlrRkVjM0k1WmxOS2NYQlJSSGhYUmpWemJXTlJSMnBFVldjeFRuUnBhbFZvZEVFIiwiZmN2IjoiMyIsImVpIjoidjF2S2F0S3lNNnpuNU5vUHg3LTRpQU0iLCJxYyI6IkNobG9iM2NnZEc4Z1lYQndiSGtnWm05eUlIQmhjM053YjNKMEVBQjlnVU1OUHciLCJxdWVzdGlvbiI6IkhvdyBtYW55IGRheXMgd2lsbCBpdCB0YWtlIGZvciBhIHBhc3Nwb3J0IGluIEluZGlhPyIsImxrIjoiR2pCb2IzY2diV0Z1ZVNCa1lYbHpJSGRwYkd3Z2FYUWdkR0ZyWlNCbWIzSWdjR0Z6YzNCdmNuUWdhVzRnYVc1a2FXRSIsImJzIjoiYzMyUHNRN0NNQXhFeFpxSnVaT2hZa2RoWWV2QUFQME1sNmJVa0RoUmsxTDE3MGxBZ2d6QWFPbTk4NTBnc1R2WkNRenlEQzNPSGliU0dpaEF3SnVDemc2QTROQjdaNGNBeEZCelMxaEpXV3o3XzFvdVVaSUVpdjBCWXdKMDhRWXpmeEFlVGFNR3NLeUpGWXllLUFMWDBZY0VNUnBWeVUxUlBxMGZTdlBpUkMzS3RDYlktQ1AyeWFxamM1ck9HTWh5SmRjRjlCbjJEUkpIc1VwUjJzWXU1UE9vTzJwcTA4WjMwRDlvdVhnQSIsImlkIjoiZmNfdjF2S2F0S3lNNnpuNU5vUHg3LTRpQU1fMyJ9"
+  },
+  {
+   "question": "Can I find my passport number online using just my name?",
+   "type": "ai_overview",
+   "page_token": "kg48TXicHdBRboIwAADQ7DJ-CmXooolZZIjKbA2lLdifpRa0SAtM2RD-dpedaqfZsgu8j_f1rYuq_Hm4q7ZtbnPL6rpufK7rs87Hsh4XlSVufSUtKbQ-ClnOp09T8HySi9XH1nt533oRbRrmY5usQZGUnUNNqGIzIYkBU8zwVfgc8LXbx1oVh4HZYlhOEoNWaQ-afcAnOKV3Ws6uNA0pDHicXLwbS9oalqCBgx74RgWUtq9kQFg4uOaAugfDV3sSJpBxjGzkccODuIL3o4-qnGmFgm13NHoDWcZzo1Hq8D2ttIo1pqjCB5xyIpkKyTrbHCm6iAK00F_eGVPvUGdGBMhbqcyBKd8dUrzLqe3kxgXEzKLcly1aa4_guogoHuRFmz_7lDmdjTV1scl65HtKBJHDSIjjkiWx0-yjaHSSn4vH0f_n4u1k2nlzrc-_6myE9g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kg48TXicHdBRboIwAADQ7DJ-CmXooolZZIjKbA2lLdifpRa0SAtM2RD-dpedaqfZsgu8j_f1rYuq_Hm4q7ZtbnPL6rpufK7rs87Hsh4XlSVufSUtKbQ-ClnOp09T8HySi9XH1nt533oRbRrmY5usQZGUnUNNqGIzIYkBU8zwVfgc8LXbx1oVh4HZYlhOEoNWaQ-afcAnOKV3Ws6uNA0pDHicXLwbS9oalqCBgx74RgWUtq9kQFg4uOaAugfDV3sSJpBxjGzkccODuIL3o4-qnGmFgm13NHoDWcZzo1Hq8D2ttIo1pqjCB5xyIpkKyTrbHCm6iAK00F_eGVPvUGdGBMhbqcyBKd8dUrzLqe3kxgXEzKLcly1aa4_guogoHuRFmz_7lDmdjTV1scl65HtKBJHDSIjjkiWx0-yjaHSSn4vH0f_n4u1k2nlzrc-_6myE9g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuSmliV2hTUlhNemIzcENlSFpNYjNVNVpVOVBSREJJYm1Kc1JuVklTbll0ZEZCeGJrbFFSVTlCWDJsNWVHMDVOVEl4Y1hacWRrVlpXWGRIU0UxTFNtNDNPRUo1UjNGU2VVeElhMVpFWTBwV1dtNUlZamw2UjFJelVSSVhkakYyUzJGMFMzbE5ObnB1TlU1dlVIZzNMVFJwUVUwYUlrRkVjM0k1WmxOS2NYQlJSSGhYUmpWemJXTlJSMnBFVldjeFRuUnBhbFZvZEVFIiwiZmN2IjoiMyIsImVpIjoidjF2S2F0S3lNNnpuNU5vUHg3LTRpQU0iLCJxYyI6IkNobG9iM2NnZEc4Z1lYQndiSGtnWm05eUlIQmhjM053YjNKMEVBQjlnVU1OUHciLCJxdWVzdGlvbiI6IkNhbiBJIGZpbmQgbXkgcGFzc3BvcnQgbnVtYmVyIG9ubGluZSB1c2luZyBqdXN0IG15IG5hbWU/IiwibGsiOiJHaU5tYVc1a0lIQmhjM053YjNKMElHNTFiV0psY2lCdmJteHBibVVnWW5rZ2JtRnRaUSIsImJzIjoiYzMyUHNRN0NNQXhFeFpxSnVaT2hZa2RoWWV2QUFQME1sNmJVa0RoUmsxTDE3MGxBZ2d6QWFPbTk4NTBnc1R2WkNRenlEQzNPSGliU0dpaEF3SnVDemc2QTROQjdaNGNBeEZCelMxaEpXV3o3XzFvdVVaSUVpdjBCWXdKMDhRWXpmeEFlVGFNR3NLeUpGWXllLUFMWDBZY0VNUnBWeVUxUlBxMGZTdlBpUkMzS3RDYlktQ1AyeWFxamM1ck9HTWh5SmRjRjlCbjJEUkpIc1VwUjJzWXU1UE9vTzJwcTA4WjMwRDlvdVhnQSIsImlkIjoiZmNfdjF2S2F0S3lNNnpuNU5vUHg3LTRpQU1fMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuSmliV2hTUlhNemIzcENlSFpNYjNVNVpVOVBSREJJYm1Kc1JuVklTbll0ZEZCeGJrbFFSVTlCWDJsNWVHMDVOVEl4Y1hacWRrVlpXWGRIU0UxTFNtNDNPRUo1UjNGU2VVeElhMVpFWTBwV1dtNUlZamw2UjFJelVSSVhkakYyUzJGMFMzbE5ObnB1TlU1dlVIZzNMVFJwUVUwYUlrRkVjM0k1WmxOS2NYQlJSSGhYUmpWemJXTlJSMnBFVldjeFRuUnBhbFZvZEVFIiwiZmN2IjoiMyIsImVpIjoidjF2S2F0S3lNNnpuNU5vUHg3LTRpQU0iLCJxYyI6IkNobG9iM2NnZEc4Z1lYQndiSGtnWm05eUlIQmhjM053YjNKMEVBQjlnVU1OUHciLCJxdWVzdGlvbiI6IkNhbiBJIGZpbmQgbXkgcGFzc3BvcnQgbnVtYmVyIG9ubGluZSB1c2luZyBqdXN0IG15IG5hbWU%2FIiwibGsiOiJHaU5tYVc1a0lIQmhjM053YjNKMElHNTFiV0psY2lCdmJteHBibVVnWW5rZ2JtRnRaUSIsImJzIjoiYzMyUHNRN0NNQXhFeFpxSnVaT2hZa2RoWWV2QUFQME1sNmJVa0RoUmsxTDE3MGxBZ2d6QWFPbTk4NTBnc1R2WkNRenlEQzNPSGliU0dpaEF3SnVDemc2QTROQjdaNGNBeEZCelMxaEpXV3o3XzFvdVVaSUVpdjBCWXdKMDhRWXpmeEFlVGFNR3NLeUpGWXllLUFMWDBZY0VNUnBWeVUxUlBxMGZTdlBpUkMzS3RDYlktQ1AyeWFxamM1ck9HTWh5SmRjRjlCbjJEUkpIc1VwUjJzWXU1UE9vTzJwcTA4WjMwRDlvdVhnQSIsImlkIjoiZmNfdjF2S2F0S3lNNnpuNU5vUHg3LTRpQU1fMyJ9"
+  },
+  {
+   "question": "How to fill a passport application?",
+   "type": "ai_overview",
+   "page_token": "wF_FdHicHdDbboIwAIDh7GW81IKHRROziFCFAQtdW2lvFmxRDgWKsqHc7V32VHuamT3Bn-___lF5Xf4-3bKu09fVZNL3_fjcNGeVjkUzzutJcr3XYiISpY6JKFeL54XxchJr59O1tq1rRURraiOAHS-UBe98ynngGCzFvJSknHOy5HQfBm9E6gRAxXdZIQ3thkS6xNSzFKs7A9KRFVLUyGakkK2I3Z4ofk3tcJcAByQ2BIJaPgOOiWGI-JTeZQzpO9QtL9AlAZ7HhwAwvDFQ1dXxFN0e6VyAbEYNyQiEOcPKZ4P3ymq9jwYvSGK5jfAGBKWHxDRsjwP6POwzO8VWEVUKOZk0g5j7LEZ-SoCZVjMDV8sotUUX7pSFUZNHBA2iUBUBc4wBpwgoK9zBOiphd8T0IB3jyrH7MLK77Ecn8bWejv5_rj9OVbfSl-b8B3BKgtw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wF_FdHicHdDbboIwAIDh7GW81IKHRROziFCFAQtdW2lvFmxRDgWKsqHc7V32VHuamT3Bn-___lF5Xf4-3bKu09fVZNL3_fjcNGeVjkUzzutJcr3XYiISpY6JKFeL54XxchJr59O1tq1rRURraiOAHS-UBe98ynngGCzFvJSknHOy5HQfBm9E6gRAxXdZIQ3thkS6xNSzFKs7A9KRFVLUyGakkK2I3Z4ofk3tcJcAByQ2BIJaPgOOiWGI-JTeZQzpO9QtL9AlAZ7HhwAwvDFQ1dXxFN0e6VyAbEYNyQiEOcPKZ4P3ymq9jwYvSGK5jfAGBKWHxDRsjwP6POwzO8VWEVUKOZk0g5j7LEZ-SoCZVjMDV8sotUUX7pSFUZNHBA2iUBUBc4wBpwgoK9zBOiphd8T0IB3jyrH7MLK77Ecn8bWejv5_rj9OVbfSl-b8B3BKgtw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuSmliV2hTUlhNemIzcENlSFpNYjNVNVpVOVBSREJJYm1Kc1JuVklTbll0ZEZCeGJrbFFSVTlCWDJsNWVHMDVOVEl4Y1hacWRrVlpXWGRIU0UxTFNtNDNPRUo1UjNGU2VVeElhMVpFWTBwV1dtNUlZamw2UjFJelVSSVhkakYyUzJGMFMzbE5ObnB1TlU1dlVIZzNMVFJwUVUwYUlrRkVjM0k1WmxOS2NYQlJSSGhYUmpWemJXTlJSMnBFVldjeFRuUnBhbFZvZEVFIiwiZmN2IjoiMyIsImVpIjoidjF2S2F0S3lNNnpuNU5vUHg3LTRpQU0iLCJxYyI6IkNobG9iM2NnZEc4Z1lYQndiSGtnWm05eUlIQmhjM053YjNKMEVBQjlnVU1OUHciLCJxdWVzdGlvbiI6IkhvdyB0byBmaWxsIGEgcGFzc3BvcnQgYXBwbGljYXRpb24/IiwibGsiOiJHaUJvYjNjZ2RHOGdabWxzYkNCd1lYTnpjRzl5ZENCaGNIQnNhV05oZEdsdmJnIiwiYnMiOiJjMzJQc1E3Q01BeEV4WnFKdVpPaFlrZGhZZXZBQVAwTWw2YlVrRGhSazFMMTcwbEFnZ3pBYU9tOTg1MGdzVHZaQ1F6eURDM09IaWJTR2loQXdKdUN6ZzZBNE5CN1o0Y0F4RkJ6UzFoSldXejdfMW91VVpJRWl2MEJZd0owOFFZemZ4QWVUYU1Hc0t5SkZZeWUtQUxYMFljRU1ScFZ5VTFSUHEwZlN2UGlSQzNLdENiWS1DUDJ5YXFqYzVyT0dNaHlKZGNGOUJuMkRSSkhzVXBSMnNZdTVQT29PMnBxMDhaMzBEOW91WGdBIiwiaWQiOiJmY192MXZLYXRLeU02em41Tm9QeDctNGlBTV8zIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuSmliV2hTUlhNemIzcENlSFpNYjNVNVpVOVBSREJJYm1Kc1JuVklTbll0ZEZCeGJrbFFSVTlCWDJsNWVHMDVOVEl4Y1hacWRrVlpXWGRIU0UxTFNtNDNPRUo1UjNGU2VVeElhMVpFWTBwV1dtNUlZamw2UjFJelVSSVhkakYyUzJGMFMzbE5ObnB1TlU1dlVIZzNMVFJwUVUwYUlrRkVjM0k1WmxOS2NYQlJSSGhYUmpWemJXTlJSMnBFVldjeFRuUnBhbFZvZEVFIiwiZmN2IjoiMyIsImVpIjoidjF2S2F0S3lNNnpuNU5vUHg3LTRpQU0iLCJxYyI6IkNobG9iM2NnZEc4Z1lYQndiSGtnWm05eUlIQmhjM053YjNKMEVBQjlnVU1OUHciLCJxdWVzdGlvbiI6IkhvdyB0byBmaWxsIGEgcGFzc3BvcnQgYXBwbGljYXRpb24%2FIiwibGsiOiJHaUJvYjNjZ2RHOGdabWxzYkNCd1lYTnpjRzl5ZENCaGNIQnNhV05oZEdsdmJnIiwiYnMiOiJjMzJQc1E3Q01BeEV4WnFKdVpPaFlrZGhZZXZBQVAwTWw2YlVrRGhSazFMMTcwbEFnZ3pBYU9tOTg1MGdzVHZaQ1F6eURDM09IaWJTR2loQXdKdUN6ZzZBNE5CN1o0Y0F4RkJ6UzFoSldXejdfMW91VVpJRWl2MEJZd0owOFFZemZ4QWVUYU1Hc0t5SkZZeWUtQUxYMFljRU1ScFZ5VTFSUHEwZlN2UGlSQzNLdENiWS1DUDJ5YXFqYzVyT0dNaHlKZGNGOUJuMkRSSkhzVXBSMnNZdTVQT29PMnBxMDhaMzBEOW91WGdBIiwiaWQiOiJmY192MXZLYXRLeU02em41Tm9QeDctNGlBTV8zIn0%3D"
+  },
+  {
+   "question": "How long is a passport valid for?",
+   "type": "ai_overview",
+   "page_token": "PGnl73icHdBfboIwHADg7DI-KsU_CyZmCSoigyqlP5C-LNiidbSFTTaUt91lp9pptuwC38P39a0upvp5uMm2ba7z0ajruuG5rs-qHPJ6eDGj4no3fMQLpY4Fr-azxxl6OvHF-mPrLt-2bgxNk66IlYDocxuNcc_vUQ_W8RC4MXUNRg3iljMTmSxI5bhiIyEzaQjAVlw7O1LJa27zDvxgiz2FWBrkFOHNAakr1WyJdXsSRixFRXzwm55SFoEd3cX6tscUZ2A5vRhHKPErGxs3iKEaH1OWYGh9grxaaPzB9PZOMlEz7U35Kwn_HFaknkyyacC1vBU0txNoAa-8faQcixhJ1lLY0YGF-YGEJVh2qSeIaicuV7zFG-VSUl9iID1_VRpATgScUQjcLiDd76i3izbq-QhIlZpRYdxWdIMT_1yMB_-fi5eTbufNe33-BZLJg2s",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PGnl73icHdBfboIwHADg7DI-KsU_CyZmCSoigyqlP5C-LNiidbSFTTaUt91lp9pptuwC38P39a0upvp5uMm2ba7z0ajruuG5rs-qHPJ6eDGj4no3fMQLpY4Fr-azxxl6OvHF-mPrLt-2bgxNk66IlYDocxuNcc_vUQ_W8RC4MXUNRg3iljMTmSxI5bhiIyEzaQjAVlw7O1LJa27zDvxgiz2FWBrkFOHNAakr1WyJdXsSRixFRXzwm55SFoEd3cX6tscUZ2A5vRhHKPErGxs3iKEaH1OWYGh9grxaaPzB9PZOMlEz7U35Kwn_HFaknkyyacC1vBU0txNoAa-8faQcixhJ1lLY0YGF-YGEJVh2qSeIaicuV7zFG-VSUl9iID1_VRpATgScUQjcLiDd76i3izbq-QhIlZpRYdxWdIMT_1yMB_-fi5eTbufNe33-BZLJg2s",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuSmliV2hTUlhNemIzcENlSFpNYjNVNVpVOVBSREJJYm1Kc1JuVklTbll0ZEZCeGJrbFFSVTlCWDJsNWVHMDVOVEl4Y1hacWRrVlpXWGRIU0UxTFNtNDNPRUo1UjNGU2VVeElhMVpFWTBwV1dtNUlZamw2UjFJelVSSVhkakYyUzJGMFMzbE5ObnB1TlU1dlVIZzNMVFJwUVUwYUlrRkVjM0k1WmxOS2NYQlJSSGhYUmpWemJXTlJSMnBFVldjeFRuUnBhbFZvZEVFIiwiZmN2IjoiMyIsImVpIjoidjF2S2F0S3lNNnpuNU5vUHg3LTRpQU0iLCJxYyI6IkNobG9iM2NnZEc4Z1lYQndiSGtnWm05eUlIQmhjM053YjNKMEVBQjlnVU1OUHciLCJxdWVzdGlvbiI6IkhvdyBsb25nIGlzIGEgcGFzc3BvcnQgdmFsaWQgZm9yPyIsImxrIjoiR2lCb2IzY2diRzl1WnlCcGN5QmhJSEJoYzNOd2IzSjBJSFpoYkdsa0lHWnZjZyIsImJzIjoiYzMyUHNRN0NNQXhFeFpxSnVaT2hZa2RoWWV2QUFQME1sNmJVa0RoUmsxTDE3MGxBZ2d6QWFPbTk4NTBnc1R2WkNRenlEQzNPSGliU0dpaEF3SnVDemc2QTROQjdaNGNBeEZCelMxaEpXV3o3XzFvdVVaSUVpdjBCWXdKMDhRWXpmeEFlVGFNR3NLeUpGWXllLUFMWDBZY0VNUnBWeVUxUlBxMGZTdlBpUkMzS3RDYlktQ1AyeWFxamM1ck9HTWh5SmRjRjlCbjJEUkpIc1VwUjJzWXU1UE9vTzJwcTA4WjMwRDlvdVhnQSIsImlkIjoiZmNfdjF2S2F0S3lNNnpuNU5vUHg3LTRpQU1fMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlFuSmliV2hTUlhNemIzcENlSFpNYjNVNVpVOVBSREJJYm1Kc1JuVklTbll0ZEZCeGJrbFFSVTlCWDJsNWVHMDVOVEl4Y1hacWRrVlpXWGRIU0UxTFNtNDNPRUo1UjNGU2VVeElhMVpFWTBwV1dtNUlZamw2UjFJelVSSVhkakYyUzJGMFMzbE5ObnB1TlU1dlVIZzNMVFJwUVUwYUlrRkVjM0k1WmxOS2NYQlJSSGhYUmpWemJXTlJSMnBFVldjeFRuUnBhbFZvZEVFIiwiZmN2IjoiMyIsImVpIjoidjF2S2F0S3lNNnpuNU5vUHg3LTRpQU0iLCJxYyI6IkNobG9iM2NnZEc4Z1lYQndiSGtnWm05eUlIQmhjM053YjNKMEVBQjlnVU1OUHciLCJxdWVzdGlvbiI6IkhvdyBsb25nIGlzIGEgcGFzc3BvcnQgdmFsaWQgZm9yPyIsImxrIjoiR2lCb2IzY2diRzl1WnlCcGN5QmhJSEJoYzNOd2IzSjBJSFpoYkdsa0lHWnZjZyIsImJzIjoiYzMyUHNRN0NNQXhFeFpxSnVaT2hZa2RoWWV2QUFQME1sNmJVa0RoUmsxTDE3MGxBZ2d6QWFPbTk4NTBnc1R2WkNRenlEQzNPSGliU0dpaEF3SnVDemc2QTROQjdaNGNBeEZCelMxaEpXV3o3XzFvdVVaSUVpdjBCWXdKMDhRWXpmeEFlVGFNR3NLeUpGWXllLUFMWDBZY0VNUnBWeVUxUlBxMGZTdlBpUkMzS3RDYlktQ1AyeWFxamM1ck9HTWh5SmRjRjlCbjJEUkpIc1VwUjJzWXU1UE9vTzJwcTA4WjMwRDlvdVhnQSIsImlkIjoiZmNfdjF2S2F0S3lNNnpuNU5vUHg3LTRpQU1fMyJ9"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "To apply for an Indian passport online, visit the Passport Seva Online Portal and complete the registration, form submission, and appointment booking process.",
+    "snippet_links": [
+     {
+      "text": "Passport Seva Online Portal",
+      "link": "https://www.passportindia.gov.in/psp"
+     }
+    ],
+    "snippet_highlighted_words": [
+     "visit the Passport Seva Online Portal and complete the registration, form submission, and appointment booking process"
+    ],
+    "reference_indexes": [
+     0,
+     1
+    ]
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "1. Register an Account:",
+      "list": [
+       {
+        "snippet": "Go to the Passport Seva Portal and click on Register."
+       },
+       {
+        "snippet": "Select your nearest Passport Office and enter your name, date of birth, and email ID."
+       }
+      ],
+      "reference_indexes": [
+       0,
+       2,
+       3
+      ]
+     },
+     {
+      "snippet": "2. Fill Out the Application Form:",
+      "list": [
+       {
+        "snippet": "Log in with your new ID and select Apply for Fresh Passport/Re-issue of Passport."
+       },
+       {
+        "snippet": "Fill out the required personal details carefully and submit the form online."
+       }
+      ],
+      "reference_indexes": [
+       0
+      ]
+     },
+     {
+      "snippet": "Fill out the required personal details carefully and submit the form online.",
+      "reference_indexes": [
+       0
+      ]
+     },
+     {
+      "snippet": "3. Pay and Schedule an Appointment:",
+      "list": [
+       {
+        "snippet": "Click on Pay and Schedule Appointment under your saved applications."
+       },
+       {
+        "snippet": "Choose between Normal or Tatkaal processing speed and select a preferred Passport Seva Kendra (PSK)."
+       },
+       {
+        "snippet": "Pay the fee online using a credit/debit card, internet banking, or UPI. (Normal and Tatkaal fees were updated as of July 2026; check current rates on the portal)."
+       }
+      ],
+      "reference_indexes": [
+       0,
+       4,
+       5
+      ]
+     },
+     {
+      "snippet": "4. Visit the Passport Seva Kendra (PSK):",
+      "list": [
+       {
+        "snippet": "Carry your original documents (such as Aadhaar card, PAN card, or birth certificate)."
+       },
+       {
+        "snippet": "Note: You do not need a physical printout of the application receipt; an SMS with your appointment details is accepted."
+       },
+       {
+        "snippet": "Complete document verification, payment (if Tatkaal), and biometrics at Counters A, B, and C."
+       }
+      ]
+     }
+    ],
+    "reference_indexes": [
+     0,
+     6,
+     7
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you'd like, let me know:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Are you applying for a Fresh Passport or a Re-issue?"
+     },
+     {
+      "snippet": "Is this for an adult or a minor?"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "I can share the exact list of required documents for your case."
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Passport Seva",
+    "link": "https://www.passportindia.gov.in/psp/ApplyReissue",
+    "snippet": "* 1800 -258-1800. Passport application fees are revised with effect from 1 July 2026. Applicants are advised to check the revised fee before making payment. Passpo...",
+    "source": "Passport Seva",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.passportindia.gov.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKn5d0wT9q72PBXMILaB_WVnENNFmx6AFqs_4LUD7Tw8xyLLBI4lnZWv783AZw1_6YZLx1UFs2sSEPtcE6_xNzIZHvt35vozrzLEdm"
+   },
+   {
+    "index": 1,
+    "title": "How to Apply for Indian Passport Online on Passport Seva Website",
+    "link": "https://www.facebook.com/HareePatti/videos/how-to-apply-for-a-passport-online-passport-seva-enables-simple-efficient-and-tr/787507770650337/",
+    "snippet": "The video shows the steps to apply for an Indian passport online. First, visit the Passport Seva website at https://www.passportindia.gov.in. Then, log in to the s",
+    "source": "Facebook",
+    "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfd0yjHyiNtcZdmoC45vruaS1kr_yHWZvYhnm1L7JC6spsP8MhKVQY_sIrLh1Bsl1OQ2KhsTh4EpIlRnO308aHylWnxSbLfXz3uUK2"
+   },
+   {
+    "index": 2,
+    "title": "How to Apply Passport Online | Fees, Documents & Full Process - YouTube",
+    "link": "https://www.youtube.com/watch?v=9d67tfYnmWI",
+    "snippet": "फीस के ऑप्शन पे क्लिक करेंगे तो आप देखेंगे. कि पहले जो फीस. ₹1500 मात्र होती थी वो नॉर्मल के केस में. ₹2500 हो चुकी है वहीं अगर हम तत्काल. प्रोसेस से यह पासपोर्ट. ...",
+    "source": "YouTube",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQp7Bgm9hM5-YJS3Fbge5Ppt-X5Req4Cc5i8-jSPWlhSrxveQgOp0jPQz0ASbeJL-lVCGr4oYTOKPwOMHngCxX0PrX2rP80c3UBT0f-"
+   },
+   {
+    "index": 3,
+    "title": "Applying for a Passport in India: A Step-by-Step Guide - IFFCO-Tokio",
+    "link": "https://www.iffcotokio.co.in/blog/travel-insurance/passport-application",
+    "snippet": "Step-by-step passport application process · 1. Create an Account on the Passport Seva Portal. Website: Passport Seva Portal. Start by registering on the official P...",
+    "source": "IFFCO-Tokio",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.iffcotokio.co.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEz1T0uEErA60V-aAebz0B84GIpEKrwUsPYkbTpJO2qUT_O5ane-zCGEk6LoPP4E3mLuoShrxkQDH3J1oUWDwV34k2tOaxdLx4C7YH"
+   },
+   {
+    "index": 4,
+    "title": "Passport Seva",
+    "link": "https://www.passportindia.gov.in/psp",
+    "snippet": "1800 -258-1800 Passport Seva App Hindi Passport Seva Ministry of External Affairs, Government of India Passport application fees are revised with effect from 1 Jul...",
+    "source": "Passport Seva",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.passportindia.gov.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-Bi6nMErCzB2_z9b3tzpDXPlgmRnwHKE5yjLWMW7rKZyKnbJi3_6nYjtLt-9jk4dFEBm9UQOzWvacaEauXRoZZKBdrZ7IPuGToH8-"
+   },
+   {
+    "index": 5,
+    "title": "Apply for Identity Certificate",
+    "link": "https://www.passportindia.gov.in/psp/ApplyIdentity",
+    "snippet": "* 1800 -258-1800. Passport application fees are revised with effect from 1 July 2026. Applicants are advised to check the revised fee before making payment. Passpo...",
+    "source": "Passport Seva",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.passportindia.gov.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRJrLouegcxne9NNIb71PD_-Odv7-UqspjmZVW3UFVWh3k6BoZ2skaFOql7-BSgn4ssISLIO4tmZx8VWIPdQrvCr3A4oJwkMdKfJls"
+   },
+   {
+    "index": 6,
+    "title": "How to Apply Passport Online",
+    "link": "https://www.youtube.com/watch?v=lNFVU5LvdoI",
+    "snippet": "Passport Apply Online 2026 | How to Apply Passport Online - YouTube This content isn't available. Passport Apply Online 2026 - is video mein new rules ke saath pas...",
+    "source": "YouTube",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDCYGXF1-p1zCKGN7yGuncACovzzkUV8glwhgOtL7KPtJRPS_Arjv-xMc7YlcpHedVviJIKuNdeZGHH0DkBx1O7191VMtIO09Sl8UB"
+   },
+   {
+    "index": 7,
+    "title": "How to apply for a passport in India: A step-by-step guide",
+    "link": "https://www.cntraveller.in/story/how-to-apply-for-a-passport-in-india-a-step-by-step-guide/",
+    "snippet": "Stage 1: Counter A Your documents are verified. Stage 2: Counter B Your payment is processed (if you've selected the Tatkaal option, payment will be required here)",
+    "source": "Condé Nast Traveller India",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cntraveller.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBXBP816rOS_4oL6WbrGOAKPLsm05XPf8dO1GMHVCrQxC2ZsvjXrq1KKrqatP8udsrw13jJefPpEYZzFHQiS2JEP8xto_udgk_gGH-"
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "How to apply for Passport online | Passport Kaise banaye",
+   "link": "https://www.youtube.com/watch?v=Izkk-8v_Hg4",
+   "displayed_link": "1.9L+ views · 7 months ago",
+   "thumbnail": "https://serpapi.com/searches/6aca5bbfd3c512d18f399f1a/images/qyI-IZ6HDzhelQB3LbmWUZfMVvWl4IwAO1TybwpRlp8.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Passport Apply Online 2026 | Passport Kaise Banaye | Passport Online Apply Process Step by Step Hindi, Agar aap 2026 me naya passport banana ...",
+   "duration": "20:10",
+   "about_this_result": {
+    "source": {
+     "description": "Passport Apply Online 2026 | Passport Kaise Banaye | Passport Online Apply Process Step by Step Hindi, Agar aap 2026 me naya passport banana ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjY2Q3JuNmN0bi1MZk50UGVqRmxpdWFXZ1RwUXBuQkRZc0xaUWtxdUtndVVmTWVLUUp6bklqSnlOQU5MWW9kRGhHdzVCWndYYXNCUmJBTEZLa2NiajBtaEZyUmo5Y3dYQUwwVjluNnZIdUJJaGRiZ1BGdWc0clI2RUNUbGYzRFV5X2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjY2Q3JuNmN0bi1MZk50UGVqRmxpdWFXZ1RwUXBuQkRZc0xaUWtxdUtndVVmTWVLUUp6bklqSnlOQU5MWW9kRGhHdzVCWndYYXNCUmJBTEZLa2NiajBtaEZyUmo5Y3dYQUwwVjluNnZIdUJJaGRiZ1BGdWc0clI2RUNUbGYzRFV5X2cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ8lFHXRG9mMYN9sUzBvQayPNizZ4zGM5dihw",
+   "source": "YouTube · Sarkari DNA"
+  },
+  {
+   "position": 2,
+   "title": "How to Apply for Passport Online in India",
+   "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0",
+   "displayed_link": "1.9L+ views · 3 months ago",
+   "thumbnail": "https://serpapi.com/searches/6aca5bbfd3c512d18f399f1a/images/qyI-IZ6HDzhelQB3LbmWUUjNqvrVQWIbzGOQbpzaZmQ.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Passport Apply Online 2026 | How to Apply for Passport Online in India | Passport Documents Required passport apply online how to apply for ...",
+   "duration": "10:03",
+   "key_moments": [
+    {
+     "time": "00:00",
+     "title": "Introduction & Passport Fee Update",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=0"
+    },
+    {
+     "time": "00:41",
+     "title": "New Passport Fees Effective July 1, 2026",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=41"
+    },
+    {
+     "time": "01:21",
+     "title": "Apply Before the Fee Increase & Appointment Rescheduling",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=81"
+    },
+    {
+     "time": "01:37",
+     "title": "Required Documents & ECR vs Non-ECR Explained",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=97"
+    },
+    {
+     "time": "03:05",
+     "title": "Create a Passport Seva Account",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=185"
+    },
+    {
+     "time": "03:28",
+     "title": "Start a Fresh Passport Application",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=208"
+    },
+    {
+     "time": "04:06",
+     "title": "Fill in Personal Information",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=246"
+    },
+    {
+     "time": "05:44",
+     "title": "Enter Family Details",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=344"
+    },
+    {
+     "time": "06:05",
+     "title": "Address & Contact Information",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=365"
+    },
+    {
+     "time": "06:55",
+     "title": "Background Declaration & Verification Questions",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=415"
+    },
+    {
+     "time": "07:07",
+     "title": "Review Application & Select Supporting Documents",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=427"
+    },
+    {
+     "time": "07:52",
+     "title": "Book Appointment & Make Payment",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=472"
+    },
+    {
+     "time": "08:33",
+     "title": "Reschedule Your Appointment if Needed",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=513"
+    },
+    {
+     "time": "08:49",
+     "title": "Passport Seva Kendra Visit & Verification Process",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=529"
+    },
+    {
+     "time": "09:21",
+     "title": "Police Verification & Passport Delivery",
+     "link": "https://www.youtube.com/watch?v=b0FOrEJKPV0&t=561"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Passport Apply Online 2026 | How to Apply for Passport Online in India | Passport Documents Required passport apply online how to apply for ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjJvVjlpdVRVeXBVa1NQLXhoZXFLeXVxdkxCeVp4V250bFBINW5YbmVQZ3RTTHRDU1dFRVJicjBiaFVrV2dZRDg0dTZmOWFDM181MTgwa2JaZHJMaVRqTFRfVldXN0FXOWQ1dWl3bHM1TzBQR09XNVhULVZzMWRiVVdVWVdELXpkeGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjJvVjlpdVRVeXBVa1NQLXhoZXFLeXVxdkxCeVp4V250bFBINW5YbmVQZ3RTTHRDU1dFRVJicjBiaFVrV2dZRDg0dTZmOWFDM181MTgwa2JaZHJMaVRqTFRfVldXN0FXOWQ1dWl3bHM1TzBQR09XNVhULVZzMWRiVVdVWVdELXpkeGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "source": "YouTube · MyOnlineCA"
+  },
+  {
+   "position": 3,
+   "title": "Passport Seva",
+   "link": "https://web.umang.gov.in/landing/department/passport-seva.html",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVEsvHia3vUY4l6Chfl2H0GK9lf-yjU_GBktBze1xLBknAOWUMuOP_ebh-e39-8xJdoUeKo00NZtBv1BQ7ggd9J90bB-i31XTJFGrOkyA29jAxDaCE7eKIV7kDiA-me3wIZrq9AQ2F6OtS0wUxHwks2EMzjcM&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://web.umang.gov.in › landing › department › passp...",
+   "favicon": "https://serpapi.com/images/i/UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoQABAAAsBMJbACdH8D2VQWO0aaC2PgAP76TFkMM-yqYJYgL2XuuiFuP5cnyKk7Db4Ujs8xbMpG3TVSj0zftVLAPGcWdO1jeGLaiy6xsqeRup-UrcZPgb4QG2RkS5ZcBJ5xbB-2-dEF3sG8QWtt-Bdxq3OhFkWWuyQAAA.webp",
+   "snippet": "Get details of various passport services. · Locate Centre · Fee Calculator · Status Tracker · Doc Advisor · Check Appointment Availability · Department Contact ...",
+   "snippet_highlighted_words": [
+    "Get details of various passport services"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get details of various passport services. · Locate Centre · Fee Calculator · Status Tracker · Doc Advisor · Check Appointment Availability · Department Contact ...",
+     "source_info_link": "https://web.umang.gov.in/landing/department/passport-seva.html",
+     "icon": "https://serpapi.com/images/i/UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoQABAAAsBMJbACdH8D2VQWO0aaC2PgAP76TFkMM-yqYJYgL2XuuiFuP5cnyKk7Db4Ujs8xbMpG3TVSj0zftVLAPGcWdO1jeGLaiy6xsqeRup-UrcZPgb4QG2RkS5ZcBJ5xbB-2-dEF3sG8QWtt-Bdxq3OhFkWWuyQAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkVzdkhpYTN2VVk0bDZDaGZsMkgwR0s5bGYteWpVX0dCa3RCemUxeExCa25BT1dVTXVPUF9lYmgtZTM5LTh4SmRvVWVLbzAwTlp0QnYxQlE3Z2dkOUo5MGJCLWkzMVhUSkZHck9reUEyOWpBeERhQ0U3ZUtJVjdrRGlBLW1lM3dJWnJxOUFRMkY2T3RTMHdVeEh3a3MyRU16amNNEgQaAggAGtoEEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtAQIABAAGAAgACoKCgNob3cVAAAAACoJCgJ0bxUAAAAAKjAKBWFwcGx5FQAAAAAaCGFwcGx5aW5nGgRmaWxlGglpbXBsZW1lbnQaB3NpZ24gdXAqCgoDZm9yFQAAAAAqHgoIcGFzc3BvcnQVsDqPQBoNaXY7cDtwYXNzcG9ydDKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZFc3ZIaWEzdlVZNGw2Q2hmbDJIMEdLOWxmLXlqVV9HQmt0QnplMXhMQmtuQU9XVU11T1BfZWJoLWUzOS04eEpkb1VlS28wME5adEJ2MUJRN2dnZDlKOTBiQi1pMzFYVEpGR3JPa3lBMjlqQXhEYUNFN2VLSVY3a0RpQS1tZTN3SVpycTlBUTJGNk90UzB3VXhId2tzMkVNempjTTocPGI-UGFzc3BvcnQ8L2I-IFNldmEgLSBVTUFOR0LZATxiPkdldCBkZXRhaWxzIG9mIHZhcmlvdXMgcGFzc3BvcnQgc2VydmljZXM8L2I-LiAmbWlkZG90OyBMb2NhdGUgQ2VudHJlICZtaWRkb3Q7IEZlZSBDYWxjdWxhdG9yICZtaWRkb3Q7IFN0YXR1cyBUcmFja2VyICZtaWRkb3Q7IERvYyBBZHZpc29yICZtaWRkb3Q7IENoZWNrIEFwcG9pbnRtZW50IEF2YWlsYWJpbGl0eSAmbWlkZG90OyBEZXBhcnRtZW50IENvbnRhY3QmbmJzcDsuLi5KAnRvSgNmb3IiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkVzdkhpYTN2VVk0bDZDaGZsMkgwR0s5bGYteWpVX0dCa3RCemUxeExCa25BT1dVTXVPUF9lYmgtZTM5LTh4SmRvVWVLbzAwTlp0QnYxQlE3Z2dkOUo5MGJCLWkzMVhUSkZHck9reUEyOWpBeERhQ0U3ZUtJVjdrRGlBLW1lM3dJWnJxOUFRMkY2T3RTMHdVeEh3a3MyRU16amNNEgQaAggAGtoEEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtAQIABAAGAAgACoKCgNob3cVAAAAACoJCgJ0bxUAAAAAKjAKBWFwcGx5FQAAAAAaCGFwcGx5aW5nGgRmaWxlGglpbXBsZW1lbnQaB3NpZ24gdXAqCgoDZm9yFQAAAAAqHgoIcGFzc3BvcnQVsDqPQBoNaXY7cDtwYXNzcG9ydDKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZFc3ZIaWEzdlVZNGw2Q2hmbDJIMEdLOWxmLXlqVV9HQmt0QnplMXhMQmtuQU9XVU11T1BfZWJoLWUzOS04eEpkb1VlS28wME5adEJ2MUJRN2dnZDlKOTBiQi1pMzFYVEpGR3JPa3lBMjlqQXhEYUNFN2VLSVY3a0RpQS1tZTN3SVpycTlBUTJGNk90UzB3VXhId2tzMkVNempjTTocPGI-UGFzc3BvcnQ8L2I-IFNldmEgLSBVTUFOR0LZATxiPkdldCBkZXRhaWxzIG9mIHZhcmlvdXMgcGFzc3BvcnQgc2VydmljZXM8L2I-LiAmbWlkZG90OyBMb2NhdGUgQ2VudHJlICZtaWRkb3Q7IEZlZSBDYWxjdWxhdG9yICZtaWRkb3Q7IFN0YXR1cyBUcmFja2VyICZtaWRkb3Q7IERvYyBBZHZpc29yICZtaWRkb3Q7IENoZWNrIEFwcG9pbnRtZW50IEF2YWlsYWJpbGl0eSAmbWlkZG90OyBEZXBhcnRtZW50IENvbnRhY3QmbmJzcDsuLi5KAnRvSgNmb3IiAhABSABYAGgA",
+   "source": "UMANG",
+   "read_more_link": "https://web.umang.gov.in/landing/department/passport-seva.html#:~:text=Get%20details%20of%20various%20passport,services.&text=Locate%20Centre&text=Fee%20Calculator&text=Status%20Tracker&text=Doc%20Advisor&text=Check%20Appointment%20Availability&text=Department%20Contact%20Details"
+  },
+  {
+   "position": 4,
+   "title": "Passport Kaise banaye | Docs & Eligibility | Sarkari DNA",
+   "link": "https://www.youtube.com/watch?v=Wf8uw3NOGSo",
+   "displayed_link": "1.1L+ views · 4 months ago",
+   "thumbnail": "https://serpapi.com/searches/6aca5bbfd3c512d18f399f1a/images/qyI-IZ6HDzhelQB3LbmWUWd7c07sLxG9m7kG-elZFTM.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "In this video, you will learn the complete Passport Online Apply Process 2026 step by step in Hindi. If you want to apply for a new passport ...",
+   "duration": "22:53",
+   "about_this_result": {
+    "source": {
+     "description": "In this video, you will learn the complete Passport Online Apply Process 2026 step by step in Hindi. If you want to apply for a new passport ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjBLTFByU2hLRWo5cWJFZlp4dnBaUm5vVEpYRl8xOFV6dWVkd2VKSk1xWWcyQlUxNVloQ1VvZHl4U1RhbkZLcUxKT2ZMaW5GbnViMWxoSURZVTMzbktuZDFFTFFyM3lkbXcyYWhfM3NDcjZzblFEVXo2N2FmV2JLWGFlaWZaNVFBMFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjBLTFByU2hLRWo5cWJFZlp4dnBaUm5vVEpYRl8xOFV6dWVkd2VKSk1xWWcyQlUxNVloQ1VvZHl4U1RhbkZLcUxKT2ZMaW5GbnViMWxoSURZVTMzbktuZDFFTFFyM3lkbXcyYWhfM3NDcjZzblFEVXo2N2FmV2JLWGFlaWZaNVFBMFESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ9mOyXWIRQSg8-G4wjwra-eqJL1E8XhJD2uQ",
+   "source": "YouTube · Sarkari DNA"
+  },
+  {
+   "position": 5,
+   "title": "How to apply for a passport in India: Step-by-step guide",
+   "link": "https://timesofindia.indiatimes.com/life-style/travel/news/how-to-apply-for-a-passport-in-india-step-by-step-guide/photostory/124523508.cms",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFX1DYoi3gJJJ94-qh58wSxYviBKDt-RAyRjq9nKKUHPns0snzBotSSLMdV9fVDoTkoUmDW9l2EIXooGe4G978Hni9DZk3ee5JA7j2_Jsd2XyM89oFbUttheCNARjYOu8Y51mgZMpZzkqhsrf4QuhCyASmLHJQQO1k9jTqdC8HbOxZHAJ6RHJfuEZ9Hdub0PwNAmOKUDkX5ijonnjP-7r55_7vOQMRkoA-hnkOmPmumrTYMrf163oINGaLL69rExdC0sK&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQFnoECDkQAQ&uoh=1",
+   "displayed_link": "https://timesofindia.indiatimes.com › ... › travel › news",
+   "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp",
+   "date": "13 Oct 2025",
+   "snippet": "To begin the application process, visit the Passport Seva Online Portal. Click on the 'Register' button located on the navigation menu, fill in ...",
+   "snippet_highlighted_words": [
+    "visit the Passport Seva Online Portal"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "To begin the application process, visit the Passport Seva Online Portal. Click on the 'Register' button located on the navigation menu, fill in ...",
+     "source_info_link": "https://timesofindia.indiatimes.com/life-style/travel/news/how-to-apply-for-a-passport-in-india-step-by-step-guide/photostory/124523508.cms",
+     "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0ygVYBvHFY5Ni6wkFdXZL5PhgGcseZjJjKvFSAAP7otMVc8SGRmJ63z-uivmIvaZzDJfNv-B8KAS_iEEdLnTx5afKOGIYJ5aXJKwMBX84ZQNUMfk1rT_89M_8f_S3ZNydxR9uUP96h-H9LM9MTafYA-hy4DFFEg78Nr4nb0j-5f4du70fb_P2bO1n83lvdNsufYtsu0klpzCpi5NHZO7u5rK5Y-Tl_x_yl_LETn7sP7__zQAzhnSF3YVcBh1H8jXvRaE1P5wx_yV5sK0FC7irX9M_BYCrmsCSAGS0fntj-Urozrth7-ssEVARAvBf4Lov9lFlQ6616Fvz0k2gqr7AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZYMURZb2kzZ0pKSjk0LXFoNTh3U3hZdmlCS0R0LVJBeVJqcTluS0tVSFBuczBzbnpCb3RTU0xNZFY5ZlZEb1Rrb1VtRFc5bDJFSVhvb0dlNEc5NzhIbmk5RFprM2VlNUpBN2oyX0pzZDJYeU04OW9GYlV0dGhlQ05BUmpZT3U4WTUxbWdaTXBaemtxaHNyZjRRdWhDeUFTbUxISlFRTzFrOWpUcWRDOEhiT3haSEFKNlJISmZ1RVo5SGR1YjBQd05BbU9LVURrWDVpam9ubmpQLTdyNTVfN3ZPUU1Sa29BLWhua09tUG11bXJUWU1yZjE2M29JTkdhTEw2OXJFeGRDMHNLEgQaAggAGrkFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQJUFCAAQABgAIAAqCgoDaG93FZ28k0AqCQoCdG8VAAAAACowCgVhcHBseRXwAZRAGghhcHBseWluZxoEZmlsZRoJaW1wbGVtZW50GgdzaWduIHVwKgoKA2ZvchUAAAAAKh4KCHBhc3Nwb3J0FQAeqUAaDWl2O3A7cGFzc3BvcnQymgIvZ290bz91cmw9Q0FFU3h3RUI2enN3RlgxRFlvaTNnSkpKOTQtcWg1OHdTeFl2aUJLRHQtUkF5UmpxOW5LS1VIUG5zMHNuekJvdFNTTE1kVjlmVkRvVGtvVW1EVzlsMkVJWG9vR2U0Rzk3OEhuaTlEWmszZWU1SkE3ajJfSnNkMlh5TTg5b0ZiVXR0aGVDTkFSallPdThZNTFtZ1pNcFp6a3Foc3JmNFF1aEN5QVNtTEhKUVFPMWs5alRxZEM4SGJPeFpIQUo2UkhKZnVFWjlIZHViMFB3TkFtT0tVRGtYNWlqb25ualAtN3I1NV83dk9RTVJrb0EtaG5rT21QbXVtclRZTXJmMTYzb0lOR2FMTDY5ckV4ZEMwc0s6RjxiPkhvdyB0byBhcHBseTwvYj4gZm9yIGEgPGI-cGFzc3BvcnQ8L2I-IGluIEluZGlhOiBTdGVwLWJ5LXN0ZXAgZ3VpZGVCpwFUbyBiZWdpbiB0aGUgYXBwbGljYXRpb24gcHJvY2VzcywgPGI-dmlzaXQgdGhlIFBhc3Nwb3J0IFNldmEgT25saW5lIFBvcnRhbDwvYj4uIENsaWNrIG9uIHRoZSAmIzM5O1JlZ2lzdGVyJiMzOTsgYnV0dG9uIGxvY2F0ZWQgb24gdGhlIG5hdmlnYXRpb24gbWVudSwgZmlsbCBpbiZuYnNwOy4uLkoDZm9ySgJ0byICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZYMURZb2kzZ0pKSjk0LXFoNTh3U3hZdmlCS0R0LVJBeVJqcTluS0tVSFBuczBzbnpCb3RTU0xNZFY5ZlZEb1Rrb1VtRFc5bDJFSVhvb0dlNEc5NzhIbmk5RFprM2VlNUpBN2oyX0pzZDJYeU04OW9GYlV0dGhlQ05BUmpZT3U4WTUxbWdaTXBaemtxaHNyZjRRdWhDeUFTbUxISlFRTzFrOWpUcWRDOEhiT3haSEFKNlJISmZ1RVo5SGR1YjBQd05BbU9LVURrWDVpam9ubmpQLTdyNTVfN3ZPUU1Sa29BLWhua09tUG11bXJUWU1yZjE2M29JTkdhTEw2OXJFeGRDMHNLEgQaAggAGrkFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQJUFCAAQABgAIAAqCgoDaG93FZ28k0AqCQoCdG8VAAAAACowCgVhcHBseRXwAZRAGghhcHBseWluZxoEZmlsZRoJaW1wbGVtZW50GgdzaWduIHVwKgoKA2ZvchUAAAAAKh4KCHBhc3Nwb3J0FQAeqUAaDWl2O3A7cGFzc3BvcnQymgIvZ290bz91cmw9Q0FFU3h3RUI2enN3RlgxRFlvaTNnSkpKOTQtcWg1OHdTeFl2aUJLRHQtUkF5UmpxOW5LS1VIUG5zMHNuekJvdFNTTE1kVjlmVkRvVGtvVW1EVzlsMkVJWG9vR2U0Rzk3OEhuaTlEWmszZWU1SkE3ajJfSnNkMlh5TTg5b0ZiVXR0aGVDTkFSallPdThZNTFtZ1pNcFp6a3Foc3JmNFF1aEN5QVNtTEhKUVFPMWs5alRxZEM4SGJPeFpIQUo2UkhKZnVFWjlIZHViMFB3TkFtT0tVRGtYNWlqb25ualAtN3I1NV83dk9RTVJrb0EtaG5rT21QbXVtclRZTXJmMTYzb0lOR2FMTDY5ckV4ZEMwc0s6RjxiPkhvdyB0byBhcHBseTwvYj4gZm9yIGEgPGI-cGFzc3BvcnQ8L2I-IGluIEluZGlhOiBTdGVwLWJ5LXN0ZXAgZ3VpZGVCpwFUbyBiZWdpbiB0aGUgYXBwbGljYXRpb24gcHJvY2VzcywgPGI-dmlzaXQgdGhlIFBhc3Nwb3J0IFNldmEgT25saW5lIFBvcnRhbDwvYj4uIENsaWNrIG9uIHRoZSAmIzM5O1JlZ2lzdGVyJiMzOTsgYnV0dG9uIGxvY2F0ZWQgb24gdGhlIG5hdmlnYXRpb24gbWVudSwgZmlsbCBpbiZuYnNwOy4uLkoDZm9ySgJ0byICEAFIAFgAaAA",
+   "source": "The Times of India",
+   "read_more_link": "https://timesofindia.indiatimes.com/life-style/travel/news/how-to-apply-for-a-passport-in-india-step-by-step-guide/photostory/124523508.cms#:~:text=To%20begin%20the%20application%20process%2C,details%2C%20and%20click%20'Sign%20Up."
+  },
+  {
+   "position": 6,
+   "title": "Passport - Passport Seva",
+   "link": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVHkI3p87fq_n4BdHrMLNfD71mP-yIZtFmBz20nexvHiBpGMOaYoOuxii39e96QAG0YsvnYo6Z5pgJDUmRDBMsRmv_zWl2S_Q99Q0--1PMcJpwGKtzZaURVj-8Q8OHWsQPZNCNH57pZUIr8YbepA5ZfWSuEFCKxmw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQFnoECDUQAQ&uoh=1",
+   "displayed_link": "https://portal2.passportindia.gov.in › welcomeLink",
+   "about_this_result": {
+    "source": {
+     "source_info_link": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkhrSTNwODdmcV9uNEJkSHJNTE5mRDcxbVAteUladEZtQnoyMG5leHZIaUJwR01PYVlvT3V4aWkzOWU5NlFBRzBZc3ZuWW82WjVwZ0pEVW1SREJNc1Jtdl96V2wyU19ROTlRMC0tMVBNY0pwd0dLdHpaYVVSVmotOFE4T0hXc1FQWk5DTkg1N3BaVUlyOFliZXBBNVpmV1N1RUZDS3htdxIEGgIIABqMAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOYCCAAQABgAIAAqCgoDaG93FQAAAAAqCQoCdG8VAAAAACowCgVhcHBseRUAAAAAGghhcHBseWluZxoEZmlsZRoJaW1wbGVtZW50GgdzaWduIHVwKgoKA2ZvchUAAAAAKh4KCHBhc3Nwb3J0FQAAgEAaDWl2O3A7cGFzc3BvcnQytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWSGtJM3A4N2ZxX240QmRIck1MTmZENzFtUC15SVp0Rm1CejIwbmV4dkhpQnBHTU9hWW9PdXhpaTM5ZTk2UUFHMFlzdm5ZbzZaNXBnSkRVbVJEQk1zUm12X3pXbDJTX1E5OVEwLS0xUE1jSnB3R0t0elphVVJWai04UThPSFdzUVBaTkNOSDU3cFpVSXI4WWJlcEE1WmZXU3VFRkNLeG13OiY8Yj5QYXNzcG9ydDwvYj4gLSA8Yj5QYXNzcG9ydDwvYj4gU2V2YUoCdG9KA2ZvciICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkhrSTNwODdmcV9uNEJkSHJNTE5mRDcxbVAteUladEZtQnoyMG5leHZIaUJwR01PYVlvT3V4aWkzOWU5NlFBRzBZc3ZuWW82WjVwZ0pEVW1SREJNc1Jtdl96V2wyU19ROTlRMC0tMVBNY0pwd0dLdHpaYVVSVmotOFE4T0hXc1FQWk5DTkg1N3BaVUlyOFliZXBBNVpmV1N1RUZDS3htdxIEGgIIABqMAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOYCCAAQABgAIAAqCgoDaG93FQAAAAAqCQoCdG8VAAAAACowCgVhcHBseRUAAAAAGghhcHBseWluZxoEZmlsZRoJaW1wbGVtZW50GgdzaWduIHVwKgoKA2ZvchUAAAAAKh4KCHBhc3Nwb3J0FQAAgEAaDWl2O3A7cGFzc3BvcnQytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWSGtJM3A4N2ZxX240QmRIck1MTmZENzFtUC15SVp0Rm1CejIwbmV4dkhpQnBHTU9hWW9PdXhpaTM5ZTk2UUFHMFlzdm5ZbzZaNXBnSkRVbVJEQk1zUm12X3pXbDJTX1E5OVEwLS0xUE1jSnB3R0t0elphVVJWai04UThPSFdzUVBaTkNOSDU3cFpVSXI4WWJlcEE1WmZXU3VFRkNLeG13OiY8Yj5QYXNzcG9ydDwvYj4gLSA8Yj5QYXNzcG9ydDwvYj4gU2V2YUoCdG9KA2ZvciICEAFIAFgAaAA",
+   "source": "Passport Seva"
+  },
+  {
+   "position": 7,
+   "title": "How to Apply for Passport in India | Step-by-Step Guide",
+   "link": "https://www.makemydocuments.com/blogs/how-to-apply-for-passport-in-india",
+   "redirect_link": "https://www.google.co.in/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFf06R7exbT1dIJFB2trMWSaqMpYncQxgQOX3XTyPCUu7ynGQv6Pou_wYA1x6GV1j-jQFbr8VQIgMwA9JcYHwwhHTKC2yCPc2ybAg6G0MJUUV3NCXWbqnxlW0HkvJS0D72Dm4ms05AKIxKh0sHYlCd3m4Ywvn7504SRfuUrP2mg&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQFnoECDgQAQ&uoh=1",
+   "displayed_link": "https://www.makemydocuments.com › blogs › how-to-a...",
+   "favicon": "https://serpapi.com/images/i/UklGRrYBAABXRUJQVlA4IKoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAJ0vbTgiQKExtgOeK9Ce8S_sBwHhER7xAcI4TG22P5UxSztn_Bwsi6fprT7vCVR5k4AA_vYSsjfDdR1S2AWPhJWhgvYTnrBBegf75Uw5PI5WhGiU0csLM1B9h9H3woFaOcVQe3BIwoXAcMz1z-H_TB5Ra8T69Fot_w10HIPdevCacNKADdn3fFH1Av8_N5A1N0ckCm6dfKi3bo-czgn6cf2l8ZPSw3LIMPfV0l6SiCx_hoWIepFVn1W_Cq1lo0BnYbjOWm9bYLe_8msLbxvqrCswkPj3xer8PATL8zMLLJxghJf-4FSGiaAfTEV4nZnhjA4QjRRNeYS5sRigHvAJCXX1ijH9HjhQOfdBD8-i7LxM8MsMtpr4BfU35O-2vrCIRvMVvXwxDwZvvw_8ROuuWpd7ChAJfhtNU0Iz2umDuziIlnvSMwyJKDpm0XDZsy1df_iDwNDe-UUbQ-ru3hL1vFO-RVKH2Btjq2GAgzkqvsMoULH0FkGvVV5JLdnUqZeFqy2pKp0RXg0YI3Jxw5AAAAA.webp",
+   "date": "2 Apr 2025",
+   "snippet": "Procedure on How to Apply for Passport in India · Step 1: Visit the Official Passport Seva Website · Step 2: Register/Login · Step 3: Fill the ...",
+   "snippet_highlighted_words": [
+    "Step 1: Visit the Official Passport Seva Website"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Procedure on How to Apply for Passport in India · Step 1: Visit the Official Passport Seva Website · Step 2: Register/Login · Step 3: Fill the ...",
+     "source_info_link": "https://www.makemydocuments.com/blogs/how-to-apply-for-passport-in-india",
+     "icon": "https://serpapi.com/images/i/UklGRrYBAABXRUJQVlA4IKoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAJ0vbTgiQKExtgOeK9Ce8S_sBwHhER7xAcI4TG22P5UxSztn_Bwsi6fprT7vCVR5k4AA_vYSsjfDdR1S2AWPhJWhgvYTnrBBegf75Uw5PI5WhGiU0csLM1B9h9H3woFaOcVQe3BIwoXAcMz1z-H_TB5Ra8T69Fot_w10HIPdevCacNKADdn3fFH1Av8_N5A1N0ckCm6dfKi3bo-czgn6cf2l8ZPSw3LIMPfV0l6SiCx_hoWIepFVn1W_Cq1lo0BnYbjOWm9bYLe_8msLbxvqrCswkPj3xer8PATL8zMLLJxghJf-4FSGiaAfTEV4nZnhjA4QjRRNeYS5sRigHvAJCXX1ijH9HjhQOfdBD8-i7LxM8MsMtpr4BfU35O-2vrCIRvMVvXwxDwZvvw_8ROuuWpd7ChAJfhtNU0Iz2umDuziIlnvSMwyJKDpm0XDZsy1df_iDwNDe-UUbQ-ru3hL1vFO-RVKH2Btjq2GAgzkqvsMoULH0FkGvVV5JLdnUqZeFqy2pKp0RXg0YI3Jxw5AAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZmMDZSN2V4YlQxZElKRkIydHJNV1NhcU1wWW5jUXhnUU9YM1hUeVBDVXU3eW5HUXY2UG91X3dZQTF4NkdWMWotalFGYnI4VlFJZ013QTlKY1lId3doSFRLQzJ5Q1BjMnliQWc2RzBNSlVVVjNOQ1hXYnFueGxXMEhrdkpTMEQ3MkRtNG1zMDVBS0l4S2gwc0hZbENkM200WXd2bjc1MDRTUmZ1VXJQMm1nEgQaAggAGuMEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQL8ECAAQABgAIAAqCgoDaG93FaoprEAqCQoCdG8VAAAAACowCgVhcHBseRVYQrhAGghhcHBseWluZxoEZmlsZRoJaW1wbGVtZW50GgdzaWduIHVwKgoKA2ZvchUAAAAAKh4KCHBhc3Nwb3J0FYMS1UAaDWl2O3A7cGFzc3BvcnQywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmYwNlI3ZXhiVDFkSUpGQjJ0ck1XU2FxTXBZbmNReGdRT1gzWFR5UENVdTd5bkdRdjZQb3Vfd1lBMXg2R1Yxai1qUUZicjhWUUlnTXdBOUpjWUh3d2hIVEtDMnlDUGMyeWJBZzZHME1KVVVWM05DWFdicW54bFcwSGt2SlMwRDcyRG00bXMwNUFLSXhLaDBzSFlsQ2QzbTRZd3ZuNzUwNFNSZnVVclAybWc6PjxiPkhvdyB0byBBcHBseSBmb3IgUGFzc3BvcnQ8L2I-IGluIEluZGlhIHwgU3RlcC1ieS1TdGVwIEd1aWRlQrMBUHJvY2VkdXJlIG9uIEhvdyB0byBBcHBseSBmb3IgUGFzc3BvcnQgaW4gSW5kaWEgJm1pZGRvdDsgPGI-U3RlcCAxOiBWaXNpdCB0aGUgT2ZmaWNpYWwgUGFzc3BvcnQgU2V2YSBXZWJzaXRlPC9iPiAmbWlkZG90OyBTdGVwIDI6IFJlZ2lzdGVyL0xvZ2luICZtaWRkb3Q7IFN0ZXAgMzogRmlsbCB0aGUmbmJzcDsuLi5KA2ZvckoCdG8iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZmMDZSN2V4YlQxZElKRkIydHJNV1NhcU1wWW5jUXhnUU9YM1hUeVBDVXU3eW5HUXY2UG91X3dZQTF4NkdWMWotalFGYnI4VlFJZ013QTlKY1lId3doSFRLQzJ5Q1BjMnliQWc2RzBNSlVVVjNOQ1hXYnFueGxXMEhrdkpTMEQ3MkRtNG1zMDVBS0l4S2gwc0hZbENkM200WXd2bjc1MDRTUmZ1VXJQMm1nEgQaAggAGuMEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQL8ECAAQABgAIAAqCgoDaG93FaoprEAqCQoCdG8VAAAAACowCgVhcHBseRVYQrhAGghhcHBseWluZxoEZmlsZRoJaW1wbGVtZW50GgdzaWduIHVwKgoKA2ZvchUAAAAAKh4KCHBhc3Nwb3J0FYMS1UAaDWl2O3A7cGFzc3BvcnQywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmYwNlI3ZXhiVDFkSUpGQjJ0ck1XU2FxTXBZbmNReGdRT1gzWFR5UENVdTd5bkdRdjZQb3Vfd1lBMXg2R1Yxai1qUUZicjhWUUlnTXdBOUpjWUh3d2hIVEtDMnlDUGMyeWJBZzZHME1KVVVWM05DWFdicW54bFcwSGt2SlMwRDcyRG00bXMwNUFLSXhLaDBzSFlsQ2QzbTRZd3ZuNzUwNFNSZnVVclAybWc6PjxiPkhvdyB0byBBcHBseSBmb3IgUGFzc3BvcnQ8L2I-IGluIEluZGlhIHwgU3RlcC1ieS1TdGVwIEd1aWRlQrMBUHJvY2VkdXJlIG9uIEhvdyB0byBBcHBseSBmb3IgUGFzc3BvcnQgaW4gSW5kaWEgJm1pZGRvdDsgPGI-U3RlcCAxOiBWaXNpdCB0aGUgT2ZmaWNpYWwgUGFzc3BvcnQgU2V2YSBXZWJzaXRlPC9iPiAmbWlkZG90OyBTdGVwIDI6IFJlZ2lzdGVyL0xvZ2luICZtaWRkb3Q7IFN0ZXAgMzogRmlsbCB0aGUmbmJzcDsuLi5KA2ZvckoCdG8iAhABSABYAGgA",
+   "source": "Make My Documents",
+   "read_more_link": "https://www.makemydocuments.com/blogs/how-to-apply-for-passport-in-india#:~:text=Procedure%20on%20How%20to%20Apply,for%20Passport%20in%20India&text=Step%201%3A%20Visit%20the%20Official,Passport%20Seva%20Website&text=Step%202%3A%20Register%2FLogin&text=Step%203%3A%20Fill%20the%20Application,Form"
+  },
+  {
+   "position": 8,
+   "title": "How to apply for Passport online | Passport Kaise banaye 2026",
+   "link": "https://www.youtube.com/watch?v=8svlS5GeTDA",
+   "displayed_link": "6.5L+ views · 9 months ago",
+   "thumbnail": "https://serpapi.com/searches/6aca5bbfd3c512d18f399f1a/images/qyI-IZ6HDzhelQB3LbmWUYk8u7kYtjdIF6tNnHZ6Fa0.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Passport apply online ka step by step process · Passport kaise banaye 2026 me · Online passport application ke liye documents kya chahiye ...",
+   "duration": "16:51",
+   "about_this_result": {
+    "source": {
+     "description": "Passport apply online ka step by step process · Passport kaise banaye 2026 me · Online passport application ke liye documents kya chahiye ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjRVblFUanZFRmY0cHg1dFFpX3Y1VE9Da2dBUjhlSmgySkJjUXMxYXFTOGxjeW5GUGlmLUE1Y29HSDdVNENwUUlicjJFZ3VWbjhLRnVQbU5BTUIyM3NyQmdpTGkyUEUtT3hMWVh5R0JVbmdyVWJJWUs2UDgtajJ3cXhCWVNZMzVYZGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjRVblFUanZFRmY0cHg1dFFpX3Y1VE9Da2dBUjhlSmgySkJjUXMxYXFTOGxjeW5GUGlmLUE1Y29HSDdVNENwUUlicjJFZ3VWbjhLRnVQbU5BTUIyM3NyQmdpTGkyUEUtT3hMWVh5R0JVbmdyVWJJWUs2UDgtajJ3cXhCWVNZMzVYZGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSZU-_7pcPl9pIszoZe6ie0a_-WxVX4rM822Q",
+   "source": "YouTube · Sarkari DNA"
+  },
+  {
+   "position": 9,
+   "title": "How to Apply for Indian Passport Online || Decode S3E8 || Factly",
+   "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw",
+   "displayed_link": "1.8L+ views · 6 years ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcTSkmmDmhY3o_VKmXoPyONkeotPBeq3_eCfsPjlCE0D2fcmvi4eMSA&s",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "How to Apply for Indian Passport Online || Decode S3E8 || Factly ... Passport Apply Online 2026 | Passport Kaise Banaye | New Fees & Documents.",
+   "duration": "6:11",
+   "key_moments": [
+    {
+     "time": "00:00",
+     "title": "Introduction & Types of Passports",
+     "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw&t=0"
+    },
+    {
+     "time": "00:40",
+     "title": "Passport Issuing Authorities ; Passport Website & Locating Relevant Offices",
+     "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw&t=40"
+    },
+    {
+     "time": "01:27",
+     "title": "Registration on Website",
+     "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw&t=87"
+    },
+    {
+     "time": "02:10",
+     "title": "Online Application Process ; Basic Requirements ; Fee Calculation",
+     "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw&t=130"
+    },
+    {
+     "time": "03:02",
+     "title": "Tatkal Option",
+     "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw&t=182"
+    },
+    {
+     "time": "03:33",
+     "title": "Recap",
+     "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw&t=213"
+    },
+    {
+     "time": "04:03",
+     "title": "ECR",
+     "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw&t=243"
+    },
+    {
+     "time": "04:50",
+     "title": "Checking Application Status ; Grievance Redressal",
+     "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw&t=290"
+    },
+    {
+     "time": "05:36",
+     "title": "Passport Statistics",
+     "link": "https://www.youtube.com/watch?v=rJOSHvEMNOw&t=336"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "How to Apply for Indian Passport Online || Decode S3E8 || Factly ... Passport Apply Online 2026 | Passport Kaise Banaye | New Fees & Documents.",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.co.in/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm5JajVzenBORmVtNGxNcFQ0Y19YWVFBYjFPUmh5eG90cEFRdk9hbTRNbWVTVE9uaXcyWmxwdVlLZGw0dlVxenE4a09ZTFZGelJBUFlEV2dnb1RIT1BoT2RkR3pRMGt6eUJHdXE2clhGbFRFLVAwSlBPd1RZRkVIVHRzRV83aUpiRlESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.co.in&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVm5JajVzenBORmVtNGxNcFQ0Y19YWVFBYjFPUmh5eG90cEFRdk9hbTRNbWVTVE9uaXcyWmxwdVlLZGw0dlVxenE4a09ZTFZGelJBUFlEV2dnb1RIT1BoT2RkR3pRMGt6eUJHdXE2clhGbFRFLVAwSlBPd1RZRkVIVHRzRV83aUpiRlESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTddAspJ4Aq_UB7g5Ia8_ZYtTYRs4AVZgM0dg",
+   "source": "YouTube · Factly"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Passport Seva",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&q=Passport+Seva&sa=X&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ1QJ6BAgwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Passport+Seva"
+  },
+  {
+   "block_position": 1,
+   "query": "How to apply for passport online",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&q=How+to+apply+for+passport+online&sa=X&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ1QJ6BAg8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=How+to+apply+for+passport+online"
+  },
+  {
+   "block_position": 1,
+   "query": "Passport Seva online Portal",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&q=Passport+Seva+online+Portal&sa=X&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ1QJ6BAg7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Passport+Seva+online+Portal"
+  },
+  {
+   "block_position": 1,
+   "query": "Passport Agents near me",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&q=Passport+Agents+near+me&sa=X&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Passport+Agents+near+me"
+  },
+  {
+   "block_position": 1,
+   "query": "Apply Indian passport online",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&q=Apply+Indian+passport+online&sa=X&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ1QJ6BAg3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Apply+Indian+passport+online"
+  },
+  {
+   "block_position": 1,
+   "query": "Passport apply official website",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&q=Passport+apply+official+website&sa=X&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ1QJ6BAg2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Passport+apply+official+website"
+  },
+  {
+   "block_position": 1,
+   "query": "Passport Seva Kendra",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&q=Passport+Seva+Kendra&sa=X&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ1QJ6BAg0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=Passport+Seva+Kendra"
+  },
+  {
+   "block_position": 1,
+   "query": "New passport apply",
+   "link": "https://www.google.co.in/search?sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&q=New+passport+apply&sa=X&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ1QJ6BAgxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=New+passport+apply"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=10&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8NMDegQILRAW",
+  "other_pages": {
+   "2": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=10&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8tMDegQILRAE",
+   "3": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=20&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8tMDegQILRAG",
+   "4": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=30&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8tMDegQILRAI",
+   "5": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=40&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8tMDegQILRAK",
+   "6": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=50&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8tMDegQILRAM",
+   "7": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=60&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8tMDegQILRAO",
+   "8": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=70&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8tMDegQILRAQ",
+   "9": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=80&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8tMDegQILRAS",
+   "10": "https://www.google.co.in/search?q=how+to+apply+for+passport&sca_esv=d0fa25ced5188e1a&hl=en&gl=in&sxsrf=APpeQnsbMtgHNs4WosUGzDy0Eg_9gQh6xA:1791646655850&ei=v1vKatKyM6zn5NoPx7-4iAM&start=90&sa=N&sstk=AS6-VmKRFZZAqCJo_edIQNWOqjQnWZa9J7TE6oSjauYyIqBfS8pzXpdigzBFPSBvKvDaBH-ueul6EH6xXyC8c8eZ3IFbPs-AD4PASw&ved=2ahUKEwiSjvDz46-XAxWsM1kFHccfDjEQ8tMDegQILRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=Pune%2CMaharashtra%2CIndia&q=how+to+apply+for+passport&start=90"
+  }
+ }
+}
