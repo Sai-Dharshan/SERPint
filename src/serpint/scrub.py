@@ -50,7 +50,11 @@ LANDLINE = re.compile(r"(?<!\d)0\d{2,4}[ -]?\d{6,8}(?!\d)")
 
 @dataclass(frozen=True)
 class Section:
-    """A page block blurred whole at the ``sections`` level."""
+    """A page block blurred whole at the ``sections`` level.
+
+    Patterns match a whole line with spacing removed and lower-cased, because OCR
+    often glues words ("Peoplealsosearchfor").
+    """
 
     name: str
     heading: re.Pattern[str]
@@ -61,23 +65,30 @@ class Section:
 SECTIONS = (
     Section(
         "related_searches",
-        re.compile(r"^(people also search(?: for)?|related searches)\b", re.I),
-        re.compile(r"^next$|^(\d+\s*){4,}", re.I),  # pagination closes it
+        re.compile(r"peoplealsosearch(?:for)?|relatedsearches"),
+        re.compile(r"next|\d{4,}"),  # the pagination row closes it
         110,
     ),
     Section(
         "local_results",
-        re.compile(r"^(places|businesses|restaurants|hotels|results near)\b", re.I),
-        re.compile(r"^more (places|businesses|restaurants|hotels)\b", re.I),
+        re.compile(
+            r"places|businesses|restaurants|hotels|(?:in)?(?:shops|stores)nearby|nearbystores"
+        ),
+        re.compile(r"more(?:places|businesses|restaurants|hotels|shops|stores)"),
         260,  # the map has stretches with no text in them
     ),
     Section(
         "news",
-        re.compile(r"^(top stories|local news|news)\b", re.I),
-        re.compile(r"^more news\b|^view all\b", re.I),
+        re.compile(r"topstories|localnews|newsnearyou"),
+        re.compile(r"morenews|viewall"),
         110,
     ),
 )
+
+
+def squash(text: str) -> str:
+    """Lower-case and drop whitespace, for matching headings OCR may have glued."""
+    return re.sub(r"\s+", "", text.lower())
 
 
 @dataclass(frozen=True)
@@ -208,24 +219,46 @@ def _column_right(lines: list[Line], left: int) -> int:
     return max(rights) if rights else left
 
 
+# The URL breadcrumb under a result's site name ("https://www.croma.com › unboxed").
+BREADCRUMB = re.compile(r"https?://|www\.|\s›\s")
+OTHER_HEADINGS = re.compile(r"peoplealsoask|thingstoknow|discussionsandforums|videos")
+
+
+def _starts_block(line: Line) -> bool:
+    """Whether a line is the heading of another block, which ends the current one."""
+    s = squash(line.text)
+    return any(sec.heading.fullmatch(s) for sec in SECTIONS) or bool(OTHER_HEADINGS.fullmatch(s))
+
+
+def _alone_on_row(line: Line, lines: list[Line]) -> bool:
+    """A section heading has its row to itself; a navigation tab ("News") doesn't."""
+    mid = (line.box[1] + line.box[3]) / 2
+    return not any(other is not line and other.box[1] <= mid <= other.box[3] for other in lines)
+
+
 def find_sections(lines: list[Line]) -> list[Redaction]:
     """Find whole blocks (heading to end marker or gap) to blur."""
     out = []
     for i, ln in enumerate(lines):
         for sec in SECTIONS:
-            if not sec.heading.search(ln.text.strip()):
+            if not sec.heading.fullmatch(squash(ln.text)) or not _alone_on_row(ln, lines):
                 continue
             left = ln.box[0]
             members = [ln]
             bottom = ln.box[3]
             for nxt in lines[i + 1 :]:
-                if nxt.box[1] - bottom > sec.max_gap:
+                if nxt.box[1] - bottom > sec.max_gap or _starts_block(nxt):
                     break
                 if nxt.box[0] < left - 40:  # left the column
                     continue
+                if BREADCRUMB.search(nxt.text):
+                    # An organic result starts: its site name sits just above the URL.
+                    if len(members) > 1 and nxt.box[1] - members[-1].box[3] <= 30:
+                        members.pop()
+                    break
                 members.append(nxt)
                 bottom = max(bottom, nxt.box[3])
-                if sec.end is not None and sec.end.search(nxt.text.strip()):
+                if sec.end is not None and sec.end.fullmatch(squash(nxt.text)):
                     break
             x0, y0, x1, y1 = _union(m.box for m in members)
             x1 = max(x1, _column_right(lines, left))

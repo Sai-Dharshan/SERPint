@@ -1,7 +1,7 @@
 PY      := .venv/bin/python
 SERPINT := .venv/bin/serpint
 
-.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot core-dry core inspect-core collect-dry collect inspect parse-core parse model-core model leaks-core leaks screenshots-core scrub-eval-core
+.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot core-dry core inspect-core collect-dry collect inspect parse-core parse model-core model leaks-core leaks screenshots-core scrub-eval-core demo
 
 setup:            ## create the venv and install pinned deps + the package
 	python3.11 -m venv .venv
@@ -75,3 +75,6 @@ screenshots-core: ## render the core pages to data/screenshots/ (offline)
 
 scrub-eval-core:  ## OCR + attack scrubbed core screenshots -> reports/core_scrub.md (slow)
 	$(SERPINT) scrub-eval core
+
+demo:             ## upload-and-scrub web app on http://127.0.0.1:8000 (in-memory only)
+	$(SERPINT) demo

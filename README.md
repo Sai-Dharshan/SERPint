@@ -9,9 +9,9 @@ SERPint is a research prototype. It collects Google results pages through
 trains models to predict the city from the page, maps which page elements leak, and
 builds a scrubber that blurs them.
 
-> **Status:** Phases 1–5 are implemented: data collection, parsing pages into their
-> visible elements, city-prediction models, the leak map and the screenshot scrubber.
-> The demo app follows.
+> **Status:** All six phases are implemented: data collection, parsing pages into their
+> visible elements, city-prediction models, the leak map, the screenshot scrubber and
+> the demo app.
 
 ## Setup
 
@@ -78,6 +78,7 @@ make model-core     # leave-one-query-out city prediction -> reports/core_models
 make leaks-core     # per-element ablation -> reports/core_leaks.md (slow)
 make screenshots-core   # render pages offline -> data/screenshots/
 make scrub-eval-core    # OCR, scrub, attack -> reports/core_scrub.md (slow)
+make demo               # upload-and-scrub app on http://127.0.0.1:8000
 make collect-dry    # later month: the 160 grid cells core doesn't have
 make collect
 ```
@@ -182,6 +183,25 @@ city accuracy and score against the share of the image blurred. It also re-OCRs 
 scrubbed screenshot per query and counts any text still readable inside blurred regions.
 OCR runs once per screenshot (about 10 s on one core) and is cached in
 `data/processed/ocr/`.
+
+## Demo app
+
+```sh
+make demo           # http://127.0.0.1:8000
+```
+
+Upload a screenshot of a Google results page (PNG or JPEG, up to 10 MB). The app shows
+what a model would guess about your city before and after scrubbing, which cities the
+page names, what it blurred and why, and gives back the scrubbed image to download.
+
+- **Nothing is stored.** The upload is read from the request, processed in memory and
+  returned inline in the response; nothing is written to disk and no upload content is
+  logged. Responses are sent with `Cache-Control: no-store`.
+- **Nothing leaves the machine.** The app makes no SerpAPI calls and the page loads no
+  external assets. It binds to `127.0.0.1` unless you pass `--host`.
+- The attacker is the `text` model trained at startup on the visible text of the
+  collected pages, so its guesses are limited to those cities. A screenshot from that
+  data is in-sample for it; the scrubber evaluation is the out-of-sample measure.
 
 ## Configuration
 

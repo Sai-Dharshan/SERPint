@@ -233,6 +233,17 @@ def cmd_scrub_eval(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_demo(args: argparse.Namespace) -> int:
+    """Run the upload-and-scrub demo app."""
+    from serpint.app import create_app
+
+    print("Training the attacker on the collected pages...")
+    app = create_app()
+    print(f"Open http://{args.host}:{args.port}/  (uploads are processed in memory only)")
+    app.run(host=args.host, port=args.port, debug=False)
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     """Build the argument parser."""
     p = argparse.ArgumentParser(prog="serpint", description=__doc__)
@@ -302,6 +313,11 @@ def build_parser() -> argparse.ArgumentParser:
     s.add_argument("--jobs", type=int, default=-1, help="worker processes (default: all cores)")
     s.add_argument("--skip-readback", action="store_true", help="don't re-OCR scrubbed images")
     s.set_defaults(func=cmd_scrub_eval)
+
+    s = sub.add_parser("demo", help="run the upload-and-scrub demo app")
+    s.add_argument("--host", default="127.0.0.1", help="interface (default 127.0.0.1)")
+    s.add_argument("--port", type=int, default=8000)
+    s.set_defaults(func=cmd_demo)
     return p
 
 

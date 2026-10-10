@@ -119,3 +119,39 @@ def test_footer_location_is_read_from_js_escaped_html():
     )
     assert footer_location(raw) == ("Chennai, Tamil Nadu", "From your IP address")
     assert footer_location("<html></html>") is None
+
+
+def test_section_headings_survive_glued_ocr_and_skip_nav_tabs(gaz):
+    lines = [
+        L(108, "Images", x=320, w=50),
+        L(108, "News", x=560, w=40),  # a navigation tab, not a news block
+        L(108, "Videos", x=620, w=50),
+        L(300, "Some result"),
+        L(3065, "In shops nearby", w=150),
+        L(3259, "Nearby, 16 km", w=100),
+        L(3599, "Peoplealsosearchfor", w=200),
+        L(3650, "Global iPhone 16 price", x=470, w=210),
+        L(3710, "iPhone 16 Price Orange", x=470, w=210),
+        L(3770, "iPhone 16 price Pro", x=470, w=210),
+        L(3829, "iPhone16Price inpoorvika", x=470, w=210),
+        L(3950, "12345678910", x=330, w=190),
+    ]
+    sec = [r for r in scrub.plan_redactions(lines, gaz, "sections") if r.reason.startswith("sec")]
+    assert [r.reason for r in sec] == ["section:local_results", "section:related_searches"]
+    assert sec[0].box[3] < 3599  # the shops block ends at the next heading
+    assert sec[1].box[1] == 3599 and sec[1].box[3] == 3970
+    assert "iPhone16Price inpoorvika" not in [ln.text for ln in scrub.kept_lines(lines, sec)]
+
+
+def test_section_ends_where_an_organic_result_starts(gaz):
+    lines = [
+        L(3065, "In shops nearby", w=150),
+        L(3259, "Nearby, 16 km", w=100),
+        L(3372, "4.8 (1.1K)", w=100),
+        L(3432, "Smartprix", x=160, w=80),
+        L(3452, "https://www.smartprix.com > ... > Apple Mobile Phones", x=160, w=300),
+        L(3480, "Apple iPhone 16 - Price in India"),
+    ]
+    sec = scrub.find_sections(lines)
+    assert len(sec) == 1
+    assert sec[0].box[3] == 3392  # through the ratings row, not the next result
