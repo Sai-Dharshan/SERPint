@@ -9,8 +9,9 @@ SERPint is a research prototype. It collects Google results pages through
 trains models to predict the city from the page, maps which page elements leak, and
 builds a scrubber that blurs them.
 
-> **Status:** Phase 1 (config and data collection) is implemented. Parsing, models, the
-> leak map, the scrubber and the demo app follow phase by phase.
+> **Status:** Phase 1 (config and data collection) and Phase 2 (parsing pages into their
+> visible elements) are implemented. Models, the leak map, the scrubber and the demo app
+> follow phase by phase.
 
 ## Setup
 
@@ -72,12 +73,38 @@ make pilot          # run them
 make inspect-pilot  # reports/pilot_fields.md: which fields SerpAPI returned
 make core-dry       # 215 more; pilot cells show as cached
 make core
+make parse-core     # visible text per page + reports/core_parse.md (free)
 make collect-dry    # later month: the 160 grid cells core doesn't have
 make collect
 ```
 
 A run that needs more searches than the account has left this month is refused; use
 `serpint collect <plan> --limit N` to fetch what fits and re-run after the reset.
+
+## Parsing
+
+`serpint parse <plan>` turns each cached response into the page a person would see:
+for every element (`organic_results`, `top_stories`, `local_results`…) a list of items
+with their visible text and, for results, the domain. It writes
+`data/processed/<plan>_pages.jsonl` (regenerable, git-ignored) and
+`reports/<plan>_parse.md`. It makes no requests.
+
+A model may only learn from what a screenshot shows, so the parser keeps visible text
+and nothing else:
+
+- The request echo (`search_parameters`), metadata and pagination are dropped.
+- Every URL is dropped, at any depth. SerpAPI's own links (related searches, filters,
+  pagination) embed `location=<city>`, so keeping them would hand the model its label.
+  The one exception is `displayed_link`, the breadcrumb Google prints under a result.
+- Ids, images, coordinates and SerpAPI enums (`"type": "weather_result"`) are dropped;
+  `type` text that reads as a label ("Furnished apartment building") is kept.
+- `search_information.results_for` ("Results for Pune, Maharashtra") is kept as its own
+  element, because Google prints it.
+- Elements with no text in the response (the map tile, AI overviews SerpAPI fetches
+  lazily) are recorded as present but empty and left to the screenshot phase.
+
+The report also counts the simplest leak: how often visible text names the page's own
+city or state outright, by tier, query and element.
 
 ## Configuration
 

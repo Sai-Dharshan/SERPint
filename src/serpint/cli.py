@@ -9,7 +9,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from serpint import collect
+from serpint import collect, parse
 from serpint.client import SerpApiClient, SerpApiError
 from serpint.config import PROJECT_ROOT, Settings, load_settings
 
@@ -112,6 +112,25 @@ def cmd_inspect(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_parse(args: argparse.Namespace) -> int:
+    """Parse cached responses for a plan into visible page elements, plus a report."""
+    settings = load_settings()
+    result = parse.parse_plan(_client(settings), settings, args.plan)
+    if not result.pages:
+        print(f"No cached responses for plan {args.plan!r}. Run `serpint collect {args.plan}`.")
+        return 1
+    pages_path = settings.data_dir / "processed" / f"{args.plan}_pages.jsonl"
+    parse.write_pages(result.pages, pages_path)
+    report = settings.root / "reports" / f"{args.plan}_parse.md"
+    report.parent.mkdir(parents=True, exist_ok=True)
+    report.write_text(parse.parse_report(result.pages, settings), encoding="utf-8")
+    print(f"Parsed {len(result.pages)} pages -> {pages_path}")
+    print(f"Report -> {report}")
+    if result.missing:
+        print(f"{len(result.missing)} cells not collected yet: {', '.join(result.missing[:5])}...")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     """Build the argument parser."""
     p = argparse.ArgumentParser(prog="serpint", description=__doc__)
@@ -145,6 +164,10 @@ def build_parser() -> argparse.ArgumentParser:
     s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
     s.add_argument("--out", type=Path, help="output path (default reports/<plan>_fields.md)")
     s.set_defaults(func=cmd_inspect)
+
+    s = sub.add_parser("parse", help="extract the visible text of cached pages (no requests)")
+    s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
+    s.set_defaults(func=cmd_parse)
     return p
 
 

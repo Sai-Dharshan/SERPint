@@ -1,7 +1,7 @@
 PY      := .venv/bin/python
 SERPINT := .venv/bin/serpint
 
-.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot core-dry core inspect-core collect-dry collect inspect
+.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot core-dry core inspect-core collect-dry collect inspect parse-core parse
 
 setup:            ## create the venv and install pinned deps + the package
 	python3.11 -m venv .venv
@@ -51,3 +51,9 @@ collect:          ## full 20 x 20 grid (tops up core with 160 more); resumable
 
 inspect:
 	$(SERPINT) inspect grid
+
+parse-core:       ## visible text of the core pages -> data/processed/, reports/core_parse.md
+	$(SERPINT) parse core
+
+parse:
+	$(SERPINT) parse grid
