@@ -122,7 +122,7 @@ def build_parser() -> argparse.ArgumentParser:
     s.set_defaults(func=cmd_locations)
 
     s = sub.add_parser("collect", help="fetch a plan of searches (budget-guarded, resumable)")
-    s.add_argument("plan", choices=collect.PLANS)
+    s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
     s.add_argument("--dry-run", action="store_true", help="print planned calls; no requests")
     s.add_argument("--limit", type=int, help="fetch at most this many new cells")
     s.add_argument(
@@ -142,7 +142,7 @@ def build_parser() -> argparse.ArgumentParser:
     s.set_defaults(func=cmd_budget)
 
     s = sub.add_parser("inspect", help="inventory the fields in cached responses")
-    s.add_argument("plan", choices=collect.PLANS)
+    s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
     s.add_argument("--out", type=Path, help="output path (default reports/<plan>_fields.md)")
     s.set_defaults(func=cmd_inspect)
     return p
@@ -153,7 +153,7 @@ def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     try:
         return int(args.func(args))
-    except (SerpApiError, RuntimeError) as e:
+    except (SerpApiError, RuntimeError, ValueError) as e:
         print(f"error: {e}", file=sys.stderr)
         return 1
 

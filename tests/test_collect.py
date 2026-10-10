@@ -37,13 +37,30 @@ def _locations(settings):
 def test_plans_are_query_major(settings):
     pilot = collect.plan_cells(settings, "pilot")
     assert len(pilot) == 25
-    assert [c.query.id for c in pilot[:5]] == [settings.pilot_queries[0]] * 5
+    assert [c.query.id for c in pilot[:5]] == [settings.plans["pilot"].queries[0]] * 5
     assert len(collect.plan_cells(settings, "grid")) == 400
 
 
-def test_pilot_cells_are_grid_cells(settings):
-    grid = {(c.query.id, c.city.id) for c in collect.plan_cells(settings, "grid")}
-    assert {(c.query.id, c.city.id) for c in collect.plan_cells(settings, "pilot")} <= grid
+def test_plans_nest_pilot_core_grid(settings):
+    def ids(plan):
+        return {(c.query.id, c.city.id) for c in collect.plan_cells(settings, plan)}
+
+    assert len(ids("core")) == 240
+    assert ids("pilot") <= ids("core") <= ids("grid")
+
+
+def test_unknown_plan_is_rejected(settings):
+    with pytest.raises(ValueError, match="pilot"):
+        collect.plan_cells(settings, "everything")
+
+
+def test_pilot_cells_are_free_when_collecting_core(client, settings, session):
+    pilot = collect.plan_cells(settings, "pilot")
+    for c in pilot:
+        client.search(c.query, c.city, "x")
+    core = collect.plan_cells(settings, "core")
+    _, budget, _ = collect.describe_plan(client, core, {}, account_left=None)
+    assert budget.planned_new == 240 - 25
 
 
 def test_choose_location_prefers_in_state_city_then_reach(settings):

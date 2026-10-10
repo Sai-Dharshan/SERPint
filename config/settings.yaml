@@ -24,8 +24,28 @@ scoring:
 
 seed: 13
 
-# Pilot: 5 cities x 5 queries. Every pilot cell is also a cell of the full grid,
-# so the full run reuses these responses from the cache.
-pilot:
-  cities: [chennai, coimbatore, delhi, kolkata, guwahati]
-  queries: [weather, best_biryani, petrol_price_today, how_to_boil_eggs, ipl_score]
+# Named subsets of the full 20 x 20 grid (`serpint collect <plan>`; `grid` is everything).
+# Plans overlap on purpose: a cell fetched by one plan is reused from cache by the others,
+# so running pilot -> core -> grid never pays for the same search twice.
+plans:
+  # 5 cities x 5 queries = 25 searches, to inspect the response fields first.
+  pilot:
+    cities: [chennai, coimbatore, delhi, kolkata, guwahati]
+    queries: [weather, best_biryani, petrol_price_today, how_to_boil_eggs, ipl_score]
+
+  # 16 cities x 15 queries = 240 searches: fits one month of SerpAPI's free tier with a
+  # little slack. Contains every pilot cell. Keeps all four same-state pairs, trims the
+  # explicit_local tier (the easy ceiling) to two queries. The remaining 160 grid cells
+  # (Indore, Patna, Bhubaneswar, Visakhapatnam; best_schools, how_to_make_masala_chai,
+  # hospital/atm/movies near me) can be topped up next month with `collect grid`.
+  core:
+    cities: [
+      chennai, coimbatore, mumbai, pune, bengaluru, mysuru, kochi, thiruvananthapuram,
+      delhi, chandigarh, jaipur, lucknow, kolkata, guwahati, ahmedabad, hyderabad,
+    ]
+    queries: [
+      weather, restaurants_near_me,
+      best_biryani, petrol_price_today, gold_rate_today, flat_for_rent_2bhk, news_today,
+      how_to_boil_eggs, python_list_comprehension, convert_kg_to_pounds, ipl_score,
+      symptoms_of_dengue, iphone_16_price, what_is_gst, how_to_apply_for_passport,
+    ]

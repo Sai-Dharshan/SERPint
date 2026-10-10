@@ -35,6 +35,19 @@ class Query:
 
 
 @dataclass(frozen=True)
+class Plan:
+    """A named subset of the city x query grid."""
+
+    cities: tuple[str, ...]
+    queries: tuple[str, ...]
+
+    @property
+    def size(self) -> int:
+        """Return the number of searches in the plan."""
+        return len(self.cities) * len(self.queries)
+
+
+@dataclass(frozen=True)
 class Settings:
     """Everything in ``config/``, validated."""
 
@@ -46,8 +59,7 @@ class Settings:
     seed: int
     cities: tuple[City, ...]
     queries: tuple[Query, ...]
-    pilot_cities: tuple[str, ...]
-    pilot_queries: tuple[str, ...]
+    plans: dict[str, Plan]
     root: Path = field(default=PROJECT_ROOT)
 
     def city(self, city_id: str) -> City:
@@ -81,8 +93,8 @@ def load_settings(config_dir: Path | None = None, root: Path | None = None) -> S
         The validated settings.
 
     Raises:
-        ValueError: If ids are duplicated, a tier is unknown, or the pilot names an
-            unknown city or query.
+        ValueError: If ids are duplicated, a tier is unknown, or a plan names an unknown
+            or repeated city or query, or is called ``grid`` (reserved for everything).
     """
     root = root or PROJECT_ROOT
     config_dir = config_dir or root / "config"
@@ -109,14 +121,19 @@ def load_settings(config_dir: Path | None = None, root: Path | None = None) -> S
     if bad_tiers:
         raise ValueError(f"Unknown query tiers: {sorted(bad_tiers)}; expected one of {TIERS}")
 
-    pilot = s.get("pilot", {})
-    pilot_cities = tuple(pilot.get("cities", []))
-    pilot_queries = tuple(pilot.get("queries", []))
-    unknown = (set(pilot_cities) - {c.id for c in cities}) | (
-        set(pilot_queries) - {q.id for q in queries}
-    )
-    if unknown:
-        raise ValueError(f"Pilot names unknown ids: {sorted(unknown)}")
+    plans: dict[str, Plan] = {}
+    for name, spec in (s.get("plans") or {}).items():
+        if name == "grid":
+            raise ValueError("Plan name 'grid' is reserved for the full city x query grid")
+        plan = Plan(tuple(spec["cities"]), tuple(spec["queries"]))
+        _unique(list(plan.cities), f"plan {name!r} city")
+        _unique(list(plan.queries), f"plan {name!r} query")
+        unknown = (set(plan.cities) - {c.id for c in cities}) | (
+            set(plan.queries) - {q.id for q in queries}
+        )
+        if unknown:
+            raise ValueError(f"Plan {name!r} names unknown ids: {sorted(unknown)}")
+        plans[name] = plan
 
     data_dir = Path(s["paths"]["data_dir"])
     return Settings(
@@ -128,7 +145,6 @@ def load_settings(config_dir: Path | None = None, root: Path | None = None) -> S
         seed=int(s["seed"]),
         cities=cities,
         queries=queries,
-        pilot_cities=pilot_cities,
-        pilot_queries=pilot_queries,
+        plans=plans,
         root=root,
     )

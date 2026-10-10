@@ -18,7 +18,6 @@ from serpint.client import (
 from serpint.config import City, Query, Settings
 from serpint.geo import haversine_km
 
-PLANS = ("pilot", "grid")
 # A resolved location further than this from the configured coordinates is flagged.
 LOCATION_SANITY_KM = 50.0
 
@@ -155,19 +154,26 @@ class Cell:
     city: City
 
 
+def plan_names(settings: Settings) -> list[str]:
+    """Return the plans ``collect`` accepts: those in settings.yaml, plus ``grid``."""
+    return [*settings.plans, "grid"]
+
+
 def plan_cells(settings: Settings, plan: str) -> list[Cell]:
     """Return the cells of a plan in query-major order.
 
     Query-major means all cities for one query are fetched back to back, so content
     that changes over time (scores, news) is held roughly constant across cities.
     """
-    if plan == "pilot":
-        queries = [settings.query(q) for q in settings.pilot_queries]
-        cities = [settings.city(c) for c in settings.pilot_cities]
-    elif plan == "grid":
+    if plan == "grid":
         queries, cities = list(settings.queries), list(settings.cities)
+    elif plan in settings.plans:
+        # Keep config order (not the plan's listing order) so plans line up with the grid.
+        wanted = settings.plans[plan]
+        queries = [q for q in settings.queries if q.id in wanted.queries]
+        cities = [c for c in settings.cities if c.id in wanted.cities]
     else:
-        raise ValueError(f"Unknown plan {plan!r}; expected one of {PLANS}")
+        raise ValueError(f"Unknown plan {plan!r}; expected one of {plan_names(settings)}")
     return [Cell(q, c) for q in queries for c in cities]
 
 

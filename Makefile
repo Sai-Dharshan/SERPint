@@ -1,7 +1,7 @@
 PY      := .venv/bin/python
 SERPINT := .venv/bin/serpint
 
-.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot collect-dry collect inspect
+.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot core-dry core inspect-core collect-dry collect inspect
 
 setup:            ## create the venv and install pinned deps + the package
 	python3.11 -m venv .venv
@@ -28,16 +28,25 @@ budget:           ## ledger spend + SerpAPI account balance
 pilot-dry:        ## planned pilot calls and their cost; makes no requests
 	$(SERPINT) collect pilot --dry-run
 
-pilot:            ## 5 cities x 5 queries (cells are reused by the full grid)
+pilot:            ## 5 cities x 5 queries = 25 searches (all reused by core and grid)
 	$(SERPINT) collect pilot
 
 inspect-pilot:    ## reports/pilot_fields.md from the cached pilot responses
 	$(SERPINT) inspect pilot
 
+core-dry:         ## planned core calls; pilot cells show as cached
+	$(SERPINT) collect core --dry-run
+
+core:             ## 16 cities x 15 queries = 240 searches; fits one free-tier month
+	$(SERPINT) collect core
+
+inspect-core:
+	$(SERPINT) inspect core
+
 collect-dry:      ## planned full-grid calls and their cost; makes no requests
 	$(SERPINT) collect grid --dry-run
 
-collect:          ## full 20 x 20 grid; resumable, skips cached cells
+collect:          ## full 20 x 20 grid (tops up core with 160 more); resumable
 	$(SERPINT) collect grid
 
 inspect:

@@ -51,18 +51,33 @@ spent quota isn't lost if a machine goes away.
 
 ## Reproducing
 
+Collection is split into nested plans so it fits SerpAPI's free tier. Every plan
+reuses what earlier plans cached, so moving to a bigger plan only pays for new cells.
+
+| Plan | Cities × queries | Searches | Purpose |
+|---|---|---|---|
+| `pilot` | 5 × 5 | 25 | Inspect which fields come back before spending more |
+| `core` | 16 × 15 | 240 (215 after the pilot) | Main dataset; fits one free-tier month |
+| `grid` | 20 × 20 | 400 (160 after core) | Full design; top up in a later month |
+
+`core` keeps all four same-state pairs and every neutral and implicit query except
+"best schools" and "how to make masala chai", and trims the explicit_local tier (the
+easy upper bound) to "weather" and "restaurants near me". It drops Indore, Patna,
+Bhubaneswar and Visakhapatnam.
+
 ```sh
 make locations      # resolve the 20 cities (free); check the table
 make pilot-dry      # 25 planned searches
 make pilot          # run them
 make inspect-pilot  # reports/pilot_fields.md: which fields SerpAPI returned
-make collect-dry    # full 20 x 20 grid; pilot cells show as cached
+make core-dry       # 215 more; pilot cells show as cached
+make core
+make collect-dry    # later month: the 160 grid cells core doesn't have
 make collect
 ```
 
-On SerpAPI's free tier the grid may need more searches than one month allows. The
-run is then refused; use `serpint collect grid --limit N` to fetch what fits and
-re-run after the reset.
+A run that needs more searches than the account has left this month is refused; use
+`serpint collect <plan> --limit N` to fetch what fits and re-run after the reset.
 
 ## Configuration
 
@@ -70,7 +85,8 @@ re-run after the reset.
   pairs Chennai/Coimbatore, Mumbai/Pune, Bengaluru/Mysuru and Kochi/Thiruvananthapuram.
 - `config/queries.yaml`: 20 queries tagged `explicit_local`, `implicit_local` or
   `neutral`.
-- `config/settings.yaml`: search parameters, budget, score scale, pilot subset.
+- `config/settings.yaml`: search parameters, budget, score scale, and the `pilot`
+  and `core` plans.
 
 ## Ethics
 
