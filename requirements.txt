@@ -3,6 +3,11 @@ requests==2.34.2
 python-dotenv==1.2.4
 PyYAML==6.0.3
 
+# Models (Phase 3)
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.1
+
 # Development
 pytest==9.1.1
 ruff==0.17.0

@@ -1,7 +1,7 @@
 PY      := .venv/bin/python
 SERPINT := .venv/bin/serpint
 
-.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot core-dry core inspect-core collect-dry collect inspect parse-core parse
+.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot core-dry core inspect-core collect-dry collect inspect parse-core parse model-core model
 
 setup:            ## create the venv and install pinned deps + the package
 	python3.11 -m venv .venv
@@ -57,3 +57,9 @@ parse-core:       ## visible text of the core pages -> data/processed/, reports/
 
 parse:
 	$(SERPINT) parse grid
+
+model-core:       ## leave-one-query-out city prediction on core -> reports/core_models.md
+	$(SERPINT) model core
+
+model:
+	$(SERPINT) model grid

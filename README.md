@@ -9,9 +9,9 @@ SERPint is a research prototype. It collects Google results pages through
 trains models to predict the city from the page, maps which page elements leak, and
 builds a scrubber that blurs them.
 
-> **Status:** Phase 1 (config and data collection) and Phase 2 (parsing pages into their
-> visible elements) are implemented. Models, the leak map, the scrubber and the demo app
-> follow phase by phase.
+> **Status:** Phases 1–3 are implemented: data collection, parsing pages into their
+> visible elements, and city-prediction models. The leak map, the scrubber and the demo
+> app follow phase by phase.
 
 ## Setup
 
@@ -74,6 +74,7 @@ make inspect-pilot  # reports/pilot_fields.md: which fields SerpAPI returned
 make core-dry       # 215 more; pilot cells show as cached
 make core
 make parse-core     # visible text per page + reports/core_parse.md (free)
+make model-core     # leave-one-query-out city prediction -> reports/core_models.md
 make collect-dry    # later month: the 160 grid cells core doesn't have
 make collect
 ```
@@ -105,6 +106,30 @@ and nothing else:
 
 The report also counts the simplest leak: how often visible text names the page's own
 city or state outright, by tier, query and element.
+
+## Models
+
+`serpint model <plan>` predicts the city of every parsed page and writes
+`reports/<plan>_models.md` (predictions go to `data/processed/<plan>_predictions.jsonl`).
+
+There is one page per (query, city), so models are evaluated **leave-one-query-out**:
+each query's 16 pages are predicted by a model trained only on the other queries. That
+asks whether what a page reveals carries over to a search the model has never seen.
+
+| Model | What it uses |
+|---|---|
+| `constant` | Nothing; always the most central city. The chance floor. |
+| `mentions` | The city the page names most (state names count half). No training. |
+| `text` | TF-IDF of visible text plus one token per result domain; logistic regression. |
+| `text_masked` | The same with every configured city and state name blanked, so only implicit signal is left. |
+
+Each guess is the model's most likely city, scored by accuracy, same-state accuracy,
+distance and the GeoGuessr-style score in `config/settings.yaml`.
+
+The report also has a test that needs no training: for each query, are pages from
+nearby cities more alike than pages from distant ones (Spearman correlation of text
+distance against km, Mantel permutation p-value)? That catches regional variation even
+in queries whose signal doesn't carry over from other queries.
 
 ## Configuration
 

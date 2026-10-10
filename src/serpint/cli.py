@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import os
 import sys
 from pathlib import Path
@@ -131,6 +132,37 @@ def cmd_parse(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_model(args: argparse.Namespace) -> int:
+    """Evaluate city prediction leave-one-query-out and write the report."""
+    from serpint import models  # scikit-learn is slow to import; only load it here
+
+    settings = load_settings()
+    result = parse.parse_plan(_client(settings), settings, args.plan)
+    if not result.pages:
+        print(f"No cached responses for plan {args.plan!r}. Run `serpint collect {args.plan}`.")
+        return 1
+    preds, signals = models.evaluate(result.pages, settings, n_perm=args.permutations)
+    pred_path = settings.data_dir / "processed" / f"{args.plan}_predictions.jsonl"
+    pred_path.parent.mkdir(parents=True, exist_ok=True)
+    with pred_path.open("w", encoding="utf-8") as f:
+        for ps in preds.values():
+            for p in ps:
+                f.write(json.dumps(vars(p)) + "\n")
+    report = settings.root / "reports" / f"{args.plan}_models.md"
+    report.parent.mkdir(parents=True, exist_ok=True)
+    report.write_text(
+        models.model_report(preds, signals, settings, len(result.pages)), encoding="utf-8"
+    )
+    for name, ps in preds.items():
+        s = models.summarize(ps, settings)
+        print(
+            f"{name:<12} city acc {s.accuracy:4.0%}  state acc {s.state_accuracy:4.0%}  "
+            f"median {s.median_km:6,.0f} km  score {s.mean_score:6,.0f}"
+        )
+    print(f"Report -> {report}")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     """Build the argument parser."""
     p = argparse.ArgumentParser(prog="serpint", description=__doc__)
@@ -168,6 +200,13 @@ def build_parser() -> argparse.ArgumentParser:
     s = sub.add_parser("parse", help="extract the visible text of cached pages (no requests)")
     s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
     s.set_defaults(func=cmd_parse)
+
+    s = sub.add_parser("model", help="predict the city from page text (leave-one-query-out)")
+    s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
+    s.add_argument(
+        "--permutations", type=int, default=999, help="Mantel test permutations (default 999)"
+    )
+    s.set_defaults(func=cmd_model)
     return p
 
 
