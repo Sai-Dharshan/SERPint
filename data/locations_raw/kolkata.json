@@ -1,0 +1,42 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b6519",
+  "google_id": 1007828,
+  "google_parent_id": 20472,
+  "name": "Kolkata",
+  "canonical_name": "Kolkata,West Bengal,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 15800000,
+  "gps": [
+   88.36389500000001,
+   22.572646
+  ],
+  "keys": [
+   "kolkata",
+   "west",
+   "bengal",
+   "india"
+  ]
+ },
+ {
+  "id": "6683fd63914a81b5766b54d2",
+  "google_parent_id": 20472,
+  "name": "Kolkata",
+  "canonical_name": "Kolkata,West Bengal,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   88.36389500000001,
+   22.572646
+  ],
+  "keys": [
+   "kolkata",
+   "west",
+   "bengal",
+   "india"
+  ],
+  "google_id": 9198114,
+  "reach": 4120000
+ }
+]

@@ -1,0 +1,123 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b64d5",
+  "google_id": 1007749,
+  "google_parent_id": 20455,
+  "name": "Patna",
+  "canonical_name": "Patna,Bihar,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 29900000,
+  "gps": [
+   85.1375645,
+   25.5940947
+  ],
+  "keys": [
+   "patna",
+   "bihar",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742bf89",
+  "google_id": 9185829,
+  "google_parent_id": 20455,
+  "name": "Jagdishpur",
+  "canonical_name": "Jagdishpur,Patna Division,Bihar,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   84.4193916,
+   25.4663449
+  ],
+  "reach": 9000,
+  "keys": [
+   "jagdishpur",
+   "patna",
+   "division",
+   "bihar",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742c127",
+  "google_id": 9186243,
+  "google_parent_id": 20455,
+  "name": "Patna Division",
+  "canonical_name": "Patna Division,Bihar,India",
+  "country_code": "IN",
+  "target_type": "Department",
+  "gps": [
+   85.1375645,
+   25.5940947
+  ],
+  "reach": 30300000,
+  "keys": [
+   "patna",
+   "division",
+   "bihar",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b069",
+  "google_id": 9181868,
+  "google_parent_id": 20455,
+  "name": "Patna Sadar",
+  "canonical_name": "Patna Sadar,Bihar,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   85.1421245,
+   25.609049
+  ],
+  "reach": 1830000,
+  "keys": [
+   "patna",
+   "sadar",
+   "bihar",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b2d6",
+  "google_id": 9182505,
+  "google_parent_id": 20455,
+  "name": "Patna City",
+  "canonical_name": "Patna City,Bihar,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   85.1375645,
+   25.5940947
+  ],
+  "reach": 601000,
+  "keys": [
+   "patna",
+   "city",
+   "bihar",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b1b7",
+  "google_id": 9182213,
+  "google_parent_id": 20455,
+  "name": "Jagdishpur",
+  "canonical_name": "Jagdishpur,Patna Division,Bihar,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   84.4193916,
+   25.4663449
+  ],
+  "reach": 145000,
+  "keys": [
+   "jagdishpur",
+   "patna",
+   "division",
+   "bihar",
+   "india"
+  ]
+ }
+]

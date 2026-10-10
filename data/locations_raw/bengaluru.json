@@ -1,0 +1,63 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b64e4",
+  "google_id": 1007768,
+  "google_parent_id": 20460,
+  "name": "Bengaluru",
+  "canonical_name": "Bengaluru,Karnataka,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 31500000,
+  "gps": [
+   77.5945627,
+   12.9715987
+  ],
+  "keys": [
+   "bengaluru",
+   "karnataka",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742bd75",
+  "google_id": 9185294,
+  "google_parent_id": 20460,
+  "name": "Bengaluru South",
+  "canonical_name": "Bengaluru South,Karnataka,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   76.41581289999999,
+   17.0711874
+  ],
+  "reach": 12700000,
+  "keys": [
+   "bengaluru",
+   "south",
+   "karnataka",
+   "india"
+  ]
+ },
+ {
+  "id": "584f1826914a8159dc8f4b7b",
+  "google_id": 9041236,
+  "google_parent_id": 20460,
+  "name": "Kempegowda International Airport Bengaluru",
+  "canonical_name": "Kempegowda International Airport Bengaluru,Karnataka,India",
+  "country_code": "IN",
+  "target_type": "Airport",
+  "gps": [
+   77.7065928,
+   13.1986348
+  ],
+  "reach": 201000,
+  "keys": [
+   "kempegowda",
+   "international",
+   "airport",
+   "bengaluru",
+   "karnataka",
+   "india"
+  ]
+ }
+]

@@ -1,0 +1,64 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b64cf",
+  "google_id": 1007743,
+  "google_parent_id": 20453,
+  "name": "Visakhapatnam",
+  "canonical_name": "Visakhapatnam,Andhra Pradesh,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 7180000,
+  "gps": [
+   83.2184815,
+   17.6868159
+  ],
+  "keys": [
+   "visakhapatnam",
+   "andhra",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b2ab",
+  "google_id": 9182462,
+  "google_parent_id": 20453,
+  "name": "Visakhapatnam Urban",
+  "canonical_name": "Visakhapatnam Urban,Andhra Pradesh,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   83.30364349999999,
+   17.7271361
+  ],
+  "reach": 3000000,
+  "keys": [
+   "visakhapatnam",
+   "urban",
+   "andhra",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b079",
+  "google_id": 9181884,
+  "google_parent_id": 20453,
+  "name": "Visakhapatnam Rural",
+  "canonical_name": "Visakhapatnam Rural,Andhra Pradesh,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   83.35307209999999,
+   17.8034888
+  ],
+  "reach": 609000,
+  "keys": [
+   "visakhapatnam",
+   "rural",
+   "andhra",
+   "pradesh",
+   "india"
+  ]
+ }
+]

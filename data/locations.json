@@ -1,0 +1,182 @@
+{
+ "ahmedabad": {
+  "city_id": "ahmedabad",
+  "location": "Ahmedabad,Gujarat,India",
+  "alias": "Ahmedabad",
+  "google_id": 1007753,
+  "reach": 25500000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "bengaluru": {
+  "city_id": "bengaluru",
+  "location": "Bengaluru,Karnataka,India",
+  "alias": "Bengaluru",
+  "google_id": 1007768,
+  "reach": 31500000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "bhubaneswar": {
+  "city_id": "bhubaneswar",
+  "location": "Bhubaneswar,Odisha,India",
+  "alias": "Bhubaneswar",
+  "google_id": 1007799,
+  "reach": 12300000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "chandigarh": {
+  "city_id": "chandigarh",
+  "location": "Chandigarh,Chandigarh,India",
+  "alias": "Chandigarh",
+  "google_id": 1007801,
+  "reach": 8780000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "chennai": {
+  "city_id": "chennai",
+  "location": "Chennai,Tamil Nadu,India",
+  "alias": "Chennai",
+  "google_id": 1007809,
+  "reach": 23500000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "coimbatore": {
+  "city_id": "coimbatore",
+  "location": "Coimbatore,Tamil Nadu,India",
+  "alias": "Coimbatore",
+  "google_id": 1007810,
+  "reach": 18600000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "delhi": {
+  "city_id": "delhi",
+  "location": "New Delhi,Delhi,India",
+  "alias": "New Delhi",
+  "google_id": 1007751,
+  "reach": 9060000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "guwahati": {
+  "city_id": "guwahati",
+  "location": "Guwahati,Assam,India",
+  "alias": "Guwahati",
+  "google_id": 1007745,
+  "reach": 12400000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "hyderabad": {
+  "city_id": "hyderabad",
+  "location": "Hyderabad,Telangana,India",
+  "alias": "Hyderabad",
+  "google_id": 1007740,
+  "reach": 33500000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "indore": {
+  "city_id": "indore",
+  "location": "Indore,Madhya Pradesh,India",
+  "alias": "Indore",
+  "google_id": 1007796,
+  "reach": 22600000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "jaipur": {
+  "city_id": "jaipur",
+  "location": "Jaipur,Rajasthan,India",
+  "alias": "Jaipur",
+  "google_id": 1007805,
+  "reach": 23200000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "kochi": {
+  "city_id": "kochi",
+  "location": "Kochi,Kerala,India",
+  "alias": "Kochi",
+  "google_id": 1007776,
+  "reach": 15400000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "kolkata": {
+  "city_id": "kolkata",
+  "location": "Kolkata,West Bengal,India",
+  "alias": "Kolkata",
+  "google_id": 1007828,
+  "reach": 15800000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "lucknow": {
+  "city_id": "lucknow",
+  "location": "Lucknow,Uttar Pradesh,India",
+  "alias": "Lucknow",
+  "google_id": 1007824,
+  "reach": 37500000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "mumbai": {
+  "city_id": "mumbai",
+  "location": "Mumbai,Maharashtra,India",
+  "alias": "Mumbai",
+  "google_id": 1007785,
+  "reach": 19600000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "mysuru": {
+  "city_id": "mysuru",
+  "location": "Mysuru,Karnataka,India",
+  "alias": "Mysuru",
+  "google_id": 1007773,
+  "reach": 3110000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "patna": {
+  "city_id": "patna",
+  "location": "Patna,Bihar,India",
+  "alias": "Patna",
+  "google_id": 1007749,
+  "reach": 29900000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "pune": {
+  "city_id": "pune",
+  "location": "Pune,Maharashtra,India",
+  "alias": "Pune",
+  "google_id": 1007788,
+  "reach": 30400000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "thiruvananthapuram": {
+  "city_id": "thiruvananthapuram",
+  "location": "Thiruvananthapuram,Kerala,India",
+  "alias": "Thiruvananthapuram",
+  "google_id": 1007779,
+  "reach": 3920000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ },
+ "visakhapatnam": {
+  "city_id": "visakhapatnam",
+  "location": "Visakhapatnam,Andhra Pradesh,India",
+  "alias": "Visakhapatnam",
+  "google_id": 1007743,
+  "reach": 7180000,
+  "distance_km": 0.0,
+  "source": "locations_api"
+ }
+}

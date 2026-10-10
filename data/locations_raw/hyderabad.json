@@ -1,0 +1,59 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b64cc",
+  "google_id": 1007740,
+  "google_parent_id": 9061642,
+  "name": "Hyderabad",
+  "canonical_name": "Hyderabad,Telangana,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 33500000,
+  "gps": [
+   78.486671,
+   17.385044
+  ],
+  "keys": [
+   "hyderabad",
+   "telangana",
+   "india"
+  ]
+ },
+ {
+  "id": "585069eeee19ad271e9c99ed",
+  "google_id": 9060966,
+  "google_parent_id": 9061356,
+  "name": "Hyderabad",
+  "canonical_name": "Hyderabad,Sindh,Pakistan",
+  "country_code": "PK",
+  "target_type": "City",
+  "reach": 869000,
+  "gps": [
+   68.3693897,
+   25.3817509
+  ],
+  "keys": [
+   "hyderabad",
+   "sindh",
+   "pakistan"
+  ]
+ },
+ {
+  "id": "6683fd63914a81b5766b54c0",
+  "google_parent_id": 9061642,
+  "name": "Hyderabad",
+  "canonical_name": "Hyderabad,Telangana,India",
+  "country_code": "IN",
+  "target_type": "District",
+  "gps": [
+   78.486671,
+   17.385044
+  ],
+  "keys": [
+   "hyderabad",
+   "telangana",
+   "india"
+  ],
+  "google_id": 9197649,
+  "reach": 7000000
+ }
+]

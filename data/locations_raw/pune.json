@@ -1,0 +1,209 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b64f4",
+  "google_id": 1007788,
+  "google_parent_id": 20462,
+  "name": "Pune",
+  "canonical_name": "Pune,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 30400000,
+  "gps": [
+   73.8567437,
+   18.5204303
+  ],
+  "keys": [
+   "pune",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "660725b2914a819737416d95",
+  "google_id": 9075184,
+  "google_parent_id": 20462,
+  "name": "Barshi",
+  "canonical_name": "Barshi,Pune Division,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   75.6941478,
+   18.2333856
+  ],
+  "reach": 96000,
+  "keys": [
+   "barshi",
+   "pune",
+   "division",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "660725bb914a81973742cfb9",
+  "google_id": 9299213,
+  "google_parent_id": 20462,
+  "name": "Malkapur",
+  "canonical_name": "Malkapur,Pune Division,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   74.17733679999999,
+   17.2615469
+  ],
+  "reach": 33000,
+  "keys": [
+   "malkapur",
+   "pune",
+   "division",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742bfbc",
+  "google_id": 9185880,
+  "google_parent_id": 20462,
+  "name": "Nagaon",
+  "canonical_name": "Nagaon,Pune Division,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   74.1978274,
+   16.5464547
+  ],
+  "reach": 0,
+  "keys": [
+   "nagaon",
+   "pune",
+   "division",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742c011",
+  "google_id": 9185965,
+  "google_parent_id": 20462,
+  "name": "Sonapur",
+  "canonical_name": "Sonapur,Pune Division,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   73.67164799999999,
+   18.3909515
+  ],
+  "reach": 0,
+  "keys": [
+   "sonapur",
+   "pune",
+   "division",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742c157",
+  "google_id": 9186291,
+  "google_parent_id": 20462,
+  "name": "Pune Division",
+  "canonical_name": "Pune Division,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "Department",
+  "gps": [
+   74.5931921,
+   17.8079177
+  ],
+  "reach": 34000000,
+  "keys": [
+   "pune",
+   "division",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742bc98",
+  "google_id": 9185069,
+  "google_parent_id": 20462,
+  "name": "Khed",
+  "canonical_name": "Khed,Pune Division,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   73.907195,
+   18.840499
+  ],
+  "reach": 716000,
+  "keys": [
+   "khed",
+   "pune",
+   "division",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b34e",
+  "google_id": 9182629,
+  "google_parent_id": 20462,
+  "name": "Shirur",
+  "canonical_name": "Shirur,Pune Division,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   74.3775524,
+   18.8249767
+  ],
+  "reach": 384000,
+  "keys": [
+   "shirur",
+   "pune",
+   "division",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b2d1",
+  "google_id": 9182500,
+  "google_parent_id": 20462,
+  "name": "Daund",
+  "canonical_name": "Daund,Pune Division,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   74.5840492,
+   18.4631179
+  ],
+  "reach": 292000,
+  "keys": [
+   "daund",
+   "pune",
+   "division",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b4e2",
+  "google_id": 9183043,
+  "google_parent_id": 20462,
+  "name": "Pandharpur",
+  "canonical_name": "Pandharpur,Pune Division,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   75.31550349999999,
+   17.6805816
+  ],
+  "reach": 262000,
+  "keys": [
+   "pandharpur",
+   "pune",
+   "division",
+   "maharashtra",
+   "india"
+  ]
+ }
+]

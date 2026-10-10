@@ -1,0 +1,217 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b6515",
+  "google_id": 1007824,
+  "google_parent_id": 20471,
+  "name": "Lucknow",
+  "canonical_name": "Lucknow,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 37500000,
+  "gps": [
+   80.94616599999999,
+   26.8466937
+  ],
+  "keys": [
+   "lucknow",
+   "uttar",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "66150e5c914a81e0c2796362",
+  "google_id": 9182923,
+  "google_parent_id": 20471,
+  "name": "Lucknow",
+  "canonical_name": "Lucknow,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "keys": [
+   "lucknow",
+   "uttar",
+   "pradesh",
+   "india"
+  ],
+  "gps": [
+   80.94616599999999,
+   26.8466937
+  ],
+  "reach": 11100000
+ },
+ {
+  "id": "660725bb914a81973742d0ec",
+  "google_id": 9299520,
+  "google_parent_id": 20471,
+  "name": "Mau",
+  "canonical_name": "Mau,Lucknow Division,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   80.9845887,
+   26.6824307
+  ],
+  "reach": 17000,
+  "keys": [
+   "mau",
+   "lucknow",
+   "division",
+   "uttar",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742bfc2",
+  "google_id": 9185886,
+  "google_parent_id": 20471,
+  "name": "Jairampur",
+  "canonical_name": "Jairampur,Lucknow Division,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   80.57300839999999,
+   27.456933
+  ],
+  "reach": 0,
+  "keys": [
+   "jairampur",
+   "lucknow",
+   "division",
+   "uttar",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742c021",
+  "google_id": 9185981,
+  "google_parent_id": 20471,
+  "name": "Jagdishpur",
+  "canonical_name": "Jagdishpur,Lucknow Division,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   80.545234,
+   26.7499142
+  ],
+  "reach": 0,
+  "keys": [
+   "jagdishpur",
+   "lucknow",
+   "division",
+   "uttar",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742be7a",
+  "google_id": 9185557,
+  "google_parent_id": 20471,
+  "name": "Narayanpur",
+  "canonical_name": "Narayanpur,Lucknow Division,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   81.22847589999999,
+   26.4167569
+  ],
+  "reach": 0,
+  "keys": [
+   "narayanpur",
+   "lucknow",
+   "division",
+   "uttar",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742bf55",
+  "google_id": 9185777,
+  "google_parent_id": 20471,
+  "name": "Jagdishpur",
+  "canonical_name": "Jagdishpur,Lucknow Division,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "gps": [
+   80.545234,
+   26.7499142
+  ],
+  "reach": 0,
+  "keys": [
+   "jagdishpur",
+   "lucknow",
+   "division",
+   "uttar",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742c14e",
+  "google_id": 9186282,
+  "google_parent_id": 20471,
+  "name": "Lucknow Division",
+  "canonical_name": "Lucknow Division,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "Department",
+  "gps": [
+   80.94616599999999,
+   26.8466937
+  ],
+  "reach": 37700000,
+  "keys": [
+   "lucknow",
+   "division",
+   "uttar",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b6fd",
+  "google_id": 9183594,
+  "google_parent_id": 20471,
+  "name": "Lalganj",
+  "canonical_name": "Lalganj,Lucknow Division,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   80.9705292,
+   26.1650564
+  ],
+  "reach": 142000,
+  "keys": [
+   "lalganj",
+   "lucknow",
+   "division",
+   "uttar",
+   "pradesh",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742bc85",
+  "google_id": 9185050,
+  "google_parent_id": 20471,
+  "name": "Gola",
+  "canonical_name": "Gola,Lucknow Division,Uttar Pradesh,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   80.4715866,
+   28.0786366
+  ],
+  "reach": 133000,
+  "keys": [
+   "gola",
+   "lucknow",
+   "division",
+   "uttar",
+   "pradesh",
+   "india"
+  ]
+ }
+]

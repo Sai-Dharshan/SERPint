@@ -1,0 +1,64 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b6507",
+  "google_id": 1007809,
+  "google_parent_id": 20469,
+  "name": "Chennai",
+  "canonical_name": "Chennai,Tamil Nadu,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 23500000,
+  "gps": [
+   80.2707184,
+   13.0826802
+  ],
+  "keys": [
+   "chennai",
+   "tamil",
+   "nadu",
+   "india"
+  ]
+ },
+ {
+  "id": "6683fd63914a81b5766b548f",
+  "google_parent_id": 20469,
+  "name": "Chennai",
+  "canonical_name": "Chennai,Tamil Nadu,India",
+  "country_code": "IN",
+  "target_type": "District",
+  "gps": [
+   80.2707184,
+   13.0826802
+  ],
+  "keys": [
+   "chennai",
+   "tamil",
+   "nadu",
+   "india"
+  ],
+  "google_id": 9196749,
+  "reach": 8540000
+ },
+ {
+  "id": "585069ddee19ad271e9c4cf4",
+  "google_id": 9041243,
+  "google_parent_id": 20469,
+  "name": "Chennai International Airport",
+  "canonical_name": "Chennai International Airport,Tamil Nadu,India",
+  "country_code": "IN",
+  "target_type": "Airport",
+  "reach": 111000,
+  "gps": [
+   80.1708668,
+   12.994112
+  ],
+  "keys": [
+   "chennai",
+   "international",
+   "airport",
+   "tamil",
+   "nadu",
+   "india"
+  ]
+ }
+]

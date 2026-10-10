@@ -1,0 +1,62 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b64d1",
+  "google_id": 1007745,
+  "google_parent_id": 20454,
+  "name": "Guwahati",
+  "canonical_name": "Guwahati,Assam,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 12400000,
+  "gps": [
+   91.7362365,
+   26.1445169
+  ],
+  "keys": [
+   "guwahati",
+   "assam",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b30c",
+  "google_id": 9182562,
+  "google_parent_id": 20454,
+  "name": "Guwahati Circle",
+  "canonical_name": "Guwahati Circle,Assam,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   91.75150339999999,
+   26.1789884
+  ],
+  "reach": 563000,
+  "keys": [
+   "guwahati",
+   "circle",
+   "assam",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b62c",
+  "google_id": 9183379,
+  "google_parent_id": 20454,
+  "name": "North Guwahati Circle",
+  "canonical_name": "North Guwahati Circle,Assam,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   91.68898589999999,
+   26.2355982
+  ],
+  "reach": 51000,
+  "keys": [
+   "north",
+   "guwahati",
+   "circle",
+   "assam",
+   "india"
+  ]
+ }
+]

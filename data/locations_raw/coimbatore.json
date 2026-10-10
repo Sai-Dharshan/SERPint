@@ -1,0 +1,64 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b6508",
+  "google_id": 1007810,
+  "google_parent_id": 20469,
+  "name": "Coimbatore",
+  "canonical_name": "Coimbatore,Tamil Nadu,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 18600000,
+  "gps": [
+   76.9558321,
+   11.0168445
+  ],
+  "keys": [
+   "coimbatore",
+   "tamil",
+   "nadu",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b831",
+  "google_id": 9183908,
+  "google_parent_id": 20469,
+  "name": "Coimbatore North",
+  "canonical_name": "Coimbatore North,Tamil Nadu,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   76.94577799999999,
+   11.060285
+  ],
+  "reach": 1570000,
+  "keys": [
+   "coimbatore",
+   "north",
+   "tamil",
+   "nadu",
+   "india"
+  ]
+ },
+ {
+  "id": "660725ba914a81973742b1d8",
+  "google_id": 9182246,
+  "google_parent_id": 20469,
+  "name": "Coimbatore South",
+  "canonical_name": "Coimbatore South,Tamil Nadu,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   76.92440789999999,
+   10.9446953
+  ],
+  "reach": 576000,
+  "keys": [
+   "coimbatore",
+   "south",
+   "tamil",
+   "nadu",
+   "india"
+  ]
+ }
+]

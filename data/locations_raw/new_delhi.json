@@ -1,0 +1,63 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b64d6",
+  "google_id": 1007751,
+  "google_parent_id": 20456,
+  "name": "New Delhi",
+  "canonical_name": "New Delhi,Delhi,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 9060000,
+  "gps": [
+   77.2090212,
+   28.6139391
+  ],
+  "keys": [
+   "new",
+   "delhi",
+   "delhi",
+   "india"
+  ]
+ },
+ {
+  "id": "6683fd63914a81b5766b5481",
+  "google_parent_id": 20456,
+  "name": "New Delhi",
+  "canonical_name": "New Delhi,Delhi,India",
+  "country_code": "IN",
+  "target_type": "District",
+  "gps": [
+   77.2090212,
+   28.6139391
+  ],
+  "keys": [
+   "new",
+   "delhi",
+   "delhi",
+   "india"
+  ],
+  "google_id": 9196528,
+  "reach": 3220000
+ },
+ {
+  "id": "585069b4ee19ad271e9b9c39",
+  "google_id": 1022856,
+  "google_parent_id": 21167,
+  "name": "Delhi",
+  "canonical_name": "Delhi,New York,United States",
+  "country_code": "US",
+  "target_type": "City",
+  "reach": 22000,
+  "gps": [
+   -74.91599459999999,
+   42.27814009999999
+  ],
+  "keys": [
+   "delhi",
+   "new",
+   "york",
+   "united",
+   "states"
+  ]
+ }
+]

@@ -1,0 +1,81 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b64f1",
+  "google_id": 1007785,
+  "google_parent_id": 20462,
+  "name": "Mumbai",
+  "canonical_name": "Mumbai,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 19600000,
+  "gps": [
+   72.8776559,
+   19.0759837
+  ],
+  "keys": [
+   "mumbai",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "585069ddee19ad271e9c4919",
+  "google_id": 9040246,
+  "google_parent_id": 20462,
+  "name": "Navi Mumbai",
+  "canonical_name": "Navi Mumbai,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 3760000,
+  "gps": [
+   73.0296625,
+   19.0330488
+  ],
+  "keys": [
+   "navi",
+   "mumbai",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "66826b75914a81594d5dfe83",
+  "google_id": 9198320,
+  "google_parent_id": 20462,
+  "name": "Mumbai Suburban",
+  "canonical_name": "Mumbai Suburban,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "District",
+  "reach": 9000000,
+  "gps": [
+   72.8776378,
+   19.0759559
+  ],
+  "keys": [
+   "mumbai",
+   "suburban",
+   "maharashtra",
+   "india"
+  ]
+ },
+ {
+  "id": "66826b75914a81594d5dfe86",
+  "google_id": 9198323,
+  "google_parent_id": 20462,
+  "name": "Mumbai City",
+  "canonical_name": "Mumbai City,Maharashtra,India",
+  "country_code": "IN",
+  "target_type": "District",
+  "reach": 3100000,
+  "gps": [
+   72.83189349999999,
+   18.9745714
+  ],
+  "keys": [
+   "mumbai",
+   "city",
+   "maharashtra",
+   "india"
+  ]
+ }
+]

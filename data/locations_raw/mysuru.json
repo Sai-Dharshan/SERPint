@@ -1,0 +1,40 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b64e8",
+  "google_id": 1007773,
+  "google_parent_id": 20460,
+  "name": "Mysuru",
+  "canonical_name": "Mysuru,Karnataka,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 3110000,
+  "gps": [
+   76.6393805,
+   12.2958104
+  ],
+  "keys": [
+   "mysuru",
+   "karnataka",
+   "india"
+  ]
+ },
+ {
+  "id": "66150e48914a81e0c2796346",
+  "google_id": 9181853,
+  "google_parent_id": 20460,
+  "name": "Mysuru",
+  "canonical_name": "Mysuru,Karnataka,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "keys": [
+   "mysuru",
+   "karnataka",
+   "india"
+  ],
+  "gps": [
+   76.6393805,
+   12.2958104
+  ],
+  "reach": 1670000
+ }
+]

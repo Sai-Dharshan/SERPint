@@ -1,0 +1,80 @@
+[
+ {
+  "id": "585069a8ee19ad271e9b6504",
+  "google_id": 1007805,
+  "google_parent_id": 20468,
+  "name": "Jaipur",
+  "canonical_name": "Jaipur,Rajasthan,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 23200000,
+  "gps": [
+   75.7872709,
+   26.9124336
+  ],
+  "keys": [
+   "jaipur",
+   "rajasthan",
+   "india"
+  ]
+ },
+ {
+  "id": "66150e50914a81e0c2796353",
+  "google_id": 9182305,
+  "google_parent_id": 20468,
+  "name": "Jaipur",
+  "canonical_name": "Jaipur,Rajasthan,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "keys": [
+   "jaipur",
+   "rajasthan",
+   "india"
+  ],
+  "gps": [
+   75.7872709,
+   26.9124336
+  ],
+  "reach": 4640000
+ },
+ {
+  "id": "660725ba914a81973742b121",
+  "google_id": 9182058,
+  "google_parent_id": 9061642,
+  "name": "Jaipur",
+  "canonical_name": "Jaipur,Telangana,India",
+  "country_code": "IN",
+  "target_type": "Municipality",
+  "gps": [
+   79.57860529999999,
+   18.8486188
+  ],
+  "reach": 18000,
+  "keys": [
+   "jaipur",
+   "telangana",
+   "india"
+  ]
+ },
+ {
+  "id": "585069ddee19ad271e9c4cf3",
+  "google_id": 9041242,
+  "google_parent_id": 20468,
+  "name": "Jaipur International Airport",
+  "canonical_name": "Jaipur International Airport,Rajasthan,India",
+  "country_code": "IN",
+  "target_type": "Airport",
+  "reach": 29000,
+  "gps": [
+   75.8059323,
+   26.8279735
+  ],
+  "keys": [
+   "jaipur",
+   "international",
+   "airport",
+   "rajasthan",
+   "india"
+  ]
+ }
+]

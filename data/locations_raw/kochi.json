@@ -1,0 +1,191 @@
+[
+ {
+  "id": "585069beee19ad271e9bc2be",
+  "google_id": 20662,
+  "google_parent_id": 2392,
+  "name": "Kochi",
+  "canonical_name": "Kochi,Japan",
+  "country_code": "JP",
+  "target_type": "Prefecture",
+  "reach": 458000,
+  "gps": [
+   133.5292788,
+   33.5595867
+  ],
+  "keys": [
+   "kochi",
+   "japan"
+  ]
+ },
+ {
+  "id": "585069a8ee19ad271e9b64ea",
+  "google_id": 1007776,
+  "google_parent_id": 20461,
+  "name": "Kochi",
+  "canonical_name": "Kochi,Kerala,India",
+  "country_code": "IN",
+  "target_type": "City",
+  "reach": 15400000,
+  "gps": [
+   76.26730409999999,
+   9.9312328
+  ],
+  "keys": [
+   "kochi",
+   "kerala",
+   "india"
+  ]
+ },
+ {
+  "id": "585069a9ee19ad271e9b6bf3",
+  "google_id": 1009706,
+  "google_parent_id": 20662,
+  "name": "Kochi",
+  "canonical_name": "Kochi,Kochi,Japan",
+  "country_code": "JP",
+  "target_type": "City",
+  "reach": 343000,
+  "gps": [
+   133.5292788,
+   33.5595867
+  ],
+  "keys": [
+   "kochi",
+   "kochi",
+   "japan"
+  ]
+ },
+ {
+  "id": "66826b74914a81594d5deb94",
+  "google_id": 9193295,
+  "google_parent_id": 20662,
+  "name": "Nankoku",
+  "canonical_name": "Nankoku,Kochi,Japan",
+  "country_code": "JP",
+  "target_type": "City",
+  "reach": 73000,
+  "gps": [
+   133.6414203,
+   33.575688
+  ],
+  "keys": [
+   "nankoku",
+   "kochi",
+   "japan"
+  ]
+ },
+ {
+  "id": "66826b74914a81594d5de4db",
+  "google_id": 9191551,
+  "google_parent_id": 20662,
+  "name": "Konan",
+  "canonical_name": "Konan,Kochi,Japan",
+  "country_code": "JP",
+  "target_type": "City",
+  "reach": 36000,
+  "gps": [
+   133.7005313,
+   33.5641492
+  ],
+  "keys": [
+   "konan",
+   "kochi",
+   "japan"
+  ]
+ },
+ {
+  "id": "585069baee19ad271e9bb35e",
+  "google_id": 1028843,
+  "google_parent_id": 20662,
+  "name": "Kami",
+  "canonical_name": "Kami,Kochi,Japan",
+  "country_code": "JP",
+  "target_type": "City",
+  "reach": 28000,
+  "gps": [
+   137.653235,
+   36.2513203
+  ],
+  "keys": [
+   "kami",
+   "kochi",
+   "japan"
+  ]
+ },
+ {
+  "id": "585069a9ee19ad271e9b6bf9",
+  "google_id": 1009712,
+  "google_parent_id": 20662,
+  "name": "Tosa",
+  "canonical_name": "Tosa,Kochi,Japan",
+  "country_code": "JP",
+  "target_type": "City",
+  "reach": 26000,
+  "gps": [
+   133.4252918,
+   33.4960442
+  ],
+  "keys": [
+   "tosa",
+   "kochi",
+   "japan"
+  ]
+ },
+ {
+  "id": "585069a9ee19ad271e9b6bf8",
+  "google_id": 1009711,
+  "google_parent_id": 20662,
+  "name": "Susaki",
+  "canonical_name": "Susaki,Kochi,Japan",
+  "country_code": "JP",
+  "target_type": "City",
+  "reach": 22000,
+  "gps": [
+   133.282953,
+   33.400745
+  ],
+  "keys": [
+   "susaki",
+   "kochi",
+   "japan"
+  ]
+ },
+ {
+  "id": "585069a9ee19ad271e9b6bf7",
+  "google_id": 1009710,
+  "google_parent_id": 20662,
+  "name": "Sukumo",
+  "canonical_name": "Sukumo,Kochi,Japan",
+  "country_code": "JP",
+  "target_type": "City",
+  "reach": 17000,
+  "gps": [
+   132.7262855,
+   32.9390085
+  ],
+  "keys": [
+   "sukumo",
+   "kochi",
+   "japan"
+  ]
+ },
+ {
+  "id": "585069a9ee19ad271e9b6bf2",
+  "google_id": 1009705,
+  "google_parent_id": 20662,
+  "name": "Aki",
+  "canonical_name": "Aki,Kochi,Japan",
+  "country_code": "JP",
+  "target_type": "City",
+  "reach": 16000,
+  "gps": [
+   133.9071661,
+   33.5025463
+  ],
+  "keys": [
+   "aki",
+   "kochi",
+   "japan"
+  ]
+ }
+]
