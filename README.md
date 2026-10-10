@@ -9,9 +9,9 @@ SERPint is a research prototype. It collects Google results pages through
 trains models to predict the city from the page, maps which page elements leak, and
 builds a scrubber that blurs them.
 
-> **Status:** Phases 1–4 are implemented: data collection, parsing pages into their
-> visible elements, city-prediction models and the leak map. The scrubber and the demo
-> app follow phase by phase.
+> **Status:** Phases 1–5 are implemented: data collection, parsing pages into their
+> visible elements, city-prediction models, the leak map and the screenshot scrubber.
+> The demo app follows.
 
 ## Setup
 
@@ -76,6 +76,8 @@ make core
 make parse-core     # visible text per page + reports/core_parse.md (free)
 make model-core     # leave-one-query-out city prediction -> reports/core_models.md
 make leaks-core     # per-element ablation -> reports/core_leaks.md (slow)
+make screenshots-core   # render pages offline -> data/screenshots/
+make scrub-eval-core    # OCR, scrub, attack -> reports/core_scrub.md (slow)
 make collect-dry    # later month: the 160 grid cells core doesn't have
 make collect
 ```
@@ -150,6 +152,37 @@ An element that occurs in only one query has no other query to learn it from, so
 masked model leans on for each city and the element each comes from. The run fits
 about a thousand models in parallel (`--jobs`, default all cores) and takes a while.
 
+## Screenshots
+
+`serpint screenshots <plan>` renders each saved results page to a full-page PNG in
+headless Chromium (`data/screenshots/`, git-ignored). Every network request is blocked,
+so nothing is fetched from Google; the page renders from the saved HTML alone.
+
+One thing is reconstructed. Google's footer ("Chennai, Tamil Nadu - From your IP
+address - Update location") is filled in by a script that needs Google's external
+JavaScript, so offline it would render empty. Its text is in the HTML for all 240 core
+pages, so it is read from there and drawn into the footer; each screenshot's JSON
+sidecar records it, and `--no-footer` turns this off.
+
+## Scrubber
+
+`serpint scrub <image>` blurs what gives the location away in any results-page
+screenshot, and `serpint scrub-eval <plan>` measures how well that works. It works from
+the image alone: RapidOCR (bundled models, CPU) finds the text lines, rules decide what
+to blur.
+
+| Level | Blurs |
+|---|---|
+| `names` | Lines naming a place (fuzzy, since OCR misreads), Google's location lines ("From your IP address", "Results for…"), PIN codes and landline numbers. Places come from `config/places.yaml` (states, union territories, major cities) plus `cities.yaml`. |
+| `sections` | Also the blocks the leak map flagged beyond names: related searches, the local-results pack with its map, top stories / local news. Sections are filled flat, since a pixelated map still shows a coastline. |
+
+The evaluation trains attackers leave-one-query-out on the OCR text of *unscrubbed*
+screenshots, tests them on the held-out query's screenshots at each level, and reports
+city accuracy and score against the share of the image blurred. It also re-OCRs one
+scrubbed screenshot per query and counts any text still readable inside blurred regions.
+OCR runs once per screenshot (about 10 s on one core) and is cached in
+`data/processed/ocr/`.
+
 ## Configuration
 
 - `config/cities.yaml`: 20 cities with state and coordinates, including the same-state
@@ -158,6 +191,7 @@ about a thousand models in parallel (`--jobs`, default all cores) and takes a wh
   `neutral`.
 - `config/settings.yaml`: search parameters, budget, score scale, and the `pilot`
   and `core` plans.
+- `config/places.yaml`: the general place names the scrubber blurs.
 
 ## Ethics
 

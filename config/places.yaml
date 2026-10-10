@@ -1,0 +1,142 @@
+# Place names the scrubber blurs, on top of every city, alias and state in cities.yaml.
+# Deliberately general: states, union territories, major cities and their common
+# alternate spellings, with no neighbourhood-level names. It was written after the leak
+# map, which also surfaced a few of these major cities (Thane, Secunderabad, Ernakulam,
+# Noida), but nothing on it was copied from the collected pages. Localities such as
+# "Anna Nagar" are left to the section rules, as they would be for a real screenshot.
+states:
+  - Andhra Pradesh
+  - Arunachal Pradesh
+  - Assam
+  - Bihar
+  - Chhattisgarh
+  - Goa
+  - Gujarat
+  - Haryana
+  - Himachal Pradesh
+  - Jharkhand
+  - Karnataka
+  - Kerala
+  - Keralam
+  - Madhya Pradesh
+  - Maharashtra
+  - Manipur
+  - Meghalaya
+  - Mizoram
+  - Nagaland
+  - Odisha
+  - Orissa
+  - Punjab
+  - Rajasthan
+  - Sikkim
+  - Tamil Nadu
+  - Telangana
+  - Tripura
+  - Uttar Pradesh
+  - Uttarakhand
+  - West Bengal
+  - Andaman and Nicobar
+  - Chandigarh
+  - Dadra and Nagar Haveli
+  - Daman and Diu
+  - Delhi
+  - Jammu and Kashmir
+  - Ladakh
+  - Lakshadweep
+  - Puducherry
+  - Pondicherry
+
+cities:
+  - Agra
+  - Ahmedabad
+  - Ajmer
+  - Aligarh
+  - Allahabad
+  - Prayagraj
+  - Amritsar
+  - Aurangabad
+  - Bareilly
+  - Belagavi
+  - Belgaum
+  - Bengaluru
+  - Bangalore
+  - Bhopal
+  - Bhubaneswar
+  - Bombay
+  - Calcutta
+  - Chennai
+  - Madras
+  - Coimbatore
+  - Cuttack
+  - Dehradun
+  - Dhanbad
+  - Durgapur
+  - Faridabad
+  - Ghaziabad
+  - Gurugram
+  - Gurgaon
+  - Guwahati
+  - Gwalior
+  - Howrah
+  - Hubballi
+  - Hubli
+  - Hyderabad
+  - Secunderabad
+  - Indore
+  - Jabalpur
+  - Jaipur
+  - Jalandhar
+  - Jammu
+  - Jamshedpur
+  - Jodhpur
+  - Kanpur
+  - Kochi
+  - Cochin
+  - Ernakulam
+  - Kolkata
+  - Kollam
+  - Kota
+  - Kozhikode
+  - Calicut
+  - Lucknow
+  - Ludhiana
+  - Madurai
+  - Mangaluru
+  - Mangalore
+  - Meerut
+  - Mohali
+  - Mumbai
+  - Mysuru
+  - Mysore
+  - Nagpur
+  - Nashik
+  - Navi Mumbai
+  - Noida
+  - Patna
+  - Pune
+  - Poona
+  - Raipur
+  - Rajkot
+  - Ranchi
+  - Salem
+  - Shillong
+  - Shimla
+  - Siliguri
+  - Solapur
+  - Srinagar
+  - Surat
+  - Thane
+  - Thiruvananthapuram
+  - Trivandrum
+  - Thrissur
+  - Tiruchirappalli
+  - Trichy
+  - Tirupati
+  - Udaipur
+  - Vadodara
+  - Baroda
+  - Varanasi
+  - Vijayawada
+  - Visakhapatnam
+  - Vizag
+  - Warangal

@@ -185,6 +185,54 @@ def cmd_leaks(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_screenshots(args: argparse.Namespace) -> int:
+    """Render cached results pages to PNG, offline."""
+    from serpint import screenshots
+
+    settings = load_settings()
+    shots = screenshots.take_screenshots(
+        _client(settings), settings, args.plan, footer=not args.no_footer, refresh=args.refresh
+    )
+    print(f"{len(shots)} screenshots in {screenshots.screenshot_dir(settings)}")
+    return 0 if shots else 1
+
+
+def cmd_scrub(args: argparse.Namespace) -> int:
+    """Scrub one screenshot (any results-page screenshot, not only rendered ones)."""
+    from serpint import scrub
+
+    settings = load_settings()
+    out = args.out or args.image.with_name(f"{args.image.stem}.scrubbed.png")
+    redactions = scrub.scrub_file(args.image, out, settings, args.level)
+    for r in redactions:
+        print(f"{r.reason:<28} {r.detail[:60]}")
+    print(f"{len(redactions)} regions blurred -> {out}")
+    return 0
+
+
+def cmd_scrub_eval(args: argparse.Namespace) -> int:
+    """Attack scrubbed screenshots and write the evaluation report."""
+    from serpint import scrub_eval
+
+    settings = load_settings()
+    shots = scrub_eval.load_shots(settings, args.plan)
+    if not shots:
+        print(f"No screenshots for plan {args.plan!r}. Run `serpint screenshots {args.plan}`.")
+        return 1
+    print(f"OCR of {len(shots)} screenshots (cached after the first run)...")
+    lines = scrub_eval.ocr_all(shots, settings, n_jobs=args.jobs)
+    results = scrub_eval.evaluate(shots, lines, settings)
+    rb = None
+    if not args.skip_readback:
+        print("Re-OCR of one scrubbed screenshot per query...")
+        rb = scrub_eval.readback(shots, lines, settings, n_jobs=args.jobs)
+    report = settings.root / "reports" / f"{args.plan}_scrub.md"
+    report.parent.mkdir(parents=True, exist_ok=True)
+    report.write_text(scrub_eval.scrub_report(results, rb, settings, len(shots)), "utf-8")
+    print(f"Report -> {report}")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     """Build the argument parser."""
     p = argparse.ArgumentParser(prog="serpint", description=__doc__)
@@ -234,6 +282,26 @@ def build_parser() -> argparse.ArgumentParser:
     s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
     s.add_argument("--jobs", type=int, default=-1, help="worker processes (default: all cores)")
     s.set_defaults(func=cmd_leaks)
+
+    s = sub.add_parser("screenshots", help="render cached pages to PNG (offline, no requests)")
+    s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
+    s.add_argument(
+        "--no-footer", action="store_true", help="don't reconstruct Google's location footer"
+    )
+    s.add_argument("--refresh", action="store_true", help="re-render existing screenshots")
+    s.set_defaults(func=cmd_screenshots)
+
+    s = sub.add_parser("scrub", help="blur what gives the location away in a screenshot")
+    s.add_argument("image", type=Path, help="a PNG or JPEG screenshot of a results page")
+    s.add_argument("--level", choices=["names", "sections"], default="sections")
+    s.add_argument("--out", type=Path, help="output path (default <image>.scrubbed.png)")
+    s.set_defaults(func=cmd_scrub)
+
+    s = sub.add_parser("scrub-eval", help="measure what the scrubber stops, and its cost")
+    s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
+    s.add_argument("--jobs", type=int, default=-1, help="worker processes (default: all cores)")
+    s.add_argument("--skip-readback", action="store_true", help="don't re-OCR scrubbed images")
+    s.set_defaults(func=cmd_scrub_eval)
     return p
 
 

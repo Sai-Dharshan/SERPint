@@ -9,6 +9,11 @@ scipy==1.17.1
 scikit-learn==1.9.1
 joblib==1.6.0
 
+# Screenshots and scrubbing (Phase 5)
+playwright==1.63.0
+pillow==12.3.0
+rapidocr-onnxruntime==1.4.4
+
 # Development
 pytest==9.1.1
 ruff==0.17.0

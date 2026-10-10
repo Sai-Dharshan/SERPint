@@ -1,7 +1,7 @@
 PY      := .venv/bin/python
 SERPINT := .venv/bin/serpint
 
-.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot core-dry core inspect-core collect-dry collect inspect parse-core parse model-core model leaks-core leaks
+.PHONY: setup test lint format locations budget pilot-dry pilot inspect-pilot core-dry core inspect-core collect-dry collect inspect parse-core parse model-core model leaks-core leaks screenshots-core scrub-eval-core
 
 setup:            ## create the venv and install pinned deps + the package
 	python3.11 -m venv .venv
@@ -69,3 +69,9 @@ leaks-core:       ## per-element ablation of the core pages -> reports/core_leak
 
 leaks:
 	$(SERPINT) leaks grid
+
+screenshots-core: ## render the core pages to data/screenshots/ (offline)
+	$(SERPINT) screenshots core
+
+scrub-eval-core:  ## OCR + attack scrubbed core screenshots -> reports/core_scrub.md (slow)
+	$(SERPINT) scrub-eval core

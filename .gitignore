@@ -11,6 +11,7 @@ __pycache__/
 # Regenerable data (raw/, html/, ledger.jsonl and locations are committed on purpose)
 data/processed/
 data/screenshots/
+data/screenshots_scrubbed/
 data/models/
 data/.lock
 
