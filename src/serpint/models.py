@@ -218,13 +218,22 @@ class Prediction:
 
 
 def leave_one_query_out(
-    pages: list[Page], settings: Settings, make_model: Callable[[], Model]
+    pages: list[Page],
+    settings: Settings,
+    make_model: Callable[[], Model],
+    candidates: Iterable[str] | None = None,
 ) -> list[Prediction]:
-    """Evaluate a model by holding out each query in turn."""
-    geo = Geo.of(
-        (c for c in settings.cities if c.id in {p.city_id for p in pages}),
-        settings.geoguessr_scale_km,
-    )
+    """Evaluate a model by holding out each query in turn.
+
+    Args:
+        pages: Pages to predict; every query among them is held out once.
+        settings: Cities, coordinates and score scale.
+        make_model: Returns a fresh, unfitted model.
+        candidates: City ids a guess may name. Defaults to the cities among ``pages``;
+            pass the full set when ``pages`` is a subset, so chance stays the same.
+    """
+    wanted = set(candidates) if candidates is not None else {p.city_id for p in pages}
+    geo = Geo.of((c for c in settings.cities if c.id in wanted), settings.geoguessr_scale_km)
     index = {cid: i for i, cid in enumerate(geo.ids)}
     out = []
     for qid in dict.fromkeys(p.query_id for p in pages):

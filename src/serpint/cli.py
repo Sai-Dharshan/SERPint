@@ -163,6 +163,28 @@ def cmd_model(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_leaks(args: argparse.Namespace) -> int:
+    """Ablate each page element in the text model and write the leak map."""
+    from serpint import leaks  # scikit-learn is slow to import; only load it here
+
+    settings = load_settings()
+    result = parse.parse_plan(_client(settings), settings, args.plan)
+    if not result.pages:
+        print(f"No cached responses for plan {args.plan!r}. Run `serpint collect {args.plan}`.")
+        return 1
+    print(f"Ablating elements over {len(result.pages)} pages (this takes a while)...")
+    element_leaks, full = leaks.leak_map(result.pages, settings, n_jobs=args.jobs)
+    features = leaks.top_features(result.pages, settings)
+    report = settings.root / "reports" / f"{args.plan}_leaks.md"
+    report.parent.mkdir(parents=True, exist_ok=True)
+    report.write_text(
+        leaks.leak_report(element_leaks, full, features, settings, len(result.pages)),
+        encoding="utf-8",
+    )
+    print(f"Report -> {report}")
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     """Build the argument parser."""
     p = argparse.ArgumentParser(prog="serpint", description=__doc__)
@@ -207,6 +229,11 @@ def build_parser() -> argparse.ArgumentParser:
         "--permutations", type=int, default=999, help="Mantel test permutations (default 999)"
     )
     s.set_defaults(func=cmd_model)
+
+    s = sub.add_parser("leaks", help="ablate each page element: what does it give away?")
+    s.add_argument("plan", help="a plan from config/settings.yaml (pilot, core) or grid")
+    s.add_argument("--jobs", type=int, default=-1, help="worker processes (default: all cores)")
+    s.set_defaults(func=cmd_leaks)
     return p
 
 

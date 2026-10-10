@@ -9,8 +9,8 @@ SERPint is a research prototype. It collects Google results pages through
 trains models to predict the city from the page, maps which page elements leak, and
 builds a scrubber that blurs them.
 
-> **Status:** Phases 1–3 are implemented: data collection, parsing pages into their
-> visible elements, and city-prediction models. The leak map, the scrubber and the demo
+> **Status:** Phases 1–4 are implemented: data collection, parsing pages into their
+> visible elements, city-prediction models and the leak map. The scrubber and the demo
 > app follow phase by phase.
 
 ## Setup
@@ -75,6 +75,7 @@ make core-dry       # 215 more; pilot cells show as cached
 make core
 make parse-core     # visible text per page + reports/core_parse.md (free)
 make model-core     # leave-one-query-out city prediction -> reports/core_models.md
+make leaks-core     # per-element ablation -> reports/core_leaks.md (slow)
 make collect-dry    # later month: the 160 grid cells core doesn't have
 make collect
 ```
@@ -130,6 +131,24 @@ The report also has a test that needs no training: for each query, are pages fro
 nearby cities more alike than pages from distant ones (Spearman correlation of text
 distance against km, Mantel permutation p-value)? That catches regional variation even
 in queries whose signal doesn't carry over from other queries.
+
+## Leak map
+
+`serpint leaks <plan>` ablates every page element in the text model and writes
+`reports/<plan>_leaks.md`. For each element, over the pages that have it:
+
+- **alone**: leave-one-query-out accuracy and score when the model sees only that
+  element. What the element gives away by itself.
+- **without**: the same with that element removed and everything else kept, next to
+  the full model. What blurring the element in a screenshot would buy.
+- Both with and without city and state names masked. A leak that survives masking
+  can't be fixed by redacting names; the whole element has to be blurred.
+- How often the element names the page's own city outright.
+
+An element that occurs in only one query has no other query to learn it from, so its
+"alone" column reads `n/a` rather than a number. The report closes with the tokens the
+masked model leans on for each city and the element each comes from. The run fits
+about a thousand models in parallel (`--jobs`, default all cores) and takes a while.
 
 ## Configuration
 
